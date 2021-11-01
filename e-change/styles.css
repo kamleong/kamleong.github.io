@@ -2,8 +2,8 @@
 * {font-family:tahoma; font-size: 8pt; margin-top: 0;}
 
 body {
-  zoom: 1.5; -moz-transform: scale(1.5);  -moz-transform-origin: 0 0;
-  xtransform: scale(1.5);  xtransform-origin: 0 0;
+  zoom: 1.75; -moz-transform: scale(1.75);  -moz-transform-origin: 0 0;
+  xtransform: scale(1.75);  xtransform-origin: 0 0;
   filter0: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#002070', EndColorStr='#3A6EA5');
 }
 
