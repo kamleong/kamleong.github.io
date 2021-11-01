@@ -17,14 +17,14 @@
   );
 
   var guaNames = Array(
-   '01乾Qian','02坤Kun','03屯Tun','04蒙Meng','05需Xu','06訟Song','07師Shi','08比Bi',
-   '09小畜XiaoXu','10履Lu','11泰Tai','12否Pi','13同人TongRen','14大有DaYou','15謙Qian','16豫Yu',
-   '17隨Sui','18蠱Gu','19臨Lin','20觀Guan','21噬嗑ShiHe','22賁Bi','23剝Bo','24復Fu',
-   '25無妄WuWang','26大畜DaXu','27頤Yi','28大過DaGuo','29坎Kan','30離Li','31咸Xian','32恆Heng',
-   '33遯Dun','34大壯DaZhuang','35晉Jin','36明夷MingYi','37家人JiaRen','38睽Kui','39蹇Jian','40解Jie',
-   '41損Sun','42益Yi','43夬Jue','44姤Hou','45萃Cui','46升Sheng','47困Kun','48井Jing',
-   '49革Ge','50鼎Ding','51震Zhen','52艮Gen','53漸Jian','54歸妹GuiMei','55丰Feng',
-   '56旅Lu','57巽Xun','58兌Dui','59渙Huan','60節Jie','61中孚ZhongFu','62小過XiaoGuo','63既濟JiJi','64未濟WeiJi'
+   '01䷀乾Qian','02䷁坤Kun','03䷂屯Tun','04䷃蒙Meng','05䷄需Xu','06䷅訟Song','07䷆師Shi','08䷇比Bi',
+   '09䷈小畜XiaoXu','10䷉履Lu','11䷊泰Tai','12䷋否Pi','13䷌同人TongRen','14䷍大有DaYou','15䷎謙Qian','16䷏豫Yu',
+   '17䷐隨Sui','18䷑蠱Gu','19䷒臨Lin','20䷓觀Guan','21䷔噬嗑ShiHe','22䷕賁Bi','23䷖剝Bo','24䷗復Fu',
+   '25䷘無妄WuWang','26䷙大畜DaXu','27䷚頤Yi','28䷛大過DaGuo','29䷜坎Kan','30䷝離Li','31䷞咸Xian','32䷟恆Heng',
+   '33䷠遯Dun','34䷡大壯DaZhuang','35䷢晉Jin','36䷣明夷MingYi','37䷤家人JiaRen','38䷥睽Kui','39䷦蹇Jian','40䷧解Jie',
+   '41䷨損Sun','42䷩益Yi','43䷪夬Jue','44䷫姤Hou','45䷬萃Cui','46䷭升Sheng','47䷮困Kun','48䷯井Jing',
+   '49䷰革Ge','50䷱鼎Ding','51䷲震Zhen','52䷳艮Gen','53䷴漸Jian','54䷵歸妹GuiMei','55䷶丰Feng','56䷷旅Lu',
+   '57䷸巽Xun','58䷹兌Dui','59䷺渙Huan','60䷻節Jie','61䷼中孚ZhongFu','62䷽小過XiaoGuo','63䷾既濟JiJi','64䷿未濟WeiJi'
   );
 
   function getGua(castOpt) {
