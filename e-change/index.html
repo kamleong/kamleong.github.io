@@ -1,0 +1,218 @@
+<HTML>
+<!--
+  All Rights Reserved
+  Copyright (C) 1999,2010 Lai KamLeong
+-->
+<HEAD>
+  <META http-equiv=Content-Type content="text/html; charset=utf-8">
+  <META HTTP-EQUIV=REFRESH><META HTTP-EQUIV=Expires CONTENT=0>
+  <TITLE>Reading from The Book for Changes 周易卜筮</TITLE>
+  <LINK REL=stylesheet HREF="styles.css" TYPE="text/css"/>
+  <SCRIPT LANGUAGE=JavaScript>/*make javascript as default*/</SCRIPT>
+  <SCRIPT LANGUAGE=JavaScript SRC="guaFunctions.js"></SCRIPT>
+  <SCRIPT LANGUAGE=JavaScript SRC="guaComments.js"></SCRIPT>
+  <script>
+    var g_gua = new Array(null,6,9,6,9,6,9);
+    var g_transOpt;
+
+    function loadComments(guaSeq) {
+      document.all.comments.value = "[" + guaSeq + "]"
+        + guaCommentsZh[100+guaSeq] + "\n" + guaCommentsEn[100+guaSeq] + "\n\n"
+        + guaCommentsZh[200+guaSeq] + "\n" + guaCommentsEn[200+guaSeq] + "\n\n"
+        + guaCommentsZh[300+guaSeq] + "\n\n" + guaCommentsZh[600+guaSeq];
+    }
+
+    function pause(iMilliseconds) {
+      /*
+        http://www.ozzu.com/member/acklenx/
+        *@description pause( iMilliseconds ) Cause the single Javascript thread
+          to hold/pause/sleep/wait for a specified period of time, by opening 
+          in modalDialog window (IE only) that modally locks the browser until
+          it returns. This modal dialog is not opened to any page, but uses the
+          Javascript: protocol to execute a javascript setTimeout. In this modal
+          context the setTimeout, has the desired affect of preventing any other
+          script execution. The sole purpose of the timeout execution script is
+          to close the modal dialog which will return control/unlock the browser.
+          The intention was to find a way to allow the UI to be updated and rendered
+          in the middle of function/method without the need to split the method
+          up, remove nested calls, or use closures. Used in this fashion to update
+          the UI, a 0 (zero) is usually passed (or optionally omitted altogether)
+          so that the only delay is for the UI to render. 
+        *@version Note Please be aware that the user interface WILL update its
+          rendering (if you've made and DOM/CSS/Text changes they will appear)
+          and this may significantly slow down program execution if looping. 
+        *@param {Object} iMilliseconds [optional] the number of milliseconds
+          the code will pause before returning - If no value is passed the code
+          will returned immediately (as if a 0 were passed) 
+      */
+      var sDialogScript = 'window.setTimeout( function () { window.close(); }, ' + iMilliseconds + ');'; 
+      window.showModalDialog('javascript:document.writeln ("<script>' + sDialogScript + '<' + '/script>")'); 
+    }
+
+    function drawGua(gua, guayao, loadcomments) {
+      var guaVal = getGuaVal(guayao);
+      var guaSeq = guaVal2Seq[guaVal];
+
+      /* █FULL BLOCK              : U+2588[&#9608;]  */
+      /* ▅LOWER FIVE EIGHTHS BLOCK: U+2585[&#9605;]  */
+      /* ▏LEFT ONE EIGHTH BLOCK   : U+258F[&#9615;]  */
+      /*  FIGURE SPACE            : U+2007[&#8199;]  */
+      /* 　IDEOGRAPHIC SPACE       : U+3000[&#12288;] */
+      /* not U+2000[ ]|U+2001[ ]|U+2003[ ]|U+3000[　] */
+      var yang = "███████",  yin = "███ ███";
+      var stable = "blue", changing = "red";
+      var projected = "LightSeaGreen";
+
+      var captionText;
+      captionText = guaNames[guaSeq-1] + ":";
+
+      if (gua=="gua2") stable=projected;
+      if (gua=="gua1") for (var y=1; y<=6; y++) document.all[gua+"_"+y].innerHTML = "&#12288;";
+      document.all[gua+"_caption"].innerHTML = "&nbsp;";
+
+      for (var y=1; y<=6; y++) {
+        var yao = document.all[gua+"_"+y];
+        captionText += guayao[y];
+        switch (guayao[y]) {
+         case 7:
+          yao.innerHTML = yang;
+          yao.style.color = stable;
+          break;
+         case 8:
+          yao.innerHTML = yin;
+          yao.style.color = stable;
+          break;
+         case 9:
+          yao.innerHTML = yang;
+          yao.style.color = changing;
+          break;
+         case 6:
+          yao.innerHTML = yin;
+          yao.style.color = changing;
+          break;
+         default:
+          yao.innerHTML = "";
+        }
+        if (gua=="gua1") pause(600);
+      }
+
+      document.all[gua+"_caption"].innerText = captionText;
+
+      document.all[gua].seq = guaSeq;
+      if (loadcomments) loadComments(guaSeq);
+    }
+
+    function castNewGua(castOpt, transOpt) {
+      var guayao = new Array();
+      var guaVal=-1, guaSeq=-1;
+      if (castOpt=="manual") {
+        var guaStr;
+        do {
+          guaStr = g_gua.join("");
+          guaStr = prompt("Enter Gua String", guaStr);
+          if (guaStr==undefined||guaStr=="") return g_gua;
+          guaSeq = parseInt(guaStr);
+          if (guaStr.length<6 && guaSeq>0 && guaSeq<=64) {
+            guaVal = guaSeq2Val[guaSeq-1];
+            for (var y=1; y<=6; y++) {
+              guayao[y] = ( (((guaVal>>(y-1))&1)==0) ? 8 : 7 );
+            }
+          } else if (guaStr.length=6) {
+            guayao = getYaoArr(guaStr);
+            if (guayao.length<7) guaSeq = -1;
+          } else {
+            guaSeq = -1;
+          }
+        } while (guaSeq==-1);
+      } else {
+        guayao = getGua(castOpt);
+        guaSeq = guaVal2Seq[getGuaVal(guayao)];
+      }
+
+      drawGua("gua1", guayao, true);
+      drawGua("gua2", transGua(guayao, g_transOpt));
+
+      return guayao;
+    }
+
+    function init() {
+      g_transOpt=""; document.form0.reset();
+      //g_gua = castNewGua("", g_transOpt);
+    }
+  </script>
+</HEAD>
+<BODY bgcolor="#abcfff" style='margin:0' onload="javascript:init();" >
+  <FORM name=form0 style='margin:0'>
+  <TABLE HEIGHT='100%' WIDTH='100%' BORDER=0 CELLSPACING=0 CELLPADDING=0 style='margin:0;padding:0;border:0'>
+   <TR>
+    <TD colspan=10 height='15%' width='100%'>
+     <DIV style="position:relative;height:100%;overflow:auto;border-bottom-style:inset;margin:2;background-color:#c6dec6">
+      <b>I Ching - The Book of Changes</b>
+      <br>The current version of I Ching (also known as The Book of Changes or The Oracle of Changes) is an ancient chinese text compiled by Confucius some time around the 5th century B.C. It was one of the most revered systems of divination in ancient China. 
+      <br><br>I Ching evolved from an older system of divination in an ealier time in history. In this older system, crack patterns on animal bones and turtle shell were observed after  a certain degree of burning. Obtaining a reading was often complicated and the result was disputatious. 
+      <br><br>A distinctive advancement was achieved when I Ching was born. The system of I Ching was  form with the standardization of trigram and hexagram symbols. Each of these symbols represents a dynamic state of the ever changing universe. The commentaries on these hexagrams often suggest a person to be aware of his position and to act accordingly. 
+      <br><br>I Ching is not merely a system of divination.  It induce lateral thinking. By studying I Ching, a person can build up his analytical power. It also stimulates a person to think positively. 
+      <br><br>E-Change can only present you an elementary part of I Ching. To know more about I Ching, you can either surf for it on the Internet, or get a good reading material from the book store. 
+     </DIV>
+   <TR>
+    <TD align=center>
+     <TABLE BORDER=0 CELLSPACING=3 CELLPADDING=0 id=gua1 seq=64 onclick="loadComments(this.seq)"
+      style='margin:10;padding:0;border:0;font-size:8pt;text-align:center'>
+      <TR><TD>[本卦The Main Hexagram]<br><br>
+      <TR><TD id=gua1_6>███████
+      
+      <TR><TD id=gua1_5>███ ███
+      
+      <TR><TD id=gua1_4>███████
+      
+      <TR><TD id=gua1_3>███ ███
+      
+      <TR><TD id=gua1_2>███████
+      
+      <TR><TD id=gua1_1>███ ███
+      <TR><TD id=gua1_caption>&nbsp;
+     </TABLE>
+    <TD align=center>易<br>卦
+    <TD>
+     <TABLE BORDER=0 CELLSPACING=3 CELLPADDING=0 id=gua2 seq=63 onclick="loadComments(this.seq)"
+      style='margin:10;padding:0;border:0;font-size:8pt;text-align:center'>
+      <TR><TD align=center>[变卦Related Hexagram]<br><br>
+      <TR><TD id=gua2_6>███ ███
+      
+      <TR><TD id=gua2_5>███████
+      
+      <TR><TD id=gua2_4>███ ███
+      
+      <TR><TD id=gua2_3>███████
+      
+      <TR><TD id=gua2_2>███ ███
+      
+      <TR><TD id=gua2_1>███████
+      <TR><TD id=gua2_caption>&nbsp;
+     </TABLE>
+    <TD>
+     <input name=transformation type=radio onclick="drawGua('gua2',transGua(g_gua,this.value),true);" checked
+       value="prj">之|Projected<br>
+     <input name=transformation type=radio onclick="drawGua('gua2',transGua(g_gua,this.value),true);"
+       value="nuc">互|Nuclear<br>
+     <input name=transformation type=radio onclick="drawGua('gua2',transGua(g_gua,this.value),true);"
+       value="cmp">错|对|Complementary<br>
+     <input name=transformation type=radio onclick="drawGua('gua2',transGua(g_gua,this.value),true);"
+       value="rev">综|反|Reverse<br>
+     <input name=transformation type=radio onclick="drawGua('gua2',transGua(g_gua,this.value),true);"
+       value="inv">交|两象易|Trigram Inversion<br>
+   <TR>
+    <TD colspan=10 nowrap>
+     &nbsp;
+     <input type="button" value="Manual Entry" onclick="javascript:g_gua=castNewGua('manual');">
+     &nbsp;
+     <input type="button" value="Auto: Divide Yarrow Stalks" onclick="javascript:g_gua=castNewGua('yarrow',g_transOpt);">
+     <input type="button" value="Auto: Cast Three Coins" onclick="javascript:g_gua=castNewGua('coins',g_transOpt);">
+   <TR height='50%' width='100%'>
+    <TD colspan=10 width='100%'>
+     <textarea id=comments style='position:absolute;height:100%;width:100%;background-color:#c6dec6;'
+     ></textarea>
+  </TABLE>
+  </FORM>
+</BODY>
+</HTML>
