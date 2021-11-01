@@ -103,7 +103,7 @@
       if (gua=="gua1") alert("=== [" + guayao + "] ===");
       document.all[gua+"_caption"].innerText = captionText;
 
-      document.all[gua].seq = guaSeq;
+      document.all[gua].setAttribute("seq", guaSeq);
       if (loadcomments) loadComments(guaSeq);
     }
 
