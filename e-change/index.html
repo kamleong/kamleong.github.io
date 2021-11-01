@@ -23,6 +23,7 @@
     }
 
     function pause(iMilliseconds) {
+      return; // below code is deprecated
       /*
         http://www.ozzu.com/member/acklenx/
         *@description pause( iMilliseconds ) Cause the single Javascript thread
@@ -46,7 +47,9 @@
           will returned immediately (as if a 0 were passed) 
       */
       var sDialogScript = 'window.setTimeout( function () { window.close(); }, ' + iMilliseconds + ');'; 
-      window.showModalDialog('javascript:document.writeln ("<script>' + sDialogScript + '<' + '/script>")'); 
+      try {
+       window.showModalDialog('javascript:document.writeln ("<script>' + sDialogScript + '<' + '/script>")');
+      } catch(err) {}
     }
 
     function drawGua(gua, guayao, loadcomments) {
@@ -96,6 +99,7 @@
         if (gua=="gua1") pause(600);
       }
 
+      if (gua=="gua1") alert("=== [" + guayao + "] ===");
       document.all[gua+"_caption"].innerText = captionText;
 
       document.all[gua].seq = guaSeq;
