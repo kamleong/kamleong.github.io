@@ -16,6 +16,7 @@
     var g_transOpt;
 
     function loadComments(guaSeq) {
+      guaSeq = parseInt(guaSeq);
       document.all.comments.value = "[" + guaSeq + "]"
         + guaCommentsZh[100+guaSeq] + "\n" + guaCommentsEn[100+guaSeq] + "\n\n"
         + guaCommentsZh[200+guaSeq] + "\n" + guaCommentsEn[200+guaSeq] + "\n\n"
@@ -147,9 +148,11 @@
 </HEAD>
 <BODY bgcolor="#abcfff" style='margin:0' onload="javascript:init();" >
   <FORM name=form0 style='margin:0'>
-  <TABLE HEIGHT='100%' WIDTH='100%' BORDER=0 CELLSPACING=0 CELLPADDING=0 style='margin:0;padding:0;border:0'>
-   <TR>
-    <TD colspan=10 height='15%' width='100%'>
+  <TABLE HEIGHT='100%' WIDTH='100%' BORDER=0 CELLSPACING=0 CELLPADDING=0 
+   style='position:absolute;height:100%;width:100%;margin:0;padding:0;border:0'
+  >
+   <TR height='15%'>
+    <TD colspan=10 width='100%'>
      <DIV style="position:relative;height:100%;overflow:auto;border-bottom-style:inset;margin:2;background-color:#c6dec6">
       <b>I Ching - The Book of Changes</b>
       <br>The current version of I Ching (also known as The Book of Changes or The Oracle of Changes) is an ancient chinese text compiled by Confucius some time around the 5th century B.C. It was one of the most revered systems of divination in ancient China. 
@@ -158,9 +161,9 @@
       <br><br>I Ching is not merely a system of divination.  It induce lateral thinking. By studying I Ching, a person can build up his analytical power. It also stimulates a person to think positively. 
       <br><br>E-Change can only present you an elementary part of I Ching. To know more about I Ching, you can either surf for it on the Internet, or get a good reading material from the book store. 
      </DIV>
-   <TR>
-    <TD align=center>
-     <TABLE BORDER=0 CELLSPACING=3 CELLPADDING=0 id=gua1 seq=64 onclick="loadComments(this.seq)"
+   <TR height='20%'>
+    <TD align="center" nowrap>
+     <TABLE BORDER=0 CELLSPACING=3 CELLPADDING=0 id=gua1 seq=64 onclick="loadComments(this.getAttribute('seq'))"
       style='margin:10;padding:0;border:0;font-size:8pt;text-align:center'>
       <TR><TD>[本卦The Main Hexagram]<br><br>
       <TR><TD id=gua1_6>███████
@@ -176,9 +179,11 @@
       <TR><TD id=gua1_1>███ ███
       <TR><TD id=gua1_caption>&nbsp;
      </TABLE>
-    <TD align=center>易<br>卦
-    <TD>
-     <TABLE BORDER=0 CELLSPACING=3 CELLPADDING=0 id=gua2 seq=63 onclick="loadComments(this.seq)"
+    <TD align="center" nowrap>
+      易卦 <br/>  ⟾
+    </TD>
+    <TD align="center" nowrap>
+     <TABLE BORDER=0 CELLSPACING=3 CELLPADDING=0 id=gua2 seq=63 onclick="loadComments(this.getAttribute('seq'))"
       style='margin:10;padding:0;border:0;font-size:8pt;text-align:center'>
       <TR><TD align=center>[变卦Related Hexagram]<br><br>
       <TR><TD id=gua2_6>███ ███
@@ -205,16 +210,17 @@
        value="rev">综|反|Reverse<br>
      <input name=transformation type=radio onclick="drawGua('gua2',transGua(g_gua,this.value),true);"
        value="inv">交|两象易|Trigram Inversion<br>
-   <TR>
+   <TR height='5%'>
     <TD colspan=10 nowrap>
      &nbsp;
      <input type="button" value="Manual Entry" onclick="javascript:g_gua=castNewGua('manual');">
      &nbsp;
      <input type="button" value="Auto: Divide Yarrow Stalks" onclick="javascript:g_gua=castNewGua('yarrow',g_transOpt);">
      <input type="button" value="Auto: Cast Three Coins" onclick="javascript:g_gua=castNewGua('coins',g_transOpt);">
-   <TR height='50%' width='100%'>
+     <br/><br/>
+   <TR height='40%'>
     <TD colspan=10 width='100%'>
-     <textarea id=comments style='position:absolute;height:100%;width:100%;background-color:#c6dec6;'
+     <textarea id=comments style='height:100%;width:100%;background-color:#c6dec6;'
      ></textarea>
   </TABLE>
   </FORM>
