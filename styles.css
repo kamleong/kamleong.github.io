@@ -20,10 +20,10 @@ body, th, td, div, span, textarea, input, select {
     width: 100%;
   }
 
-  BODY, TH, TD, INPUT, SELECT, TEXTAREA { FONT-SIZE: 18pt }
+  BODY, TH, TD, INPUT, SELECT, TEXTAREA { FONT-SIZE: 24pt }
   body {
     background-color: lightblue;
   }
 
-  #cmdline {FONT-SIZE: 20pt}
+  #cmdline {FONT-SIZE: 28pt}
 }
