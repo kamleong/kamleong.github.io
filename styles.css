@@ -6,6 +6,4 @@ body, th, td, div, span, textarea, input, select {
 }
 
 .topmenu a {cursor: hand;}
-.href { cursor: hand; text-decoration: underline; color0: yellow; font-size: 8pt; }
-
-
+.mhref, .href { cursor: pointer; text-decoration: underline; color: blue; font-size: 8pt; }
