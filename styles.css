@@ -6,4 +6,24 @@ body, th, td, div, span, textarea, input, select {
 }
 
 .topmenu a {cursor: hand;}
-.mhref, .href { cursor: pointer; text-decoration: underline; color: blue; font-size: 8pt; }
+.mhref, .href { cursor: pointer; text-decoration: underline; color: blue;}
+
+@media only screen and (max-width: 992px) {
+  /* for tablet[768px] or mobile phones[480px/320px] */
+  /*
+    * { FONT-SIZE: 18pt } 
+  */
+  textarea {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+  }
+
+  BODY, TH, TD, INPUT, SELECT, TEXTAREA { FONT-SIZE: 18pt }
+  body {
+    background-color: lightblue;
+  }
+
+  #cmdline {FONT-SIZE: 20pt}
+}
