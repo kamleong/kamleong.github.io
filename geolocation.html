@@ -1,0 +1,56 @@
+<HTML>
+<HEAD>
+  <META http-equiv=Content-Type content="text/html; charset=utf-8">
+  <TITLE>kamleong</TITLE>
+  <LINK REL=stylesheet HREF="styles.css" TYPE="text/css"/>
+  <SCRIPT LANGUAGE=JavaScript>/*make javascript as default*/</SCRIPT>
+  <STYLE>
+    .pts {cursor:hand; color:#0000FF}
+  </STYLE>
+  <BASE TARGET0="_blank">
+</HEAD>
+<BODY>
+
+<table class="topmenu" width="100%" height="28" cellpadding="0" cellspacing="0">
+  <tbody><tr><td nowrap="">
+    &nbsp; <a class="href" id="menu9" style="color:#003366;" target="_blank" href="./" title="main">main</a>
+    &nbsp; | &nbsp;
+    <a class="href" id="menu1" style="color:#000000;" title="#"><b>geolocation</b></a>
+    &nbsp; | &nbsp;
+  </td></tr></tbody>
+</table>
+
+  <center><form>
+    <br>latitude: <input type=text name=latitude>
+    <br>longitude: <input type=text name=longitude>
+    <br><br><input type=button value="submit" onclick="getLocation(this.form)">
+  </form></center>
+  <script>
+    var geoError = function (e) {
+      switch (e.code) {
+        case e.TIMEOUT:
+          alert("geolocation.getCurrentPosition() timeout")
+          break;
+        default:
+          alert("geolocation.getCurrentPosition() error ["+e+"]")
+      }
+    }
+    var getLocation = function (objForm) {
+      if (navigator.geolocation) {
+        alert('Geolocation is supported!');
+        navigator.geolocation.getCurrentPosition(function(p){
+          var la = p.coords.latitude;
+          var lo = p.coords.longitude;
+          objForm.latitude.value = p.coords.latitude;
+          objForm.longitude.value = p.coords.longitude;
+          alert("coordinate="+la+","+lo);
+        }, geoError);
+      } else {
+        alert('Geolocation is not supported for this Browser/OS.');
+      }
+    }
+  </script>
+  
+</BODY>
+</HTML>
+
