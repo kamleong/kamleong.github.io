@@ -1,30 +1,11 @@
 <HTML>
 <HEAD>
   <META http-equiv=Content-Type content="text/html; charset=utf-8">
-  <TITLE>kamleong</TITLE>
-  <LINK REL=stylesheet HREF="styles.css" TYPE="text/css"/>
+  <!--LINK REL=stylesheet HREF="styles.css" TYPE="text/css"/-->
   <SCRIPT LANGUAGE=JavaScript>/*make javascript as default*/</SCRIPT>
   <STYLE>
-    .pts {cursor:hand; color:#0000FF}
+   .text {width:100%; font-size:10.5pt; font-family:courier;}
   </STYLE>
-  <BASE TARGET0="_blank">
-</HEAD>
-<BODY>
-
-<table class="topmenu" width="100%" height="28" cellpadding="0" cellspacing="0">
-  <tbody><tr><td nowrap="">
-    &nbsp; <a class="href" id="menu9" style="color:#003366;" target="_blank" href="./" title="main">main</a>
-    &nbsp; | &nbsp;
-    <a class="href" id="menu1" style="color:#000000;" title="#"><b>geolocation</b></a>
-    &nbsp; | &nbsp;
-  </td></tr></tbody>
-</table>
-
-  <center><form>
-    <br>latitude: <input type=text name=latitude>
-    <br>longitude: <input type=text name=longitude>
-    <br><br><input type=button value="submit" onclick="getLocation(this.form)">
-  </form></center>
   <script>
     var geoError = function (e) {
       switch (e.code) {
@@ -35,22 +16,43 @@
           alert("geolocation.getCurrentPosition() error ["+e+"]")
       }
     }
-    var getLocation = function (objForm) {
+    function getLocation(objForm) {
       if (navigator.geolocation) {
         alert('Geolocation is supported!');
+        // getCurrentPosition() | watchPosition() | clearWatch()
         navigator.geolocation.getCurrentPosition(function(p){
-          var la = p.coords.latitude;
-          var lo = p.coords.longitude;
+          var lat = p.coords.latitude;
+          var lon = p.coords.longitude;
           objForm.latitude.value = p.coords.latitude;
           objForm.longitude.value = p.coords.longitude;
-          alert("coordinate="+la+","+lo);
+          alert("coordinate="+lat+","+lon);
         }, geoError);
       } else {
         alert('Geolocation is not supported for this Browser/OS.');
       }
     }
+    function openGoogleMaps(objForm) {
+      window.open(
+        "https://www.google.com/maps/search/?api=1&query="
+         + objForm.latitude.value + "%2C" + objForm.longitude.value
+      )
+    }
+    function openOpenStreetMap(objForm) {
+      window.open(
+        "https://www.openstreetmap.org/"
+         + "?mlat=" + objForm.latitude.value + "&mlon=" + objForm.longitude.value
+         + "#map=16/" + objForm.latitude.value + "/" + objForm.longitude.value
+      )
+    }
   </script>
-  
+</HEAD>
+<BODY>
+  <center><form>
+    <br>latitude: <input type=text name=latitude>
+    <br>longitude: <input type=text name=longitude>
+    <br><br><input type=button value="getLocation" onclick="getLocation(this.form)">
+    &nbsp; <input type=button value="GoogleMaps" onclick="openGoogleMaps(this.form)">
+    &nbsp; <input type=button value="OpenStreetMap" onclick="openOpenStreetMap(this.form)">
+  </form></center>
 </BODY>
 </HTML>
-
