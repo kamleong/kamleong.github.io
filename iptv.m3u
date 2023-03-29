@@ -20,6 +20,10 @@ https://cdn.hklive.tv/xxxx/31/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hklive.tv/xxxx/99/index.m3u8
 
+#EXTINF:-1 tvg-name="優視頻道",優視頻道
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+
+
 #EXTINF:-1 tvg-name="Al Jazeera English Ⓢ" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AJE05.qa" group-title="News (EN)",Al Jazeera English Ⓢ
 https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 #EXTINF:-1 tvg-name="CCTV-1 综合 Ⓢ" tvg-logo="https://i.imgur.com/uHU6Vc0.png" tvg-id="CCTV1.cn" group-title="China",CCTV-1 综合 Ⓢ - 110
