@@ -4,24 +4,39 @@ https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-name="HOY TV - 77台" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18010434/fav_icon-1.png" tvg-id="HOYTV2.hk" group-title="China",HOY TV - 77台
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
+#EXTINF:-1 tvg-name="優視頻道",優視頻道
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:-1 tvg-name="好消息",好消息
+https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+
+#EXTINF:-1 tvg-id="DaAi1.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="General",DaAi1 (大愛1) (720p)
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-id="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="General",DaAi2 (大愛2) (720p)
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",TVB Jade (翡翠台) (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hklive.tv/xxxx/81/index.m3u8
+
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",ViuTV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://cdn.hklive.tv/xxxx/99/index.m3u8
+
+#EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",RTHK (港台電視31) (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://cdn.hklive.tv/xxxx/31/index.m3u8
+#EXTINF:-1 tvg-id="RTHKTV32.hk" tvg-logo="https://i.imgur.com/MXLuUoU.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",RTHK (港台電視32) (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://cdn.hklive.tv/xxxx/32/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",RTHK (港台電視33) (720p)
+https://live.astradamy.com/hk33/index.m3u8
+
 #EXTINF:-1 tvg-id="TVBNewsChannel.hk" tvg-logo="https://i.imgur.com/Gwij0Fj.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",TVB News Channel (無綫新聞台) (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hklive.tv/xxxx/83/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",TVB Pearl (明珠台) (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",RTHK (港台電視31) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn.hklive.tv/xxxx/31/index.m3u8
-
-#EXTINF:-1 tvg-id="RTHKTV32.hk" tvg-logo="https://i.imgur.com/MXLuUoU.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",RTHK (港台電視32) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn.hklive.tv/xxxx/32/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",RTHK (港台電視33) (720p)
-https://live.astradamy.com/hk33/index.m3u8
 
 #EXTINF:-1 tvg-name="Al Jazeera English Ⓢ" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AJE05.qa" group-title="News (EN)",Al Jazeera English Ⓢ
 https://live-hls-web-aje.getaj.net/AJE/05.m3u8
@@ -61,15 +76,6 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 #EXTINF:-1 tvg-name="RT Doc",RT Doc
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-
-#EXTINF:-1 tvg-name="優視頻道",優視頻道
-http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-#EXTINF:-1 tvg-name="好消息",好消息
-https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-
-#EXTINF:-1 tvg-id="ViuTV.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",ViuTV (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn.hklive.tv/xxxx/99/index.m3u8
 
 #EXTINF:-1 tvg-name="amc",amc
 https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
