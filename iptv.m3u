@@ -40,6 +40,9 @@ https://cdn.hklive.tv/xxxx/84/index.m3u8
 
 #EXTINF:-1 tvg-name="Al Jazeera English Ⓢ" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AJE05.qa" group-title="News (EN)",Al Jazeera English Ⓢ
 https://live-hls-web-aje.getaj.net/AJE/05.m3u8
+#EXTINF:-1 tvg-name="BBC World News",BBC World News
+http://1292072398.rsc.cdn77.org/eZxcMNX4s_VCquwWDujzXA==,1680168294/1292072398/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="CCTV-1 综合 Ⓢ" tvg-logo="https://i.imgur.com/uHU6Vc0.png" tvg-id="CCTV1.cn" group-title="China",CCTV-1 综合 Ⓢ - 110
 https://cctvwbndtxy.liveplay.myqcloud.com/cctvwbnd/jzcctv1_2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-13 新闻 Ⓢ" tvg-logo="https://i.imgur.com/pPO8uJN.png" tvg-id="CCTV13.cn" group-title="China",CCTV-13 新闻 Ⓢ - 114
