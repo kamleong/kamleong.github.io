@@ -44,16 +44,16 @@ https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 http://1292072398.rsc.cdn77.org/eZxcMNX4s_VCquwWDujzXA==,1680168294/1292072398/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="CCTV-1 综合 Ⓢ" tvg-logo="https://i.imgur.com/uHU6Vc0.png" tvg-id="CCTV1.cn" group-title="China",CCTV-1 综合 Ⓢ - 110
-#https://cctvwbndtxy.liveplay.myqcloud.com/cctvwbnd/jzcctv1_2/index.m3u8
-https://cctvwbcdkshw.v.kcdnvip.com/cctvwbcd/cdrmcctv1_1/index.m3u8?BR=td&region=shanghai
+https://cctvwbndtxy.liveplay.myqcloud.com/cctvwbnd/jzcctv1_2/index.m3u8
+#https://cctvwbcdkshw.v.kcdnvip.com/cctvwbcd/cdrmcctv1_1/index.m3u8?BR=td&region=shanghai
 #EXTINF:-1 tvg-name="CCTV-13 新闻 Ⓢ" tvg-logo="https://i.imgur.com/pPO8uJN.png" tvg-id="CCTV13.cn" group-title="China",CCTV-13 新闻 Ⓢ - 114
-#https://cctvwbndtxyhw.liveplay.myqcloud.com/cctvwbnd/jzcctv13_2/index.m3u8
-https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv13_1_720P/playlist.m3u8?wsApp=HLS
+https://cctvwbndtxyhw.liveplay.myqcloud.com/cctvwbnd/jzcctv13_2/index.m3u8
+#https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv13_1_720P/playlist.m3u8?wsApp=HLS
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",广东珠江
-https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=a920fdacad5556f684891b3b054440ae-yMPvGlo1YYGSFfRkH6Pwgr%2FarfTEhL2HYS07KD2Qbq4BscGlLqKoCXY%2Bxp5LoAmy7MkrcB8FkRJwTWhw3Lm0DihPKCBNYhxlYVBbWpRyimImd3ZOqSyEU6Be%2BsCn%2By1FZEg%2BYnxFfwU4DvTcFW53QKzBZOCYxShZ2OQjUrioPSs0sHSqh73pIUUjDpTH%2F5HHVWCiogKRSvQYS1qmN5%2FWV3Db8dJ9vsT1JV%2BVUPYk6Rj1iWSMOP1zMAbxpHxSdspZt9ydgpCCbHlCycXNCTaqSmbwC%2BK5zh4WKtU2HQZ0ee9hHgxPKgTsRnxyDtyglR8ZgALKpep%2F9aFveawXfWRkbChgOGsCzeHboR9oXdSHr%2FfzZsnbMnbc1zMVt4cQANhc
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",广东移动
-https://tcdn.itouchtv.cn/live/ydpd.m3u8?t_token=5d9f1895a7600df2a4f89b6898d04e38-xx38x%2BtOfCj9FbK3hG74iYffPmvObKzm43yY7cnlrcmunXwqpSdrwuuNIElqYr9%2Fle4%2ByPZp5M4czh3bJcwL44WgLR0nMLpoGFbmoLxzMp3A6IzD%2FyLOY2PFCydmpaym9iOvclq8WzkddgSPK2hOD%2Ff52m3Hq8BzWch82SVJ2ntXMop06l42Vp4S8iFMV%2Bvhi9ogv%2BN6nAGj3SEwVqTFOp1Re15rshrfiCmYdVLPxVcPfHdKYrDXk%2FSySrgcAg%2BrcmU05E%2FtKg%2FMGkbuVRhA3wJLNIeF1sP7LWVoUJxaW6YbhnvnauzqdJVqwFg%2BckNRZFAW712tWqBjuKB%2F8IL3CCeR8NqZC8w6qy%2B26iMvpN0lSsf%2FNAv6qi3gLOqJXfAZ
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="",广东珠江
+# https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=a920fdacad5556f684891b3b054440ae-yMPvGlo1YYGSFfRkH6Pwgr%2FarfTEhL2HYS07KD2Qbq4BscGlLqKoCXY%2Bxp5LoAmy7MkrcB8FkRJwTWhw3Lm0DihPKCBNYhxlYVBbWpRyimImd3ZOqSyEU6Be%2BsCn%2By1FZEg%2BYnxFfwU4DvTcFW53QKzBZOCYxShZ2OQjUrioPSs0sHSqh73pIUUjDpTH%2F5HHVWCiogKRSvQYS1qmN5%2FWV3Db8dJ9vsT1JV%2BVUPYk6Rj1iWSMOP1zMAbxpHxSdspZt9ydgpCCbHlCycXNCTaqSmbwC%2BK5zh4WKtU2HQZ0ee9hHgxPKgTsRnxyDtyglR8ZgALKpep%2F9aFveawXfWRkbChgOGsCzeHboR9oXdSHr%2FfzZsnbMnbc1zMVt4cQANhc
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="",广东移动
+# https://tcdn.itouchtv.cn/live/ydpd.m3u8?t_token=5d9f1895a7600df2a4f89b6898d04e38-xx38x%2BtOfCj9FbK3hG74iYffPmvObKzm43yY7cnlrcmunXwqpSdrwuuNIElqYr9%2Fle4%2ByPZp5M4czh3bJcwL44WgLR0nMLpoGFbmoLxzMp3A6IzD%2FyLOY2PFCydmpaym9iOvclq8WzkddgSPK2hOD%2Ff52m3Hq8BzWch82SVJ2ntXMop06l42Vp4S8iFMV%2Bvhi9ogv%2BN6nAGj3SEwVqTFOp1Re15rshrfiCmYdVLPxVcPfHdKYrDXk%2FSySrgcAg%2BrcmU05E%2FtKg%2FMGkbuVRhA3wJLNIeF1sP7LWVoUJxaW6YbhnvnauzqdJVqwFg%2BckNRZFAW712tWqBjuKB%2F8IL3CCeR8NqZC8w6qy%2B26iMvpN0lSsf%2FNAv6qi3gLOqJXfAZ
 
 #EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="https://i.imgur.com/TDCuUDs.png" tvg-id="NHKWorldJapan.jp" group-title="Japan",NHK World-Japan - 728
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
