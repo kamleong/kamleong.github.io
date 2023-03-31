@@ -85,6 +85,16 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-name="CGTN English" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTN.cn" group-title="News (EN)",CGTN English - 1055
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
+#EXTINF:-1 ,TVRI World
+#http://klik.tvri.go.id/
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1 ,NBT World
+#http://live.prd.go.th:1935/live/ch1_L_L.sdp/playlist.m3u8
+https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
+
+#EXTINF:-1 ,History Hit
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="RT Doc",RT Doc
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
