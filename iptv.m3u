@@ -72,6 +72,9 @@ https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 #EXTINF:-1 tvg-name="NBC News" tvg-logo="https://i.imgur.com/v48mMRT.png" tvg-id="NBCNewsNow.us" group-title="USA",NBC News - 1010
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 
+#EXTINF:-1 ,CBC News
+https://cbcrclive-tor.akamaized.net/hls/live/2040337/geo_allow_global/ES_REGIONS_25/master_2000.m3u8
+
 #EXTINF:-1 tvg-name="Euronews English" tvg-logo="https://i.imgur.com/8MsbPCU.png" tvg-id="EuronewsEnglish.fr" group-title="News (EN)",Euronews English - 1050
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Africanews English Ⓨ" tvg-logo="https://i.imgur.com/xocvePC.png" tvg-id="Africanews.cg" group-title="News (EN)",Africanews English Ⓨ - 1051
