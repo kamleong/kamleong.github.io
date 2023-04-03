@@ -6,6 +6,9 @@ https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-name="HOY TV - 77台" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18010434/fav_icon-1.png" tvg-id="HOYTV2.hk" group-title="China",HOY TV - 77台
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
+#EXTINF:-1 group-title="Malaysia",8TV (MY)
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
+
 #EXTINF:-1 tvg-name="優視頻道",優視頻道
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 #EXTINF:-1 tvg-name="好消息",好消息
@@ -101,10 +104,12 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA International (1080p)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 ,TVRI World
+#EXTINF:-1 group-title="Malaysia",RTM TV2 (MY)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
+#EXTINF:-1 group-title="Indonesia",TVRI World
 #http://klik.tvri.go.id/
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-#EXTINF:-1 ,NBT World
+#EXTINF:-1 group-title="Thailand",NBT World
 #http://live.prd.go.th:1935/live/ch1_L_L.sdp/playlist.m3u8
 https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Australia",ABC News 24 (AU)
