@@ -61,8 +61,11 @@ https://cdn.hklive.tv/xxxx/84/index.m3u8
 https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 #EXTINF:-1 tvg-name="BBC World News" group-title="UK;News",BBC World News
 http://1292072398.rsc.cdn77.org/eZxcMNX4s_VCquwWDujzXA==,1680168294/1292072398/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="BBC World Service" group-title="UK;News",BBC World Service (Radio)
+#EXTINF:-1 tvg-name="BBC World Service" group-title="UK;News",☑BBC World Service (Radio)
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
+
+#EXTINF:-1 tvg-name="NPR" group-title="USA",☑NPR (Radio)
+https://npr-ice.streamguys1.com/live.mp3
 
 # -EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://i.imgur.com/xwPekCF.png" group-title="UK",ITV1 (1080p)
 # https://cdnuk001.broadcastcdn.net/KUK-ITV-107/playlist.m3u8
