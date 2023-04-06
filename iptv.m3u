@@ -1,15 +1,16 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml.gz"
+# -EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/unifi.com.my.xml.gz"
 # -EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/ontvtonight.com.xml.gz, https://iptv-org.github.io/epg/guides/en/singtel.com.xml.gz, https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml.gz, https://iptv-org.github.io/epg/guides/ms/rtmklik.rtm.gov.my.xml.gz, https://iptv-org.github.io/epg/guides/my/unifi.com.my.xml.gz, https://iptv-org.github.io/epg/guides/zh/rthk.hk.xml.gz, https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml.gz"
 # https://docs.google.com/spreadsheets/d/1cj66AnWNgJ3GqDTIQBWeUEsapjp_Zk37v11iwoa8xzM/edit#gid=2107508417
 
 #EXTINF:-1 tvg-name="AiFM" group-title="Malaysia",☑爱FM (Radio)
 https://23693.live.streamtheworld.com/AI_FMAAC.aac
-#EXTINF:-1 group-title="Malaysia",★8TV (MY)
+#EXTINF:-1 tvg-id="8TV.my" group-title="Malaysia",★8TV (MY)
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
-#EXTINF:-1 group-title="Malaysia",★RTM TV2 (MY)
+#EXTINF:-1 tvg-id="TV2.my" group-title="Malaysia",★RTM TV2 (MY)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
-#EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="Singapore;News",☑CNA International (1080p)
+#EXTINF:-1 tvg-id0="CNAInternational.sg" tvg-id="CNA.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="Singapore;News",☑CNA International (1080p)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="Indonesia",TVRI World
 #http://klik.tvri.go.id/
@@ -57,9 +58,9 @@ https://cdn.hklive.tv/xxxx/83/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hklive.tv/xxxx/84/index.m3u8
 
-#EXTINF:-1 tvg-name="Al Jazeera English Ⓢ" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AJE05.qa" group-title="Qatar;News",★Al Jazeera English Ⓢ
+#EXTINF:-1 tvg-name="Al Jazeera English Ⓢ" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraEnglish.qa" group-title="Qatar;News",★Al Jazeera English Ⓢ
 https://live-hls-web-aje.getaj.net/AJE/05.m3u8
-#EXTINF:-1 tvg-name="BBC World News" group-title="UK;News",BBC World News
+#EXTINF:-1 tvg-name="BBC World News" tvg-id="BBCWorldNewsAsiaPacific.uk" group-title="UK;News",BBC World News
 http://1292072398.rsc.cdn77.org/eZxcMNX4s_VCquwWDujzXA==,1680168294/1292072398/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="BBC World Service" group-title="UK;News",☑BBC World Service (Radio)
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
