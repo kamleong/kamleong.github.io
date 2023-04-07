@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="http://192.168.175.1/cgi-bin/epg"
+#EXTM3U
+# -EXTM3U x-tvg-url="http://192.168.175.1/cgi-bin/epg"
 # -EXTM3U x-tvg-url="https://kamleong.github.io/sample.epg.jtv.zip"
 # -EXTM3U x-tvg-url="https://tvprofil.net/xmltv/data/bbc1.uk/weekly_bbc1.uk_tvprofil.net.xml"
 # -EXTM3U x-tvg-url="https://raw.githubusercontent.com/AlekSi/xmltv/master/example.xml"
