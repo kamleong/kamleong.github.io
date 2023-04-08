@@ -155,6 +155,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d
 #EXTINF:-1 tvg-name="Paramount Movie Channel" tvg-logo="https://i.imgur.com/CfqRav0.png" group-title="USA;Movies",Paramount Movie Channel - 1037
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
+#EXTINF:-1 group-title="playlist.m3u",iptv-org.malaysia
+https://iptv-org.github.io/iptv/languages/msa.m3u
+#EXTINF:-1 group-title="playlist.m3u",iptv-org.culture
+https://iptv-org.github.io/iptv/categories/culture.m3u
+
+#EXTINF:-1 group-title="playlist.m3u",iptv-org
+#https://iptv-org.github.io/iptv/index.m3u
+https://iptv-org.github.io/iptv/index.category.m3u
+#EXTINF:-1 group-title="playlist.m3u",Free-TV
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Video Clips",★八段錦 (recorded)
 https://drive.google.com/uc?id=1JwfAdIYccaoyV2LExM2cZfzNEsXypQdv&video.mp4
 
