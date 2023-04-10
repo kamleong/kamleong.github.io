@@ -8,7 +8,7 @@
 # -EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/ontvtonight.com.xml.gz, https://iptv-org.github.io/epg/guides/en/singtel.com.xml.gz, https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml.gz, https://iptv-org.github.io/epg/guides/ms/rtmklik.rtm.gov.my.xml.gz, https://iptv-org.github.io/epg/guides/my/unifi.com.my.xml.gz, https://iptv-org.github.io/epg/guides/zh/rthk.hk.xml.gz, https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml.gz"
 # https://docs.google.com/spreadsheets/d/1cj66AnWNgJ3GqDTIQBWeUEsapjp_Zk37v11iwoa8xzM/edit#gid=2107508417
 
-#EXTINF:-1 tvg-name="AiFM" group-title="Malaysia",☑爱FM (Radio)
+#EXTINF:-1 tvg-name="AiFM" group-title="Malaysia;Radio",☑爱FM (Radio)
 https://23693.live.streamtheworld.com/AI_FMAAC.aac
 #EXTINF:-1 tvg-name="8TV" tvg-id="8TV.my" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",★8TV (MY)
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
@@ -65,14 +65,17 @@ https://cdn.hklive.tv/xxxx/83/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hklive.tv/xxxx/84/index.m3u8
 
+# -EXTINF:-1 group-title="Macau;Radio",澳門電台
+# http://live4.tdm.com.mo:1935/live/_definst_/rch2.live/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Al Jazeera English Ⓢ" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraEnglish.qa" group-title="Qatar;News",★Al Jazeera English Ⓢ
 https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 #EXTINF:-1 tvg-name="BBC World News" tvg-id="BBCWorldNewsAsiaPacific.uk" group-title="UK;News",BBC World News
 http://1292072398.rsc.cdn77.org/eZxcMNX4s_VCquwWDujzXA==,1680168294/1292072398/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="BBC World Service" group-title="UK;News",☑BBC World Service (Radio)
+#EXTINF:-1 tvg-name="BBC World Service" group-title="UK;Radio",☑BBC World Service (Radio)
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
 
-#EXTINF:-1 tvg-name="NPR" group-title="USA",☑NPR (Radio)
+#EXTINF:-1 tvg-name="NPR" group-title="USA;Radio",☑NPR (Radio)
 https://npr-ice.streamguys1.com/live.mp3
 
 # -EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://i.imgur.com/xwPekCF.png" group-title="UK",ITV1 (1080p)
@@ -153,6 +156,15 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u
 #EXTINF:-1 tvg-id="LuxeTV.lu" tvg-logo="https://i.imgur.com/24ehonx.png" group-title="Luxembourg;Travel",Luxe TV (En) (1080p)
 #https://alchimie-luxe-uk-rakuten.amagi.tv/playlist540_p.m3u8
 https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Switzerland;Radio",★Brazilian Birds 1.FM (Zug, Switzerland)
+http://strm112.1.fm/brazilianbirds_mobile_mp3
+#EXTINF:-1 group-title="USA;Radio",★Beautiful Instrumentals Channel
+http://hydra.cdnstream.com/1822_128
+#EXTINF:-1 tvg-id="BetterLifeNatureChannel.us" tvg-logo="https://i.imgur.com/gmrVKEC.jpg" group-title="USA;Relax",Better Life Nature Channel (480p)
+https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVTropicsLive.us" tvg-logo="https://i.imgur.com/8F9qPbt.png" group-title="USA;Relax",Bumblebee TV Tropics Live (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MCN6MusicChannel.us" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="USA;Music",MCN6 Music Channel (1080p) [Not 24/7]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
