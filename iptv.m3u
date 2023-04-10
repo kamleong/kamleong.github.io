@@ -117,8 +117,8 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-name="CBS News" tvg-logo="https://i.imgur.com/nki2HDQ.png" tvg-id="CBSNews.us" group-title="USA;News",★CBS News - 1009
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1 tvg-name="NBC News" tvg-logo="https://i.imgur.com/v48mMRT.png" tvg-id="NBCNewsNow.us" group-title="USA;News",NBC News - 1010
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="USA;News",NBC News Now (1080p)
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 
 #EXTINF:-1 tvg-name="CBC News" tvg-logo="https://i.imgur.com/1EqQGKS.png" tvg-id="CBCNewsNetwork.ca" group-title="Canada;News",CBC News - 87
 #https://cbcrclive-tor.akamaized.net/hls/live/2040337/geo_allow_global/ES_REGIONS_25/master_2000.m3u8
@@ -142,6 +142,8 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WKMJDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="USA",★PBS KET World (480p)
 https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PlutoTVHistory.us" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="Documentary",Pluto TV HISTORY (240p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?
 #EXTINF:-1 group-title="UK;Documentary",★History Hit
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 
@@ -153,7 +155,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-p
 
 #EXTINF:-1 tvg-id="GoTraveler.us" tvg-logo="https://i.imgur.com/IaRcN1G.png" group-title="USA;Travel",Go Traveler (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="LuxeTV.lu" tvg-logo="https://i.imgur.com/24ehonx.png" group-title="Luxembourg;Travel",Luxe TV (En) (1080p)
+#EXTINF:-1 tvg-id="LuxeTV.lu" tvg-logo="https://i.imgur.com/24ehonx.png" group-title="Luxembourg;Lifestyle",Luxe TV (En) (1080p)
 #https://alchimie-luxe-uk-rakuten.amagi.tv/playlist540_p.m3u8
 https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8
 
@@ -168,10 +170,8 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/
 
 #EXTINF:-1 tvg-id="MCN6MusicChannel.us" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="USA;Music",MCN6 Music Channel (1080p) [Not 24/7]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
-
-#EXTINF:-1 tvg-id="CCTV15.cn" tvg-logo="https://i.imgur.com/m2R60TJ.png" group-title="China;Music",CCTV-15音乐 (720p)
-https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv15_1_720P/playlist.m3u8?wsApp=HLS
-
+# -EXTINF:-1 tvg-id="CCTV15.cn" tvg-logo="https://i.imgur.com/m2R60TJ.png" group-title="China;Music",CCTV-15音乐 (720p)
+# https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv15_1_720P/playlist.m3u8?wsApp=HLS
 #EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png" group-title="Hong Kong;Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",ViuTVsix (1080p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hklive.tv/xxxx/96/index.m3u8
@@ -188,7 +188,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d
 #EXTINF:-1 tvg-name="Paramount Movie Channel" tvg-logo="https://i.imgur.com/CfqRav0.png" group-title="USA;Movies",Paramount Movie Channel - 1037
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-id="MCN6ArtsChannel.us" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="Culture;Education",MCN6 Arts Channel (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="MCN6ArtsChannel.us" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="USA;Movies",MCN6 Arts Channel (1080p) [Not 24/7]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA;Local",MCN6 (1080p) [Not 24/7]
@@ -196,9 +196,13 @@ https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 
 #EXTINF:-1 tvg-id="WCVBDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png" group-title="USA;Local",WCVB-TV News Boston MA (720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8
-#EXTINF:-1 tvg-id="WVTV.us" tvg-logo="https://i.imgur.com/wV1QZTK.png" group-title="USA;Local",Westlake Village WVTV Channel 10 (Westlake Village CA) (360p)
-https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/westlakevillage/G0133_004/playlist.m3u8
+#EXTINF:-1 tvg-id="WFTXDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="USA;Local",WFTX News Fort Myers FL (720p)
+https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
+#EXTINF:-1 tvg-id="Localish.us" tvg-logo="https://i.imgur.com/ACEbGD5.png" group-title="USA;Local",ABC Localish Bay Area (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Localish.m3u8
 
+#EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Hong Kong;Business",Bloomberg TV Asia (720p)
+https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="Malaysia;News",Astro Awani (720p)
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
