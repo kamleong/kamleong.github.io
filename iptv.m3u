@@ -1,4 +1,4 @@
-#EXTM3U
+De#EXTM3U
 # -EXTM3U x-tvg-url="http://192.168.175.1/cgi-bin/epg"
 # -EXTM3U x-tvg-url="https://kamleong.github.io/sample.epg.jtv.zip"
 # -EXTM3U x-tvg-url="https://tvprofil.net/xmltv/data/bbc1.uk/weekly_bbc1.uk_tvprofil.net.xml"
@@ -6,7 +6,7 @@
 # -EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml"
 # -EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/unifi.com.my.xml.gz"
 # -EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/ontvtonight.com.xml.gz, https://iptv-org.github.io/epg/guides/en/singtel.com.xml.gz, https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml.gz, https://iptv-org.github.io/epg/guides/ms/rtmklik.rtm.gov.my.xml.gz, https://iptv-org.github.io/epg/guides/my/unifi.com.my.xml.gz, https://iptv-org.github.io/epg/guides/zh/rthk.hk.xml.gz, https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml.gz"
-# https://docs.google.com/spreadsheets/d/1cj66AnWNgJ3GqDTIQBWeUEsapjp_Zk37v11iwoa8xzM/edit#gid=2107508417
+# ★☑✗🚫✗☑★ https://docs.google.com/spreadsheets/d/1cj66AnWNgJ3GqDTIQBWeUEsapjp_Zk37v11iwoa8xzM/edit#gid=2107508417
 
 #EXTINF:-1 tvg-name="AiFM" group-title="Malaysia;Radio",☑爱FM (Radio)
 https://23693.live.streamtheworld.com/AI_FMAAC.aac
@@ -22,7 +22,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 group-title="Indonesia",TVRI World
 #http://klik.tvri.go.id/
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="Thailand",🚫NBT World
+#EXTINF:-1 group-title="Thailand",✗NBT World
 #http://live.prd.go.th:1935/live/ch1_L_L.sdp/playlist.m3u8
 https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
 
@@ -70,7 +70,7 @@ https://cdn.hklive.tv/xxxx/84/index.m3u8
 
 #EXTINF:-1 tvg-name="Al Jazeera English Ⓢ" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraEnglish.qa" group-title="Qatar;News",★Al Jazeera English Ⓢ
 https://live-hls-web-aje.getaj.net/AJE/05.m3u8
-#EXTINF:-1 tvg-name="BBC World News" tvg-id="BBCWorldNewsAsiaPacific.uk" group-title="UK;News",🚫BBC World News
+#EXTINF:-1 tvg-name="BBC World News" tvg-id="BBCWorldNewsAsiaPacific.uk" group-title="UK;News",✗BBC World News
 http://1292072398.rsc.cdn77.org/qaeeYZcr-rUBOLbr7HOvMQ==,1681183500/1292072398/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="BBC World Service" group-title="UK;Radio",☑BBC World Service (Radio)
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
@@ -95,9 +95,9 @@ https://cctvwbndtxyhw.liveplay.myqcloud.com/cctvwbnd/jzcctv13_2/index.m3u8
 #https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv13_1_720P/playlist.m3u8?wsApp=HLS
 
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="China",广东珠江
-# https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=a920fdacad5556f684891b3b054440ae-yMPvGlo1YYGSFfRkH6Pwgr%2FarfTEhL2HYS07KD2Qbq4BscGlLqKoCXY%2Bxp5LoAmy7MkrcB8FkRJwTWhw3Lm0DihPKCBNYhxlYVBbWpRyimImd3ZOqSyEU6Be%2BsCn%2By1FZEg%2BYnxFfwU4DvTcFW53QKzBZOCYxShZ2OQjUrioPSs0sHSqh73pIUUjDpTH%2F5HHVWCiogKRSvQYS1qmN5%2FWV3Db8dJ9vsT1JV%2BVUPYk6Rj1iWSMOP1zMAbxpHxSdspZt9ydgpCCbHlCycXNCTaqSmbwC%2BK5zh4WKtU2HQZ0ee9hHgxPKgTsRnxyDtyglR8ZgALKpep%2F9aFveawXfWRkbChgOGsCzeHboR9oXdSHr%2FfzZsnbMnbc1zMVt4cQANhc
+# https://tcdn.itouchtv.cn/live/gdzj.m3u8?
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="China",广东移动
-# https://tcdn.itouchtv.cn/live/ydpd.m3u8?t_token=5d9f1895a7600df2a4f89b6898d04e38-xx38x%2BtOfCj9FbK3hG74iYffPmvObKzm43yY7cnlrcmunXwqpSdrwuuNIElqYr9%2Fle4%2ByPZp5M4czh3bJcwL44WgLR0nMLpoGFbmoLxzMp3A6IzD%2FyLOY2PFCydmpaym9iOvclq8WzkddgSPK2hOD%2Ff52m3Hq8BzWch82SVJ2ntXMop06l42Vp4S8iFMV%2Bvhi9ogv%2BN6nAGj3SEwVqTFOp1Re15rshrfiCmYdVLPxVcPfHdKYrDXk%2FSySrgcAg%2BrcmU05E%2FtKg%2FMGkbuVRhA3wJLNIeF1sP7LWVoUJxaW6YbhnvnauzqdJVqwFg%2BckNRZFAW712tWqBjuKB%2F8IL3CCeR8NqZC8w6qy%2B26iMvpN0lSsf%2FNAv6qi3gLOqJXfAZ
+# https://tcdn.itouchtv.cn/live/ydpd.m3u8?
 
 #EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="https://i.imgur.com/TDCuUDs.png" tvg-id="NHKWorldJapan.jp" group-title="Japan;News",★NHK World-Japan - 728
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
@@ -126,9 +126,9 @@ https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 
 #EXTINF:-1 tvg-name="Euronews English" tvg-logo="https://i.imgur.com/8MsbPCU.png" tvg-id="EuronewsEnglish.fr" group-title="Europe;News",☑Euronews English - 1050
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Africanews English Ⓨ" tvg-logo="https://i.imgur.com/xocvePC.png" tvg-id="Africanews.cg" group-title="Africa;News",🚫Africanews English Ⓨ - 1051
+#EXTINF:-1 tvg-name="Africanews English Ⓨ" tvg-logo="https://i.imgur.com/xocvePC.png" tvg-id="Africanews.cg" group-title="Africa;News",✗Africanews English Ⓨ - 1051
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/africanews/live
-#EXTINF:-1 tvg-name="France 24 English Ⓨ" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24English.fr" group-title="France;News",🚫France 24 English Ⓨ - 1052
+#EXTINF:-1 tvg-name="France 24 English Ⓨ" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24English.fr" group-title="France;News",✗France 24 English Ⓨ - 1052
 https://www.youtube.com/c/FRANCE24English/live
 #EXTINF:-1 tvg-name="DW English" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEnglish.de" group-title="Germany;News",★DW English - 1053
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -170,7 +170,7 @@ https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8
 http://strm112.1.fm/brazilianbirds_mobile_mp3
 #EXTINF:-1 group-title="USA;Radio",★Beautiful Instrumentals Channel
 http://hydra.cdnstream.com/1822_128
-#EXTINF:-1 tvg-id="BetterLifeNatureChannel.us" tvg-logo="https://i.imgur.com/gmrVKEC.jpg" group-title="USA;Relax",Better Life Nature Channel (480p)
+#EXTINF:-1 tvg-id="BetterLifeNatureChannel.us" tvg-logo="https://i.imgur.com/gmrVKEC.jpg" group-title="USA;Relax",Better Life Nature Channel (480p) Ⓢ
 https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
 #EXTINF:-1 tvg-id="BumblebeeTVTropicsLive.us" tvg-logo="https://i.imgur.com/8F9qPbt.png" group-title="USA;Relax",Bumblebee TV Tropics Live (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
