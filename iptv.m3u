@@ -22,7 +22,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 group-title="Indonesia",TVRI World
 #http://klik.tvri.go.id/
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="Thailand",NBT World
+#EXTINF:-1 group-title="Thailand",🚫NBT World
 #http://live.prd.go.th:1935/live/ch1_L_L.sdp/playlist.m3u8
 https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
 
@@ -70,8 +70,8 @@ https://cdn.hklive.tv/xxxx/84/index.m3u8
 
 #EXTINF:-1 tvg-name="Al Jazeera English Ⓢ" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraEnglish.qa" group-title="Qatar;News",★Al Jazeera English Ⓢ
 https://live-hls-web-aje.getaj.net/AJE/05.m3u8
-#EXTINF:-1 tvg-name="BBC World News" tvg-id="BBCWorldNewsAsiaPacific.uk" group-title="UK;News",BBC World News
-http://1292072398.rsc.cdn77.org/eZxcMNX4s_VCquwWDujzXA==,1680168294/1292072398/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="BBC World News" tvg-id="BBCWorldNewsAsiaPacific.uk" group-title="UK;News",🚫BBC World News
+http://1292072398.rsc.cdn77.org/qaeeYZcr-rUBOLbr7HOvMQ==,1681183500/1292072398/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="BBC World Service" group-title="UK;Radio",☑BBC World Service (Radio)
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
 
@@ -126,9 +126,9 @@ https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 
 #EXTINF:-1 tvg-name="Euronews English" tvg-logo="https://i.imgur.com/8MsbPCU.png" tvg-id="EuronewsEnglish.fr" group-title="Europe;News",☑Euronews English - 1050
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Africanews English Ⓨ" tvg-logo="https://i.imgur.com/xocvePC.png" tvg-id="Africanews.cg" group-title="Africa;News",Africanews English Ⓨ - 1051
-https://www.youtube.com/c/africanews/live
-#EXTINF:-1 tvg-name="France 24 English Ⓨ" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24English.fr" group-title="France;News",France 24 English Ⓨ - 1052
+#EXTINF:-1 tvg-name="Africanews English Ⓨ" tvg-logo="https://i.imgur.com/xocvePC.png" tvg-id="Africanews.cg" group-title="Africa;News",🚫Africanews English Ⓨ - 1051
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/africanews/live
+#EXTINF:-1 tvg-name="France 24 English Ⓨ" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24English.fr" group-title="France;News",🚫France 24 English Ⓨ - 1052
 https://www.youtube.com/c/FRANCE24English/live
 #EXTINF:-1 tvg-name="DW English" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEnglish.de" group-title="Germany;News",★DW English - 1053
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
