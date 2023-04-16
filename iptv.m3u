@@ -72,7 +72,7 @@ https://cdn.hklive.tv/xxxx/84/index.m3u8
 https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 #EXTINF:-1 tvg-name="BBC World News" tvg-id="BBCWorldNewsAsiaPacific.uk" group-title="UK;News",BBC World News
 #UrlFetchApp https://script.google.com/home/projects/16uaQCXF7jFK6jJCPlWwrjnpYsQc9xCuUyrrn8_v1iLLKQQLgMggf7uuN/edit
-https://script.google.com/macros/s/AKfycbzthPQMiAmPAZJT3fRsCRpbbPwqRzKUA2ABPLExa5XFutwB857ccwJoz_abtDbwoO2qfA/exec?q=bbc.freeintertv
+https://script.google.com/macros/s/AKfycbzthPQMiAmPAZJT3fRsCRpbbPwqRzKUA2ABPLExa5XFutwB857ccwJoz_abtDbwoO2qfA/exec?q=bbc.freeintertv&x=.m3u
 #EXTINF:-1 tvg-name="BBC World Service" group-title="UK;Radio",☑BBC World Service (Radio)
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
 #
@@ -208,6 +208,10 @@ https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 #
 #EXTINF:-1 tvg-id="WCVBDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png" group-title="USA;Local",WCVB-TV News Boston MA (720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8
+#EXTINF:-1 tvg-id="CBSNewsBaltimore.us" tvg-logo="https://i.imgur.com/jy3UfCe.png" group-title="US;Local",CBS News Baltimore (720p)
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+# -EXTINF:-1 tvg-id="WBALDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/WBAL_Horizontal_Logo_2013.png" group-title="US;Local",WBAL-TV News Baltimore MD (576p)
+# https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WBAL.m3u8
 #EXTINF:-1 tvg-id="WFTXDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="USA;Local",WFTX News Fort Myers FL (720p)
 https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
 #EXTINF:-1 group-title="USA;Local",☑Seattle Channel
@@ -235,6 +239,8 @@ https://iptv-org.github.io/iptv/index.category.m3u
 #EXTINF:-1 group-title="playlist.m3u",Free-TV
 https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
 #
+#EXTINF:-1 group-title="Video Clips",★太極氣功 (recorded)
+https://drive.google.com/uc?id=1E0oqhdYU3JAT7lPFt9k37tb-OQMggWry&video.mp4
 #EXTINF:-1 group-title="Video Clips",★八段錦 (recorded)
 https://drive.google.com/uc?id=1JwfAdIYccaoyV2LExM2cZfzNEsXypQdv&video.mp4
 #
