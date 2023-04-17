@@ -54,8 +54,8 @@ https://iptv-org.github.io/iptv/categories/sports.m3u
 https://iptv-org.github.io/iptv/categories/travel.m3u
 #EXTINF:-1 group-title="iptv-org;category",Weather
 https://iptv-org.github.io/iptv/categories/weather.m3u
-#EXTINF:-1 group-title="iptv-org;category",XXX
-https://iptv-org.github.io/iptv/categories/xxx.m3u
+# -EXTINF:-1 group-title="iptv-org;category",XXX
+# https://iptv-org.github.io/iptv/categories/xxx.m3u
 #EXTINF:-1 group-title="iptv-org;category",Undefined
 https://iptv-org.github.io/iptv/categories/undefined.m3u
 
