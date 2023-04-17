@@ -231,18 +231,19 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="Malaysia;News",Astro Awani (720p)
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 #
-#EXTINF:-1 group-title="playlist.m3u",iptv-org.malaysia
-https://iptv-org.github.io/iptv/countries/my.m3u
-#EXTINF:-1 group-title="playlist.m3u",iptv-org.chinese
-https://iptv-org.github.io/iptv/languages/zho.m3u
-#EXTINF:-1 group-title="playlist.m3u",iptv-org.general
-https://iptv-org.github.io/iptv/categories/general.m3u
-#EXTINF:-1 group-title="playlist.m3u",iptv-org.news
-https://iptv-org.github.io/iptv/categories/news.m3u
+# -EXTINF:-1 group-title="playlist.m3u",iptv-org.malaysia
+# https://iptv-org.github.io/iptv/countries/my.m3u
+# -EXTINF:-1 group-title="playlist.m3u",iptv-org.chinese
+# https://iptv-org.github.io/iptv/languages/zho.m3u
+# -EXTINF:-1 group-title="playlist.m3u",iptv-org.general
+# https://iptv-org.github.io/iptv/categories/general.m3u
+# -EXTINF:-1 group-title="playlist.m3u",iptv-org.news
+# https://iptv-org.github.io/iptv/categories/news.m3u
 #
 #EXTINF:-1 group-title="playlist.m3u",iptv-org
 #https://iptv-org.github.io/iptv/index.m3u
-https://iptv-org.github.io/iptv/index.category.m3u
+#https://iptv-org.github.io/iptv/index.category.m3u
+https://kamleong.github.io/iptv-org.category.m3u
 #EXTINF:-1 group-title="playlist.m3u",Free-TV
 https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
 #
