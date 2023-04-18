@@ -203,9 +203,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d
 # http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="" group-title="USA;Movies",☑Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="MCN6ArtsChannel.us" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="USA;Movies",MCN6 Arts Channel (1080p) [Not 24/7]
-https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
 #
+# -EXTINF:-1 tvg-id="MCN6ArtsChannel.us" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="USA;Movies",MCN6 Arts Channel (1080p) [Not 24/7]
+# https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA;Local",MCN6 (1080p) [Not 24/7]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 #
