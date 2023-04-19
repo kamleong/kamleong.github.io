@@ -38,7 +38,7 @@ https://kamleong.github.io/sample.epg.jtv.zip
 <details>
 <summary>details</summary>
 <br>
-- .pdt file always starts with string "JTV 3.x TV Program Data" followed by 3 bytes of hex values 0xA0. Then goes 2-byte program name length and program name itself (encoding is unknown, for Cyrillic win-1251 is used)
-- .ndx file starts with 2-byte number (count of records) followed by 12-byte records: first 2 bytes always 0x00; next 8 bytes = program start time = windows FILETIME structure, i.e. 64bit integer representing windows time in milliseconds; last 2 bytes = offset in .pdt file to find program name.
+<li> .pdt file always starts with string "JTV 3.x TV Program Data" followed by 3 bytes of hex values 0xA0. Then goes 2-byte program name length and program name itself (encoding is unknown, for Cyrillic win-1251 is used)
+<li> .ndx file starts with 2-byte number (count of records) followed by 12-byte records: first 2 bytes always 0x00; next 8 bytes = program start time = windows FILETIME structure, i.e. 64bit integer representing windows time in milliseconds; last 2 bytes = offset in .pdt file to find program name.
 Note: JTV format uses little endian. File format/specification reference: https://code.google.com/archive/p/xmltv2jtv/wikis/JTVFormat.wiki
 </details>
