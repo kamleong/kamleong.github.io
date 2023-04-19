@@ -225,8 +225,8 @@ https://simultv.s.llnwi.net/o058/Mythos/interlink.m3u8
 #EXTINF:-1 tvg-id="FilmStreams.us" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="USA;Movies",FilmStreams (720p)
 https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="Switzerland;Movies",Sofy.tv (720p) - Short Films
-#https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvnl-samsungnl/playlist.m3u8
-https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvnl-samsungnl/playlist.m3u8
 #
 # -EXTINF:-1 tvg-id="MCN6ArtsChannel.us" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="USA;Movies",MCN6 Arts Channel (1080p) [Not 24/7]
 # https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
