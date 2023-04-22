@@ -202,9 +202,9 @@ https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/62407
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="USA;Movies",MovieSphere (1080p)
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #
-#EXTINF:-1 tvg-id="TVSDriveInMovie.us" tvg-logo="https://i.imgur.com/OR9APjb.png" group-title="USA;Movies",TVS Drive-In Movie (360p)
+#EXTINF:-1 tvg-id="TVSDriveInMovie.us" tvg-logo="https://i.imgur.com/OR9APjb.png" group-title="USA;Movies",🎬TVS Drive-In Movie (360p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
-#EXTINF:-1 tvg-id="RedboxSpotlight.us" tvg-logo="https://i.imgur.com/OrGCnPg.jpg" group-title="USA;Movies",🎬Redbox 1: Spotlight (1080p)
+#EXTINF:-1 tvg-id="RedboxSpotlight.us" tvg-logo="https://i.imgur.com/OrGCnPg.jpg" group-title="USA;Movies",Redbox 1: Spotlight (1080p)
 https://spotlight-redbox.amagi.tv/playlist.m3u8
 #
 #EXTINF:-1 tvg-id="PlutoTVSpotlight.us" tvg-logo="https://i.imgur.com/UmuJkVB.png" group-title="USA;Movies",Pluto TV Spotlight (684p)
