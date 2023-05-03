@@ -184,6 +184,8 @@ http://hydra.cdnstream.com/1822_128
 https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
 #EXTINF:-1 tvg-id="BumblebeeTVTropicsLive.us" tvg-logo="https://i.imgur.com/8F9qPbt.png" group-title="USA;Relax",Bumblebee TV Tropics Live (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+#EXTINF:-1 tvg-id="DeluxeLoungeHD.de" tvg-logo="https://i.imgur.com/DnMzWiG.png" group-title="Germany;Music",Deluxe Lounge HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
 #
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="USA;Music",Ʊ𝄡🎼 Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
@@ -194,6 +196,8 @@ https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png" group-title="Hong Kong;Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",ViuTVsix (1080p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hklive.tv/xxxx/96/index.m3u8
+#EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-logo="https://i.imgur.com/XWWTrKW.png" group-title="Germany;Music",Deluxe Music (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #
 # -EXTINF:-1 tvg-id="CCTV6.cn" tvg-logo="https://i.imgur.com/dDqvRHX.png" group-title="China;Movies",CCTV-6电影 (1080p)
 # http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
@@ -259,8 +263,8 @@ https://cdn3.wowza.com/1/UFE5VjR0eVBzSkhP/YzVaUHpi/hls/live/playlist.m3u8
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Localish.m3u8
 #EXTINF:-1 group-title="China;Radio",📻佛山电台 (Radio)
 https://play.radiofoshan.com.cn/live/1400389414_BSID_46_audio.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",仙桃新闻综合 (576p)
-http://221.233.242.239:280/live/71/playlist.m3u8
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",仙桃新闻综合 (576p)
+# http://221.233.242.239:280/live/71/playlist.m3u8
 #EXTINF:-1 tvg-id="SinoVision.cn" tvg-logo="https://i.imgur.com/ir3jkyL.png" group-title="USA",美国中文电视 (406p) [Not 24/7]
 https://jpts.sinovision.net/livestream.m3u8
 #
