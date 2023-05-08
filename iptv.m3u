@@ -9,7 +9,7 @@
 # ★☑✗🚫✗☑★ 📰📻📺🎦🎬🎥📡 https://docs.google.com/spreadsheets/d/1cj66AnWNgJ3GqDTIQBWeUEsapjp_Zk37v11iwoa8xzM/edit#gid=2107508417
 #
 #EXTINF:-1 tvg-name="AiFM" group-title="Malaysia;Radio",📻爱FM (Radio)
-https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
 #EXTINF:-1 tvg-name="8TV" tvg-id="8TV.my" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",📺8TV (MY)
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
 # -EXTINF:-1 tvg-id="8TV.my" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="Malaysia",8TV (720p) [Geo-blocked]
