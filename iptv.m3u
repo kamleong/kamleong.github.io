@@ -280,9 +280,9 @@ http://live.mudu.tv/watch/4zbn2f.m3u8
 #
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",南京信息 (720p)
 http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",南京十八 (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",南京十八频道 (720p)
 http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",南京娱乐 (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local;Entertainment",南京娱乐 (720p)
 http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",南京少儿 (720p) [Not 24/7]
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
@@ -308,10 +308,10 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",余姚姚江文化 (576p)
 http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",农安新闻综合 [Geo-blocked]
-http://stream2.jlntv.cn/naxw/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",前郭综合 [Geo-blocked]
-http://stream2.jlntv.cn/qg/sd/live.m3u8
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",农安新闻综合 [Geo-blocked]
+# http://stream2.jlntv.cn/naxw/sd/live.m3u8
+# - EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",前郭综合 [Geo-blocked]
+# http://stream2.jlntv.cn/qg/sd/live.m3u8
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",仙桃新闻综合 (576p)
 # http://221.233.242.239:280/live/71/playlist.m3u8
 #
