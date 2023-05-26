@@ -275,7 +275,7 @@ https://play.radiofoshan.com.cn/live/1400389414_BSID_46_audio.m3u8
 #https://live.funhillrm.com/2/sd/live.m3u8
 https://live.funhillrm.com/2/playlist.m3u8
 #
-#EXTINF:-1 tvg-name="JingShan" tvg-logo="" group-title="China;Local",上海金山电视台 (270p)
+#EXTINF:-1 tvg-name="JinShan" tvg-logo="" group-title="China;Local",上海金山电视台 (270p)
 http://live.mudu.tv/watch/4zbn2f.m3u8
 #
 #EXTINF:-1 tvg-name="NBS-Inf" tvg-logo="" group-title="China;Local",南京信息 (720p)
