@@ -271,42 +271,42 @@ https://play.radiofoshan.com.cn/live/1400389414_BSID_46_audio.m3u8
 # -EXTINF:-1 tvg-name="CETV-3" tvg-logo="https://i.imgur.com/t8o5ZKt.png" tvg-id="CETV3.cn" group-title="China",CETV-3 北京地面频道
 # http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 # -EXTINF:-1 tvg-id="BeijingSatelliteTV.cn" tvg-logo="https://i.imgur.com/vsktAez.png" group-title="China",北京卫视
-#EXTINF:-1 tvg-id="FangshanTV.cn" tvg-logo="https://i.imgur.com/YyYArWr.png" group-title="China;Local",房山电视台
+#EXTINF:-1 tvg-name="FangshanTV" tvg-id="FangshanTV.cn" tvg-logo="https://i.imgur.com/YyYArWr.png" group-title="China;Local",房山电视台
 #https://live.funhillrm.com/2/sd/live.m3u8
 https://live.funhillrm.com/2/playlist.m3u8
 #
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",上海金山电视台 (270p)
 http://live.mudu.tv/watch/4zbn2f.m3u8
 #
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",南京信息 (720p)
+#EXTINF:-1 tvg-name="NBS-Inf" tvg-logo="" group-title="China;Local",南京信息 (720p)
 http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",南京十八频道 (720p)
+#EXTINF:-1 tvg-name="NBS-18" tvg-logo="" group-title="China;Local",南京十八频道 (720p)
 http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local;Entertainment",南京娱乐 (720p)
+#EXTINF:-1 tvg-name="NBS-Ent" tvg-logo="" group-title="China;Local;Entertainment",南京娱乐 (720p)
 http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",南京少儿 (720p) [Not 24/7]
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 #
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",南京生活 (720p)
+#EXTINF:-1 tvg-name="NBS-Life" tvg-logo="" group-title="China;Local",南京生活 (720p)
 http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",南京教科 (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="NBS-Edu" tvg-logo="" group-title="China;Local",南京教科 (720p) [Not 24/7]
 http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",南京新闻综合 (720p)
+#EXTINF:-1 tvg-name="NBS-News" tvg-logo="" group-title="China;Local",南京新闻综合 (720p)
 http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 #
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",三明新闻综合 (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="SMN-News" group-title="China;Local",三明新闻综合 (720p) [Not 24/7]
 http://stream.smntv.cn/smtv1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",三明公共 (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="SMN-Pub" tvg-logo="" group-title="China;Local",三明公共 (720p) [Not 24/7]
 http://stream.smntv.cn/smtv2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",上虞1新闻综合 (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="ShangYu-1-News" tvg-logo="" group-title="China;Local",上虞1新闻综合 (720p) [Not 24/7]
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",上虞3新商都 (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="ShangYu-3" tvg-logo="" group-title="China;Local",上虞3新商都 (720p) [Not 24/7]
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",上虞經濟文化 (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="ShangYu-2" tvg-logo="" group-title="China;Local",上虞經濟文化 (720p) [Not 24/7]
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",余姚新闻综合 (576p)
+#EXTINF:-1 tvg-name="YuYao-1-News" tvg-logo="" group-title="China;Local",余姚新闻综合 (576p)
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",余姚姚江文化 (576p)
+#EXTINF:-1 tvg-name="YuYao-3-Culture" tvg-logo="" group-title="China;Local",余姚姚江文化 (576p)
 http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",农安新闻综合 [Geo-blocked]
 # http://stream2.jlntv.cn/naxw/sd/live.m3u8
