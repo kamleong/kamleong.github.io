@@ -129,9 +129,9 @@ https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 #EXTINF:-1 tvg-name="NBC News" tvg-logo="https://i.imgur.com/v48mMRT.png" tvg-id="NBCNewsNow.us" group-title="USA;News",NBC News - 1010
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #
-#EXTINF:-1 tvg-name="CBC News" tvg-logo="https://i.imgur.com/1EqQGKS.png" tvg-id="CBCNewsNetwork.ca" group-title="Canada;News",✗ CBC News - 87
-#https://cbcrclive-tor.akamaized.net/hls/live/2040337/geo_allow_global/ES_REGIONS_25/master_2000.m3u8
-https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+# -EXTINF:-1 tvg-name="CBC News" tvg-logo="https://i.imgur.com/1EqQGKS.png" tvg-id="CBCNewsNetwork.ca" group-title="Canada;News",✗ CBC News - 87
+# #https://cbcrclive-tor.akamaized.net/hls/live/2040337/geo_allow_global/ES_REGIONS_25/master_2000.m3u8
+# https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 #
 #EXTINF:-1 tvg-name="Euronews English" tvg-logo="https://i.imgur.com/8MsbPCU.png" tvg-id="EuronewsEnglish.fr" group-title="Europe;News",☑Euronews English - 1050
 #https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -143,8 +143,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/afric
 https://www.youtube.com/c/FRANCE24English/live
 #EXTINF:-1 tvg-name="DW English" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEnglish.de" group-title="Germany;News",★DW English - 1053
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraEnglish.qa" group-title="Qatar;News",🔭Al Jazeera English - 1054
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+# - EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraEnglish.qa" group-title="Qatar;News",🔭Al Jazeera English - 1054
+# https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-name="CGTN English" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTN.cn" group-title="China;News",☑CGTN English - 1055
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 中文国际（美） Ⓢ" tvg-logo="https://i.imgur.com/1TPiRqR.png" tvg-id="CCTV4America.cn" group-title="China",CCTV-4 中文国际（美） Ⓢ
@@ -294,20 +294,18 @@ http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-name="NBS-News" tvg-logo="" group-title="China;Local",南京新闻综合 (720p)
 http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 #
-#EXTINF:-1 tvg-name="SMN-News" tvg-logo="" group-title="China;Local",三明新闻综合 (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="SMN-News" tvg-logo="" group-title="China;Local",三明1新闻综合 (720p) [Not 24/7]
 http://stream.smntv.cn/smtv1/playlist.m3u8
-#EXTINF:-1 tvg-name="SMN-Pub" tvg-logo="" group-title="China;Local",三明公共 (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="SMN-Pub" tvg-logo="" group-title="China;Local",三明2公共 (720p) [Not 24/7]
 http://stream.smntv.cn/smtv2/playlist.m3u8
 #EXTINF:-1 tvg-name="ShangYu-1-News" tvg-logo="" group-title="China;Local",上虞1新闻综合 (720p) [Not 24/7]
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-#EXTINF:-1 tvg-name="ShangYu-3" tvg-logo="" group-title="China;Local",上虞3新商都 (720p) [Not 24/7]
-http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 #EXTINF:-1 tvg-name="ShangYu-2" tvg-logo="" group-title="China;Local",上虞2經濟文化 (720p) [Not 24/7]
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-#EXTINF:-1 tvg-name="YuYao-1-News" tvg-logo="" group-title="China;Local",余姚新闻综合 (576p)
+#EXTINF:-1 tvg-name="ShangYu-3" tvg-logo="" group-title="China;Local",上虞3新商都 (720p) [Not 24/7]
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+#EXTINF:-1 tvg-name="YuYao-1-News" tvg-logo="" group-title="China;Local",余姚1新闻综合 (576p)
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-#EXTINF:-1 tvg-name="YuYao-3-Culture" tvg-logo="" group-title="China;Local",余姚姚江文化 (576p)
-http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",农安新闻综合 [Geo-blocked]
 # http://stream2.jlntv.cn/naxw/sd/live.m3u8
 # - EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",前郭综合 [Geo-blocked]
