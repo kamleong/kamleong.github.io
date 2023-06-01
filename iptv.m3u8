@@ -268,28 +268,30 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,L
 #
 #EXTINF:-1 group-title="China;Radio",📻佛山电台 (Radio)
 https://play.radiofoshan.com.cn/live/1400389414_BSID_46_audio.m3u8
-#EXTINF:-1 tvg-id="BeijingSatelliteTV.cn" tvg-logo="https://i.imgur.com/vsktAez.png" group-title="China;Local",北京卫视
-#http://beijingzhibo.com | http://www.yangshizhibo.com
-http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000272103.m3u8
 # -EXTINF:-1 tvg-name="CETV-3" tvg-logo="https://i.imgur.com/t8o5ZKt.png" tvg-id="CETV3.cn" group-title="China",CETV-3 北京地面频道
 # http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 #EXTINF:-1 tvg-name="FangshanTV" tvg-id="FangshanTV.cn" tvg-logo="https://i.imgur.com/YyYArWr.png" group-title="China;Local",房山电视台
 #https://live.funhillrm.com/2/sd/live.m3u8
 https://live.funhillrm.com/2/playlist.m3u8
+#EXTINF:-1 tvg-name="BeijingSatelliteTV" tvg-id="BeijingSatelliteTV.cn" tvg-logo="https://i.imgur.com/vsktAez.png" group-title="China;Local",北京卫视
+#http://beijingzhibo.com | http://www.yangshizhibo.com
+http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000272103.m3u8
 #
-#EXTINF:-1 tvg-id="DragonTV.cn" tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="China;Local",东方卫视
+#EXTINF:-1 tvg-name="DragonTV" tvg-id="DragonTV.cn" tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="China;Local",东方卫视
 http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000292403.m3u8
 #EXTINF:-1 tvg-name="JinShan" tvg-logo="" group-title="China;Local",上海金山电视台 (270p)
 http://live.mudu.tv/watch/4zbn2f.m3u8
 #
-#EXTINF:-1 tvg-id="ZhejiangSatelliteTV.cn" tvg-logo="https://i.imgur.com/5gQn4uY.png" group-title="China;Local",浙江卫视
+#EXTINF:-1 tvg-name="ZhejiangSatelliteTV" tvg-id="ZhejiangSatelliteTV.cn" tvg-logo="https://i.imgur.com/5gQn4uY.png" group-title="China;Local",浙江卫视
 http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295503.m3u8
-#EXTINF:-1 tvg-id="JiangsuSatelliteTV.cn" tvg-logo="https://i.imgur.com/CA4F1rv.png" group-title="China;Local",江苏卫视
+#EXTINF:-1 tvg-name="JiangsuSatelliteTV" tvg-id="JiangsuSatelliteTV.cn" tvg-logo="https://i.imgur.com/CA4F1rv.png" group-title="China;Local",江苏卫视
 http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295603.m3u8
-#EXTINF:-1 tvg-id="HunanTV.cn" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="China;Local",湖南卫视
+#EXTINF:-1 tvg-name="HunanTV" tvg-id="HunanTV.cn" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="China;Local",湖南卫视
 http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296203.m3u8
-#EXTINF:-1 group-title="China;Local",广东珠江
-https://zjtctv.gdtv.cn/live/gdzj.m3u8?auth_key=1685551586-0-0-669428c5f7e7fbe5411d1dd93e88a716
+#EXTINF:-1 tvg-name="GDTV-ZJ" group-title="China;Local",广东珠江
+#http://www.baidu.com.cdns.cfd/html/gdtv.html?id=gdzj
+#http://gxyl-dl001.8866.org:8181/tsfile/live/1000_1.m3u8
+http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
 #
 #EXTINF:-1 tvg-name="NBS-Inf" tvg-logo="" group-title="China;Local",南京信息 (720p)
 http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
