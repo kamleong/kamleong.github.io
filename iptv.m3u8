@@ -31,7 +31,7 @@ https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-name="HOY TV - 77台" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18010434/fav_icon-1.png" tvg-id="HOYTV2.hk" group-title="Hong Kong",☑HOY TV - 77台
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #
-#EXTINF:-1 tvg-id="PTS.tw" tvg-logo="https://i.imgur.com/R9hwOZx.png" group-title="Taiwan",台灣公視
+#EXTINF:-1 tvg-id="PTS.tw" tvg-logo="https://i.imgur.com/R9hwOZx.png" group-title="Taiwan",✗台灣公視
 #http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
 https://bstvcdn.ballbar.net/ctv_taiwan/playlist-17.m3u8a?t=...&token=...
 #EXTINF:-1 tvg-name="優視頻道" group-title="USA",★優視頻道
