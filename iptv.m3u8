@@ -9,12 +9,15 @@
 # ★☑✗🚫✗☑★ 📰📻📺🎦🎬🎥📡 https://docs.google.com/spreadsheets/d/1cj66AnWNgJ3GqDTIQBWeUEsapjp_Zk37v11iwoa8xzM/edit#gid=2107508417
 #
 #EXTINF:-1 tvg-name="AiFM" group-title="Malaysia;Radio",📻爱FM (Radio)
+#web# https://rtmklik.rtm.gov.my/radio/nasional/ai-fm
 https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
 #EXTINF:-1 tvg-name="8TV" tvg-id="8TV.my" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",📺8TV (MY)
+#web# https://www.tonton.com.my/liveChannel?titleId=8tv
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
 # -EXTINF:-1 tvg-id="8TV.my" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="Malaysia",8TV (720p) [Geo-blocked]
 # https://live-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8
 #EXTINF:-1 tvg-name="TV2" tvg-id="TV2.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia",📺RTM TV2 (MY)
+#web# https://rtmklik.rtm.gov.my/live/tv2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #
 #EXTINF:-1 tvg-name="CNA" tvg-id0="CNAInternational.sg" tvg-id="CNA.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="Singapore;News",🔭CNA International (1080p)
@@ -29,9 +32,11 @@ https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="有線新聞台" tvg-id="iCable1.hk" group-title="Hong Kong;News",🔭有線新聞台
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-name="HOY TV - 77台" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18010434/fav_icon-1.png" tvg-id="HOYTV2.hk" group-title="Hong Kong",☑HOY TV - 77台
+#web# https://hoy.tv/live/
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #
-#EXTINF:-1 tvg-id="PTS.tw" tvg-logo="https://i.imgur.com/R9hwOZx.png" group-title="Taiwan",✗台灣公視
+#EXTINF:-1 tvg-id="PTS.tw" tvg-logo="https://i.imgur.com/R9hwOZx.png" group-title="Taiwan",✗ 台灣公視
+#web# https://chaojidianshi.net/zhibo/43.html
 #http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
 https://bstvcdn.ballbar.net/ctv_taiwan/playlist-17.m3u8a?t=...&token=...
 #EXTINF:-1 tvg-name="優視頻道" group-title="USA",★優視頻道
@@ -75,12 +80,14 @@ https://cdn.hklive.tv/xxxx/84/index.m3u8
 # http://live4.tdm.com.mo:1935/live/_definst_/rch2.live/playlist.m3u8
 #
 #EXTINF:-1 tvg-name="Al Jazeera English Ⓢ" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraEnglish.qa" group-title="Qatar;News",🔭Al Jazeera English Ⓢ
+#web# https://www.aljazeera.com/live
 https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 #EXTINF:-1 tvg-name="BBC World News" tvg-id="BBCWorldNewsAsiaPacific.uk" group-title="UK;News",🔭BBC World News (FreeInterTV)
+#web# http://www.freeintertv.com/view/id-2328?mode=1&page=1
 #UrlFetchApp https://script.google.com/home/projects/16uaQCXF7jFK6jJCPlWwrjnpYsQc9xCuUyrrn8_v1iLLKQQLgMggf7uuN/edit
 https://script.google.com/macros/s/AKfycbzthPQMiAmPAZJT3fRsCRpbbPwqRzKUA2ABPLExa5XFutwB857ccwJoz_abtDbwoO2qfA/exec?q=bbc.freeintertv&x=.m3u
 # -EXTINF:-1 tvg-name="BBC World News" tvg-id="BBCWorldNewsAsiaPacific.uk" group-title="UK;News",🔭BBC World News (Viaway)
-# http://www.viaway.com/view/44757524/bbc-world-news
+# web# http://www.viaway.com/view/44757524/bbc-world-news
 # http://playcontent6.viaway.com/dvr6/m/4d959f1a-0bb8-470b-b5a2-e53d9d2d4b26/stream.m3u8?ttl=120&Policy=....&Signature=...&Key-Pair-Id=...
 #EXTINF:-1 tvg-name="BBC World Service" group-title="UK;Radio",📻BBC World Service (Radio)
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
@@ -103,18 +110,15 @@ https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-guardian-1-se.samsung.wurl.tv/playlist.m3u8
 #
 #EXTINF:-1 tvg-name="CCTV-1 综合 Ⓢ" tvg-logo="https://i.imgur.com/uHU6Vc0.png" tvg-id="CCTV1.cn" group-title="China",CCTV-1 综合 Ⓢ - 110
+#web# https://tv.cctv.com/live/cctv1/
 https://cctvwbndtxy.liveplay.myqcloud.com/cctvwbnd/jzcctv1_2/index.m3u8
 #https://cctvwbcdkshw.v.kcdnvip.com/cctvwbcd/cdrmcctv1_1/index.m3u8?BR=td&region=shanghai
 #EXTINF:-1 tvg-name="CCTV-13 新闻 Ⓢ" tvg-logo="https://i.imgur.com/pPO8uJN.png" tvg-id="CCTV13.cn" group-title="China;News",🔭CCTV-13 新闻 Ⓢ - 114
 https://cctvwbndtxyhw.liveplay.myqcloud.com/cctvwbnd/jzcctv13_2/index.m3u8
 #https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv13_1_720P/playlist.m3u8?wsApp=HLS
 #
-# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="China",广东珠江
-# https://tcdn.itouchtv.cn/live/gdzj.m3u8?
-# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="China",广东移动
-# https://tcdn.itouchtv.cn/live/ydpd.m3u8?
-#
 #EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="https://i.imgur.com/TDCuUDs.png" tvg-id="NHKWorldJapan.jp" group-title="Japan;News",★NHK World-Japan - 728
+#web# https://www3.nhk.or.jp/nhkworld/
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" tvg-id="ArirangTV.kr" group-title="Korea",★Arirang - 763
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -123,6 +127,7 @@ https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" tvg-id="KBSWorld.kr" group-title="Korea",☑KBS World - 773
 http://ye23.vip/z7z8/2021/kbs2020.php?id=3
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://i.imgur.com/JEA2xpv.png" tvg-id="TRTWorld.tr" group-title="Turkey;News",☑TRT World - 934
+#web# https://www.trtworld.com/live
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #
 #EXTINF:-1 tvg-name="ABC News" tvg-logo="https://i.imgur.com/GpgrYCb.png" tvg-id="ABCNews.au" group-title="Australia;News",★ABC News 24 (AU) - 23
@@ -294,10 +299,15 @@ http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295503.m3u8
 http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295603.m3u8
 #EXTINF:-1 tvg-name="HunanTV" tvg-id="HunanTV.cn" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="China;Local",湖南卫视
 http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296203.m3u8
-#EXTINF:-1 tvg-name="GDTV-ZJ" group-title="China;Local",广东珠江
+#EXTINF:-1 tvg-name="GDTV-ZJ" group-title="China;Local",✗ 广东珠江
+#web# https://www.gdtv.cn/tvChannelDetail/44
+#https://tcdn.itouchtv.cn/live/gdzj.m3u8?
 #http://www.baidu.com.cdns.cfd/html/gdtv.html?id=gdzj
 #http://gxyl-dl001.8866.org:8181/tsfile/live/1000_1.m3u8
 http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="China",广东移动
+# web# https://www.gdtv.cn/tvChannelDetail/74
+# https://tcdn.itouchtv.cn/live/ydpd.m3u8?
 #
 #EXTINF:-1 tvg-name="NBS-Inf" tvg-logo="" group-title="China;Local",南京信息 (720p)
 http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
