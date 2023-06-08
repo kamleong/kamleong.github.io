@@ -33,7 +33,7 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #
 #EXTINF:-1 tvg-id="PTS.tw" tvg-logo="https://i.imgur.com/R9hwOZx.png" group-title="Taiwan",台灣公視
 #http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
-https://bstvcdn.ballbar.net/ctv_taiwan/playlist-17.m3u8a?t=1686103033&token=6af1acb49a83244d382d9e3971bac5cc
+https://bstvcdn.ballbar.net/ctv_taiwan/playlist-17.m3u8a?t=...&token=...
 #EXTINF:-1 tvg-name="優視頻道" group-title="USA",★優視頻道
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 #EXTINF:-1 tvg-name="好消息" group-title="Taiwan;Religious",★好消息
@@ -81,7 +81,7 @@ https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 https://script.google.com/macros/s/AKfycbzthPQMiAmPAZJT3fRsCRpbbPwqRzKUA2ABPLExa5XFutwB857ccwJoz_abtDbwoO2qfA/exec?q=bbc.freeintertv&x=.m3u
 # -EXTINF:-1 tvg-name="BBC World News" tvg-id="BBCWorldNewsAsiaPacific.uk" group-title="UK;News",🔭BBC World News (Viaway)
 # http://www.viaway.com/view/44757524/bbc-world-news
-# http://playcontent6.viaway.com/dvr6/m/4d959f1a-0bb8-470b-b5a2-e53d9d2d4b26/stream.m3u8?ttl=120&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL3BsYXljb250ZW50Ni52aWF3YXkuY29tL2R2cjYvbS80ZDk1OWYxYS0wYmI4LTQ3MGItYjVhMi1lNTNkOWQyZDRiMjYvc3RyZWFtLm0zdTg~dHRsPTEyMCIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMTE1LjEzNS4xOTguNTYvMzIifSwiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODYxMDI2MzF9fX1dfQ__&Signature=7yidtY36EjFb0gFeGZQKKlZuggaHO5bhRnH3cYkq-Fq~CbZevjuo~CH40W~vxBe7pqjXOqtEBq-XaIsOqsbsJr36jThnXZ-QW42WGehm8VWScrRg73HNmfuX6Igbl4q9WkV1FHN8-lXwVor4noGoX8KGaOw3NbP3FYkuYbU16Uk_&Key-Pair-Id=APKAIKLC7OLZQU7AR5JQ
+# http://playcontent6.viaway.com/dvr6/m/4d959f1a-0bb8-470b-b5a2-e53d9d2d4b26/stream.m3u8?ttl=120&Policy=....&Signature=...&Key-Pair-Id=...
 #EXTINF:-1 tvg-name="BBC World Service" group-title="UK;Radio",📻BBC World Service (Radio)
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
 #
