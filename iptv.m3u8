@@ -179,7 +179,7 @@ https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="RT Doc" group-title="Russia;Documentary",★RT Doc
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #
-#EXTINF:-1 tvg-id="CCTV9.cn" tvg-logo="https://i.imgur.com/uHU6Vc0.png" group-title="China;Documentary",CCTV-9 记录
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-logo="https://i.imgur.com/uHU6Vc0.png" group-title="China;Documentary",✗ CCTV-9 记录
 #web# https://tv.cctv.com/live/cctv9/
 #https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv9_1/index.m3u8?b=200-2100
 #https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv9_1_720P/playlist.m3u8?wsApp=HLS
