@@ -158,7 +158,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 # https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-name="CGTN English" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTN.cn" group-title="China;News",☑CGTN English - 1055
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-id="CCTV4America.cn" tvg-name="CCTV-4 中文国际（美） Ⓢ" tvg-logo="https://i.imgur.com/1TPiRqR.png" group-title="China",CCTV-4 中文国际（美） Ⓢ
+#EXTINF:-1 tvg-id="CCTV4America.cn" tvg-name="CCTV-4 中文国际（美） Ⓢ" tvg-logo="https://i.imgur.com/1TPiRqR.png" group-title="China",☑CCTV-4 中文国际（美） Ⓢ
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-name="CCTV-4 中文国际（亚）" tvg-logo="https://i.imgur.com/ovUSVEQ.png" group-title="China",CCTV-4 中文国际（亚）
 http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204802.m3u8
@@ -178,10 +178,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a
 #EXTINF:-1 group-title="UK;Documentary",★History Hit
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 #
-#EXTINF:-1 tvg-name="RT Doc" group-title="Russia;Documentary",★RT Doc
+#EXTINF:-1 tvg-name="RT Doc" group-title="Russia;Documentary",☑RT Doc
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #
-#EXTINF:-1 tvg-id="CCTV9.cn" tvg-logo="https://i.imgur.com/uHU6Vc0.png" group-title="China;Documentary",✗ CCTV-9 记录
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-logo="https://i.imgur.com/uHU6Vc0.png" group-title="China;Documentary",☑CCTV-9 记录
 #web# https://tv.cctv.com/live/cctv9/
 #https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv9_1/index.m3u8?b=200-2100
 #https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv9_1_720P/playlist.m3u8?wsApp=HLS
@@ -309,11 +309,10 @@ http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295603.m3u8
 #EXTINF:-1 tvg-name="HunanTV" tvg-id="HunanTV.cn" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="China;Local",湖南卫视
 http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296203.m3u8
 #EXTINF:-1 tvg-name="GDTV-ZJ" group-title="China;Local",✗ 广东珠江
-#web# https://www.gdtv.cn/tvChannelDetail/44
-#https://tcdn.itouchtv.cn/live/gdzj.m3u8?
-#http://www.baidu.com.cdns.cfd/html/gdtv.html?id=gdzj
-#http://gxyl-dl001.8866.org:8181/tsfile/live/1000_1.m3u8
-http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
+#web# https://www.gdtv.cn/tvChannelDetail/44 | #http://www.baidu.com.cdns.cfd/html/gdtv.html?id=gdzj
+#https://tcdn.itouchtv.cn/live/gdzj.m3u8? | #http://gxyl-dl001.8866.org:8181/tsfile/live/1000_1.m3u8 
+#http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
+http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdzj&auth=rinimabi
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="China",广东移动
 # web# https://www.gdtv.cn/tvChannelDetail/74
 # https://tcdn.itouchtv.cn/live/ydpd.m3u8?
