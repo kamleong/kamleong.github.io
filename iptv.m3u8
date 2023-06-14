@@ -120,6 +120,9 @@ https://cctvwbndtxyhw.liveplay.myqcloud.com/cctvwbnd/jzcctv13_2/index.m3u8
 #EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="https://i.imgur.com/TDCuUDs.png" tvg-id="NHKWorldJapan.jp" group-title="Japan;News",★NHK World-Japan - 728
 #web# https://www3.nhk.or.jp/nhkworld/
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-id="NTVNews24.jp" tvg-name="日テレNEWS24" tvg-logo="https://i.imgur.com/tVNZ0BU.png" group-title="Japan",日テレNEWS24 Ⓢ
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#
 #EXTINF:-1 tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" tvg-id="ArirangTV.kr" group-title="Korea",★Arirang - 763
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="EBS English Ⓢ" tvg-logo="https://i.imgur.com/qceaIf7.png" tvg-id="EBSEnglish.kr" group-title="Korea",EBS English Ⓢ - 767
@@ -148,10 +151,10 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN
 #https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/ewnsabren_eng.m3u8
-#EXTINF:-1 tvg-id="Africanews.cg" tvg-name="Africanews English" tvg-logo="https://i.imgur.com/xocvePC.png" group-title="Africa;News",✗ Africanews English - 1051
+#EXTINF:-1 tvg-id="Africanews.cg" tvg-name="Africanews English" tvg-logo="https://i.imgur.com/xocvePC.png" group-title="Africa;News",Africanews English - 1051
 #Ⓨ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/africanews/live
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/afrnabren_eng.m3u8
-#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English Ⓨ" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France;News",✗ France 24 English - 1052
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English Ⓨ" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France;News",France 24 English - 1052
 #https://www.youtube.com/c/FRANCE24English/live
 #[French] http://163.172.70.244:8080/FRANCE_24/mono.m3u8
 #http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
@@ -218,9 +221,11 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
 # 𝄡 👫
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="USA;Music",Ʊ🎶🎼 Classic Arts Showcase
+#web# https://www.classicartsshowcase.org
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 tvg-id="MCN6MusicChannel.us" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="USA;Music",MCN6 Music Channel (1080p) [Not 24/7]
-https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
+# -EXTINF:-1 tvg-id="MCN6MusicChannel.us" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="USA;Music",MCN6 Music Channel (1080p) [Not 24/7]
+# web# https://mcn6.org/mcn6musicchannel/
+# https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV15.cn" tvg-logo="https://i.imgur.com/m2R60TJ.png" group-title="China;Music",CCTV-15音乐 (720p)
 #https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv15_1_720P/playlist.m3u8?wsApp=HLS
 http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205002.m3u8
@@ -276,8 +281,10 @@ https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #
 # -EXTINF:-1 tvg-id="MCN6ArtsChannel.us" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="USA;Movies",MCN6 Arts Channel (1080p) [Not 24/7]
+# web# https://mcn6.org/mcnartschannel/
 # https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA;Local",MCN6 (1080p) [Not 24/7]
+#web# https://mcn6.org/mcnlivestream/
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 #
 #EXTINF:-1 tvg-id="WCVBDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png" group-title="USA;Local",WCVB-TV News Boston MA (720p) [Not 24/7]
