@@ -181,11 +181,14 @@ https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="RT Doc" group-title="Russia;Documentary",☑RT Doc
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #
-#EXTINF:-1 tvg-id="CCTV9.cn" tvg-logo="https://i.imgur.com/uHU6Vc0.png" group-title="China;Documentary",☑CCTV-9 记录
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-logo="https://i.imgur.com/3R1dkIK.png" group-title="China;Documentary",☑CCTV-9 记录
 #web# https://tv.cctv.com/live/cctv9/
 #https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv9_1/index.m3u8?b=200-2100
 #https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv9_1_720P/playlist.m3u8?wsApp=HLS
 http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8
+#EXTINF:-1 tvg-id="CCTV10.cn" tvg-logo="https://i.imgur.com/PKtBUL2.png" group-title="China;Documentary",☑CCTV-10 科教
+#web# https://tv.cctv.com/live/cctv10/
+http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
 #
 #EXTINF:-1 tvg-id="MuseumTVFast.us" tvg-logo="https://i.imgur.com/zzVq7BQ.png" group-title="France;Culture",🏛️Museum TV Fast (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
@@ -326,17 +329,13 @@ http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-name="NBS-Kids" tvg-logo="" group-title="China;Local",南京少儿 (720p) [Not 24/7]
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 #
-#EXTINF:-1 tvg-name="NBS-Life" tvg-logo="" group-title="China;Local",南京生活 (720p)
-http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-name="NBS-Edu" tvg-logo="" group-title="China;Local",南京教科 (720p) [Not 24/7]
-http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
+# -EXTINF:-1 tvg-name="NBS-Life" tvg-logo="" group-title="China;Local",南京生活 (720p)
+# http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
+# -EXTINF:-1 tvg-name="NBS-Edu" tvg-logo="" group-title="China;Local",南京教科 (720p) [Not 24/7]
+# http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-name="NBS-News" tvg-logo="" group-title="China;Local",南京新闻综合 (720p)
 http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 #
-#EXTINF:-1 tvg-name="SMN-News" tvg-logo="" group-title="China;Local",三明1新闻综合 (720p) [Not 24/7]
-http://stream.smntv.cn/smtv1/playlist.m3u8
-#EXTINF:-1 tvg-name="SMN-Pub" tvg-logo="" group-title="China;Local",三明2公共 (720p) [Not 24/7]
-http://stream.smntv.cn/smtv2/playlist.m3u8
 #EXTINF:-1 tvg-name="ShangYu-1-News" tvg-logo="" group-title="China;Local",上虞1新闻综合 (720p) [Not 24/7]
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 # -EXTINF:-1 tvg-name="ShangYu-2" tvg-logo="" group-title="China;Local",上虞2經濟文化 (720p) [Not 24/7]
@@ -351,6 +350,10 @@ http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 # http://stream2.jlntv.cn/qg/sd/live.m3u8
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",仙桃新闻综合 (576p)
 # http://221.233.242.239:280/live/71/playlist.m3u8
+#EXTINF:-1 tvg-name="SMN-News" tvg-logo="" group-title="China;Local",三明1新闻综合 (720p) [Not 24/7]
+http://stream.smntv.cn/smtv1/playlist.m3u8
+#EXTINF:-1 tvg-name="SMN-Pub" tvg-logo="" group-title="China;Local",三明2公共 (720p) [Not 24/7]
+http://stream.smntv.cn/smtv2/playlist.m3u8
 #
 #EXTINF:-1 tvg-id="SinoVision.cn" tvg-logo="https://i.imgur.com/ir3jkyL.png" group-title="USA",美国中文电视 (406p) [Not 24/7]
 #https://jpts.sinovision.net/livestream.m3u8
