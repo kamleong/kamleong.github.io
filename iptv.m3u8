@@ -144,19 +144,23 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN
 # #https://cbcrclive-tor.akamaized.net/hls/live/2040337/geo_allow_global/ES_REGIONS_25/master_2000.m3u8
 # https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 #
-#EXTINF:-1 tvg-name="Euronews English" tvg-logo="https://i.imgur.com/8MsbPCU.png" tvg-id="EuronewsEnglish.fr" group-title="Europe;News",☑Euronews English - 1050
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-name="Euronews English" tvg-logo="https://i.imgur.com/8MsbPCU.png" group-title="Europe;News",☑Euronews English - 1050
 #https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/ewnsabren_eng.m3u8
-#EXTINF:-1 tvg-name="Africanews English Ⓨ" tvg-logo="https://i.imgur.com/xocvePC.png" tvg-id="Africanews.cg" group-title="Africa;News",✗ Africanews English Ⓨ - 1051
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/africanews/live
-#EXTINF:-1 tvg-name="France 24 English Ⓨ" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24English.fr" group-title="France;News",✗ France 24 English Ⓨ - 1052
-https://www.youtube.com/c/FRANCE24English/live
-#EXTINF:-1 tvg-name="DW English" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEnglish.de" group-title="Germany;News",★DW English - 1053
+#EXTINF:-1 tvg-id="Africanews.cg" tvg-name="Africanews English" tvg-logo="https://i.imgur.com/xocvePC.png" group-title="Africa;News",✗ Africanews English - 1051
+#Ⓨ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/africanews/live
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/afrnabren_eng.m3u8
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English Ⓨ" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France;News",✗ France 24 English - 1052
+#https://www.youtube.com/c/FRANCE24English/live
+#[French] http://163.172.70.244:8080/FRANCE_24/mono.m3u8
+#http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Germany;News",★DW English - 1053
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-# - EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraEnglish.qa" group-title="Qatar;News",🔭Al Jazeera English - 1054
+# - EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="Qatar;News",🔭Al Jazeera English - 1054
 # https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-name="CGTN English" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTN.cn" group-title="China;News",☑CGTN English - 1055
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN English" tvg-logo="https://i.imgur.com/fMsJYzl.png" group-title="China;News",☑CGTN English - 1055
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="CCTV4America.cn" tvg-name="CCTV-4 中文国际（美） Ⓢ" tvg-logo="https://i.imgur.com/1TPiRqR.png" group-title="China",☑CCTV-4 中文国际（美） Ⓢ
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
