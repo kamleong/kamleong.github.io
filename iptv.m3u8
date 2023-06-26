@@ -12,10 +12,11 @@
 #web# https://rtmklik.rtm.gov.my/radio/nasional/ai-fm
 https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
 #EXTINF:-1 tvg-name="8TV" tvg-id="8TV.my" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",📺8TV (MY)
-#web# https://www.tonton.com.my/liveChannel?titleId=8tv
-https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
 # -EXTINF:-1 tvg-id="8TV.my" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="Malaysia",8TV (720p) [Geo-blocked]
-# https://live-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8
+#web# https://www.tonton.com.my/liveChannel?titleId=8tv
+#web# https://www.xtra.com.my/live-tv/
+#https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8
 #EXTINF:-1 tvg-name="TV2" tvg-id="TV2.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia",📺RTM TV2 (MY)
 #web# https://rtmklik.rtm.gov.my/live/tv2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
