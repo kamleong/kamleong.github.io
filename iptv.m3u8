@@ -20,7 +20,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
 #curl# 'https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8' -H 'Referer: https://live-xtra-sg1.global.ssl.fastly.net/'
 #curl# 'https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8' -H 'Referer: https://live-xtra-sg1.global.ssl.fastly.net/'
 #UrlFetchApp https://script.google.com/home/projects/16uaQCXF7jFK6jJCPlWwrjnpYsQc9xCuUyrrn8_v1iLLKQQLgMggf7uuN/edit
-https://script.google.com/macros/s/AKfycbzthPQMiAmPAZJT3fRsCRpbbPwqRzKUA2ABPLExa5XFutwB857ccwJoz_abtDbwoO2qfA/exec?q=8tv.xtra&x=.m3u
+#not working due to geo-block from Google to server -- https://script.google.com/macros/s/AKfycbzthPQMiAmPAZJT3fRsCRpbbPwqRzKUA2ABPLExa5XFutwB857ccwJoz_abtDbwoO2qfA/exec?q=8tv.xtra&x=.m3u 
+http://192.168.175.1/cgi-bin/8tv.m3u
 #EXTINF:-1 tvg-name="TV2" tvg-id="TV2.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia",📺RTM TV2 (MY)
 #web# https://rtmklik.rtm.gov.my/live/tv2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
