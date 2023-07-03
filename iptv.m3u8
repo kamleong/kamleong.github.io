@@ -65,9 +65,11 @@ https://cdn.hklive.tv/xxxx/99/index.m3u8
 #
 #EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",RTHK 港台電視31 綜合頻道
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#web# https://www.rthk.hk/tv
 #https://cdn.hklive.tv/xxxx/31/index.m3u8
-#https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream4/streamPlaylist.m3u8
+#https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream4/streamPlaylist.m3u8
+#https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="RTHKTV32.hk" tvg-logo="https://i.imgur.com/MXLuUoU.png" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",RTHK 港台電視32 時事直播頻道
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #https://cdn.hklive.tv/xxxx/32/index.m3u8
@@ -118,10 +120,12 @@ https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV-1 综合 Ⓢ" tvg-logo="https://i.imgur.com/uHU6Vc0.png" group-title="China",CCTV-1 综合 Ⓢ - 110
 #web# https://tv.cctv.com/live/cctv1/
 #https://cctvwbcdkshw.v.kcdnvip.com/cctvwbcd/cdrmcctv1_1/index.m3u8?BR=td&region=shanghai
-https://cctvwbndtxy.liveplay.myqcloud.com/cctvwbnd/jzcctv1_2/index.m3u8
+#https://cctvwbndtxy.liveplay.myqcloud.com/cctvwbnd/jzcctv1_2/index.m3u8
+http://lzoq.hk3c.ml/daili/?id=cctv1hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="CCTV-13 新闻 Ⓢ" tvg-logo="https://i.imgur.com/pPO8uJN.png" group-title="China;News",🔭CCTV-13 新闻 Ⓢ - 114
 #https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv13_1_720P/playlist.m3u8?wsApp=HLS
-https://cctvwbndtxyhw.liveplay.myqcloud.com/cctvwbnd/jzcctv13_2/index.m3u8
+#https://cctvwbndtxyhw.liveplay.myqcloud.com/cctvwbnd/jzcctv13_2/index.m3u8
+https://cntv.sbs/live?auth=230612&id=cctv13
 #
 #EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="https://i.imgur.com/TDCuUDs.png" tvg-id="NHKWorldJapan.jp" group-title="Japan;News",★NHK World-Japan - 728
 #web# https://www3.nhk.or.jp/nhkworld/
@@ -174,7 +178,8 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="CCTV4America.cn" tvg-name="CCTV-4 中文国际（美） Ⓢ" tvg-logo="https://i.imgur.com/1TPiRqR.png" group-title="China",☑CCTV-4 中文国际（美） Ⓢ
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-name="CCTV-4 中文国际（亚）" tvg-logo="https://i.imgur.com/ovUSVEQ.png" group-title="China",CCTV-4 中文国际（亚）
-http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204802.m3u8
+#http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204802.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
 #
 #EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/PBS_America_logo.png" group-title="UK;USA",PBS America (720p)
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
@@ -199,11 +204,13 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv9_1/index.m3u8?b=200-2100
 #https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv9_1_720P/playlist.m3u8?wsApp=HLS
 #http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV10.cn" tvg-logo="https://i.imgur.com/PKtBUL2.png" group-title="China;Documentary",☑CCTV-10 科教
 #web# https://tv.cctv.com/live/cctv10/
 #http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
+#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
 #
 #EXTINF:-1 tvg-id="MuseumTVFast.us" tvg-logo="https://i.imgur.com/zzVq7BQ.png" group-title="France;Culture",🏛️Museum TV Fast (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
@@ -235,10 +242,11 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 # web# https://mcn6.org/mcn6musicchannel/
 # https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV15.cn" tvg-logo="https://i.imgur.com/m2R60TJ.png" group-title="China;Music",CCTV-15音乐 (720p)
+#m3u http://lu1.cc/itv/json/yangshi https://github.com/kozalak-robot/iptv/blob/master/daily.m3u8
 #https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv15_1_720P/playlist.m3u8?wsApp=HLS
 #http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205002.m3u8
-#m3u http://lu1.cc/itv/json/yangshi
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
+#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 #EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png" group-title="Hong Kong;Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ ViuTVsix (1080p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hklive.tv/xxxx/96/index.m3u8
@@ -247,7 +255,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 #
 #EXTINF:-1 tvg-id="CCTV6.cn" tvg-logo="https://i.imgur.com/dDqvRHX.png" group-title="China;Movies",CCTV-6电影 (1080p)
 #http://58.205.220.58:8088/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+#http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
 # -EXTINF:-1 tvg-id="GospelMovieTV.br" tvg-logo="https://i.imgur.com/cQN3nWt.png" group-title="Brazil;Movies;Religious",Gospel Movie TV (360p)
 # https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="USA;Movies",amc (east)
@@ -323,12 +332,14 @@ https://live.funhillrm.com/2/playlist.m3u8
 http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000272103.m3u8
 #
 #EXTINF:-1 tvg-name="DragonTV" tvg-id="DragonTV.cn" tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="China;Local",东方卫视
-http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000292403.m3u8
+#http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000292403.m3u8
+https://cntv.sbs/live?auth=230612&id=dfws
 #EXTINF:-1 tvg-name="JinShan" tvg-logo="" group-title="China;Local",上海金山电视台 (270p)
 http://live.mudu.tv/watch/4zbn2f.m3u8
 #
 #EXTINF:-1 tvg-name="ZhejiangSatelliteTV" tvg-id="ZhejiangSatelliteTV.cn" tvg-logo="https://i.imgur.com/5gQn4uY.png" group-title="China;Local",浙江卫视
-http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295503.m3u8
+#http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295503.m3u8
+https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
 #EXTINF:-1 tvg-name="JiangsuSatelliteTV" tvg-id="JiangsuSatelliteTV.cn" tvg-logo="https://i.imgur.com/CA4F1rv.png" group-title="China;Local",江苏卫视
 http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295603.m3u8
 #EXTINF:-1 tvg-name="HunanTV" tvg-id="HunanTV.cn" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="China;Local",湖南卫视
@@ -337,7 +348,8 @@ http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296203.m3u8
 #web# https://www.gdtv.cn/tvChannelDetail/44 | #http://www.baidu.com.cdns.cfd/html/gdtv.html?id=gdzj
 #https://tcdn.itouchtv.cn/live/gdzj.m3u8? | #http://gxyl-dl001.8866.org:8181/tsfile/live/1000_1.m3u8 
 #http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
-http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdzj&auth=rinimabi
+#http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdzj&auth=rinimabi
+http://lzoq.hk3c.ml/daili/?id=gdwshd8m/8000000
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="China",广东移动
 # web# https://www.gdtv.cn/tvChannelDetail/74
 # https://tcdn.itouchtv.cn/live/ydpd.m3u8?
