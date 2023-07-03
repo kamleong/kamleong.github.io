@@ -344,12 +344,14 @@ https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
 http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295603.m3u8
 #EXTINF:-1 tvg-name="HunanTV" tvg-id="HunanTV.cn" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="China;Local",湖南卫视
 http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296203.m3u8
+# -EXTINF:-1 tvg-name="GuangdongSatelliteTV" group-title="China;Local",✗ 广东卫视
+# http://lzoq.hk3c.ml/daili/?id=gdwshd8m/8000000
 #EXTINF:-1 tvg-name="GDTV-ZJ" group-title="China;Local",✗ 广东珠江
 #web# https://www.gdtv.cn/tvChannelDetail/44 | #http://www.baidu.com.cdns.cfd/html/gdtv.html?id=gdzj
 #https://tcdn.itouchtv.cn/live/gdzj.m3u8? | #http://gxyl-dl001.8866.org:8181/tsfile/live/1000_1.m3u8 
-#http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
 #http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdzj&auth=rinimabi
-http://lzoq.hk3c.ml/daili/?id=gdwshd8m/8000000
+#http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
+http://113.117.74.15:8081/hls/139/index.m3u8
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="China",广东移动
 # web# https://www.gdtv.cn/tvChannelDetail/74
 # https://tcdn.itouchtv.cn/live/ydpd.m3u8?
