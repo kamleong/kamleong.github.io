@@ -217,7 +217,9 @@ https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
 #
 #EXTINF:-1 group-title="USA;Lifestyle",Go2Travel TV
-https://go2thls.wns.live/hls/stream.m3u8
+#web# https://go2travel.tv/live/
+#https://go2thls.wns.live/hls/stream.m3u8
+http://82.180.136.216:3390/live/go2travellive.m3u8
 # -EXTINF:-1 tvg-id="GoTraveler.us" tvg-logo="https://i.imgur.com/IaRcN1G.png" group-title="USA;Travel",Go Traveler (720p)
 # https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="LuxeTV.lu" tvg-logo="https://i.imgur.com/24ehonx.png" group-title="Luxembourg;Lifestyle",🏖Luxe TV (En) (1080p)
