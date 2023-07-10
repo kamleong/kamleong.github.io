@@ -95,14 +95,14 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #
 # -EXTINF:-1 group-title="Macau;Radio",📻澳門電台 (Radio)
 # http://live4.tdm.com.mo:1935/live/_definst_/rch2.live/playlist.m3u8
-#EXTINF:-1 tvg-id="TDM1.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",澳視澳門 Ch91
+#EXTINF:-1 tvg-id="TDM1.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",澳視澳門 Ch.91
 #web# https://www.tdm.com.mo/zh-hant/live
 http://live4.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="TDM5.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",澳門資訊 Ch.94
 https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-id="TDM3.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",澳門Macau 衛星頻道 Ch96
+#EXTINF:-1 tvg-id="TDM3.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",澳門Macau 衛星頻道 Ch.96
 http://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-# -EXTINF:-1 tvg-id="CanalMacau.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",澳視葡文 Canal Macau Ch. 92 (720p) [Not 24/7]
+# -EXTINF:-1 tvg-id="CanalMacau.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",澳視葡文 Canal Macau Ch.92 (720p) [Not 24/7]
 # https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #
 #EXTINF:-1 tvg-name="Al Jazeera English Ⓢ" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraEnglish.qa" group-title="Qatar;News",🔭Al Jazeera English Ⓢ
