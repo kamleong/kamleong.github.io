@@ -83,8 +83,8 @@ https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #RTHK (港台電視33) == CCTV-1 ; RTHK (港台電視34) == CGTN Documentary
 #
-#EXTINF:-1 tvg-id="HKSTV.hk" tvg-logo="https://i.imgur.com/UhwlxwL.png" group-title="Hong Kong",香港卫视 HKS
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+# -EXTINF:-1 tvg-id="HKSTV.hk" tvg-logo="https://i.imgur.com/UhwlxwL.png" group-title="Hong Kong",香港卫视 HKS
+# http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #
 # -EXTINF:-1 tvg-id="TVBNewsChannel.hk" tvg-logo="https://i.imgur.com/Gwij0Fj.png" group-title="Hong Kong;News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ TVB News Channel (無綫新聞台) (720p)
 # -EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -95,7 +95,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #
 # -EXTINF:-1 group-title="Macau;Radio",📻澳門電台 (Radio)
 # http://live4.tdm.com.mo:1935/live/_definst_/rch2.live/playlist.m3u8
-#EXTINF:-1 tvg-id="TDM1.mo" tvg-logo="https://cdn.tdm.com.mo/static/img/logo2.7a632b20.png" group-title="Macau",澳視澳門 Ch91
+#EXTINF:-1 tvg-id="TDM1.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",澳視澳門 Ch91
 #web# https://www.tdm.com.mo/zh-hant/live
 http://live4.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="TDM5.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",澳門資訊 Ch.94
