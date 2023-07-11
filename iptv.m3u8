@@ -38,14 +38,23 @@ https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
 # -EXTINF:-1 tvg-id="iCable1.hk" tvg-name="有線新聞台" group-title="Hong Kong;News",🔭有線新聞台
 # web# https://www.i-cable.com/
 # https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
-# -EXTINF:-1 tvg-id="HOYTV2.hk" tvg-name="HOY TV - 77台" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18010434/fav_icon-1.png" group-title="Hong Kong",☑HOY TV - 77台
+#EXTINF:-1 tvg-id="HOYTV2.hk" tvg-name="HOY TV - 78台" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18010434/fav_icon-1.png" group-title="Hong Kong",☑HOY TV - 78台 (資訊台) 
+#web# https://hoy.tv/live/
+http://sc2022.stream-link.org/tv2306.php?id=h14
+# - EXTINF:-1 tvg-id="HOYTV2.hk" tvg-name="HOY TV - 77台" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18010434/fav_icon-1.png" group-title="Hong Kong",☑HOY TV - 77台
 # web# https://hoy.tv/live/
 # http://media.fantv.hk/m3u8/archive/channel2.m3u8
+# http://sc2022.stream-link.org/tv2306.php?id=h13
 #
 #EXTINF:-1 tvg-id="PTS.tw" tvg-logo="https://i.imgur.com/R9hwOZx.png" group-title="Taiwan",✗ 台灣公視
 #web# https://chaojidianshi.net/zhibo/43.html
 #http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
 https://bstvcdn.ballbar.net/ctv_taiwan/playlist-17.m3u8a?t=...&token=...
+#
+# -EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" tvg-logo="https://i.imgur.com/QqIdVqz.png" group-title="General",Taiwan Indigenous TV (原住民電視) (720p)
+# http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+# -EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="Undefined",Taiwan Plus (1080p)
+# https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 #
 #EXTINF:-1 tvg-name="優視頻道" group-title="USA",★優視頻道
 #web# https://www.uchanneltv.us/live-streaming.html
@@ -105,6 +114,25 @@ http://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 # -EXTINF:-1 tvg-id="CanalMacau.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",澳視葡文 Canal Macau Ch.92 (720p) [Not 24/7]
 # https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #
+#EXTINF:-1 tvg-id="TVBSNews.tw" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="News",TVBS News (TVBS新聞台)
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 tvg-id="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="News",FTV News (民視新聞台)
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#
+#
+# -EXTINF:-1 tvg-id="CTS.tw" tvg-logo="https://i.imgur.com/ISl9WsI.png" group-title="Undefined",CTS HD (華視) (720p)
+# http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",中天新聞 (1080p) [Not 24/7]
+# http://seb.sason.top/sc/ztxw_fhd.m3u8
+# -EXTINF:-1 tvg-id="EBCNews.tw" tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="News",EBC News (東森新聞台) (1080p) [Not 24/7]
+# http://seb.sason.top/sc/dsxw_fhd.m3u8
+# -EXTINF:-1 tvg-id="FTV.tw" tvg-logo="https://i.imgur.com/q8ahtbT.png" group-title="General",FTV (民視) (720p)
+# http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+# -EXTINF:-1 tvg-id="TTV.tw" tvg-logo="https://i.imgur.com/JB2Ps5T.png" group-title="Undefined",TTV (台视) (720p)
+# http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?ct=17874&tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970
+# -EXTINF:-1 tvg-id="TTVNews.tw" tvg-logo="https://i.imgur.com/AfkK0gv.png" group-title="News",TTV News (台视新聞台)
+# https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+#
 #EXTINF:-1 tvg-name="Al Jazeera English Ⓢ" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraEnglish.qa" group-title="Qatar;News",🔭Al Jazeera English Ⓢ
 #web# https://www.aljazeera.com/live
 https://live-hls-web-aje.getaj.net/AJE/05.m3u8
@@ -141,37 +169,41 @@ https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #https://cctvwbndtxy.liveplay.myqcloud.com/cctvwbnd/jzcctv1_2/index.m3u8
 http://lzoq.hk3c.ml/daili/?id=cctv1hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="CCTV-13 新闻 Ⓢ" tvg-logo="https://i.imgur.com/pPO8uJN.png" group-title="China;News",🔭CCTV-13 新闻 Ⓢ - 114
+#m3u# https://live.fanmingming.com --> https://cntv.sbs/live?
 #https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv13_1_720P/playlist.m3u8?wsApp=HLS
 #https://cctvwbndtxyhw.liveplay.myqcloud.com/cctvwbnd/jzcctv13_2/index.m3u8
-https://cntv.sbs/live?auth=230612&id=cctv13
+https://cntv.sbs/live?auth=2307100804&id=cctv13
 #
-#EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="https://i.imgur.com/TDCuUDs.png" tvg-id="NHKWorldJapan.jp" group-title="Japan;News",★NHK World-Japan - 728
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://i.imgur.com/TDCuUDs.png" group-title="Japan;News",★NHK World-Japan - 728
 #web# https://www3.nhk.or.jp/nhkworld/
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="NTVNews24.jp" tvg-name="日テレNEWS24" tvg-logo="https://i.imgur.com/tVNZ0BU.png" group-title="Japan;News",日テレNEWS24 Ⓢ
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #
-#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" tvg-id="ArirangTV.kr" group-title="Korea",★Arirang - 763
+#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" group-title="Korea",★Arirang - 763
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS English Ⓢ" tvg-logo="https://i.imgur.com/qceaIf7.png" tvg-id="EBSEnglish.kr" group-title="Korea",EBS English Ⓢ - 767
+#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-name="EBS English Ⓢ" tvg-logo="https://i.imgur.com/qceaIf7.png" group-title="Korea",EBS English Ⓢ - 767
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" tvg-id="KBSWorld.kr" group-title="Korea",☑KBS World - 773
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="Korea",☑KBS World - 773
 http://ye23.vip/z7z8/2021/kbs2020.php?id=3
-#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://i.imgur.com/JEA2xpv.png" tvg-id="TRTWorld.tr" group-title="Turkey;News",☑TRT World - 934
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://i.imgur.com/JEA2xpv.png" group-title="Turkey;News",☑TRT World - 934
 #web# https://www.trtworld.com/live
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #
-#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://i.imgur.com/GpgrYCb.png" tvg-id="ABCNews.au" group-title="Australia;News",★ABC News 24 (AU) - 23
+#EXTINF:-1 tvg-id="ABCNews.au" tvg-name="ABC News" tvg-logo="https://i.imgur.com/GpgrYCb.png" group-title="Australia;News",★ABC News 24 (AU) - 23
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #
-#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://i.imgur.com/7sJLzKi.png" tvg-id="ABCNews.us" group-title="USA;News",☑ABC News - 1008
+#EXTINF:-1 tvg-id="ABCNews.us" tvg-name="ABC News" tvg-logo="https://i.imgur.com/7sJLzKi.png" group-title="USA;News",☑ABC News - 1008
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://i.imgur.com/nki2HDQ.png" tvg-id="CBSNews.us" group-title="USA;News",🔭CBS News - 1009
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="https://i.imgur.com/nki2HDQ.png" group-title="USA;News",🔭CBS News - 1009
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1 tvg-name="NBC News" tvg-logo="https://i.imgur.com/v48mMRT.png" tvg-id="NBCNewsNow.us" group-title="USA;News",NBC News - 1010
+#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-name="NBC News" tvg-logo="https://i.imgur.com/v48mMRT.png" group-title="USA;News",NBC News - 1010
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="USA;News",Newsmax (1080p)
+#web# https://www.newsmax.com/
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #
-# -EXTINF:-1 tvg-name="CBC News" tvg-logo="https://i.imgur.com/1EqQGKS.png" tvg-id="CBCNewsNetwork.ca" group-title="Canada;News",✗ CBC News - 87
+# -EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CBC News" tvg-logo="https://i.imgur.com/1EqQGKS.png" group-title="Canada;News",✗ CBC News - 87
 # #https://cbcrclive-tor.akamaized.net/hls/live/2040337/geo_allow_global/ES_REGIONS_25/master_2000.m3u8
 # https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 #
@@ -262,11 +294,13 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 # web# https://mcn6.org/mcn6musicchannel/
 # https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV15.cn" tvg-logo="https://i.imgur.com/m2R60TJ.png" group-title="China;Music",CCTV-15音乐 (720p)
-#m3u http://lu1.cc/itv/json/yangshi https://github.com/kozalak-robot/iptv/blob/master/daily.m3u8
+#m3u# https://live.fanmingming.com --> https://cntv.sbs/live?
+#m3u# http://lu1.cc/itv/json/yangshi https://github.com/kozalak-robot/iptv/blob/master/daily.m3u8
 #https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv15_1_720P/playlist.m3u8?wsApp=HLS
 #http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205002.m3u8
 #http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
-https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
+#https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
+https://cntv.sbs/live?auth=2307100804&id=cctv15
 #EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png" group-title="Hong Kong;Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ ViuTVsix (1080p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hklive.tv/xxxx/96/index.m3u8
@@ -353,15 +387,17 @@ http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000272103.m3u8
 #
 #EXTINF:-1 tvg-name="DragonTV" tvg-id="DragonTV.cn" tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="China;Local",东方卫视
 #http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000292403.m3u8
-https://cntv.sbs/live?auth=230612&id=dfws
+https://cntv.sbs/live?auth=2307100804&id=dfws
 #EXTINF:-1 tvg-name="JinShan" tvg-logo="" group-title="China;Local",上海金山电视台 (270p)
 http://live.mudu.tv/watch/4zbn2f.m3u8
 #
 #EXTINF:-1 tvg-name="ZhejiangSatelliteTV" tvg-id="ZhejiangSatelliteTV.cn" tvg-logo="https://i.imgur.com/5gQn4uY.png" group-title="China;Local",浙江卫视
 #http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295503.m3u8
-https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
+#https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
+https://cntv.sbs/live?auth=2307100804&id=zjws
 #EXTINF:-1 tvg-name="JiangsuSatelliteTV" tvg-id="JiangsuSatelliteTV.cn" tvg-logo="https://i.imgur.com/CA4F1rv.png" group-title="China;Local",江苏卫视
-http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295603.m3u8
+#http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295603.m3u8
+https://cntv.sbs/live?auth=2307100804&id=jsws
 #EXTINF:-1 tvg-name="HunanTV" tvg-id="HunanTV.cn" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="China;Local",湖南卫视
 http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296203.m3u8
 #EXTINF:-1 tvg-name="GuangdongSatelliteTV" group-title="China;Local",广东卫视
@@ -462,28 +498,6 @@ https://drive.google.com/uc?id=1JwfAdIYccaoyV2LExM2cZfzNEsXypQdv&video.mp4
 # http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",凤凰香港 (720p)
 # http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-#
-# -EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" tvg-logo="https://i.imgur.com/QqIdVqz.png" group-title="General",Taiwan Indigenous TV (原住民電視) (720p)
-# http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-# -EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="Undefined",Taiwan Plus (1080p)
-# https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
-#
-# -EXTINF:-1 tvg-id="CTS.tw" tvg-logo="https://i.imgur.com/ISl9WsI.png" group-title="Undefined",CTS HD (華視) (720p)
-# http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
-# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",中天新聞 (1080p) [Not 24/7]
-# http://seb.sason.top/sc/ztxw_fhd.m3u8
-# -EXTINF:-1 tvg-id="TVBSNews.tw" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="News",TVBS News (TVBS新聞台)
-# https://ythls.onrender.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
-# -EXTINF:-1 tvg-id="EBCNews.tw" tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="News",EBC News (東森新聞台) (1080p) [Not 24/7]
-# http://seb.sason.top/sc/dsxw_fhd.m3u8
-# -EXTINF:-1 tvg-id="FTV.tw" tvg-logo="https://i.imgur.com/q8ahtbT.png" group-title="General",FTV (民視) (720p)
-# http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?ct=18335&tid=m15b424641a89&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
-# -EXTINF:-1 tvg-id="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="News",FTV News (民視新聞台)
-# https://ythls.onrender.com/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
-# -EXTINF:-1 tvg-id="TTV.tw" tvg-logo="https://i.imgur.com/JB2Ps5T.png" group-title="Undefined",TTV (台视) (720p)
-# http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?ct=17874&tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970
-# -EXTINF:-1 tvg-id="TTVNews.tw" tvg-logo="https://i.imgur.com/AfkK0gv.png" group-title="News",TTV News (台视新聞台)
-# https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 #
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",佛山公共 (576p)
 # http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=182&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
