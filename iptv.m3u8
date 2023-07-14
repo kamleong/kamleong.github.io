@@ -1,11 +1,12 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U
+# -EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 # -EXTM3U x-tvg-url="http://192.168.175.1/cgi-bin/epg"
 # -EXTM3U x-tvg-url="https://kamleong.github.io/sample.epg.jtv.zip"
 # -EXTM3U x-tvg-url="https://tvprofil.net/xmltv/data/bbc1.uk/weekly_bbc1.uk_tvprofil.net.xml"
 # -EXTM3U x-tvg-url="https://raw.githubusercontent.com/AlekSi/xmltv/master/example.xml"
 # -EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml"
 # -EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/unifi.com.my.xml.gz"
-# -EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/ontvtonight.com.xml.gz, https://iptv-org.github.io/epg/guides/en/singtel.com.xml.gz, https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml.gz, https://iptv-org.github.io/epg/guides/ms/rtmklik.rtm.gov.my.xml.gz, https://iptv-org.github.io/epg/guides/my/unifi.com.my.xml.gz, https://iptv-org.github.io/epg/guides/zh/rthk.hk.xml.gz, https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml.gz"
+# -EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ms/rtmklik.rtm.gov.my.xml.gz, https://iptv-org.github.io/epg/guides/zh/rthk.hk.xml.gz, https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml.gz"
 # ★☑✗🚫✗☑★ 📰📻📺🎦🎬🎥📡 https://docs.google.com/spreadsheets/d/1cj66AnWNgJ3GqDTIQBWeUEsapjp_Zk37v11iwoa8xzM/edit#gid=2107508417
 #
 #EXTINF:-1 tvg-name="AiFM" group-title="Malaysia;Radio",📻爱FM (Radio)
@@ -41,12 +42,12 @@ https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HOYTV2.hk" tvg-name="HOY TV - 78台" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18010434/fav_icon-1.png" group-title="Hong Kong",☑HOY TV - 78台 (資訊台) 
 #web# https://hoy.tv/live/
 http://sc2022.stream-link.org/tv2306.php?id=h14
-# - EXTINF:-1 tvg-id="HOYTV2.hk" tvg-name="HOY TV - 77台" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18010434/fav_icon-1.png" group-title="Hong Kong",☑HOY TV - 77台
+# - EXTINF:-1 tvg-id="香港开电视" tvg-id0="HOYTV2.hk" tvg-name="HOY TV - 77台" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18010434/fav_icon-1.png" group-title="Hong Kong",☑HOY TV - 77台
 # web# https://hoy.tv/live/
 # http://media.fantv.hk/m3u8/archive/channel2.m3u8
 # http://sc2022.stream-link.org/tv2306.php?id=h13
 #
-#EXTINF:-1 tvg-id="PTS.tw" tvg-logo="https://i.imgur.com/R9hwOZx.png" group-title="Taiwan",✗ 台灣公視
+#EXTINF:-1 tvg-id="公视" tvg-id0="PTS.tw" tvg-logo="https://i.imgur.com/R9hwOZx.png" group-title="Taiwan",✗ 台灣公視
 #web# https://chaojidianshi.net/zhibo/43.html
 #http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
 https://bstvcdn.ballbar.net/ctv_taiwan/playlist-17.m3u8a?t=...&token=...
@@ -65,12 +66,12 @@ http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3
 #web# https://www.goodtv.tv/tv-channel?ch=1
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 #
-#EXTINF:-1 tvg-id="DaAi1.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="Taiwan;Religious",★DaAi1 (大愛1) (720p)
+#EXTINF:-1 tvg-id="大爱一台" tvg-id0="DaAi1.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="Taiwan;Religious",★DaAi1 (大愛1) (720p)
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-id="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="Taiwan;Religious",★DaAi2 (大愛2) (720p)
+#EXTINF:-1 tvg-id="大爱二台" tvg-id0="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="Taiwan;Religious",★DaAi2 (大愛2) (720p)
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ TVB Jade (翡翠台) (720p)
+#EXTINF:-1 tvg-id="翡翠台" tvg-logo="" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ TVB Jade (翡翠台) (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hklive.tv/xxxx/81/index.m3u8
 #
@@ -130,9 +131,9 @@ http://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 # -EXTINF:-1 tvg-id="CanalMacau.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",澳視葡文 Canal Macau Ch.92 (720p) [Not 24/7]
 # https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #
-#EXTINF:-1 tvg-id="TVBSNews.tw" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="Taiwan;News",TVBS News (TVBS新聞台)
+#EXTINF:-1 tvg-id="TVBS新闻台" tvg-id0="TVBSNews.tw" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="Taiwan;News",TVBS News (TVBS新聞台)
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 tvg-id="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="Taiwan;News",FTV News (民視新聞台)
+#EXTINF:-1 tvg-id="民视新闻台" tvg-id0="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="Taiwan;News",FTV News (民視新聞台)
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #
 # -EXTINF:-1 tvg-id="CTS.tw" tvg-logo="https://i.imgur.com/ISl9WsI.png" group-title="Taiwan",CTS HD (華視) (720p)
@@ -205,7 +206,7 @@ http://ye23.vip/z7z8/2021/kbs2020.php?id=3
 #web# https://www.trtworld.com/live
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #
-#EXTINF:-1 tvg-id="ABCAUSTRALIA" tvg-id0="ABCNews.au" tvg-name="ABC News" tvg-logo="https://i.imgur.com/GpgrYCb.png" group-title="Australia;News",★ABC News 24 (AU) - 23
+#EXTINF:-1 tvg-id="ABCNews.au" tvg-name="ABC News" tvg-logo="https://i.imgur.com/GpgrYCb.png" group-title="Australia;News",★ABC News 24 (AU) - 23
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #
 #EXTINF:-1 tvg-id="ABCNews.us" tvg-name="ABC News" tvg-logo="https://i.imgur.com/7sJLzKi.png" group-title="USA;News",☑ABC News - 1008
@@ -433,21 +434,21 @@ http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
 # web# https://www.gdtv.cn/tvChannelDetail/74
 # https://tcdn.itouchtv.cn/live/ydpd.m3u8?
 #
-#EXTINF:-1 tvg-name="NBS-Inf" tvg-logo="" group-title="China;Local",南京信息 (720p)
+#EXTINF:-1 tvg-id="南京信息" tvg-name="NBS-Inf" tvg-logo="" group-title="China;Local",南京信息 (720p)
 #web# https://www.nbs.cn/live/
 http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
-# -EXTINF:-1 tvg-name="NBS-18" tvg-logo="" group-title="China;Local",南京十八频道 (720p)
+# -EXTINF:-1 tvg-id="南京十八" tvg-name="NBS-18" tvg-logo="" group-title="China;Local",南京十八频道 (720p)
 # http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-name="NBS-Ent" tvg-logo="" group-title="China;Local;Entertainment",南京娱乐 (720p)
+#EXTINF:-1 tvg-id="南京娱乐" tvg-name="NBS-Ent" tvg-logo="" group-title="China;Local;Entertainment",南京娱乐 (720p)
 http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-name="NBS-Kids" tvg-logo="" group-title="China;Local",南京少儿 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="南京少儿" tvg-name="NBS-Kids" tvg-logo="" group-title="China;Local",南京少儿 (720p) [Not 24/7]
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 #
-# -EXTINF:-1 tvg-name="NBS-Life" tvg-logo="" group-title="China;Local",南京生活 (720p)
+# -EXTINF:-1 tvg-id="南京生活" tvg-name="NBS-Life" tvg-logo="" group-title="China;Local",南京生活 (720p)
 # http://live.nbs.cn/channels/njtv/shpd/nbs06.m3u8
-# -EXTINF:-1 tvg-name="NBS-Edu" tvg-logo="" group-title="China;Local",南京教科 (720p) [Not 24/7]
+# -EXTINF:-1 tvg-id="南京教科" tvg-name="NBS-Edu" tvg-logo="" group-title="China;Local",南京教科 (720p) [Not 24/7]
 # http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
-#EXTINF:-1 tvg-name="NBS-News" tvg-logo="" group-title="China;Local",南京新闻综合 (720p)
+#EXTINF:-1 tvg-id="南京新闻综合" tvg-name="NBS-News" tvg-logo="" group-title="China;Local",南京新闻综合 (720p)
 http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
 #
 #EXTINF:-1 tvg-name="ShangYu-1-News" tvg-logo="" group-title="China;Local",上虞1新闻综合 (720p) [Not 24/7]
