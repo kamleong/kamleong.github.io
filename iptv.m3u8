@@ -95,6 +95,22 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 # -EXTINF:-1 tvg-id="HKSTV.hk" tvg-logo="https://i.imgur.com/UhwlxwL.png" group-title="Hong Kong",香港卫视 HKS
 # http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hong Kong",凤凰中文 (240p)
+# http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=190&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id=
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hong Kong",凤凰中文 (576p)
+# http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=190&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+# http://125.210.152.18:9090/live/FHZW_1200.m3u8
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hong Kong",凤凰中文 (720p)
+# http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+# http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+# http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hong Kong;News",凤凰资讯 (576p)
+# http://125.210.152.18:9090/live/FHZX_1200.m3u8
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hong Kong;News",凤凰资讯 (720p)
+# http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hong Kong",凤凰香港 (720p)
+# http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+#
 # -EXTINF:-1 tvg-id="TVBNewsChannel.hk" tvg-logo="https://i.imgur.com/Gwij0Fj.png" group-title="Hong Kong;News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ TVB News Channel (無綫新聞台) (720p)
 # -EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 # https://cdn.hklive.tv/xxxx/83/index.m3u8
@@ -118,7 +134,6 @@ http://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 tvg-id="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="Taiwan;News",FTV News (民視新聞台)
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#
 #
 # -EXTINF:-1 tvg-id="CTS.tw" tvg-logo="https://i.imgur.com/ISl9WsI.png" group-title="Taiwan",CTS HD (華視) (720p)
 # http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
@@ -290,8 +305,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="USA;Music",Ʊ🎶🎼 Classic Arts Showcase
 #web# https://www.classicartsshowcase.org
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-# -EXTINF:-1 tvg-id="MCN6MusicChannel.us" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="USA;Music",MCN6 Music Channel (1080p) [Not 24/7]
-# web# https://mcn6.org/mcn6musicchannel/
+# -EXTINF:-1 tvg-id="MCN6MusicChannel.us" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="USA;Music",MCN6 Music Channel (1080p) [Not 24/7] [!Geo-blocked!]
+# web# https://mcn6.org/mcn6musicchannel/ # [!Geo-blocked!]
 # https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV15.cn" tvg-logo="https://i.imgur.com/m2R60TJ.png" group-title="China;Music",CCTV-15音乐 (720p)
 #m3u# https://live.fanmingming.com --> https://cntv.sbs/live?
@@ -356,12 +371,12 @@ https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/am
 #EXTINF:-1 tvg-id="XtremaRetroCartoons.ar" tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="Argentina;Animation",🐭Xtrema Retro Cartoons (360p)
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #
-# -EXTINF:-1 tvg-id="MCN6ArtsChannel.us" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="USA;Movies",MCN6 Arts Channel (1080p) [Not 24/7]
-# web# https://mcn6.org/mcnartschannel/
+# -EXTINF:-1 tvg-id="MCN6ArtsChannel.us" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="USA;Movies",MCN6 Arts Channel (1080p) [Not 24/7] [!Geo-blocked!]
+# web# https://mcn6.org/mcnartschannel/ # [!Geo-blocked!]
 # https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA;Local",MCN6 (1080p) [Not 24/7]
-#web# https://mcn6.org/mcnlivestream/
-https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA;Local",MCN6 (1080p) [Not 24/7] [!Geo-blocked!]
+# web# https://mcn6.org/mcnlivestream/ # [!Geo-blocked!]
+# https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 #
 #EXTINF:-1 tvg-id="WCVBDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png" group-title="USA;Local",WCVB-TV News Boston MA (720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8
@@ -378,6 +393,9 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,L
 #
 #EXTINF:-1 group-title="China;Radio",📻佛山电台 (Radio)
 https://play.radiofoshan.com.cn/live/1400389414_BSID_46_audio.m3u8
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",佛山公共 (576p)
+# http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=182&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#
 # -EXTINF:-1 tvg-name="CETV-3" tvg-logo="https://i.imgur.com/t8o5ZKt.png" tvg-id="CETV3.cn" group-title="China",CETV-3 北京地面频道
 # http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 #EXTINF:-1 tvg-name="FangshanTV" tvg-id="FangshanTV.cn" tvg-logo="https://i.imgur.com/YyYArWr.png" group-title="China;Local",房山电视台
@@ -479,28 +497,4 @@ https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8?x=playlist.m
 https://drive.google.com/uc?id=1E0oqhdYU3JAT7lPFt9k37tb-OQMggWry&video.mp4
 #EXTINF:-1 group-title="Video Clips",📹八段錦 (recorded)
 https://drive.google.com/uc?id=1JwfAdIYccaoyV2LExM2cZfzNEsXypQdv&video.mp4
-#
-# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",凤凰中文 (240p)
-# http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=190&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id=
-# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",凤凰中文 (576p)
-# http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=190&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",凤凰中文 (576p)
-# http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=190&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",凤凰中文 (576p)
-# http://125.210.152.18:9090/live/FHZW_1200.m3u8
-# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",凤凰中文 (720p)
-# http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",凤凰中文 (720p)
-# http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
-# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",凤凰中文 (720p)
-# http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",凤凰资讯 (576p)
-# http://125.210.152.18:9090/live/FHZX_1200.m3u8
-# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",凤凰资讯 (720p)
-# http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",凤凰香港 (720p)
-# http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-#
-# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",佛山公共 (576p)
-# http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=182&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 #
