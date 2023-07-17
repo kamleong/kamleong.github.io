@@ -62,7 +62,7 @@ https://bstvcdn.ballbar.net/ctv_taiwan/playlist-17.m3u8a?t=...&token=...
 #http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/playlist.m3u8
 #https://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/playlist.m3u8
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-#EXTINF:-1 tvg-name="好消息" group-title="Taiwan;Religious",★好消息
+#EXTINF:-1 tvg-id="GOODTV" tvg-name="好消息" group-title="Taiwan;Religious",★好消息
 #web# https://www.goodtv.tv/tv-channel?ch=1
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 #
@@ -75,7 +75,7 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hklive.tv/xxxx/81/index.m3u8
 #
-# -EXTINF:-1 tvg-id="ViuTV.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="Hong Kong;Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ ViuTV (1080p)
+# -EXTINF:-1 tvg-id="VIUTV" tvg-id0="ViuTV.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="Hong Kong;Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ ViuTV (1080p)
 # -EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 # https://cdn.hklive.tv/xxxx/99/index.m3u8
 #
@@ -96,26 +96,26 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 # -EXTINF:-1 tvg-id="HKSTV.hk" tvg-logo="https://i.imgur.com/UhwlxwL.png" group-title="Hong Kong",香港卫视 HKS
 # http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #
-# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hong Kong",凤凰中文 (240p)
+# -EXTINF:-1 tvg-id="凤凰中文" tvg-logo="" group-title="Hong Kong",凤凰中文 (240p)
 # http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=190&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id=
-# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hong Kong",凤凰中文 (576p)
+# -EXTINF:-1 tvg-id="凤凰中文" tvg-logo="" group-title="Hong Kong",凤凰中文 (576p)
 # http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=190&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 # http://125.210.152.18:9090/live/FHZW_1200.m3u8
-# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hong Kong",凤凰中文 (720p)
+# -EXTINF:-1 tvg-id=凤凰中文"" tvg-logo="" group-title="Hong Kong",凤凰中文 (720p)
 # http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 # http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
 # http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hong Kong;News",凤凰资讯 (576p)
+# -EXTINF:-1 tvg-id="凤凰资讯" tvg-logo="" group-title="Hong Kong;News",凤凰资讯 (576p)
 # http://125.210.152.18:9090/live/FHZX_1200.m3u8
-# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hong Kong;News",凤凰资讯 (720p)
+# -EXTINF:-1 tvg-id="凤凰资讯" tvg-logo="" group-title="Hong Kong;News",凤凰资讯 (720p)
 # http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hong Kong",凤凰香港 (720p)
+# -EXTINF:-1 tvg-id="凤凰香港" tvg-logo="" group-title="Hong Kong",凤凰香港 (720p)
 # http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #
-# -EXTINF:-1 tvg-id="TVBNewsChannel.hk" tvg-logo="https://i.imgur.com/Gwij0Fj.png" group-title="Hong Kong;News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ TVB News Channel (無綫新聞台) (720p)
+# -EXTINF:-1 tvg-id="无线新闻" tvg-id0="TVBNewsChannel.hk" tvg-logo="https://i.imgur.com/Gwij0Fj.png" group-title="Hong Kong;News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ TVB News Channel (無綫新聞台) (720p)
 # -EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 # https://cdn.hklive.tv/xxxx/83/index.m3u8
-# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ TVB Pearl (明珠台) (1080p)
+# -EXTINF:-1 tvg-id="明珠台" tvg-logo="" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ TVB Pearl (明珠台) (1080p)
 # -EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 # https://cdn.hklive.tv/xxxx/84/index.m3u8
 #
@@ -190,13 +190,13 @@ http://lzoq.hk3c.ml/daili/?id=cctv1hd8m/8000000
 #https://cctvwbndtxyhw.liveplay.myqcloud.com/cctvwbnd/jzcctv13_2/index.m3u8
 https://cntv.sbs/live?auth=2307100804&id=cctv13
 #
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://i.imgur.com/TDCuUDs.png" group-title="Japan;News",★NHK World-Japan - 728
+#EXTINF:-1 tvg-id="NHKWORLD" tvg-id0="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://i.imgur.com/TDCuUDs.png" group-title="Japan;News",★NHK World-Japan - 728
 #web# https://www3.nhk.or.jp/nhkworld/
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="NTVNews24.jp" tvg-name="日テレNEWS24" tvg-logo="https://i.imgur.com/tVNZ0BU.png" group-title="Japan;News",日テレNEWS24 Ⓢ
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #
-#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" group-title="Korea",★Arirang - 763
+#EXTINF:-1 tvg-id="ARIRANGTV" tvg-id0="ArirangTV.kr" tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" group-title="Korea",★Arirang - 763
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-name="EBS English Ⓢ" tvg-logo="https://i.imgur.com/qceaIf7.png" group-title="Korea",EBS English Ⓢ - 767
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
@@ -230,7 +230,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="Africanews.cg" tvg-name="Africanews English" tvg-logo="https://i.imgur.com/xocvePC.png" group-title="Africa;News",Africanews English - 1051
 #Ⓨ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/africanews/live
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/afrnabren_eng.m3u8
-#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English Ⓨ" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France;News",France 24 English - 1052
+#EXTINF:-1 tvg-id="FRANCE24" tvg-id0="France24English.fr" tvg-name="France 24 English Ⓨ" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France;News",France 24 English - 1052
 #https://www.youtube.com/c/FRANCE24English/live
 #[French] http://163.172.70.244:8080/FRANCE_24/mono.m3u8
 #http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
@@ -257,7 +257,7 @@ https://cdnapisec.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6t
 #
 #EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png" group-title="USA;Documentary",🏛️Smithsonian Channel Asia (1080p)
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHistory.us" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="USA;Documentary",Pluto TV HISTORY (240p)
+#EXTINF:-1 tvg-id="HISTORY" tvg-id0="PlutoTVHistory.us" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="USA;Documentary",Pluto TV HISTORY (240p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?
 #EXTINF:-1 group-title="UK;Documentary",★History Hit
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
@@ -287,7 +287,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-p
 http://82.180.136.216:3390/live/go2travellive.m3u8
 # -EXTINF:-1 tvg-id="GoTraveler.us" tvg-logo="https://i.imgur.com/IaRcN1G.png" group-title="USA;Travel",Go Traveler (720p)
 # https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="LuxeTV.lu" tvg-logo="https://i.imgur.com/24ehonx.png" group-title="Luxembourg;Lifestyle",🏖Luxe TV (En) (1080p)
+#EXTINF:-1 tvg-id="LUXETV" tvg-id0="LuxeTV.lu" tvg-logo="https://i.imgur.com/24ehonx.png" group-title="Luxembourg;Lifestyle",🏖Luxe TV (En) (1080p)
 #https://alchimie-luxe-uk-rakuten.amagi.tv/playlist540_p.m3u8
 https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8
 #
@@ -309,6 +309,7 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 # -EXTINF:-1 tvg-id="MCN6MusicChannel.us" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="USA;Music",MCN6 Music Channel (1080p) [Not 24/7] [!Geo-blocked!]
 # web# https://mcn6.org/mcn6musicchannel/ # [!Geo-blocked!]
 # https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
+#
 #EXTINF:-1 tvg-id="CCTV15" tvg-id0="CCTV15.cn" tvg-logo="https://i.imgur.com/m2R60TJ.png" group-title="China;Music",CCTV-15音乐 (720p)
 #m3u# https://live.fanmingming.com --> https://cntv.sbs/live?
 #m3u# http://lu1.cc/itv/json/yangshi https://github.com/kozalak-robot/iptv/blob/master/daily.m3u8
@@ -317,7 +318,8 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 #https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 https://cntv.sbs/live?auth=2307100804&id=cctv15
-# -EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png" group-title="Hong Kong;Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ ViuTVsix (1080p) [Geo-blocked]
+#
+# -EXTINF:-1 tvg-id="VIUTVSIX" tvg-id0="ViuTVsix.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png" group-title="Hong Kong;Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ ViuTVsix (1080p) [Geo-blocked]
 # -EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 # https://cdn.hklive.tv/xxxx/96/index.m3u8
 #EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-logo="https://i.imgur.com/XWWTrKW.png" group-title="Germany;Music",Deluxe Music (720p)
@@ -424,7 +426,7 @@ https://cntv.sbs/live?auth=2307100804&id=jsws
 http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296203.m3u8
 #EXTINF:-1 tvg-name="GuangdongSatelliteTV" group-title="China;Local",广东卫视
 http://lzoq.hk3c.ml/daili/?id=gdwshd8m/8000000
-#EXTINF:-1 tvg-name="GDTV-ZJ" group-title="China;Local",✗ 广东珠江
+#EXTINF:-1 tvg-id="珠江" tvg-name="GDTV-ZJ" group-title="China;Local",✗ 广东珠江
 #web# https://www.gdtv.cn/tvChannelDetail/44 | #http://www.baidu.com.cdns.cfd/html/gdtv.html?id=gdzj
 #https://tcdn.itouchtv.cn/live/gdzj.m3u8? | #http://gxyl-dl001.8866.org:8181/tsfile/live/1000_1.m3u8 
 #http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdzj&auth=rinimabi
