@@ -321,7 +321,7 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205002.m3u8
 #http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 #https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
-https://cntv.sbs/live?auth=2307100804&id=cctv15
+https://cntv.sbs/live?auth=2307280808&id=cctv15
 #
 # -EXTINF:-1 tvg-id="VIUTVSIX" tvg-id0="ViuTVsix.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png" group-title="Hong Kong;Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ ViuTVsix (1080p) [Geo-blocked]
 # -EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
