@@ -133,6 +133,10 @@ http://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 #
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-id0="TVBSNews.tw" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="Taiwan;News",TVBS News (TVBS新聞台)
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 tvg-id="台视新闻台" tvg-id0="TTVNews.tw" tvg-logo="https://i.imgur.com/AfkK0gv.png" group-title="Taiwan;News",TTV News (台視新聞台)
+#https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="民视新闻台" tvg-id0="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="Taiwan;News",FTV News (民視新聞台)
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #
@@ -146,8 +150,6 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 # http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 # -EXTINF:-1 tvg-id="TTV.tw" tvg-logo="https://i.imgur.com/JB2Ps5T.png" group-title="Taiwan",TTV (台视) (720p)
 # http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?ct=17874&tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970
-# -EXTINF:-1 tvg-id="TTVNews.tw" tvg-logo="https://i.imgur.com/AfkK0gv.png" group-title="Taiwan;News",TTV News (台视新聞台)
-# https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 #
 #EXTINF:-1 tvg-id="ALJAZEERA" tvg-id0="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English Ⓢ" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="Qatar;News",🔭Al Jazeera English Ⓢ
 #web# https://www.aljazeera.com/live
