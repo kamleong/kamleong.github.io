@@ -133,6 +133,8 @@ http://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 #
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-id0="TVBSNews.tw" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="Taiwan;News",TVBS News (TVBS新聞台)
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 tvg-id="TVBS" tvg-id0="TVBSNews.tw" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="Taiwan;News",TVBS
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-id="台视新闻台" tvg-id0="TTVNews.tw" tvg-logo="https://i.imgur.com/AfkK0gv.png" group-title="Taiwan;News",TTV News (台視新聞台)
 #https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 #http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
@@ -150,6 +152,13 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 # http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 # -EXTINF:-1 tvg-id="TTV.tw" tvg-logo="https://i.imgur.com/JB2Ps5T.png" group-title="Taiwan",TTV (台视) (720p)
 # http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?ct=17874&tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970
+#
+#EXTINF:-1 tvg-id="6134" tvg-name="大立电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png" group-title="Taiwan;Local",大立電視台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#
+#EXTINF:-1 tvg-id="ETTV.us" tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="USA",東森美洲電視
+#web# https://www.ettvamerica.com/
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #
 #EXTINF:-1 tvg-id="ALJAZEERA" tvg-id0="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English Ⓢ" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="Qatar;News",🔭Al Jazeera English Ⓢ
 #web# https://www.aljazeera.com/live
@@ -248,6 +257,8 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-id0="CCTV4Asia.cn" tvg-name="CCTV-4 中文国际（亚）" tvg-logo="https://i.imgur.com/ovUSVEQ.png" group-title="China",CCTV-4 中文国际（亚）
 #http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204802.m3u8
 https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
+#EXTINF:-1 tvg-id="长城精品" tvg-name="长城精品频道" tvg-logo="" group-title="China",长城精品频道
+http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 #
 #EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/PBS_America_logo.png" group-title="UK;USA",PBS America (720p)
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
@@ -442,6 +453,9 @@ http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="China",广东移动
 # web# https://www.gdtv.cn/tvChannelDetail/74
 # https://tcdn.itouchtv.cn/live/ydpd.m3u8?
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="http://live.cooltv.top/logo/dwq.png" group-title="China;Local","大湾区卫视"
+#http://live.cooltv.top/tv/gd.php?id=nfws
+http://38.64.72.148:80/hls/modn/list/4011/chunklist0.m3u8
 #
 #EXTINF:-1 tvg-id="南京信息" tvg-name="NBS-Inf" tvg-logo="" group-title="China;Local",南京信息 (720p)
 #web# https://www.nbs.cn/live/
@@ -482,6 +496,12 @@ http://stream.smntv.cn/smtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="SinoVision.cn" tvg-logo="https://i.imgur.com/ir3jkyL.png" group-title="USA",美国中文电视 (406p) [Not 24/7]
 #https://jpts.sinovision.net/livestream.m3u8
 https://cdnts.sinovision.net/livestream.m3u8
+#EXTINF:-1 tvg-id="SinoTV" tvg-logo="" group-title="USA",SinoTV 華語電視2
+#web# https://www.nysino.com/sinotv/
+http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1 tvg-id="SinoTV" tvg-logo="" group-title="USA",SinoTV 華語電視3
+#web# https://www.nysino.com/sinotv/
+http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 #
 #EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Hong Kong;Business",Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
