@@ -133,7 +133,8 @@ http://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 #
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-id0="TVBSNews.tw" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="Taiwan;News",TVBS News (TVBS新聞台)
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 tvg-id="TVBS" tvg-id0="TVBSNews.tw" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="Taiwan;News",TVBS
+#EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="Taiwan;News",TVBS Asia
+#web# https://www.tvbs.com.tw/ours/company/tvbsasia
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-id="台视新闻台" tvg-id0="TTVNews.tw" tvg-logo="https://i.imgur.com/AfkK0gv.png" group-title="Taiwan;News",TTV News (台視新聞台)
 #https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
@@ -453,8 +454,9 @@ http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="China",广东移动
 # web# https://www.gdtv.cn/tvChannelDetail/74
 # https://tcdn.itouchtv.cn/live/ydpd.m3u8?
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="http://live.cooltv.top/logo/dwq.png" group-title="China;Local","大湾区卫视"
-#http://live.cooltv.top/tv/gd.php?id=nfws
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="http://live.cooltv.top/logo/dwq.png" group-title="China;Local",大湾区卫视
+#web# https://www.gdtv.cn/tvChannelDetail/51
+#http://live.cooltv.top/tv/gd.php?id=nfws # 南方卫视 TVS2
 http://38.64.72.148:80/hls/modn/list/4011/chunklist0.m3u8
 #
 #EXTINF:-1 tvg-id="南京信息" tvg-name="NBS-Inf" tvg-logo="" group-title="China;Local",南京信息 (720p)
