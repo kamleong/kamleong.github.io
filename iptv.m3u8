@@ -27,14 +27,46 @@ http://192.168.175.1/cgi-bin/8tv.m3u
 #web# https://rtmklik.rtm.gov.my/live/tv2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="Malaysia;News",Astro Awani (720p)
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#
 #EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-id0="CNAInternational.sg" tvg-id1="CNA.sg" tvg-name="CNA" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="Singapore;News",🔭CNA International (1080p)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="Indonesia",TVRI World
+#
+#EXTINF:-1 tvg-id="TVRI3" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="Indonesia",TVRI World
 #http://klik.tvri.go.id/
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="Thailand",✗ NBT World
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream3/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="TVRINASIONAL" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="Indonesia",TVRI Nasional
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/stream4/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.imgur.com/nmoL4J4.png" group-title="Indonesia",tvOne (Opt-1)
+#web# https://www.tvonenews.com/live
+http://210.210.155.35:80/session/0b808a8c-6c0b-11e9-88f0-c81f66f89318/qwr9ew/s/s105/index.m3u8
+#EXTINF:-1 tvg-id="INDOSIAR.id" tvg-logo="" group-title="Indonesia",INDOSIAR
+#web# https://www.indosiar.com/
+http://210.210.155.35/session/9ec7c73c-099b-11ea-aff4-b82a72d63267/qwr9ew/s/s04/01.m3u8
+# -EXTINF:-1 tvg-logo="https://i.imgur.com/4KW8Qnr.png",RCTI 
+# web# https://www.rctiplus.com/tv/rcti
+# https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
+#
+#EXTINF:-1 group-title="Thailand",☑NBT World
 #http://live.prd.go.th:1935/live/ch1_L_L.sdp/playlist.m3u8
-https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
+#https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/chnbt3/index.m3u8
+#EXTINF:-1 tvg-id="Channel3.th" tvg-name="CH3 HD" tvg-logo="https://i.imgur.com/lHbIKfF.png" group-title="Digital TV",CH3 HD
+#web# https://ch3plus.com/live
+https://cdn6.goprimetime.info/feed/202306140918/ch3hd3/index.m3u8
+#EXTINF:-1 tvg-id="TV5HD.th" tvg-name="TV5 HD" tvg-logo="https://i.imgur.com/4MIQNPQ.png" group-title="Thailand",TV5 HD
+https://cdn6.goprimetime.info/feed/202306140918/ch5hd3/index.m3u8
+#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" tvg-logo="https://i.imgur.com/vxnLkTz.png" group-title="Digital TV",CH7 HD
+#web# https://wwww.ch7.com/
+https://cdn6.goprimetime.info/feed/202306140918/ch7hd3/index.m3u8
+#EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" tvg-logo="https://i.imgur.com/RULAfjb.png" group-title="Thailand",Nation TV
+https://cdn6.goprimetime.info/feed/202306140918/chnation3/index.m3u8
+#EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" tvg-logo="https://i.imgur.com/OFsQwvv.png" group-title="Thailand",THAI PBS HD
+https://cdn6.goprimetime.info/feed/202306140918/chthaipbs3/index.m3u8
+#EXTINF:-1 tvg-id="Mono29.th" tvg-name="MONO 29" tvg-logo="https://i.imgur.com/V4VWHiB.png" group-title="Thailand",MONO 29
+#web# https://mono29.com/livetv
+https://cdn6.goprimetime.info/feed/202306140918/chmono293/index.m3u8
 #
 # -EXTINF:-1 tvg-id="iCable1.hk" tvg-name="有線新聞台" group-title="Hong Kong;News",🔭有線新聞台
 # web# https://www.i-cable.com/
@@ -187,6 +219,8 @@ https://npr-ice.streamguys1.com/live.mp3
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK;News",🔭The Guardian
 # https://rakuten-guardian-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Hong Kong;Business",Bloomberg TV Asia (720p)
+https://bloomberg.com/media-manifest/streams/asia.m3u8
 #
 #EXTINF:-1 tvg-id="CCTV1" tvg-id0="CCTV1.cn" tvg-name="CCTV-1 综合 Ⓢ" tvg-logo="https://i.imgur.com/uHU6Vc0.png" group-title="China",CCTV-1 综合 Ⓢ - 110
 #web# https://tv.cctv.com/live/cctv1/
@@ -325,6 +359,12 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 # web# https://mcn6.org/mcn6musicchannel/ # [!Geo-blocked!]
 # https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #
+# -EXTINF:-1 tvg-id="VIUTVSIX" tvg-id0="ViuTVsix.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png" group-title="Hong Kong;Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ ViuTVsix (1080p) [Geo-blocked]
+# -EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+# https://cdn.hklive.tv/xxxx/96/index.m3u8
+#EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-logo="https://i.imgur.com/XWWTrKW.png" group-title="Germany;Music",Deluxe Music (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#
 #EXTINF:-1 tvg-id="Dali.tw" tvg-name="大立电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png" group-title="Taiwan;Local",大立電視台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #
@@ -336,12 +376,6 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 #https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 https://cntv.sbs/live?auth=2307280808&id=cctv15
-#
-# -EXTINF:-1 tvg-id="VIUTVSIX" tvg-id0="ViuTVsix.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png" group-title="Hong Kong;Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ ViuTVsix (1080p) [Geo-blocked]
-# -EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-# https://cdn.hklive.tv/xxxx/96/index.m3u8
-#EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-logo="https://i.imgur.com/XWWTrKW.png" group-title="Germany;Music",Deluxe Music (720p)
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #
 #EXTINF:-1 tvg-id="CCTV6" tvg-id0="CCTV6.cn" tvg-logo="https://i.imgur.com/dDqvRHX.png" group-title="China;Movies",CCTV-6电影 (1080p)
 #http://58.205.220.58:8088/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
@@ -504,11 +538,6 @@ http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 #EXTINF:-1 tvg-id="SinoTV" tvg-logo="" group-title="USA",SinoTV 華語電視3
 #web# https://www.nysino.com/sinotv/
 http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-#
-#EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Hong Kong;Business",Bloomberg TV Asia (720p)
-https://bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="Malaysia;News",Astro Awani (720p)
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 #
 # -EXTINF:-1 group-title="playlist.m3u",📁 📖 iptv-org.malaysia
 # https://iptv-org.github.io/iptv/countries/my.m3u
