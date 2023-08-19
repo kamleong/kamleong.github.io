@@ -154,10 +154,7 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 # -EXTINF:-1 tvg-id="TTV.tw" tvg-logo="https://i.imgur.com/JB2Ps5T.png" group-title="Taiwan",TTV (台视) (720p)
 # http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?ct=17874&tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970
 #
-#EXTINF:-1 tvg-id="6134" tvg-name="大立电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png" group-title="Taiwan;Local",大立電視台
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#
-#EXTINF:-1 tvg-id="ETTV.us" tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="USA",東森美洲電視
+#EXTINF:-1 tvg-id="ETTV.us" tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="USA",ETTV America (東森美洲電視)
 #web# https://www.ettvamerica.com/
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #
@@ -327,6 +324,12 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 # -EXTINF:-1 tvg-id="MCN6MusicChannel.us" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="USA;Music",MCN6 Music Channel (1080p) [Not 24/7] [!Geo-blocked!]
 # web# https://mcn6.org/mcn6musicchannel/ # [!Geo-blocked!]
 # https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
+#
+#EXTINF:-1 tvg-id="6134" tvg-name="大立电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png" group-title="Taiwan;Local",大立電視台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#
+#EXTINF:-1 tvg-id="6134" tvg-name="大立电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png" group-title="Taiwan;Local",大立電視台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #
 #EXTINF:-1 tvg-id="CCTV15" tvg-id0="CCTV15.cn" tvg-logo="https://i.imgur.com/m2R60TJ.png" group-title="China;Music",CCTV-15音乐 (720p)
 #m3u# https://live.fanmingming.com --> https://cntv.sbs/live?
