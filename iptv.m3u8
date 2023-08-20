@@ -36,8 +36,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-id="TVRI3" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="Indonesia",TVRI World
 #http://klik.tvri.go.id/
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream3/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="TVRINASIONAL" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="Indonesia",TVRI Nasional
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/stream4/streamPlaylist.m3u8
+# -EXTINF:-1 tvg-id="TVRINASIONAL" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="Indonesia",TVRI Nasional
+# http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/stream4/streamPlaylist.m3u8
 # -EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.imgur.com/nmoL4J4.png" group-title="Indonesia",tvOne (Opt-1)
 # web# https://www.tvonenews.com/live
 ＃ http://210.210.155.35:80/session/0b808a8c-6c0b-11e9-88f0-c81f66f89318/qwr9ew/s/s105/index.m3u8
@@ -47,6 +47,8 @@ http://210.210.155.35/session/9ec7c73c-099b-11ea-aff4-b82a72d63267/qwr9ew/s/s04/
 # -EXTINF:-1 tvg-logo="https://i.imgur.com/4KW8Qnr.png",RCTI 
 # web# https://www.rctiplus.com/tv/rcti
 # https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="Indonesia",Nusantara TV (720p)
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #
 #EXTINF:-1 group-title="Thailand",✗ NBT World
 #http://live.prd.go.th:1935/live/ch1_L_L.sdp/playlist.m3u8
@@ -55,11 +57,15 @@ https://cdn6.goprimetime.info/feed/202306140918/chnbt3/index.m3u8
 # -EXTINF:-1 tvg-id="Channel3.th" tvg-name="CH3 HD" tvg-logo="https://i.imgur.com/lHbIKfF.png" group-title="Thailand",CH3 HD
 # web# https://ch3plus.com/live
 # https://cdn6.goprimetime.info/feed/202306140918/ch3hd3/index.m3u8
-# -EXTINF:-1 tvg-id="TV5HD.th" tvg-name="TV5 HD" tvg-logo="https://i.imgur.com/4MIQNPQ.png" group-title="Thailand",TV5 HD
-# https://cdn6.goprimetime.info/feed/202306140918/ch5hd3/index.m3u8
-# -EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" tvg-logo="https://i.imgur.com/vxnLkTz.png" group-title="Thailand",CH7 HD
-# web# https://wwww.ch7.com/
-# https://cdn6.goprimetime.info/feed/202306140918/ch7hd3/index.m3u8
+#EXTINF:-1 tvg-id="TV5HD.th" tvg-name="TV5 HD" tvg-logo="https://i.imgur.com/4MIQNPQ.png" group-title="Thailand",TV5 HD
+#https://cdn6.goprimetime.info/feed/202306140918/ch5hd3/index.m3u8
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" tvg-logo="https://i.imgur.com/vxnLkTz.png" group-title="Thailand",CH7 HD
+#web# https://wwww.ch7.com/
+#https://cdn6.goprimetime.info/feed/202306140918/ch7hd3/index.m3u8
+http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
+#EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/512px-Ch_8_2016.svg.png" group-title="Thailand;Music",Channel 8 (1080p)
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 # -EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" tvg-logo="https://i.imgur.com/RULAfjb.png" group-title="Thailand",Nation TV
 # https://cdn6.goprimetime.info/feed/202306140918/chnation3/index.m3u8
 # -EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" tvg-logo="https://i.imgur.com/OFsQwvv.png" group-title="Thailand",THAI PBS HD
@@ -288,7 +294,8 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-id0="CCTV4Asia.cn" tvg-name="CCTV-4 中文国际（亚）" tvg-logo="https://i.imgur.com/ovUSVEQ.png" group-title="China",CCTV-4 中文国际（亚）
 #http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204802.m3u8
-https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
+#https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 #EXTINF:-1 tvg-id="长城精品" tvg-name="长城精品频道" tvg-logo="" group-title="China",长城精品频道
 http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 #
@@ -377,6 +384,9 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 https://cntv.sbs/live?auth=2307280808&id=cctv15
 #
+#EXTINF:-1 tvg-id="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Singapore;Entertainment",HITS (576p)
+#web# https://www.hitstv.com/schedule.php
+http://210.210.155.37/dr9445/h/h37/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-id0="CCTV6.cn" tvg-logo="https://i.imgur.com/dDqvRHX.png" group-title="China;Movies",CCTV-6电影 (1080p)
 #http://58.205.220.58:8088/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
 #http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
@@ -390,6 +400,10 @@ https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
 # https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
 #EXTINF:-1 tvg-id="RedboxSpotlight.us" tvg-logo="https://i.imgur.com/OrGCnPg.jpg" group-title="USA;Movies",Redbox 1: Spotlight (1080p)
 https://spotlight-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyCinema.id" tvg-logo="https://i.imgur.com/BTmcTQO.png" group-title="Indonesia;Movies",My Cinema (1080p)
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTINF:-1 tvg-id="MyCinemaAsia.id" tvg-logo="https://i.imgur.com/4XVZLW0.png" group-title="Indonesia;Movies",My Cinema Asia (1080p) [Geo-blocked]
+http://210.210.155.37/uq2663/h/h193/index.m3u8
 #
 #EXTINF:-1 tvg-id="PlutoTVSpotlight.us" tvg-logo="https://i.imgur.com/UmuJkVB.png" group-title="USA;Movies",Pluto TV Spotlight (684p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=51&terminate=false&userId=
@@ -414,6 +428,13 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
 # https://simultv.s.llnwi.net/o058/Mythos/interlink.m3u8
 #EXTINF:-1 tvg-id="FilmStreams.us" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="USA;Movies",FilmStreams (720p)
 https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CCM.hk" tvg-logo="https://i.imgur.com/1VhXilw.png" group-title="Hong Kong;Movies",Celestial Classic 天映经典 (Indonesian Subtitle)
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+# -EXTINF:-1 tvg-id="AngelTVFarEast.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="India;Movies",Angel TV Far East (720p)
+# https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVChinese.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="India;Movies",Angel TV Chinese (安琪TV)
+#web# https://www.angeltv.org
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8
 # -EXTINF:-1 tvg-id="GospelMovieTV.br" tvg-logo="https://i.imgur.com/cQN3nWt.png" group-title="Brazil;Movies;Religious",Gospel Movie TV (360p)
 # https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="Switzerland;Movies",Sofy.tv (720p) - Short Films
