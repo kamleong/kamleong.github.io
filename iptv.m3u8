@@ -64,8 +64,6 @@ https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #web# https://wwww.ch7.com/
 #https://cdn6.goprimetime.info/feed/202306140918/ch7hd3/index.m3u8
 http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
-#EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/512px-Ch_8_2016.svg.png" group-title="Thailand;Music",Channel 8 (1080p)
-http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 # -EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" tvg-logo="https://i.imgur.com/RULAfjb.png" group-title="Thailand",Nation TV
 # https://cdn6.goprimetime.info/feed/202306140918/chnation3/index.m3u8
 # -EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" tvg-logo="https://i.imgur.com/OFsQwvv.png" group-title="Thailand",THAI PBS HD
@@ -73,6 +71,8 @@ http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 # -EXTINF:-1 tvg-id="Mono29.th" tvg-name="MONO 29" tvg-logo="https://i.imgur.com/V4VWHiB.png" group-title="Thailand",MONO 29
 # web# https://mono29.com/livetv
 # https://cdn6.goprimetime.info/feed/202306140918/chmono293/index.m3u8
+# -EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/512px-Ch_8_2016.svg.png" group-title="Thailand;Entertainment",Channel 8 (1080p)
+# http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 #
 # -EXTINF:-1 tvg-id="iCable1.hk" tvg-name="有線新聞台" group-title="Hong Kong;News",🔭有線新聞台
 # web# https://www.i-cable.com/
@@ -103,6 +103,12 @@ http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3
 #EXTINF:-1 tvg-id="GOODTV" tvg-name="好消息" group-title="Taiwan;Religious",★好消息
 #web# https://www.goodtv.tv/tv-channel?ch=1
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#
+# -EXTINF:-1 tvg-id="AngelTVFarEast.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="India;Religious",Angel TV Far East (720p)
+# https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVChinese.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="India;Religious",Angel TV Chinese (安琪TV)
+#web# https://www.angeltv.org
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8
 #
 #EXTINF:-1 tvg-id="大爱一台" tvg-id0="DaAi1.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="Taiwan;Religious",★DaAi1 (大愛1) (720p)
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -384,9 +390,6 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 https://cntv.sbs/live?auth=2307280808&id=cctv15
 #
-#EXTINF:-1 tvg-id="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Singapore;Entertainment",HITS (576p)
-#web# https://www.hitstv.com/schedule.php
-http://210.210.155.37/dr9445/h/h37/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-id0="CCTV6.cn" tvg-logo="https://i.imgur.com/dDqvRHX.png" group-title="China;Movies",CCTV-6电影 (1080p)
 #http://58.205.220.58:8088/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
 #http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
@@ -430,17 +433,16 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
 https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CCM.hk" tvg-logo="https://i.imgur.com/1VhXilw.png" group-title="Hong Kong;Movies",Celestial Classic 天映经典 (Indonesian Subtitle)
 http://210.210.155.37/qwr9ew/s/s31/index.m3u8
-# -EXTINF:-1 tvg-id="AngelTVFarEast.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="India;Movies",Angel TV Far East (720p)
-# https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTVChinese.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="India;Movies",Angel TV Chinese (安琪TV)
-#web# https://www.angeltv.org
-https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8
 # -EXTINF:-1 tvg-id="GospelMovieTV.br" tvg-logo="https://i.imgur.com/cQN3nWt.png" group-title="Brazil;Movies;Religious",Gospel Movie TV (360p)
 # https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="Switzerland;Movies",Sofy.tv (720p) - Short Films
 #web# https://sofy.tv/
 #https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvnl-samsungnl/playlist.m3u8
+#
+#EXTINF:-1 tvg-id="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Singapore;Entertainment",★HITS (576p)
+#web# https://www.hitstv.com/schedule.php
+http://210.210.155.37/dr9445/h/h37/index.m3u8
 #🐭🐵🐻🤖👶🦸
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA;Animation",🦸RetroCrush TV (1080p)
 #web# https://www.retrocrush.tv/livetv
