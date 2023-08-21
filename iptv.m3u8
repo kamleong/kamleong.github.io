@@ -35,7 +35,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #
 #EXTINF:-1 tvg-id="TVRI3" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="Indonesia",TVRI World
 #http://klik.tvri.go.id/
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream3/streamPlaylist.m3u8
+#http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream3/streamPlaylist.m3u8
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 # -EXTINF:-1 tvg-id="TVRINASIONAL" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="Indonesia",TVRI Nasional
 # http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/stream4/streamPlaylist.m3u8
 # -EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.imgur.com/nmoL4J4.png" group-title="Indonesia",tvOne (Opt-1)
