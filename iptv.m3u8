@@ -342,9 +342,9 @@ https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
 #EXTINF:-1 tvg-id="MuseumTVFast.us" tvg-logo="https://i.imgur.com/zzVq7BQ.png" group-title="France;Culture",🏛️Museum TV Fast (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
 #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NZkPH1N.png" group-title="India;Lifestyle",TravelXP
-#web# https://www.travelxp.com/
-https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8
+#EXTINF:-1 tvg-id="GoUSATV.us" tvg-logo="https://i.imgur.com/x90ALip.png" group-title="USA;Travel",Go USA
+#web# https://www.visittheusa.com/gousa-tv
+https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
 # -EXTINF:-1 group-title="USA;Lifestyle",Go2Travel TV [!Geo-blocked!]
 # web# https://go2travel.tv/live/
 # https://go2thls.wns.live/hls/stream.m3u8
@@ -352,6 +352,9 @@ https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/
 # -EXTINF:-1 tvg-id="GoTraveler.us" tvg-logo="https://i.imgur.com/IaRcN1G.png" group-title="USA;Travel",Go Traveler (720p)
 # web# https://www.gotraveler.com/
 # https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NZkPH1N.png" group-title="India;Travel",TravelXP
+#web# https://www.travelxp.com/
+https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8
 #EXTINF:-1 tvg-id="LUXETV" tvg-id0="LuxeTV.lu" tvg-logo="https://i.imgur.com/24ehonx.png" group-title="Luxembourg;Lifestyle",🏖Luxe TV (En) (1080p)
 #https://alchimie-luxe-uk-rakuten.amagi.tv/playlist540_p.m3u8
 https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8
