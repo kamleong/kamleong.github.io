@@ -50,7 +50,7 @@ http://210.210.155.35/session/9ec7c73c-099b-11ea-aff4-b82a72d63267/qwr9ew/s/s04/
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="Indonesia",Nusantara TV (720p)
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #
-#EXTINF:-1 group-title="Thailand",✗ NBT World
+#EXTINF:-1 group-title="Thailand",NBT World
 #web# https://thainews.prd.go.th/en/live
 #http://live.prd.go.th:1935/live/ch1_L_L.sdp/playlist.m3u8
 #https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
