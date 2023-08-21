@@ -517,7 +517,7 @@ http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="China",广东移动
 # web# https://www.gdtv.cn/tvChannelDetail/74
 # https://tcdn.itouchtv.cn/live/ydpd.m3u8?
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="http://live.cooltv.top/logo/dwq.png" group-title="China;Local",大湾区卫视
+#EXTINF:-1 tvg-id="南方卫视" tvg-name="大湾区卫视" tvg-logo="http://live.cooltv.top/logo/dwq.png" group-title="China;Local",大湾区卫视
 #web# https://www.gdtv.cn/tvChannelDetail/51
 #http://live.cooltv.top/tv/gd.php?id=nfws # 南方卫视 TVS2
 http://38.64.72.148:80/hls/modn/list/4011/chunklist0.m3u8
