@@ -51,9 +51,11 @@ http://210.210.155.35/session/9ec7c73c-099b-11ea-aff4-b82a72d63267/qwr9ew/s/s04/
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #
 #EXTINF:-1 group-title="Thailand",✗ NBT World
+#web# https://thainews.prd.go.th/en/live
 #http://live.prd.go.th:1935/live/ch1_L_L.sdp/playlist.m3u8
 #https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
-https://cdn6.goprimetime.info/feed/202306140918/chnbt3/index.m3u8
+#https://cdn6.goprimetime.info/feed/202306140918/chnbt3/index.m3u8
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/playlist.m3u8
 # -EXTINF:-1 tvg-id="Channel3.th" tvg-name="CH3 HD" tvg-logo="https://i.imgur.com/lHbIKfF.png" group-title="Thailand",CH3 HD
 # web# https://ch3plus.com/live
 # https://cdn6.goprimetime.info/feed/202306140918/ch3hd3/index.m3u8
