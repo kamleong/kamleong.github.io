@@ -50,7 +50,7 @@ http://210.210.155.35/session/9ec7c73c-099b-11ea-aff4-b82a72d63267/qwr9ew/s/s04/
 # https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="Indonesia",Nusantara TV (720p)
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cnnindo.png" group-title="Indonesia;News",CNN Indonesia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="Indonesia;News",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_shareExt_b384000_sleng.m3u8
 #
 #EXTINF:-1 group-title="Thailand",NBT World
@@ -78,7 +78,7 @@ http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 # https://cdn6.goprimetime.info/feed/202306140918/chmono293/index.m3u8
 # -EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/512px-Ch_8_2016.svg.png" group-title="Thailand;Entertainment",Channel 8 (1080p)
 # http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Philippines;News",CNN Philippines
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AyqNnHj.png" group-title="Philippines;News",CNN Philippines
 http://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 #
 # -EXTINF:-1 tvg-id="iCable1.hk" tvg-name="有線新聞台" group-title="Hong Kong;News",🔭有線新聞台
@@ -110,15 +110,6 @@ http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3
 #EXTINF:-1 tvg-id="GOODTV" tvg-name="好消息" group-title="Taiwan;Religious",★好消息
 #web# https://www.goodtv.tv/tv-channel?ch=1
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-#
-# -EXTINF:-1 tvg-id="AngelTVFarEast.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="India;Religious",Angel TV Far East (heretic?)
-# https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTVChinese.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="India;Religious",Angel TV Chinese (安琪TV) - heretic?
-#web# https://www.angeltv.org
-https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gy6ZJrj/SPIRIT-TV.png" group-title="USA;Religious;Music",Spirit TV
-#web# https://myspirit.tv/
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #
 #EXTINF:-1 tvg-id="大爱一台" tvg-id0="DaAi1.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="Taiwan;Religious",★DaAi1 (大愛1) (720p)
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -207,10 +198,6 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 # http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 # -EXTINF:-1 tvg-id="TTV.tw" tvg-logo="https://i.imgur.com/JB2Ps5T.png" group-title="Taiwan",TTV (台视) (720p)
 # http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?ct=17874&tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970
-#
-#EXTINF:-1 tvg-id="ETTV.us" tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="USA",ETTV America (東森美洲電視)
-#web# https://www.ettvamerica.com/
-http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #
 #EXTINF:-1 tvg-id="ALJAZEERA" tvg-id0="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English Ⓢ" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="Qatar;News",🔭Al Jazeera English Ⓢ
 #web# https://www.aljazeera.com/live
@@ -393,6 +380,15 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-logo="https://i.imgur.com/XWWTrKW.png" group-title="Germany;Music",Deluxe Music (720p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #
+# -EXTINF:-1 tvg-id="AngelTVFarEast.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="India;Religious",Angel TV Far East (heretic?)
+# https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVChinese.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="India;Religious",Angel TV Chinese (安琪TV) - heretic?
+#web# https://www.angeltv.org
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gy6ZJrj/SPIRIT-TV.png" group-title="USA;Religious;Music",Spirit TV
+#web# https://myspirit.tv/
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+#
 #EXTINF:-1 tvg-id="Dali.tw" tvg-name="大立电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png" group-title="Taiwan;Local",大立電視台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #
@@ -567,6 +563,9 @@ http://stream.smntv.cn/smtv1/playlist.m3u8
 #EXTINF:-1 tvg-name="SMN-Pub" tvg-logo="" group-title="China;Local",三明2公共 (720p) [Not 24/7]
 http://stream.smntv.cn/smtv2/playlist.m3u8
 #
+#EXTINF:-1 tvg-id="ETTV.us" tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="USA;Taiwan",ETTV America (東森美洲電視)
+#web# https://www.ettvamerica.com/
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 tvg-id="SinoVision.cn" tvg-logo="https://i.imgur.com/ir3jkyL.png" group-title="USA",美国中文电视 (406p) [Not 24/7]
 #https://jpts.sinovision.net/livestream.m3u8
 https://cdnts.sinovision.net/livestream.m3u8
