@@ -383,6 +383,8 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 # https://cdn.hklive.tv/xxxx/96/index.m3u8
 #EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-logo="https://i.imgur.com/XWWTrKW.png" group-title="Germany;Music",Deluxe Music (720p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-name="Retro Music Television Ⓢ" tvg-logo="https://i.imgur.com/a6S2Yo4.png" tvg-id="RetroMusicTV.cz" group-title="Czech;Music",Retro Music Television Ⓢ
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #
 # -EXTINF:-1 tvg-id="AngelTVFarEast.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="India;Religious",Angel TV Far East (heretic?)
 # https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
@@ -458,6 +460,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvnl-sams
 #EXTINF:-1 tvg-id="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Singapore;Entertainment",★HITS (576p)
 #web# https://www.hitstv.com/schedule.php
 http://210.210.155.37/dr9445/h/h37/index.m3u8
+#EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://imgur.com/PNTYOgg.png" tvg-id="RetroTVEast.us" group-title="USA;Entertainment",Retro TV
+#web# https://www.getafteritmedia.com/retro-live-feed
+https://hls-live-web-media.cdn01.net/default/stream_50177_1.m3u8?KG-jjzLbU6-2geZD0PZRoKvg2loI3GNjNLHDmMV8PthL6dINRhGf6yIoDm1KDj7hJmjsE8raVUUAW_L5Vbvmk7tMUvtLvlHD7SpFNvFkYa8weRqv5atjqYEJF1R616KAg_R6TOsELDDmYJr0_mw_BIKk1aytaVIR4fphSg2lxbMX9yrnOa6yCdw94DDJzg039ts3V3Obe0CPOA&channel_id=50177
 #🐭🐵🐻🤖👶🦸
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA;Animation",🦸RetroCrush TV (1080p)
 #web# https://www.retrocrush.tv/livetv
