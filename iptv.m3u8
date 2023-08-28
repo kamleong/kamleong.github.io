@@ -268,7 +268,8 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="https://i.imgur.com/nki2HDQ.png" group-title="USA;News",🔭CBS News - 1009
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-name="NBC News" tvg-logo="https://i.imgur.com/v48mMRT.png" group-title="USA;News",NBC News - 1010
+#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-name="NBC News" tvg-logo="https://i.imgur.com/v48mMRT.png" group-title="USA;News",✗ NBC News - 1010
+#web# https://www.nbcnews.com/now http://www.freeintertv.com/view/id-245
 #http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
