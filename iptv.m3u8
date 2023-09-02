@@ -54,7 +54,7 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="Indonesia;News",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_shareExt_b384000_sleng.m3u8
 #
-#EXTINF:-1 group-title="Thailand",NBT World
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/y0I78uLv24L08LpXXrch121lh-377cJKlGftIczwQv3NCrnp4BVV2cA9YiZmnFo-nXM485B0Pg=s176-c-k-c0x00ffffff-no-rj" group-title="Thailand",NBT World
 #web# https://thainews.prd.go.th/en/live
 #http://live.prd.go.th:1935/live/ch1_L_L.sdp/playlist.m3u8
 #https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
@@ -332,13 +332,13 @@ https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="RT Doc" group-title="Russia;Documentary",☑RT Doc
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #
-#EXTINF:-1 tvg-id="CCTV9" tvg-id0="CCTV9.cn" tvg-logo="https://i.imgur.com/3R1dkIK.png" group-title="China;Documentary",☑CCTV-9 记录
-#web# https://tv.cctv.com/live/cctv9/
-#https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv9_1/index.m3u8?b=200-2100
-#https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv9_1_720P/playlist.m3u8?wsApp=HLS
-#http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8
-#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
+# -EXTINF:-1 tvg-id="CCTV9" tvg-id0="CCTV9.cn" tvg-logo="https://i.imgur.com/3R1dkIK.png" group-title="China;Documentary",☑CCTV-9 记录
+# web# https://tv.cctv.com/live/cctv9/
+# https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv9_1/index.m3u8?b=200-2100
+# https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv9_1_720P/playlist.m3u8?wsApp=HLS
+# http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8
+# http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+# https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
 # -EXTINF:-1 tvg-id="CCTV10.cn" tvg-logo="https://i.imgur.com/PKtBUL2.png" group-title="China;Documentary",☑CCTV-10 科教
 # web# https://tv.cctv.com/live/cctv10/
 # http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
@@ -495,6 +495,10 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="VICETV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="USA",Vice TV East
 #web# https://www.vicetv.com/en_us/schedule
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
+#
+#EXTINF:-1 tvg-id="VictorValleyTV.us" tvg-logo="https://i.imgur.com/zgiuNNj.png" group-title="USA;Local",Victor Valley TV
+#web# https://victorvalleytvnetw.wixsite.com/vvtn
+https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
 #
 #EXTINF:-1 tvg-id="WCVBDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png" group-title="USA;Local",WCVB-TV News Boston MA (720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8
