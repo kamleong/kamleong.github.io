@@ -172,7 +172,7 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 http://live4.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="TDM5.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",澳門資訊 Ch.94
 https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-id="TDM3.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",☑澳門Macau 衛星頻道 Ch.96
+#EXTINF:-1 tvg-id="TDM3.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",★澳門Macau 衛星頻道 Ch.96
 http://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 # -EXTINF:-1 tvg-id="CanalMacau.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",澳視葡文 Canal Macau Ch.92 (720p) [Not 24/7]
 # https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
@@ -229,7 +229,7 @@ https://npr-ice.streamguys1.com/live.mp3
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK;News",🔭The Guardian
 # https://rakuten-guardian-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" tvg-id="BloombergTelevision.us" group-title="USA",Bloomberg
+#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" tvg-id="BloombergTelevision.us" group-title="USA;Business",Bloomberg
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Hong Kong;Business",Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
@@ -274,9 +274,9 @@ https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 #http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="USA;News",Newsmax (1080p)
-#web# https://www.newsmax.com/
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+# -EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="USA;News",Newsmax (1080p)
+# web# https://www.newsmax.com/
+# http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #
 # -EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CBC News" tvg-logo="https://i.imgur.com/1EqQGKS.png" group-title="Canada;News",✗ CBC News - 87
 # #https://cbcrclive-tor.akamaized.net/hls/live/2040337/geo_allow_global/ES_REGIONS_25/master_2000.m3u8
