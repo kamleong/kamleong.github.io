@@ -107,7 +107,8 @@ https://bstvcdn.ballbar.net/ctv_taiwan/playlist-17.m3u8a?t=...&token=...
 #web# https://www.uchanneltv.us/live-streaming.html
 #http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/playlist.m3u8
 #https://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/playlist.m3u8
-http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+#http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+https://2-fss-2.streamhoster.com/pl_118/200734-1199190-1/playlist.m3u8
 #EXTINF:-1 tvg-id="GOODTV" tvg-name="好消息" group-title="Taiwan;Religious",★好消息
 #web# https://www.goodtv.tv/tv-channel?ch=1
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
@@ -474,6 +475,8 @@ https://hls-live-web-media.cdn01.net/default/stream_50177_1.m3u8?KG-jjzLbU6-2geZ
 https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/cb543d1f7e6c648d9fd43e6fd9ef42a5f9701fde1d6988693eb5518975d1073184bdfad39112b12d148f57d667656b555677895fd47d01cec07ab1414329442fc587b07bd8991208b2d91f5c73f12f480eb61114d1204d229bad425fd538b67c514aa55b3c0633c0ec58f8234f94d102da627cdeff8b6738750c5fcd555def9b6497a8b51d07fa5f9b801c42b4157fa2c12d899645fdd18712bc70bc47f11ebea8ccdc8750c0e9c23cf714e73a1d2a4117f8d04b86a32fde0f196043fe5c11047678e7af92e75d3587352c369adef8cfae7b8eacf341a0733eba7af3270fb08319cf22b2ea5bb0efd4b79bc230d6a60b305dc5cfaf82f42779da0c9efabb8e232ccbb17c2a3606285cc1d59506a2b2c5b4c8ef810a1aa5fe183c2bc9900ab088b38fee8fa15f9135dfd5ce8e5764636c1e0b8a51a3d53895799d30909f427a1c614da38f4d849e81080f341bddc04cc2494ae982c5d3964e1ccf631055a732890a553c9d643d3cc324eb9f3a6391695bd46073ab2a52ea27d0b122e0bfa1a66c5c98d1dd4bf363eecf65f4ff10ac6b334142feb200564b5965928942082372d74af4d9a8b4276c6c59a4aa8ce8f8098113ebe71d8630/50/1920x1080_4715744/index.m3u8
 #EXTINF:-1 tvg-id="XtremaRetroCartoons.ar" tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="Argentina;Animation",🐭Xtrema Retro Cartoons (360p)
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="https://i.imgur.com/EvrI7lk.png" group-title="USA;Kids",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #
 # -EXTINF:-1 tvg-id="MCN6ArtsChannel.us" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="USA;Movies",MCN6 Arts Channel (1080p) [Not 24/7] [!Geo-blocked!]
 # web# https://mcn6.org/mcnartschannel/ # [!Geo-blocked!]
