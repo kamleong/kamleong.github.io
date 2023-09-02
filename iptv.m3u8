@@ -282,8 +282,8 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 # -EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CBC News" tvg-logo="https://i.imgur.com/1EqQGKS.png" group-title="Canada;News",✗ CBC News - 87
 # #https://cbcrclive-tor.akamaized.net/hls/live/2040337/geo_allow_global/ES_REGIONS_25/master_2000.m3u8
 # https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
-#EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada;News",Global News
-https://i.mjh.nz/PlutoTV/62cbef9ebb857100072fc187-alt.m3u8
+# -EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada;News",✗ Global News
+＃ https://i.mjh.nz/PlutoTV/62cbef9ebb857100072fc187-alt.m3u8
 #
 #EXTINF:-1 tvg-id="EURONEWS" tvg-id0="EuronewsEnglish.fr" tvg-name="Euronews English" tvg-logo="https://i.imgur.com/8MsbPCU.png" group-title="Europe;News",☑Euronews English - 1050
 #https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -344,10 +344,6 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 # http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
 # http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
 # https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
-#
-#EXTINF:-1 tvg-id="VICETV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="USA",Vice TV East
-#web# https://www.vicetv.com/en_us/schedule
-https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #
 #EXTINF:-1 tvg-id="MuseumTVFast.us" tvg-logo="https://i.imgur.com/zzVq7BQ.png" group-title="France;Culture",🏛️Museum TV Fast (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
