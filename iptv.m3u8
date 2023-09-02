@@ -244,8 +244,7 @@ http://lzoq.hk3c.ml/daili/?id=cctv1hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV13" tvg-id0="CCTV13.cn" tvg-name="CCTV-13 新闻 Ⓢ" tvg-logo="https://i.imgur.com/pPO8uJN.png" group-title="China;News",🔭CCTV-13 新闻 Ⓢ - 114
 #m3u# https://live.fanmingming.com --> https://cntv.sbs/live?
 #https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv13_1_720P/playlist.m3u8?wsApp=HLS
-#https://cctvwbndtxyhw.liveplay.myqcloud.com/cctvwbnd/jzcctv13_2/index.m3u8
-https://cntv.sbs/live?auth=2307100804&id=cctv13
+https://cctvwbndtxyhw.liveplay.myqcloud.com/cctvwbnd/jzcctv13_2/index.m3u8
 #
 #EXTINF:-1 tvg-id="NHKWORLD" tvg-id0="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://i.imgur.com/TDCuUDs.png" group-title="Japan;News",★NHK World-Japan - 728
 #web# https://www3.nhk.or.jp/nhkworld/
@@ -410,8 +409,7 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv15_1_720P/playlist.m3u8?wsApp=HLS
 #http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205002.m3u8
 #http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
-#https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
-https://cntv.sbs/live?auth=2307280808&id=cctv15
+https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 #
 #EXTINF:-1 tvg-id="CCTV6" tvg-id0="CCTV6.cn" tvg-logo="https://i.imgur.com/dDqvRHX.png" group-title="China;Movies",CCTV-6电影 (1080p)
 #http://58.205.220.58:8088/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
