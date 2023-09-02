@@ -106,7 +106,6 @@ https://bstvcdn.ballbar.net/ctv_taiwan/playlist-17.m3u8a?t=...&token=...
 #EXTINF:-1 tvg-name="優視頻道" group-title="USA",★優視頻道
 #web# https://www.uchanneltv.us/live-streaming.html
 #http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/playlist.m3u8
-#https://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/playlist.m3u8
 #http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 https://2-fss-2.streamhoster.com/pl_118/200734-1199190-1/playlist.m3u8
 #EXTINF:-1 tvg-id="GOODTV" tvg-name="好消息" group-title="Taiwan;Religious",★好消息
@@ -226,10 +225,12 @@ https://npr-ice.streamguys1.com/live.mp3
 # -EXTINF:-1 tvg-id="ITV4.uk" tvg-logo="https://i.imgur.com/DYI4IA2.png" group-title="UK",ITV4 (576p)
 # https://cdnuk001.broadcastcdn.net/KUK-ITV4/playlist.m3u8
 #
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK;News",🔭Reuters
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AbvCnoH.png" group-title="UK;News",🔭Reuters
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK;News",🔭The Guardian
 # https://rakuten-guardian-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" tvg-id="BloombergTelevision.us" group-title="USA",Bloomberg
+https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Hong Kong;Business",Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cnbcindonesia.png" group-title="Indonesia;Business",CNBC Indonesia
@@ -281,6 +282,8 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 # -EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CBC News" tvg-logo="https://i.imgur.com/1EqQGKS.png" group-title="Canada;News",✗ CBC News - 87
 # #https://cbcrclive-tor.akamaized.net/hls/live/2040337/geo_allow_global/ES_REGIONS_25/master_2000.m3u8
 # https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada;News",Global News
+https://i.mjh.nz/PlutoTV/62cbef9ebb857100072fc187-alt.m3u8
 #
 #EXTINF:-1 tvg-id="EURONEWS" tvg-id0="EuronewsEnglish.fr" tvg-name="Euronews English" tvg-logo="https://i.imgur.com/8MsbPCU.png" group-title="Europe;News",☑Euronews English - 1050
 #https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -341,6 +344,10 @@ https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
 # http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
 # http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
 # https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
+#
+#EXTINF:-1 tvg-id="VICETV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="USA",Vice TV East
+#web# https://www.vicetv.com/en_us/schedule
+https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #
 #EXTINF:-1 tvg-id="MuseumTVFast.us" tvg-logo="https://i.imgur.com/zzVq7BQ.png" group-title="France;Culture",🏛️Museum TV Fast (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
@@ -469,7 +476,7 @@ https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8
 #web# https://www.getafteritmedia.com/retro-live-feed
 https://hls-live-web-media.cdn01.net/default/stream_50177_1.m3u8?KG-jjzLbU6-2geZD0PZRoKvg2loI3GNjNLHDmMV8PthL6dINRhGf6yIoDm1KDj7hJmjsE8raVUUAW_L5Vbvmk7tMUvtLvlHD7SpFNvFkYa8weRqv5atjqYEJF1R616KAg_R6TOsELDDmYJr0_mw_BIKk1aytaVIR4fphSg2lxbMX9yrnOa6yCdw94DDJzg039ts3V3Obe0CPOA&channel_id=50177
 #🐭🐵🐻🤖👶🦸
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA;Animation",🦸RetroCrush TV (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/0sGC_MLday5uTDFA7x0gzd2UUPTqex4P7XP1YCE2GGJsl8opuFNqdbywH-cqXo0iPWA=w240-h480" group-title="USA;Animation",🦸RetroCrush TV (1080p)
 #web# https://www.retrocrush.tv/livetv
 #https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.app_bundle=&ads.app_store_url=&ads.consent=0&ads.gdpr=0&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.psid=&ads.targetopt=1&ads.ua=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.89+Safari/537.36+OPR/70.0.3728.71&ads.us_privacy=1---&ads.wurl_channel=491&ads.wurl_name=RetroCrush
 https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/cb543d1f7e6c648d9fd43e6fd9ef42a5f9701fde1d6988693eb5518975d1073184bdfad39112b12d148f57d667656b555677895fd47d01cec07ab1414329442fc587b07bd8991208b2d91f5c73f12f480eb61114d1204d229bad425fd538b67c514aa55b3c0633c0ec58f8234f94d102da627cdeff8b6738750c5fcd555def9b6497a8b51d07fa5f9b801c42b4157fa2c12d899645fdd18712bc70bc47f11ebea8ccdc8750c0e9c23cf714e73a1d2a4117f8d04b86a32fde0f196043fe5c11047678e7af92e75d3587352c369adef8cfae7b8eacf341a0733eba7af3270fb08319cf22b2ea5bb0efd4b79bc230d6a60b305dc5cfaf82f42779da0c9efabb8e232ccbb17c2a3606285cc1d59506a2b2c5b4c8ef810a1aa5fe183c2bc9900ab088b38fee8fa15f9135dfd5ce8e5764636c1e0b8a51a3d53895799d30909f427a1c614da38f4d849e81080f341bddc04cc2494ae982c5d3964e1ccf631055a732890a553c9d643d3cc324eb9f3a6391695bd46073ab2a52ea27d0b122e0bfa1a66c5c98d1dd4bf363eecf65f4ff10ac6b334142feb200564b5965928942082372d74af4d9a8b4276c6c59a4aa8ce8f8098113ebe71d8630/50/1920x1080_4715744/index.m3u8
@@ -484,6 +491,10 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA;Local",MCN6 (1080p) [Not 24/7] [!Geo-blocked!]
 # web# https://mcn6.org/mcnlivestream/ # [!Geo-blocked!]
 # https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
+#
+#EXTINF:-1 tvg-id="VICETV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="USA",Vice TV East
+#web# https://www.vicetv.com/en_us/schedule
+https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #
 #EXTINF:-1 tvg-id="WCVBDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png" group-title="USA;Local",WCVB-TV News Boston MA (720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8
