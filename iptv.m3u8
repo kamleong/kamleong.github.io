@@ -9,7 +9,7 @@
 # -EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ms/rtmklik.rtm.gov.my.xml.gz, https://iptv-org.github.io/epg/guides/zh/rthk.hk.xml.gz, https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml.gz"
 # ★☑✗🚫✗☑★ 📰📻📺🎦🎬🎥📡 https://docs.google.com/spreadsheets/d/1cj66AnWNgJ3GqDTIQBWeUEsapjp_Zk37v11iwoa8xzM/edit#gid=2107508417
 #
-#EXTINF:-1 tvg-name="AiFM" group-title="Malaysia;Radio",📻爱FM (Radio)
+#EXTINF:-1 tvg-name="AiFM" tvg-logo="https://en.wikipedia.org/wiki/Ai_FM#/media/File:Ai_FM_logo.png" group-title="Malaysia;Radio",📻爱FM (Radio)
 #web# https://rtmklik.rtm.gov.my/radio/nasional/ai-fm
 https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
 #EXTINF:-1 tvg-name="8TV" tvg-id="8TV.my" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",📺8TV (MY)
@@ -103,7 +103,7 @@ https://bstvcdn.ballbar.net/ctv_taiwan/playlist-17.m3u8a?t=...&token=...
 # -EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="Taiwan",Taiwan Plus (1080p)
 # https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 #
-#EXTINF:-1 tvg-name="優視頻道" group-title="USA",★優視頻道
+#EXTINF:-1 tvg-name="優視頻道" tvg-logo="http://www.uchanneltv.us/uploads/7/6/2/5/76251585/uchannel-tv-logo-update-v2.jpg" group-title="USA",★優視頻道
 #web# https://www.uchanneltv.us/live-streaming.html
 #http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/playlist.m3u8
 #http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
@@ -308,7 +308,7 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204802.m3u8
 #https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
 http://210.210.155.37/qwr9ew/s/s19/index.m3u8
-#EXTINF:-1 tvg-id="长城精品" tvg-name="长城精品频道" tvg-logo="" group-title="China",长城精品频道
+#EXTINF:-1 tvg-id="长城精品" tvg-name="长城精品频道" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/2c/24/b5/2c24b5a2-0877-195e-2bad-c6b33ae04e38/source/512x512bb.jpg" group-title="China",长城精品频道
 http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 #
 #EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/PBS_America_logo.png" group-title="UK;USA",PBS America (720p)
@@ -316,7 +316,7 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WKMJDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="USA",★PBS KET World (480p)
 https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 #
-#EXTINF:-1 group-title="UN",☑United Nations Web TV
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-un-web-tv-6932.jpg" group-title="UN",☑United Nations Web TV
 https://cdnapisec.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #
 #EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png" group-title="USA;Documentary",🏛️Smithsonian Channel Asia (1080p)
@@ -466,9 +466,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvnl-sams
 http://210.210.155.37/dr9445/h/h37/index.m3u8
 #EXTINF:-1 tvg-id="TVSHollywoodHistory.us" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="USA;Entertainment",TVS Hollywood History (582p)
 https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8
-#EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://imgur.com/PNTYOgg.png" tvg-id="RetroTVEast.us" group-title="USA;Entertainment",Retro TV
-#web# https://www.getafteritmedia.com/retro-live-feed
-https://hls-live-web-media.cdn01.net/default/stream_50177_1.m3u8?KG-jjzLbU6-2geZD0PZRoKvg2loI3GNjNLHDmMV8PthL6dINRhGf6yIoDm1KDj7hJmjsE8raVUUAW_L5Vbvmk7tMUvtLvlHD7SpFNvFkYa8weRqv5atjqYEJF1R616KAg_R6TOsELDDmYJr0_mw_BIKk1aytaVIR4fphSg2lxbMX9yrnOa6yCdw94DDJzg039ts3V3Obe0CPOA&channel_id=50177
+# -EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://imgur.com/PNTYOgg.png" tvg-id="RetroTVEast.us" group-title="USA;Entertainment",Retro TV
+# web# https://www.getafteritmedia.com/retro-live-feed
+# https://hls-live-web-media.cdn01.net/default/stream_50177_1.m3u8?KG-jjzLbU6-2geZD0PZRoKvg2loI3GNjNLHDmMV8PthL6dINRhGf6yIoDm1KDj7hJmjsE8raVUUAW_L5Vbvmk7tMUvtLvlHD7SpFNvFkYa8weRqv5atjqYEJF1R616KAg_R6TOsELDDmYJr0_mw_BIKk1aytaVIR4fphSg2lxbMX9yrnOa6yCdw94DDJzg039ts3V3Obe0CPOA&channel_id=50177
 #🐭🐵🐻🤖👶🦸
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/0sGC_MLday5uTDFA7x0gzd2UUPTqex4P7XP1YCE2GGJsl8opuFNqdbywH-cqXo0iPWA=w240-h480" group-title="USA;Animation",🦸RetroCrush TV (1080p)
 #web# https://www.retrocrush.tv/livetv
