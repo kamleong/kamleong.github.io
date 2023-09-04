@@ -9,7 +9,7 @@
 # -EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ms/rtmklik.rtm.gov.my.xml.gz, https://iptv-org.github.io/epg/guides/zh/rthk.hk.xml.gz, https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml.gz"
 # ★☑✗🚫✗☑★ 📰📻📺🎦🎬🎥📡 https://docs.google.com/spreadsheets/d/1cj66AnWNgJ3GqDTIQBWeUEsapjp_Zk37v11iwoa8xzM/edit#gid=2107508417
 #
-#EXTINF:-1 tvg-name="AiFM" tvg-logo="https://en.wikipedia.org/wiki/Ai_FM#/media/File:Ai_FM_logo.png" group-title="Malaysia;Radio",📻爱FM (Radio)
+#EXTINF:-1 tvg-name="AiFM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Ai_FM_logo.png" group-title="Malaysia;Radio",📻爱FM (Radio)
 #web# https://rtmklik.rtm.gov.my/radio/nasional/ai-fm
 https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
 #EXTINF:-1 tvg-name="8TV" tvg-id="8TV.my" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",📺8TV (MY)
@@ -24,7 +24,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
 # -EXTINF:-1 tvg-id="8TV.my" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="Malaysia",8TV (720p) [Geo-blocked]
 #web# https://www.tonton.com.my/liveChannel?titleId=8tv
 https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
-#EXTINF:-1 tvg-name="TV2" tvg-id="TV2.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia",📺RTM TV2 (MY)
+#EXTINF:-1 tvg-name="TV2" tvg-id="TV2.my" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg" group-title="Malaysia",📺RTM TV2 (MY)
 #web# https://rtmklik.rtm.gov.my/live/tv2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #
