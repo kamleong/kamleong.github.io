@@ -325,12 +325,17 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d35dfa5c02e717a234f86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=651&terminate=false&userId=
 #EXTINF:-1 tvg-id="TrueHistory.us" tvg-logo="https://i.imgur.com/1BHDGXx.png" group-title="USA;Documentary",True History (720p)
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="UK;Documentary",★History Hit
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/9f47f6e9e073f90dda50841afe557a29b9e6a1c7bcf5470fe9e3bbd6b07ac275.png" group-title="UK;Documentary",★History Hit
+#web# https://www.historyhit.com/
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 #
-#EXTINF:-1 tvg-name="RT Doc" group-title="Russia;Documentary",☑RT Doc
+#EXTINF:-1 tvg-name="RT Doc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png/800px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png" group-title="Russia;Documentary",☑RT Doc
+#web# https://www.rt.com/on-air/ | https://rtd.rt.com/on-air/
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #
+#EXTINF:-1 tvg-id="FreeSpeechTV.us" tvg-logo="https://i.imgur.com/Qq6heRq.png" group-title="USA;Documentary",Free Speech TV (720p)
+#web# https://freespeech.org/
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 # -EXTINF:-1 tvg-id="CCTV9" tvg-id0="CCTV9.cn" tvg-logo="https://i.imgur.com/3R1dkIK.png" group-title="China;Documentary",☑CCTV-9 记录
 # web# https://tv.cctv.com/live/cctv9/
 # https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv9_1/index.m3u8?b=200-2100
@@ -343,10 +348,16 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 # http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
 # http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
 # https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
+#EXTINF:-1 tvg-id="EarthxTV.us" tvg-logo="https://i.imgur.com/ZWWqiCb.png" group-title="USA;Documentary",EarthxTV (720p)
+#web# https://www.earthxtv.com/
+https://ov.ottera.tv/live/master.m3u8?channel=earth_et
 #
 #EXTINF:-1 tvg-id="MuseumTVFast.us" tvg-logo="https://i.imgur.com/zzVq7BQ.png" group-title="France;Culture",🏛️Museum TV Fast (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
 #
+#EXTINF:-1 tvg-id="GFNTV.us" tvg-logo="https://i.imgur.com/pu4BC3M.png" group-title="USA;Lifestyle",GFN TV (720p) [Not 24/7]
+#web# https://gfntv.com/live-tv/
+https://d3jxchypmk8fja.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/GFNTV-Plex/169.m3u8
 #EXTINF:-1 tvg-id="GoUSATV.us" tvg-logo="https://i.imgur.com/x90ALip.png" group-title="USA;Travel",Go USA
 #web# https://www.visittheusa.com/gousa-tv
 https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
@@ -466,6 +477,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvnl-sams
 http://210.210.155.37/dr9445/h/h37/index.m3u8
 #EXTINF:-1 tvg-id="TVSHollywoodHistory.us" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="USA;Entertainment",TVS Hollywood History (582p)
 https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8
+#EXTINF:-1 tvg-id="FolkTV.us" tvg-logo="https://i.imgur.com/hV46zMX.png" group-title="USA;Entertainment",Folk TV
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 # -EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://imgur.com/PNTYOgg.png" tvg-id="RetroTVEast.us" group-title="USA;Entertainment",Retro TV
 # web# https://www.getafteritmedia.com/retro-live-feed
 # https://hls-live-web-media.cdn01.net/default/stream_50177_1.m3u8?KG-jjzLbU6-2geZD0PZRoKvg2loI3GNjNLHDmMV8PthL6dINRhGf6yIoDm1KDj7hJmjsE8raVUUAW_L5Vbvmk7tMUvtLvlHD7SpFNvFkYa8weRqv5atjqYEJF1R616KAg_R6TOsELDDmYJr0_mw_BIKk1aytaVIR4fphSg2lxbMX9yrnOa6yCdw94DDJzg039ts3V3Obe0CPOA&channel_id=50177
@@ -486,22 +499,36 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 # web# https://mcn6.org/mcnlivestream/ # [!Geo-blocked!]
 # https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 #
+#EXTINF:-1 tvg-id="XploreTV.us" tvg-logo="https://i.imgur.com/WaGRlFO.png" group-title="USA;Lifestyle",Xplore
+#web# https://www.watchxplore.com/
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 # -EXTINF:-1 tvg-id="VICETV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="USA",Vice TV East
 # web# https://www.vicetv.com/en_us/schedule
 # https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="AMGTV.us" tvg-logo="https://i.imgur.com/m5Anun9.png" group-title="USA;Religious",AMG TV (1080p)
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #
 #EXTINF:-1 tvg-id="VictorValleyTV.us" tvg-logo="https://i.imgur.com/zgiuNNj.png" group-title="USA;Local",Victor Valley TV
 #web# https://victorvalleytvnetw.wixsite.com/vvtn
 https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
+#EXTINF:-1 tvg-id="WPSTV.us" tvg-logo="https://i.imgur.com/zwzmwse.jpg" group-title="USA;Local",WPS TV (360p)
+#web# https://www.wpstx.tv/
+https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://wracanal10.com/wp-content/uploads/2023/01/Wracanal10Tv.png" group-title="USA;Local",WRA Canal 10 (1080p)
+#web# https://wracanal10.com/
+https://streamtv.intervenhosting.net:3582/live/wadydelrosariolive.m3u8
 #
-#EXTINF:-1 tvg-id="WCVBDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png" group-title="USA;Local",WCVB-TV News Boston MA (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="WCVBDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png" group-title="USA;Local;News",WCVB-TV News Boston MA (720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8
-#EXTINF:-1 tvg-id="CBSNewsBaltimore.us" tvg-logo="https://i.imgur.com/jy3UfCe.png" group-title="US;Local",CBS News Baltimore (720p)
+#EXTINF:-1 tvg-id="CBSNewsBaltimore.us" tvg-logo="https://i.imgur.com/jy3UfCe.png" group-title="US;Local;News",CBS News Baltimore (720p)
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-# -EXTINF:-1 tvg-id="WBALDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/WBAL_Horizontal_Logo_2013.png" group-title="US;Local",WBAL-TV News Baltimore MD (576p)
+# -EXTINF:-1 tvg-id="WBALDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/WBAL_Horizontal_Logo_2013.png" group-title="US;Local;News",WBAL-TV News Baltimore MD (576p)
 # https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WBAL.m3u8
-#EXTINF:-1 tvg-id="WFTXDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="USA;Local",WFTX News Fort Myers FL (720p)
+#EXTINF:-1 tvg-id="WFTXDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="USA;Local;News",WFTX News Fort Myers FL (720p)
 https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
+#EXTINF:-1 tvg-id="WPTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="USA;Local;News",WPTV News West Palm Beach FL (720p)
+#web# https://www.wptv.com/live
+https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
 #EXTINF:-1 group-title="USA;Local",☑Seattle Channel
 https://cdn3.wowza.com/1/UFE5VjR0eVBzSkhP/YzVaUHpi/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Localish.us" tvg-logo="https://i.imgur.com/ACEbGD5.png" group-title="USA;Local",ABC Localish Bay Area (720p)
