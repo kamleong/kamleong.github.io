@@ -474,7 +474,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvnl-sams
 #
 #EXTINF:-1 tvg-id="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Singapore;Entertainment",★HITS (576p)
 #web# https://www.hitstv.com/schedule.php
-http://210.210.155.37/dr9445/h/h37/index.m3u8
+#http://210.210.155.37/dr9445/h/h37/index.m3u8
+#https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 # -EXTINF:-1 tvg-id="TVSHollywoodHistory.us" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="USA;Entertainment",TVS Hollywood History (582p)
 # https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8
 # -EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://imgur.com/PNTYOgg.png" tvg-id="RetroTVEast.us" group-title="USA;Entertainment",Retro TV
@@ -512,9 +514,9 @@ https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
 #EXTINF:-1 tvg-id="WPSTV.us" tvg-logo="https://i.imgur.com/zwzmwse.jpg" group-title="USA;Local",WPS TV (360p)
 #web# https://www.wpstx.tv/
 https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://wracanal10.com/wp-content/uploads/2023/01/Wracanal10Tv.png" group-title="USA;Local",WRA Canal 10 (1080p)
-#web# https://wracanal10.com/
-https://streamtv.intervenhosting.net:3582/live/wadydelrosariolive.m3u8
+# -EXTINF:-1 tvg-id="WRA10.do" tvg-logo="https://wracanal10.com/wp-content/uploads/2023/01/Wracanal10Tv.png" group-title="DominicanR",WRA Canal 10 (1080p)
+# web# https://wracanal10.com/ https://www.post.gov.tw/post/internet/Postal/sz_a_e_info.jsp 多明尼加 x多米尼克
+# https://streamtv.intervenhosting.net:3582/live/wadydelrosariolive.m3u8
 #
 #EXTINF:-1 tvg-id="WCVBDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png" group-title="USA;Local;News",WCVB-TV News Boston MA (720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8
