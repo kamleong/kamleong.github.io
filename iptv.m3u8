@@ -108,7 +108,7 @@ https://bstvcdn.ballbar.net/ctv_taiwan/playlist-17.m3u8a?t=...&token=...
 #http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/playlist.m3u8
 #http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 https://2-fss-2.streamhoster.com/pl_118/200734-1199190-1/playlist.m3u8
-#EXTINF:-1 tvg-id="GOODTV" tvg-name="好消息" group-title="Taiwan;Religious",★好消息
+#EXTINF:-1 tvg-id="GOODTV" tvg-name="好消息" tvg-logo="https://i.imgur.com/k28Kc3o.png" group-title="Taiwan;Religious",★好消息
 #web# https://www.goodtv.tv/tv-channel?ch=1
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 #
@@ -355,9 +355,9 @@ https://ov.ottera.tv/live/master.m3u8?channel=earth_et
 #EXTINF:-1 tvg-id="MuseumTVFast.us" tvg-logo="https://i.imgur.com/zzVq7BQ.png" group-title="France;Culture",🏛️Museum TV Fast (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
 #
-#EXTINF:-1 tvg-id="GFNTV.us" tvg-logo="https://i.imgur.com/pu4BC3M.png" group-title="USA;Lifestyle",GFN TV (720p) [Not 24/7]
-#web# https://gfntv.com/live-tv/
-https://d3jxchypmk8fja.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/GFNTV-Plex/169.m3u8
+# -EXTINF:-1 tvg-id="GFNTV.us" tvg-logo="https://i.imgur.com/pu4BC3M.png" group-title="USA;Lifestyle",GFN TV (720p) [Not 24/7]
+# web# https://gfntv.com/live-tv/
+# https://d3jxchypmk8fja.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/GFNTV-Plex/169.m3u8
 #EXTINF:-1 tvg-id="GoUSATV.us" tvg-logo="https://i.imgur.com/x90ALip.png" group-title="USA;Travel",Go USA
 #web# https://www.visittheusa.com/gousa-tv
 https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
@@ -474,9 +474,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvnl-sams
 #
 #EXTINF:-1 tvg-id="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Singapore;Entertainment",★HITS (576p)
 #web# https://www.hitstv.com/schedule.php
-#http://210.210.155.37/dr9445/h/h37/index.m3u8
-#https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
-https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+http://210.210.155.37/dr9445/h/h37/index.m3u8
 # -EXTINF:-1 tvg-id="TVSHollywoodHistory.us" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="USA;Entertainment",TVS Hollywood History (582p)
 # https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8
 # -EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://imgur.com/PNTYOgg.png" tvg-id="RetroTVEast.us" group-title="USA;Entertainment",Retro TV
