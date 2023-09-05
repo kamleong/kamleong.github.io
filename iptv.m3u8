@@ -333,7 +333,7 @@ https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 #web# https://www.rt.com/on-air/ | https://rtd.rt.com/on-air/
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #
-#EXTINF:-1 tvg-id="FreeSpeechTV.us" tvg-logo="https://i.imgur.com/Qq6heRq.png" group-title="USA;Documentary",Free Speech TV (720p)
+#EXTINF:-1 tvg-id="FreeSpeechTV.us" tvg-logo="https://i.imgur.com/Qq6heRq.png" group-title="USA;Talk",Free Speech TV (720p)
 #web# https://freespeech.org/
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 # -EXTINF:-1 tvg-id="CCTV9" tvg-id0="CCTV9.cn" tvg-logo="https://i.imgur.com/3R1dkIK.png" group-title="China;Documentary",☑CCTV-9 记录
@@ -475,10 +475,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvnl-sams
 #EXTINF:-1 tvg-id="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Singapore;Entertainment",★HITS (576p)
 #web# https://www.hitstv.com/schedule.php
 http://210.210.155.37/dr9445/h/h37/index.m3u8
-#EXTINF:-1 tvg-id="TVSHollywoodHistory.us" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="USA;Entertainment",TVS Hollywood History (582p)
-https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8
-#EXTINF:-1 tvg-id="FolkTV.us" tvg-logo="https://i.imgur.com/hV46zMX.png" group-title="USA;Entertainment",Folk TV
-http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
+# -EXTINF:-1 tvg-id="TVSHollywoodHistory.us" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="USA;Entertainment",TVS Hollywood History (582p)
+# https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8
 # -EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://imgur.com/PNTYOgg.png" tvg-id="RetroTVEast.us" group-title="USA;Entertainment",Retro TV
 # web# https://www.getafteritmedia.com/retro-live-feed
 # https://hls-live-web-media.cdn01.net/default/stream_50177_1.m3u8?KG-jjzLbU6-2geZD0PZRoKvg2loI3GNjNLHDmMV8PthL6dINRhGf6yIoDm1KDj7hJmjsE8raVUUAW_L5Vbvmk7tMUvtLvlHD7SpFNvFkYa8weRqv5atjqYEJF1R616KAg_R6TOsELDDmYJr0_mw_BIKk1aytaVIR4fphSg2lxbMX9yrnOa6yCdw94DDJzg039ts3V3Obe0CPOA&channel_id=50177
@@ -508,7 +506,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-
 #EXTINF:-1 tvg-id="AMGTV.us" tvg-logo="https://i.imgur.com/m5Anun9.png" group-title="USA;Religious",AMG TV (1080p)
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #
-#EXTINF:-1 tvg-id="VictorValleyTV.us" tvg-logo="https://i.imgur.com/zgiuNNj.png" group-title="USA;Local",Victor Valley TV
+#EXTINF:-1 tvg-id="VictorValleyTV.us" tvg-logo="https://i.imgur.com/zgiuNNj.png" group-title="USA;Local",☑Victor Valley TV
 #web# https://victorvalleytvnetw.wixsite.com/vvtn
 https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
 #EXTINF:-1 tvg-id="WPSTV.us" tvg-logo="https://i.imgur.com/zwzmwse.jpg" group-title="USA;Local",WPS TV (360p)
