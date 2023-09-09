@@ -236,15 +236,15 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cnbcindonesia.png" group-title="Indonesia;Business",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_shareExt_b384000_sleng.m3u8
 #
-#EXTINF:-1 tvg-id="CCTV1" tvg-id0="CCTV1.cn" tvg-name="CCTV-1 综合 Ⓢ" tvg-logo="https://i.imgur.com/uHU6Vc0.png" group-title="China",CCTV-1 综合 Ⓢ - 110
+#EXTINF:-1 tvg-id="CCTV1" tvg-id0="CCTV1.cn" tvg-name="CCTV-1 综合 Ⓢ" tvg-logo="https://i.imgur.com/uHU6Vc0.png" group-title="China",✗ CCTV-1 综合 Ⓢ - 110
 #web# https://tv.cctv.com/live/cctv1/
 #https://cctvwbcdkshw.v.kcdnvip.com/cctvwbcd/cdrmcctv1_1/index.m3u8?BR=td&region=shanghai
 #https://cctvwbndtxy.liveplay.myqcloud.com/cctvwbnd/jzcctv1_2/index.m3u8
 http://lzoq.hk3c.ml/daili/?id=cctv1hd8m/8000000
-#EXTINF:-1 tvg-id="CCTV13" tvg-id0="CCTV13.cn" tvg-name="CCTV-13 新闻 Ⓢ" tvg-logo="https://i.imgur.com/pPO8uJN.png" group-title="China;News",🔭CCTV-13 新闻 Ⓢ - 114
-#m3u# https://live.fanmingming.com --> https://cntv.sbs/live?
-#https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv13_1_720P/playlist.m3u8?wsApp=HLS
-https://cctvwbndtxyhw.liveplay.myqcloud.com/cctvwbnd/jzcctv13_2/index.m3u8
+# -EXTINF:-1 tvg-id="CCTV13" tvg-id0="CCTV13.cn" tvg-name="CCTV-13 新闻 Ⓢ" tvg-logo="https://i.imgur.com/pPO8uJN.png" group-title="China;News",🔭CCTV-13 新闻 Ⓢ - 114
+# m3u# https://live.fanmingming.com --> https://cntv.sbs/live?
+# https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv13_1_720P/playlist.m3u8?wsApp=HLS
+# https://cctvwbndtxyhw.liveplay.myqcloud.com/cctvwbnd/jzcctv13_2/index.m3u8
 #
 #EXTINF:-1 tvg-id="NHKWORLD" tvg-id0="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://i.imgur.com/TDCuUDs.png" group-title="Japan;News",★NHK World-Japan - 728
 #web# https://www3.nhk.or.jp/nhkworld/
@@ -475,7 +475,7 @@ http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 #https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvnl-samsungnl/playlist.m3u8
 #
-#EXTINF:-1 tvg-id="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Singapore;Entertainment",☑HITS (576p)
+#EXTINF:-1 tvg-id="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Singapore;Entertainment",✗ ☑HITS (576p)
 #web# https://www.hitstv.com/schedule.php
 #https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 http://210.210.155.37/dr9445/h/h37/index.m3u8
