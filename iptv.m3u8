@@ -264,6 +264,8 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #
 #EXTINF:-1 tvg-id="ABCNews.au" tvg-name="ABC News" tvg-logo="https://i.imgur.com/GpgrYCb.png" group-title="Australia;News",★ABC News 24 (AU) - 23
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-id="SkyNewsExtra3.au" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="Australia;News",Sky News Extra3 (AU)
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #
 #EXTINF:-1 tvg-id="ABCNews.us" tvg-name="ABC News" tvg-logo="https://i.imgur.com/7sJLzKi.png" group-title="USA;News",☑ABC News - 1008
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -605,7 +607,7 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",农安新闻综合 [Geo-blocked]
 # http://stream2.jlntv.cn/naxw/sd/live.m3u8
-# - EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",前郭综合 [Geo-blocked]
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",前郭综合 [Geo-blocked]
 # http://stream2.jlntv.cn/qg/sd/live.m3u8
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",仙桃新闻综合 (576p)
 # http://221.233.242.239:280/live/71/playlist.m3u8
@@ -623,6 +625,8 @@ https://cdnts.sinovision.net/livestream.m3u8
 #EXTINF:-1 tvg-id="SinoTV" tvg-logo="https://d1pv4des13xhh9.cloudfront.net/prod/sized/17448/128x128.png" group-title="USA",SinoTV 華語電視 (LA)
 #web# |KXLA 44.2|KCNZ-CD 28.4|SINO TV NY| https://www.nysino.com/sinotv/ 
 http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+# -EXTINF:-1 tvg-id="SinoTV" tvg-logo="https://d1pv4des13xhh9.cloudfront.net/prod/sized/17446/128x128.png" group-title="USA",SinoTV 華語電視 (SFO)
+# http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
 #EXTINF:-1 tvg-id="SinoTV" tvg-logo="https://d1pv4des13xhh9.cloudfront.net/prod/sized/17444/128x128.png" group-title="USA",SinoTV 華語電視 (NY) 粤語
 #web# https://www.nysino.com/sinotv/
 http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
