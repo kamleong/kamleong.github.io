@@ -621,11 +621,15 @@ http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #https://jpts.sinovision.net/livestream.m3u8
 https://cdnts.sinovision.net/livestream.m3u8
 #EXTINF:-1 tvg-id="SinoTV" tvg-logo="https://d1pv4des13xhh9.cloudfront.net/prod/sized/17448/128x128.png" group-title="USA",SinoTV 華語電視 (LA)
-#web# https://www.nysino.com/sinotv/
+#web# |KXLA 44.2|KCNZ-CD 28.4|SINO TV NY| https://www.nysino.com/sinotv/ 
 http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 #EXTINF:-1 tvg-id="SinoTV" tvg-logo="https://d1pv4des13xhh9.cloudfront.net/prod/sized/17444/128x128.png" group-title="USA",SinoTV 華語電視 (NY) 粤語
 #web# https://www.nysino.com/sinotv/
 http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+#EXTINF:-1 tvg-id="STV.us" tvg-logo="https://scdaily.com/images/tTkalKyBNDiucOvxt03SBVuDwoi6zfg74KjYjyGH.png" group-title="USA",美南電視 (STV15.3)
+#web# 休斯頓 https://scdaily.com/tv 
+#https://cdn30.liveonlineservices.com/hls/stv.m3u8
+http://cdn71.liveonlineservices.com/hls/stv.m3u8
 #
 # -EXTINF:-1 group-title="playlist.m3u",📁 📖 iptv-org.malaysia
 # https://iptv-org.github.io/iptv/countries/my.m3u
