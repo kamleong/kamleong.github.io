@@ -614,7 +614,7 @@ http://stream.smntv.cn/smtv1/playlist.m3u8
 #EXTINF:-1 tvg-name="SMN-Pub" tvg-logo="" group-title="China;Local",三明2公共 (720p) [Not 24/7]
 http://stream.smntv.cn/smtv2/playlist.m3u8
 #
-#EXTINF:-1 tvg-id="ETTV.us" tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="USA;Taiwan",ETTV America (東森美洲電視)
+#EXTINF:-1 tvg-id="ETTV.us" tvg-logo="https://www.ebc.net.tw/Images/169-america.jpg" group-title="USA;Taiwan",ETTV America (東森美洲電視)
 #web# https://www.ettvamerica.com/
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 tvg-id="SinoVision.cn" tvg-logo="https://i.imgur.com/ir3jkyL.png" group-title="USA",美国中文电视 (406p) [Not 24/7]
