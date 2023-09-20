@@ -545,33 +545,32 @@ https://play.radiofoshan.com.cn/live/1400389414_BSID_46_audio.m3u8
 #EXTINF:-1 tvg-name="FangshanTV" tvg-id="FangshanTV.cn" tvg-logo="https://i.imgur.com/YyYArWr.png" group-title="China;Local",☑房山电视台
 #https://live.funhillrm.com/2/sd/live.m3u8
 https://live.funhillrm.com/2/playlist.m3u8
-#EXTINF:-1 tvg-name="BeijingSatelliteTV" tvg-id="BeijingSatelliteTV.cn" tvg-logo="https://i.imgur.com/vsktAez.png" group-title="China;Local",北京卫视
-#http://beijingzhibo.com | http://www.yangshizhibo.com
-http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000272103.m3u8
+# -EXTINF:-1 tvg-name="BeijingSatelliteTV" tvg-id="BeijingSatelliteTV.cn" tvg-logo="https://i.imgur.com/vsktAez.png" group-title="China;Local",北京卫视
+# http://beijingzhibo.com | http://www.yangshizhibo.com
+# http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000272103.m3u8
 #
-#EXTINF:-1 tvg-name="DragonTV" tvg-id="DragonTV.cn" tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="China;Local",东方卫视
-#http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000292403.m3u8
-https://cntv.sbs/live?auth=2307100804&id=dfws
+# -EXTINF:-1 tvg-name="DragonTV" tvg-id="DragonTV.cn" tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="China;Local",东方卫视
+# http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000292403.m3u8
 #EXTINF:-1 tvg-name="JinShan" tvg-logo="" group-title="China;Local",上海金山电视台 (270p)
 http://live.mudu.tv/watch/4zbn2f.m3u8
 #
-#EXTINF:-1 tvg-name="ZhejiangSatelliteTV" tvg-id="ZhejiangSatelliteTV.cn" tvg-logo="https://i.imgur.com/5gQn4uY.png" group-title="China;Local",浙江卫视
-#http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295503.m3u8
-#https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
-https://cntv.sbs/live?auth=2307100804&id=zjws
-#EXTINF:-1 tvg-name="JiangsuSatelliteTV" tvg-id="JiangsuSatelliteTV.cn" tvg-logo="https://i.imgur.com/CA4F1rv.png" group-title="China;Local",江苏卫视
-#http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295603.m3u8
-https://cntv.sbs/live?auth=2307100804&id=jsws
-#EXTINF:-1 tvg-name="HunanTV" tvg-id="HunanTV.cn" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="China;Local",湖南卫视
-http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296203.m3u8
-#EXTINF:-1 tvg-name="GuangdongSatelliteTV" group-title="China;Local",广东卫视
-http://lzoq.hk3c.ml/daili/?id=gdwshd8m/8000000
-#EXTINF:-1 tvg-id="珠江" tvg-name="GDTV-ZJ" group-title="China;Local",✗ 广东珠江
-#web# https://www.gdtv.cn/tvChannelDetail/44 | #http://www.baidu.com.cdns.cfd/html/gdtv.html?id=gdzj
-#https://tcdn.itouchtv.cn/live/gdzj.m3u8? | #http://gxyl-dl001.8866.org:8181/tsfile/live/1000_1.m3u8 
-#http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdzj&auth=rinimabi
-#http://113.117.74.15:8081/hls/139/index.m3u8
-http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
+# -EXTINF:-1 tvg-name="ZhejiangSatelliteTV" tvg-id="ZhejiangSatelliteTV.cn" tvg-logo="https://i.imgur.com/5gQn4uY.png" group-title="China;Local",浙江卫视
+# http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295503.m3u8
+# https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
+# https://cntv.sbs/live?auth=2307100804&id=zjws
+# -EXTINF:-1 tvg-name="JiangsuSatelliteTV" tvg-id="JiangsuSatelliteTV.cn" tvg-logo="https://i.imgur.com/CA4F1rv.png" group-title="China;Local",江苏卫视
+# http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295603.m3u8
+# https://cntv.sbs/live?auth=2307100804&id=jsws
+# -EXTINF:-1 tvg-name="HunanTV" tvg-id="HunanTV.cn" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="China;Local",湖南卫视
+# http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296203.m3u8
+# -EXTINF:-1 tvg-name="GuangdongSatelliteTV" group-title="China;Local",广东卫视
+# http://lzoq.hk3c.ml/daili/?id=gdwshd8m/8000000
+# -EXTINF:-1 tvg-id="珠江" tvg-name="GDTV-ZJ" group-title="China;Local",✗ 广东珠江
+# web# https://www.gdtv.cn/tvChannelDetail/44 | #http://www.baidu.com.cdns.cfd/html/gdtv.html?id=gdzj
+# https://tcdn.itouchtv.cn/live/gdzj.m3u8? | #http://gxyl-dl001.8866.org:8181/tsfile/live/1000_1.m3u8 
+# http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdzj&auth=rinimabi
+# http://113.117.74.15:8081/hls/139/index.m3u8
+# http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="China",广东移动
 # web# https://www.gdtv.cn/tvChannelDetail/74
 # https://tcdn.itouchtv.cn/live/ydpd.m3u8?
@@ -580,16 +579,15 @@ http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
 #http://live.cooltv.top/tv/gd.php?id=nfws # 南方卫视 TVS2
 http://38.64.72.148:80/hls/modn/list/4011/chunklist0.m3u8
 #
-#EXTINF:-1 tvg-id="南京信息" tvg-name="NBS-Inf" tvg-logo="" group-title="China;Local",南京信息 (720p)
-#web# https://www.nbs.cn/live/
-http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+# -EXTINF:-1 tvg-id="南京信息" tvg-name="NBS-Inf" tvg-logo="" group-title="China;Local",南京信息 (720p)
+# web# https://www.nbs.cn/live/
+# http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 # -EXTINF:-1 tvg-id="南京十八" tvg-name="NBS-18" tvg-logo="" group-title="China;Local",南京十八频道 (720p)
 # http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="南京娱乐" tvg-name="NBS-Ent" tvg-logo="" group-title="China;Local;Entertainment",南京娱乐 (720p)
-http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
+# -EXTINF:-1 tvg-id="南京娱乐" tvg-name="NBS-Ent" tvg-logo="" group-title="China;Local;Entertainment",南京娱乐 (720p)
+# http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="南京少儿" tvg-name="NBS-Kids" tvg-logo="" group-title="China;Local",南京少儿 (720p) [Not 24/7]
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-#
 # -EXTINF:-1 tvg-id="南京生活" tvg-name="NBS-Life" tvg-logo="" group-title="China;Local",南京生活 (720p)
 # http://live.nbs.cn/channels/njtv/shpd/nbs06.m3u8
 # -EXTINF:-1 tvg-id="南京教科" tvg-name="NBS-Edu" tvg-logo="" group-title="China;Local",南京教科 (720p) [Not 24/7]
