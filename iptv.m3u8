@@ -119,9 +119,26 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="大爱二台" tvg-id0="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="Taiwan;Religious",★DaAi2 (大愛2) (720p)
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #
+#EXTINF:-1 tvg-id="凤凰中文" tvg-id0="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/rwY7FHT.png" group-title="Hong Kong",鳳凰衛視中文台
+#audio# 音頻 http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+#http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=190&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id=
+#http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=190&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#http://125.210.152.18:9090/live/FHZW_1200.m3u8
+#http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8 | http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+#http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+http://210.210.155.37/uq2663/h/h157/index2.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-id0="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="Hong Kong;News",鳳凰衛視資訊台
+#audio# 音頻 http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+#http://125.210.152.18:9090/live/FHZX_1200.m3u8
+#http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+http://210.210.155.37/qwr9ew/s/s21/01.m3u8
+# -EXTINF:-1 tvg-id="凤凰香港" tvg-logo="" group-title="Hong Kong",凤凰香港 (720p)
+# http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+#
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo="" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ TVB Jade (翡翠台) (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn.hklive.tv/xxxx/81/index.m3u8
+#https://cdn.hklive.tv/xxxx/81/index.m3u8
+http://107.167.12.58:27347/livehttpplay?channel_id=20127
 #
 # -EXTINF:-1 tvg-id="VIUTV" tvg-id0="ViuTV.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="Hong Kong;Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ ViuTV (1080p)
 # -EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -144,25 +161,10 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 # -EXTINF:-1 tvg-id="HKSTV.hk" tvg-logo="https://i.imgur.com/UhwlxwL.png" group-title="Hong Kong",香港卫视 HKS
 # http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #
-#EXTINF:-1 tvg-id="凤凰中文" tvg-id0="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/rwY7FHT.png" group-title="Hong Kong",鳳凰衛視中文台
-#audio# 音頻 http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
-#http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=190&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id=
-#http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=190&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#http://125.210.152.18:9090/live/FHZW_1200.m3u8
-#http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8 | http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
-#http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-http://210.210.155.37/uq2663/h/h157/index2.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-id0="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="Hong Kong;News",鳳凰衛視資訊台
-#audio# 音頻 http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
-#http://125.210.152.18:9090/live/FHZX_1200.m3u8
-#http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-http://210.210.155.37/qwr9ew/s/s21/01.m3u8
-# -EXTINF:-1 tvg-id="凤凰香港" tvg-logo="" group-title="Hong Kong",凤凰香港 (720p)
-# http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-#
-# -EXTINF:-1 tvg-id="无线新闻" tvg-id0="TVBNewsChannel.hk" tvg-logo="https://i.imgur.com/Gwij0Fj.png" group-title="Hong Kong;News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ TVB News Channel (無綫新聞台) (720p)
+#EXTINF:-1 tvg-id="无线新闻" tvg-id0="TVBNewsChannel.hk" tvg-logo="https://i.imgur.com/Gwij0Fj.png" group-title="Hong Kong;News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ TVB News Channel (無綫新聞台)
 # -EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-# https://cdn.hklive.tv/xxxx/83/index.m3u8
+#https://cdn.hklive.tv/xxxx/83/index.m3u8
+http://live.cooltv.top/tv/tvb.php?id=0&hq
 # -EXTINF:-1 tvg-id="明珠台" tvg-logo="" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ TVB Pearl (明珠台) (1080p)
 # -EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 # https://cdn.hklive.tv/xxxx/84/index.m3u8
@@ -315,6 +317,9 @@ http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 #EXTINF:-1 tvg-id="长城精品" tvg-name="长城精品频道" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/2c/24/b5/2c24b5a2-0877-195e-2bad-c6b33ae04e38/source/512x512bb.jpg" group-title="China",长城精品频道
 http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 #
+#EXTINF:-1 tvg-id="VoATV.us" tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="USA",VOA English TV
+#web# https://www.voanews.com/live
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/PBS_America_logo.png" group-title="UK;USA",PBS America (720p)
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WKMJDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="USA",★PBS KET World (480p)
@@ -428,6 +433,9 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205002.m3u8
 #http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
+#
+#EXTINF:-1 tvg-id="XingKong.cn" tvg-logo="https://zh.wikipedia.org/zh-my/%E6%98%9F%E7%A9%BA%E5%8D%AB%E8%A7%86#/media/File:Xing_Kong_Wei_Shi.jpg" group-title="China;Entertainment",星空卫视
+http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 #
 #EXTINF:-1 tvg-id="CCTV6" tvg-id0="CCTV6.cn" tvg-logo="https://i.imgur.com/dDqvRHX.png" group-title="China;Movies",CCTV-6电影 (1080p)
 #http://58.205.220.58:8088/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
@@ -615,6 +623,8 @@ http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 http://stream.smntv.cn/smtv1/playlist.m3u8
 #EXTINF:-1 tvg-name="SMN-Pub" tvg-logo="" group-title="China;Local",三明2公共 (720p) [Not 24/7]
 http://stream.smntv.cn/smtv2/playlist.m3u8
+#EXTINF:-1 tvg-id="wsrtv.cn" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaySPgvUEjNuOZv1NCAOKsZrH5PhmtW7dxxnvv4OgyrQLv5STm" group-title="China;Local",云南文山新闻综合台 (1080p) [Not 24/7]
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 #
 #EXTINF:-1 tvg-id="ETTV.us" tvg-logo="https://www.ebc.net.tw/Images/169-america.jpg" group-title="USA;Taiwan",ETTV America (東森美洲電視)
 #web# https://www.ettvamerica.com/
