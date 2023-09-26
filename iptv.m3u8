@@ -135,7 +135,7 @@ http://210.210.155.37/qwr9ew/s/s21/01.m3u8
 # -EXTINF:-1 tvg-id="凤凰香港" tvg-logo="" group-title="Hong Kong",凤凰香港 (720p)
 # http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #
-#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://i.imgur.com/ooG96w8.png" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ TVB Jade (翡翠台) (720p)
+#EXTINF:-1 tvg-id="翡翠台" tvg-logo0="https://i.imgur.com/ooG96w8.png" tvg-logo="https://static.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ TVB Jade (翡翠台) (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #https://cdn.hklive.tv/xxxx/81/index.m3u8
 http://107.167.12.58:27347/livehttpplay?channel_id=20127
@@ -434,7 +434,7 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 #
-#EXTINF:-1 tvg-id="XingKong.cn" tvg-logo="https://zh.wikipedia.org/zh-my/%E6%98%9F%E7%A9%BA%E5%8D%AB%E8%A7%86#/media/File:Xing_Kong_Wei_Shi.jpg" group-title="China;Entertainment",星空卫视
+#EXTINF:-1 tvg-id="XingKong.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" group-title="China;Entertainment",星空卫视
 http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 #
 #EXTINF:-1 tvg-id="CCTV6" tvg-id0="CCTV6.cn" tvg-logo="https://i.imgur.com/dDqvRHX.png" group-title="China;Movies",CCTV-6电影 (1080p)
