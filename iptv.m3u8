@@ -135,7 +135,7 @@ http://210.210.155.37/qwr9ew/s/s21/01.m3u8
 # -EXTINF:-1 tvg-id="凤凰香港" tvg-logo="" group-title="Hong Kong",凤凰香港 (720p)
 # http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #
-#EXTINF:-1 tvg-id="翡翠台" tvg-logo="" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ TVB Jade (翡翠台) (720p)
+#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://i.imgur.com/ooG96w8.png" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ TVB Jade (翡翠台) (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #https://cdn.hklive.tv/xxxx/81/index.m3u8
 http://107.167.12.58:27347/livehttpplay?channel_id=20127
