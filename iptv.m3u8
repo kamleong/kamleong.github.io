@@ -37,7 +37,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #
 #EXTINF:-1 tvg-id="TVRI3" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="Indonesia",✗ TVRI World
-#http://klik.tvri.go.id/
+#web# http://klik.tvri.go.id/
 #http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream3/streamPlaylist.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 # -EXTINF:-1 tvg-id="TVRINASIONAL" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="Indonesia",TVRI Nasional
@@ -157,7 +157,7 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #https://cdn.hklive.tv/xxxx/83/index.m3u8
 http://live.cooltv.top/tv/tvb.php?id=0&hq
 #
-#EXTINF:-1 tvg-id="翡翠台" tvg-logo0="https://i.imgur.com/ooG96w8.png" tvg-logo="https://static.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ TVB Jade (翡翠台) (720p)
+#EXTINF:-1 tvg-id="翡翠台" tvg-logo0="https://i.imgur.com/ooG96w8.png" tvg-logo="https://static.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ 📺TVB Jade (翡翠台) (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #https://cdn.hklive.tv/xxxx/81/index.m3u8
 http://107.167.12.58:27347/livehttpplay?channel_id=20127
@@ -268,8 +268,6 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #
 #EXTINF:-1 tvg-id="ABCNews.au" tvg-name="ABC News" tvg-logo="https://i.imgur.com/GpgrYCb.png" group-title="Australia;News",★ABC News 24 (AU) - 23
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-id="SkyNewsExtra3.au" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="Australia;News",Sky News Extra3 (AU)
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #
 #EXTINF:-1 tvg-id="ABCNews.us" tvg-name="ABC News" tvg-logo="https://i.imgur.com/7sJLzKi.png" group-title="USA;News",☑ABC News - 1008
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -434,7 +432,7 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 #
-#EXTINF:-1 tvg-id="XingKong.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" group-title="China;Entertainment",星空卫视
+#EXTINF:-1 tvg-id="XingKong.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" group-title="China;Entertainment",☑星空卫视
 http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 #
 #EXTINF:-1 tvg-id="CCTV6" tvg-id0="CCTV6.cn" tvg-logo="https://i.imgur.com/dDqvRHX.png" group-title="China;Movies",CCTV-6电影 (1080p)
