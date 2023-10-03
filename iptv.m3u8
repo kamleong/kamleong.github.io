@@ -87,9 +87,9 @@ http://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 # -EXTINF:-1 tvg-id="iCable1.hk" tvg-name="有線新聞台" group-title="Hong Kong;News",🔭有線新聞台
 # web# https://www.i-cable.com/
 # https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 tvg-id="HOYTV2.hk" tvg-name="HOY TV - 78台" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18010434/fav_icon-1.png" group-title="Hong Kong",☑HOY TV - 78台 (資訊台) 
-#web# https://hoy.tv/live/
-http://sc2022.stream-link.org/tv2306.php?id=h14
+# -EXTINF:-1 tvg-id="HOYTV2.hk" tvg-name="HOY TV - 78台" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18010434/fav_icon-1.png" group-title="Hong Kong",☑HOY TV - 78台 (資訊台) 
+# web# https://hoy.tv/live/
+# http://sc2022.stream-link.org/tv2306.php?id=h14
 # - EXTINF:-1 tvg-id="香港开电视" tvg-id0="HOYTV2.hk" tvg-name="HOY TV - 77台" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18010434/fav_icon-1.png" group-title="Hong Kong",☑HOY TV - 77台
 # web# https://hoy.tv/live/
 # http://media.fantv.hk/m3u8/archive/channel2.m3u8
@@ -175,11 +175,11 @@ http://107.167.12.58:27347/livehttpplay?channel_id=20122
 #
 # -EXTINF:-1 group-title="Macau;Radio",📻澳門電台 (Radio)
 # http://live4.tdm.com.mo:1935/live/_definst_/rch2.live/playlist.m3u8
-#EXTINF:-1 tvg-id="TDM1.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",澳視澳門 Ch.91
-#web# https://www.tdm.com.mo/zh-hant/live
-http://live4.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="TDM5.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",澳門資訊 Ch.94
-https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+# -EXTINF:-1 tvg-id="TDM1.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",澳視澳門 Ch.91
+# web# https://www.tdm.com.mo/zh-hant/live
+# http://live4.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+# -EXTINF:-1 tvg-id="TDM5.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",澳門資訊 Ch.94
+# https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="TDM3.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",★澳門Macau 衛星頻道 Ch.96
 http://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 # -EXTINF:-1 tvg-id="CanalMacau.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",澳視葡文 Canal Macau Ch.92 (720p) [Not 24/7]
@@ -196,11 +196,11 @@ http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="民视新闻台" tvg-id0="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="Taiwan;News",FTV News (民視新聞台)
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 tvg-id="中天新闻台" tvg-logo="https://i.imgur.com/u81tZtA.png" group-title="Taiwan;News",中天新聞
+#EXTINF:-1 tvg-id="中天新闻台" tvg-logo="https://i.imgur.com/u81tZtA.png" group-title="Taiwan;News",CTi News (中天新聞台)
 #http://seb.sason.top/sc/ztxw_fhd.m3u8
 http://sc2022.stream-link.org/tv2306.php?id=t03
 #
-# -EXTINF:-1 group-title="Taiwan;News",中視新聞
+# -EXTINF:-1 group-title="Taiwan;News",CTV News (中視新聞台)
 # http://sc2022.stream-link.org/tv2306.php?id=t06
 # -EXTINF:-1 tvg-id="CTS.tw" tvg-logo="https://i.imgur.com/ISl9WsI.png" group-title="Taiwan",CTS HD (華視) (720p)
 # http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
@@ -321,8 +321,8 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204802.m3u8
 #https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
 http://210.210.155.37/qwr9ew/s/s19/index.m3u8
-#EXTINF:-1 tvg-id="长城精品" tvg-name="长城精品频道" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/2c/24/b5/2c24b5a2-0877-195e-2bad-c6b33ae04e38/source/512x512bb.jpg" group-title="China",长城精品频道
-http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+# -EXTINF:-1 tvg-id="长城精品" tvg-name="长城精品频道" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/2c/24/b5/2c24b5a2-0877-195e-2bad-c6b33ae04e38/source/512x512bb.jpg" group-title="China",长城精品频道
+# http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 #
 #EXTINF:-1 tvg-id="VoATV.us" tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="USA",VOA English TV
 #web# https://www.voanews.com/live
