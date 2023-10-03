@@ -439,7 +439,8 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv15_1_720P/playlist.m3u8?wsApp=HLS
 #http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205002.m3u8
 #http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
-https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
+#https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
+http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw1387986390_1468621622/migu/kailu/20200324/cctv15hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020617&ContentId=265667535&timezone=UTC&mtv_session=e1254803553b7cace3a119612bf266d8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7ba98a3a39d853487109bebe5ed31c43
 #
 #EXTINF:-1 tvg-id="XingKong.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" group-title="China;Entertainment",☑星空卫视
 http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
@@ -447,7 +448,8 @@ http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-id0="CCTV6.cn" tvg-logo="https://i.imgur.com/dDqvRHX.png" group-title="China;Movies",CCTV-6电影 (1080p)
 #http://58.205.220.58:8088/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
 #http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
+#https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
+http://hms424nc1972679598.live.aikan.miguvideo.com/wh7f454c46tw2025729208_-189538202/wd_r2/ocn/cctv6hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115084415&ContentId=265667482&timezone=UTC&mtv_session=0ac4193cdf07336c58fe3cdb4aac34a4&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=158f70fd4d75270c1810f0c735e78e18
 # -EXTINF:-1 tvg-id="AMC" tvg-id0="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="USA;Movies",amc (east)
 # schedule# https://www.amc.com/schedule
 # https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
