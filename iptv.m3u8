@@ -118,15 +118,14 @@ https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="大爱二台" tvg-id0="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="Taiwan;Religious",★DaAi2 (大愛2) (720p)
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-id="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="Taiwan;Religious",人间卫视
+#web# 佛光卫视 https://www.bltv.tv/
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #
 #EXTINF:-1 tvg-id="凤凰中文" tvg-id0="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/rwY7FHT.png" group-title="Hong Kong",鳳凰衛視中文台
 #audio# 音頻 http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
-#http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=190&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id=
-#http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=190&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#http://125.210.152.18:9090/live/FHZW_1200.m3u8
-#http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8 | http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
-#http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-http://210.210.155.37/uq2663/h/h157/index2.m3u8
+#SD: video OK but intermittent audio# http://210.210.155.37/uq2663/h/h157/index2.m3u8
+http://sc2022.stream-link.org/tv2306.php?id=h19
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-id0="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="Hong Kong;News",鳳凰衛視資訊台
 #audio# 音頻 http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 #http://125.210.152.18:9090/live/FHZX_1200.m3u8
@@ -164,6 +163,11 @@ http://107.167.12.58:27347/livehttpplay?channel_id=20127
 # -EXTINF:-1 tvg-id="明珠台" tvg-logo="" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ TVB Pearl (明珠台) (1080p)
 # -EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 # https://cdn.hklive.tv/xxxx/84/index.m3u8
+#EXTINF:-1 tvg-id="J2.hk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TVB_J2_2022.svg" group-title="Hong Kong;Entertainment",TVB J2 (無綫電視82台)
+#schedule# https://programme.tvb.com/j2
+#http://sc2022.stream-link.org/tv2306.php?id=h03
+#http://107.167.12.58:27347/livehttpplay?channel_id=30030
+http://107.167.12.58:27347/livehttpplay?channel_id=20122
 #
 # -EXTINF:-1 tvg-id="VIUTV" tvg-id0="ViuTV.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="Hong Kong;Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ ViuTV (1080p)
 # -EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -192,11 +196,15 @@ http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="民视新闻台" tvg-id0="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="Taiwan;News",FTV News (民視新聞台)
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 tvg-id="中天新闻台" tvg-logo="https://i.imgur.com/u81tZtA.png" group-title="Taiwan;News",中天新聞
+#http://seb.sason.top/sc/ztxw_fhd.m3u8
+http://sc2022.stream-link.org/tv2306.php?id=t03
 #
+# -EXTINF:-1 group-title="Taiwan;News",中視新聞
+# http://sc2022.stream-link.org/tv2306.php?id=t06
 # -EXTINF:-1 tvg-id="CTS.tw" tvg-logo="https://i.imgur.com/ISl9WsI.png" group-title="Taiwan",CTS HD (華視) (720p)
 # http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
-# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Taiwan;News",中天新聞 (1080p) [Not 24/7]
-# http://seb.sason.top/sc/ztxw_fhd.m3u8
+# http://sc2022.stream-link.org/tv2306.php?id=t04
 # -EXTINF:-1 tvg-id="EBCNews.tw" tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="Taiwan;News",EBC News (東森新聞台) (1080p) [Not 24/7]
 # http://seb.sason.top/sc/dsxw_fhd.m3u8
 # -EXTINF:-1 tvg-id="FTV.tw" tvg-logo="https://i.imgur.com/q8ahtbT.png" group-title="Taiwan",FTV (民視) (720p)
@@ -249,6 +257,7 @@ http://lzoq.hk3c.ml/daili/?id=cctv1hd8m/8000000
 # m3u# https://live.fanmingming.com --> https://cntv.sbs/live?
 # https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv13_1_720P/playlist.m3u8?wsApp=HLS
 # https://cctvwbndtxyhw.liveplay.myqcloud.com/cctvwbnd/jzcctv13_2/index.m3u8
+# http://sc2022.stream-link.org/tv2306.php?id=h14
 #
 #EXTINF:-1 tvg-id="NHKWORLD" tvg-id0="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://i.imgur.com/TDCuUDs.png" group-title="Japan;News",★NHK World-Japan - 728
 #web# https://www3.nhk.or.jp/nhkworld/
@@ -559,8 +568,8 @@ https://live.funhillrm.com/2/playlist.m3u8
 #
 # -EXTINF:-1 tvg-name="DragonTV" tvg-id="DragonTV.cn" tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="China;Local",东方卫视
 # http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000292403.m3u8
-#EXTINF:-1 tvg-name="JinShan" tvg-logo="" group-title="China;Local",上海金山电视台 (270p)
-http://live.mudu.tv/watch/4zbn2f.m3u8
+# -EXTINF:-1 tvg-name="JinShan" tvg-logo="" group-title="China;Local",上海金山电视台 (270p)
+# http://live.mudu.tv/watch/4zbn2f.m3u8
 #
 # -EXTINF:-1 tvg-name="ZhejiangSatelliteTV" tvg-id="ZhejiangSatelliteTV.cn" tvg-logo="https://i.imgur.com/5gQn4uY.png" group-title="China;Local",浙江卫视
 # http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295503.m3u8
@@ -594,22 +603,22 @@ http://38.64.72.148:80/hls/modn/list/4011/chunklist0.m3u8
 # http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
 # -EXTINF:-1 tvg-id="南京娱乐" tvg-name="NBS-Ent" tvg-logo="" group-title="China;Local;Entertainment",南京娱乐 (720p)
 # http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="南京少儿" tvg-name="NBS-Kids" tvg-logo="" group-title="China;Local",南京少儿 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="南京少儿" tvg-name="NBS-Kids" tvg-logo="https://www.tvchinese.net/uploads/tv/njsepd.jpg" group-title="China;Local",南京少儿
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 # -EXTINF:-1 tvg-id="南京生活" tvg-name="NBS-Life" tvg-logo="" group-title="China;Local",南京生活 (720p)
 # http://live.nbs.cn/channels/njtv/shpd/nbs06.m3u8
 # -EXTINF:-1 tvg-id="南京教科" tvg-name="NBS-Edu" tvg-logo="" group-title="China;Local",南京教科 (720p) [Not 24/7]
 # http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
-#EXTINF:-1 tvg-id="南京新闻综合" tvg-name="NBS-News" tvg-logo="" group-title="China;Local",南京新闻综合 (720p)
+#EXTINF:-1 tvg-id="南京新闻综合" tvg-name="NBS-News" tvg-logo="https://www.tvchinese.net/uploads/tv/njxwzh.jpg" group-title="China;Local",南京新闻综合
 http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
 #
-#EXTINF:-1 tvg-name="ShangYu-1-News" tvg-logo="" group-title="China;Local",上虞1新闻综合 (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="ShangYu-1-News" tvg-logo="http://www.tvyan.com/uploads/dianshi/syxwzh.jpg" group-title="China;Local",上虞1新闻综合 (720p) [Not 24/7]
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 # -EXTINF:-1 tvg-name="ShangYu-2" tvg-logo="" group-title="China;Local",上虞2經濟文化 (720p) [Not 24/7]
 # http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-#EXTINF:-1 tvg-name="ShangYu-3" tvg-logo="" group-title="China;Local",上虞3新商都 (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="ShangYu-3" tvg-logo="http://www.tvyan.com/uploads/dianshi/syxsd.jpg" group-title="China;Local",上虞3新商都 (720p) [Not 24/7]
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-#EXTINF:-1 tvg-name="YuYao-1-News" tvg-logo="" group-title="China;Local",余姚1新闻综合 (576p)
+#EXTINF:-1 tvg-name="YuYao-1-News" tvg-logo="https://w7.pngwing.com/pngs/113/282/png-transparent-logo-china-central-television-television-channel-local-tv-station-icon-television-blue-angle.png" group-title="China;Local",余姚1新闻综合 (576p)
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",农安新闻综合 [Geo-blocked]
 # http://stream2.jlntv.cn/naxw/sd/live.m3u8
@@ -617,9 +626,9 @@ http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 # http://stream2.jlntv.cn/qg/sd/live.m3u8
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",仙桃新闻综合 (576p)
 # http://221.233.242.239:280/live/71/playlist.m3u8
-#EXTINF:-1 tvg-name="SMN-News" tvg-logo="" group-title="China;Local",三明1新闻综合 (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="SMN-News" tvg-logo="https://www.xhzb.tw/uploads/18/1-1P31QK413W7.jpg" group-title="China;Local",三明1新闻综合 (720p) [Not 24/7]
 http://stream.smntv.cn/smtv1/playlist.m3u8
-#EXTINF:-1 tvg-name="SMN-Pub" tvg-logo="" group-title="China;Local",三明2公共 (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="SMN-Pub" tvg-logo="https://www.xhzb.tw/uploads/allimg/18/1-1P31QK3180-L.jpg" group-title="China;Local",三明2公共 (720p) [Not 24/7]
 http://stream.smntv.cn/smtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="wsrtv.cn" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaySPgvUEjNuOZv1NCAOKsZrH5PhmtW7dxxnvv4OgyrQLv5STm" group-title="China;Local",云南文山新闻综合台 (1080p) [Not 24/7]
 http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
