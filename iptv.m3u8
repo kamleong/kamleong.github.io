@@ -118,8 +118,8 @@ https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="大爱二台" tvg-id0="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="Taiwan;Religious",★DaAi2 (大愛2) (720p)
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-id="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="Taiwan;Religious",人间卫视
-#web# 佛光卫视 https://www.bltv.tv/
+#EXTINF:-1 tvg-id="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="Taiwan;Religious",人間衛視
+#web# 佛光山人間衛視 https://www.bltv.tv/
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #
 #EXTINF:-1 tvg-id="凤凰中文" tvg-id0="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/rwY7FHT.png" group-title="Hong Kong",鳳凰衛視中文台
@@ -200,7 +200,8 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-id="中天新闻台" tvg-logo="https://i.imgur.com/u81tZtA.png" group-title="Taiwan;News",CTi News (中天新聞台)
 #http://seb.sason.top/sc/ztxw_fhd.m3u8
 #server performance is OK but availability is low# http://sc2022.stream-link.org/tv2306.php?id=t03
-http://tv.redrainl.site:9500/live.m3u8?c=3
+#youtube proxy, video format not supported in Tizen# http://tv.redrainl.site:9500/live.m3u8?c=3
+https://epg.pw/stream/a62732193d00a568f75f933ea1ae23e6675480055b9cf392089c3c369f1fd0e7.m3u8
 #
 # -EXTINF:-1 group-title="Taiwan;News",CTV News (中視新聞台)
 # http://sc2022.stream-link.org/tv2306.php?id=t06
@@ -462,9 +463,11 @@ http://hms424nc1972679598.live.aikan.miguvideo.com/wh7f454c46tw2025729208_-18953
 #EXTINF:-1 tvg-id="RedboxSpotlight.us" tvg-logo="https://i.imgur.com/OrGCnPg.jpg" group-title="USA;Movies",Redbox 1: Spotlight (1080p)
 https://spotlight-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyCinema.id" tvg-logo="https://i.imgur.com/BTmcTQO.png" group-title="Indonesia;Movies",My Cinema (1080p)
-http://210.210.155.37/uq2663/h/h192/index.m3u8
+#http://210.210.155.37/uq2663/h/h192/index.m3u8
+
 #EXTINF:-1 tvg-id="MyCinemaAsia.id" tvg-logo="https://i.imgur.com/4XVZLW0.png" group-title="Indonesia;Movies",My Cinema Asia (1080p) [Geo-blocked]
-http://210.210.155.37/uq2663/h/h193/index.m3u8
+#http://210.210.155.37/uq2663/h/h193/index.m3u8
+
 #
 #EXTINF:-1 tvg-id="PlutoTVSpotlight.us" tvg-logo="https://i.imgur.com/UmuJkVB.png" group-title="USA;Movies",Pluto TV Spotlight (684p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=51&terminate=false&userId=
