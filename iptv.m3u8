@@ -125,7 +125,8 @@ http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-id0="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/rwY7FHT.png" group-title="Hong Kong",鳳凰衛視中文台
 #audio# 音頻 http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 #SD: video OK but intermittent audio# http://210.210.155.37/uq2663/h/h157/index2.m3u8
-http://sc2022.stream-link.org/tv2306.php?id=h19
+#HD: server performance is OK but availability is low# http://sc2022.stream-link.org/tv2306.php?id=h19
+http://php.17186.eu.org/phtv/fhzw.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-id0="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="Hong Kong;News",鳳凰衛視資訊台
 #audio# 音頻 http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 #http://125.210.152.18:9090/live/FHZX_1200.m3u8
@@ -198,7 +199,8 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-id="中天新闻台" tvg-logo="https://i.imgur.com/u81tZtA.png" group-title="Taiwan;News",CTi News (中天新聞台)
 #http://seb.sason.top/sc/ztxw_fhd.m3u8
-http://sc2022.stream-link.org/tv2306.php?id=t03
+#server performance is OK but availability is low# http://sc2022.stream-link.org/tv2306.php?id=t03
+http://tv.redrainl.site:9500/live.m3u8?c=3
 #
 # -EXTINF:-1 group-title="Taiwan;News",CTV News (中視新聞台)
 # http://sc2022.stream-link.org/tv2306.php?id=t06
