@@ -197,11 +197,10 @@ http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="民视新闻台" tvg-id0="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="Taiwan;News",FTV News (民視新聞台)
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 tvg-id="中天新闻台" tvg-logo="https://i.imgur.com/u81tZtA.png" group-title="Taiwan;News",CTi News (中天新聞台)
-#http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 tvg-id="中天新闻台" tvg-logo="https://i.imgur.com/u81tZtA.png" group-title="Taiwan;News",CTi News (中天新聞台) Ⓨ
 #server performance is OK but availability is low# http://sc2022.stream-link.org/tv2306.php?id=t03
-#youtube proxy, video format not supported in Tizen# http://tv.redrainl.site:9500/live.m3u8?c=3
-https://epg.pw/stream/a62732193d00a568f75f933ea1ae23e6675480055b9cf392089c3c369f1fd0e7.m3u8
+#youtube proxy Ⓨ, video format not supported in Tizen# http://tv.redrainl.site:9500/live.m3u8?c=3
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #
 # -EXTINF:-1 group-title="Taiwan;News",CTV News (中視新聞台)
 # http://sc2022.stream-link.org/tv2306.php?id=t06
