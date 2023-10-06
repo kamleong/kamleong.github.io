@@ -170,10 +170,6 @@ http://107.167.12.58:27347/livehttpplay?channel_id=20127
 #http://107.167.12.58:27347/livehttpplay?channel_id=30030
 http://107.167.12.58:27347/livehttpplay?channel_id=20122
 #
-# -EXTINF:-1 tvg-id="VIUTV" tvg-id0="ViuTV.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="Hong Kong;Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ ViuTV (1080p)
-# -EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-# https://cdn.hklive.tv/xxxx/99/index.m3u8
-#
 # -EXTINF:-1 group-title="Macau;Radio",📻澳門電台 (Radio)
 # http://live4.tdm.com.mo:1935/live/_definst_/rch2.live/playlist.m3u8
 # -EXTINF:-1 tvg-id="TDM1.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",澳視澳門 Ch.91
@@ -196,15 +192,21 @@ http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="民视新闻台" tvg-id0="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="Taiwan;News",FTV News (民視新聞台)
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 tvg-id="中天新闻台" tvg-logo="https://i.imgur.com/u81tZtA.png" group-title="Taiwan;News",CTi News (中天新聞台) Ⓨ
-#server performance is OK but availability is low# http://sc2022.stream-link.org/tv2306.php?id=t03
-#youtube proxy Ⓨ, video format not supported in Tizen# http://tv.redrainl.site:9500/live.m3u8?c=3
-#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-http://sc2022.stream-link.org/tv2306.php?id=t03
-#
+#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+https://sc2022.stream-link.org/tv2306.php?id=t07
 # -EXTINF:-1 group-title="Taiwan;News",CTV News (中視新聞台)
 # http://sc2022.stream-link.org/tv2306.php?id=t06
+# -EXTINF:-1 tvg-id="中天新闻台" tvg-logo="https://i.imgur.com/u81tZtA.png" group-title="Taiwan;News",CTi News (中天新聞台) Ⓨ
+# server performance is OK but availability is low# http://sc2022.stream-link.org/tv2306.php?id=t03
+# youtube proxy Ⓨ, video format not supported in Tizen# http://tv.redrainl.site:9500/live.m3u8?c=3
+# https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+# http://sc2022.stream-link.org/tv2306.php?id=t03
+#EXTINF:-1 tvg-id="寰宇台灣" tvg-logo="https://i.imgur.com/oYUjEle.png" group-title="Taiwan;News",Global News (寰宇新聞 台灣台)
+https://sc2022.stream-link.org/tv2306.php?id=t08
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-id0="GlobalNews.tw" tvg-logo="https://i.imgur.com/oYUjEle.png" group-title="Taiwan;News",Global News (寰宇新聞台)
+#web# https://globalnewstv.com.tw/
+http://ythls.onrender.com/channel/UCp2f7tGJGN6R9Muxipem8Nw.m3u8
+#
 # -EXTINF:-1 tvg-id="CTS.tw" tvg-logo="https://i.imgur.com/ISl9WsI.png" group-title="Taiwan",CTS HD (華視) (720p)
 # http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
 # http://sc2022.stream-link.org/tv2306.php?id=t04
@@ -327,34 +329,40 @@ http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 # -EXTINF:-1 tvg-id="长城精品" tvg-name="长城精品频道" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/2c/24/b5/2c24b5a2-0877-195e-2bad-c6b33ae04e38/source/512x512bb.jpg" group-title="China",长城精品频道
 # http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 #
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-un-web-tv-6932.jpg" group-title="UN",☑United Nations Web TV
+https://cdnapisec.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-name="RT Doc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png/800px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png" group-title="Russia;Documentary",☑RT Doc
+#web# https://www.rt.com/on-air/ | https://rtd.rt.com/on-air/
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="VoATV.us" tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="USA",VOA English TV
 #web# https://www.voanews.com/live
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+# -EXTINF:-1 tvg-id="FreeSpeechTV.us" tvg-logo="https://i.imgur.com/Qq6heRq.png" group-title="USA;Talk",Free Speech TV (720p)
+# web# https://freespeech.org/
+# https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
+#EXTINF:-1 tvg-id="TrueHistory.us" tvg-logo="https://i.imgur.com/1BHDGXx.png" group-title="USA;Documentary",True History (720p)
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+#
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/9f47f6e9e073f90dda50841afe557a29b9e6a1c7bcf5470fe9e3bbd6b07ac275.png" group-title="UK;Documentary",★History Hit
+#web# https://www.historyhit.com/
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HISTORY" tvg-id0="PlutoTVHistory.us" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="USA;Documentary",Pluto TV HISTORY (240p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d35dfa5c02e717a234f86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=651&terminate=false&userId=
+#
 #EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/PBS_America_logo.png" group-title="UK;USA",PBS America (720p)
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WKMJDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="USA",★PBS KET World (480p)
 https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 #
-#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-un-web-tv-6932.jpg" group-title="UN",☑United Nations Web TV
-https://cdnapisec.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#
 #EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png" group-title="USA;Documentary",🏛️Smithsonian Channel Asia (1080p)
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HISTORY" tvg-id0="PlutoTVHistory.us" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="USA;Documentary",Pluto TV HISTORY (240p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d35dfa5c02e717a234f86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=651&terminate=false&userId=
-#EXTINF:-1 tvg-id="TrueHistory.us" tvg-logo="https://i.imgur.com/1BHDGXx.png" group-title="USA;Documentary",True History (720p)
-https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/9f47f6e9e073f90dda50841afe557a29b9e6a1c7bcf5470fe9e3bbd6b07ac275.png" group-title="UK;Documentary",★History Hit
-#web# https://www.historyhit.com/
-https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 #
-#EXTINF:-1 tvg-name="RT Doc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png/800px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png" group-title="Russia;Documentary",☑RT Doc
-#web# https://www.rt.com/on-air/ | https://rtd.rt.com/on-air/
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+# -EXTINF:-1 tvg-id="CCTV10.cn" tvg-logo="https://i.imgur.com/PKtBUL2.png" group-title="China;Documentary",☑CCTV-10 科教
+# web# https://tv.cctv.com/live/cctv10/
+# http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
+# http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
+# https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
 #
-#EXTINF:-1 tvg-id="FreeSpeechTV.us" tvg-logo="https://i.imgur.com/Qq6heRq.png" group-title="USA;Talk",Free Speech TV (720p)
-#web# https://freespeech.org/
-https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 # -EXTINF:-1 tvg-id="CCTV9" tvg-id0="CCTV9.cn" tvg-logo="https://i.imgur.com/3R1dkIK.png" group-title="China;Documentary",☑CCTV-9 记录
 # web# https://tv.cctv.com/live/cctv9/
 # https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv9_1/index.m3u8?b=200-2100
@@ -362,17 +370,13 @@ https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/cha
 # http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8
 # http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 # https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
-# -EXTINF:-1 tvg-id="CCTV10.cn" tvg-logo="https://i.imgur.com/PKtBUL2.png" group-title="China;Documentary",☑CCTV-10 科教
-# web# https://tv.cctv.com/live/cctv10/
-# http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
-# http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
-# https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
+#
 #EXTINF:-1 tvg-id="EarthxTV.us" tvg-logo="https://i.imgur.com/ZWWqiCb.png" group-title="USA;Documentary",EarthxTV (720p)
 #web# https://www.earthxtv.com/
 https://ov.ottera.tv/live/master.m3u8?channel=earth_et
-#EXTINF:-1 tvg-id="XploreTV.us" tvg-logo="https://i.imgur.com/WaGRlFO.png" group-title="USA;Documentary",Xplore
-#web# https://www.watchxplore.com/
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
+# -EXTINF:-1 tvg-id="XploreTV.us" tvg-logo="https://i.imgur.com/WaGRlFO.png" group-title="USA;Documentary",Xplore (Dogs)
+# web# https://www.watchxplore.com/
+# https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 #
 #EXTINF:-1 tvg-id="MuseumTVFast.us" tvg-logo="https://i.imgur.com/zzVq7BQ.png" group-title="France;Culture",🏛️Museum TV Fast (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
@@ -401,13 +405,6 @@ https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/
 # http://strm112.1.fm/brazilianbirds_mobile_mp3
 #EXTINF:-1 group-title="USA;Radio",📻Beautiful Instrumentals Channel (Radio)
 http://hydra.cdnstream.com/1822_128
-# -EXTINF:-1 tvg-id="BetterLifeNatureChannel.us" tvg-logo="https://i.imgur.com/gmrVKEC.jpg" group-title="USA;Relax",Better Life Nature Channel (480p) Ⓢ
-# https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVTropicsLive.us" tvg-logo="https://i.imgur.com/8F9qPbt.png" group-title="USA;Relax",Bumblebee TV Tropics Live (1080p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-#EXTINF:-1 tvg-id="DeluxeLoungeHD.de" tvg-logo="https://i.imgur.com/DnMzWiG.png" group-title="Germany;Music",Deluxe Lounge HD
-#https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
 # 𝄡 👫
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="USA;Music",Ʊ🎶🎼 Classic Arts Showcase
 #web# https://www.classicartsshowcase.org
@@ -416,9 +413,14 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 # web# https://mcn6.org/mcn6musicchannel/ # [!Geo-blocked!]
 # https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #
-# -EXTINF:-1 tvg-id="VIUTVSIX" tvg-id0="ViuTVsix.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png" group-title="Hong Kong;Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ ViuTVsix (1080p) [Geo-blocked]
-# -EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-# https://cdn.hklive.tv/xxxx/96/index.m3u8
+# -EXTINF:-1 tvg-id="BetterLifeNatureChannel.us" tvg-logo="https://i.imgur.com/gmrVKEC.jpg" group-title="USA;Relax",Better Life Nature Channel (480p) Ⓢ
+# https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVTropicsLive.us" tvg-logo="https://i.imgur.com/8F9qPbt.png" group-title="USA;Relax",Bumblebee TV Tropics Live (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+#EXTINF:-1 tvg-id="DeluxeLoungeHD.de" tvg-logo="https://i.imgur.com/DnMzWiG.png" group-title="Germany;Music",Deluxe Lounge HD
+#https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
+#
 #EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-logo="https://i.imgur.com/XWWTrKW.png" group-title="Germany;Music",Deluxe Music (720p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-name="Retro Music Television Ⓢ" tvg-logo="https://i.imgur.com/a6S2Yo4.png" tvg-id="RetroMusicTV.cz" group-title="Czech;Music",Retro Music Television Ⓢ
@@ -426,15 +428,22 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #
 # -EXTINF:-1 tvg-id="AngelTVFarEast.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="India;Religious",Angel TV Far East (heretic?)
 # https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTVChinese.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="India;Religious",Angel TV Chinese (安琪TV) - heretic?
-#web# https://www.angeltv.org
-https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8
+# -EXTINF:-1 tvg-id="AngelTVChinese.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="India;Religious",Angel TV Chinese (安琪TV) - heretic?
+# web# https://www.angeltv.org
+# https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gy6ZJrj/SPIRIT-TV.png" group-title="USA;Religious;Music",Spirit TV
 #web# https://myspirit.tv/
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #
-#EXTINF:-1 tvg-id="Dali.tw" tvg-name="大立电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png" group-title="Taiwan;Local",大立電視台
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+# -EXTINF:-1 tvg-id="VIUTVSIX" tvg-id0="ViuTVsix.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png" group-title="Hong Kong;Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ ViuTVsix (1080p) [Geo-blocked]
+# -EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+# https://cdn.hklive.tv/xxxx/96/index.m3u8
+# -EXTINF:-1 tvg-id="VIUTV" tvg-id0="ViuTV.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="Hong Kong;Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ ViuTV (1080p)
+# -EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+# https://cdn.hklive.tv/xxxx/99/index.m3u8
+#
+# -EXTINF:-1 tvg-id="Dali.tw" tvg-name="大立电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png" group-title="Taiwan;Local",大立電視台
+# http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #
 #EXTINF:-1 tvg-id="CCTV15" tvg-id0="CCTV15.cn" tvg-logo="https://i.imgur.com/m2R60TJ.png" group-title="China;Music",CCTV-15音乐 (720p)
 #m3u# https://live.fanmingming.com --> https://cntv.sbs/live?
