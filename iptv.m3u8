@@ -203,9 +203,10 @@ https://sc2022.stream-link.org/tv2306.php?id=t07
 # http://sc2022.stream-link.org/tv2306.php?id=t03
 #EXTINF:-1 tvg-id="寰宇台灣" tvg-logo="https://i.imgur.com/oYUjEle.png" group-title="Taiwan;News",Global News (寰宇新聞 台灣台)
 https://sc2022.stream-link.org/tv2306.php?id=t08
-#EXTINF:-1 tvg-id="寰宇新闻" tvg-id0="GlobalNews.tw" tvg-logo="https://i.imgur.com/oYUjEle.png" group-title="Taiwan;News",Global News (寰宇新聞台)
-#web# https://globalnewstv.com.tw/
-http://ythls.onrender.com/channel/UCp2f7tGJGN6R9Muxipem8Nw.m3u8
+# -EXTINF:-1 tvg-id="寰宇新闻" tvg-id0="GlobalNews.tw" tvg-logo="https://i.imgur.com/oYUjEle.png" group-title="Taiwan;News",Global News (寰宇新聞台)
+# web# https://globalnewstv.com.tw/
+# youtube proxy Ⓨ, video format not supported in Tizen# https://ythls.onrender.com/channel/UCp2f7tGJGN6R9Muxipem8Nw.m3u8
+# http://tv.redrainl.site:9500/live.m3u8?c=22
 #
 # -EXTINF:-1 tvg-id="CTS.tw" tvg-logo="https://i.imgur.com/ISl9WsI.png" group-title="Taiwan",CTS HD (華視) (720p)
 # http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
