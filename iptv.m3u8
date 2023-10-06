@@ -160,7 +160,8 @@ http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo0="https://i.imgur.com/ooG96w8.png" tvg-logo="https://static.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ 📺TVB Jade (翡翠台) (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #https://cdn.hklive.tv/xxxx/81/index.m3u8
-http://107.167.12.58:27347/livehttpplay?channel_id=20127
+#http://107.167.12.58:27347/livehttpplay?channel_id=20127
+http://r.jdshipin.com/n90gt
 # -EXTINF:-1 tvg-id="明珠台" tvg-logo="" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ TVB Pearl (明珠台) (1080p)
 # -EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 # https://cdn.hklive.tv/xxxx/84/index.m3u8
@@ -194,6 +195,8 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="民视新闻台" tvg-id0="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="Taiwan;News",FTV News (民視新聞台)
 #http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 https://sc2022.stream-link.org/tv2306.php?id=t07
+# -EXTINF:-1 group-title="Taiwan;News",CTS News (華視新聞台)
+# http://sc2022.stream-link.org/tv2306.php?id=t05
 # -EXTINF:-1 group-title="Taiwan;News",CTV News (中視新聞台)
 # http://sc2022.stream-link.org/tv2306.php?id=t06
 # -EXTINF:-1 tvg-id="中天新闻台" tvg-logo="https://i.imgur.com/u81tZtA.png" group-title="Taiwan;News",CTi News (中天新聞台) Ⓨ
@@ -201,12 +204,14 @@ https://sc2022.stream-link.org/tv2306.php?id=t07
 # youtube proxy Ⓨ, video format not supported in Tizen# http://tv.redrainl.site:9500/live.m3u8?c=3
 # https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 # http://sc2022.stream-link.org/tv2306.php?id=t03
-#EXTINF:-1 tvg-id="寰宇台灣" tvg-logo="https://i.imgur.com/oYUjEle.png" group-title="Taiwan;News",Global News (寰宇新聞 台灣台)
-https://sc2022.stream-link.org/tv2306.php?id=t08
-# -EXTINF:-1 tvg-id="寰宇新闻" tvg-id0="GlobalNews.tw" tvg-logo="https://i.imgur.com/oYUjEle.png" group-title="Taiwan;News",Global News (寰宇新聞台)
+#EXTINF:-1 tvg-id="寰宇台灣" tvg-logo="https://i.imgur.com/oYUjEle.png" group-title="Taiwan;News",Taiwan News (寰宇新聞 台灣台)
+#https://sc2022.stream-link.org/tv2306.php?id=t08
+https://sc2022.stream-link.org/tv2306.php?id=t09
+# -EXTINF:-1 tvg-id="寰宇新闻" tvg-id0="GlobalNews.tw" tvg-logo="https://i.imgur.com/oYUjEle.png" group-title="Taiwan;News",Global News (寰宇新聞台) Ⓨ
 # web# https://globalnewstv.com.tw/
 # youtube proxy Ⓨ, video format not supported in Tizen# https://ythls.onrender.com/channel/UCp2f7tGJGN6R9Muxipem8Nw.m3u8
-# http://tv.redrainl.site:9500/live.m3u8?c=22
+# https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+# https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #
 # -EXTINF:-1 tvg-id="CTS.tw" tvg-logo="https://i.imgur.com/ISl9WsI.png" group-title="Taiwan",CTS HD (華視) (720p)
 # http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
