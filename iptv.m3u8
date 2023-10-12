@@ -98,7 +98,8 @@ http://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="公视" tvg-id0="PTS.tw" tvg-logo="https://i.imgur.com/R9hwOZx.png" group-title="Taiwan",✗ 台灣公視
 #web# https://chaojidianshi.net/zhibo/43.html
 #http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
-https://bstvcdn.ballbar.net/ctv_taiwan/playlist-17.m3u8a?t=...&token=...
+#https://bstvcdn.ballbar.net/ctv_taiwan/playlist-17.m3u8a?t=...&token=...
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-5834e2bc-111d-4ad2-b495-700ee4a90931/index.m3u8?by=yeslivetv.com
 #
 # -EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" tvg-logo="https://i.imgur.com/QqIdVqz.png" group-title="Taiwan",Taiwan Indigenous TV (原住民電視) (720p)
 # http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
