@@ -192,8 +192,8 @@ http://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 # -EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="Taiwan",TVBS Asia
 # web# https://www.tvbs.com.tw/ours/company/tvbsasia
 # http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 tvg-id="TVBS.tw" tvg-logo="https://i.imgur.com/4RvCHWP.png" group-title="Taiwan",TVBS (Taiwan)
-https://yeslivetv.com/twiptv/4gtv-4gtv073/index.m3u8
+# -EXTINF:-1 tvg-id="TVBS.tw" tvg-logo="https://i.imgur.com/4RvCHWP.png" group-title="Taiwan",TVBS (Taiwan)
+# https://yeslivetv.com/twiptv/4gtv-4gtv073/index.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-id0="TVBSNews.tw" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="Taiwan;News",TVBS News (TVBS新聞台)
 #http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-721adc40-fec7-40e6-8501-5ee4af74afa5/index.m3u8?by=yeslivetv.com
