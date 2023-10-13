@@ -189,11 +189,14 @@ http://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 # -EXTINF:-1 tvg-id="CanalMacau.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",澳視葡文 Canal Macau Ch.92 (720p) [Not 24/7]
 # https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #
-#EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="Taiwan;News",TVBS Asia
-#web# https://www.tvbs.com.tw/ours/company/tvbsasia
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+# -EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="Taiwan",TVBS Asia
+# web# https://www.tvbs.com.tw/ours/company/tvbsasia
+# http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 tvg-id="TVBS.tw" tvg-logo="https://i.imgur.com/4RvCHWP.png" group-title="Taiwan",TVBS (Taiwan)
+https://yeslivetv.com/twiptv/4gtv-4gtv073/index.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-id0="TVBSNews.tw" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="Taiwan;News",TVBS News (TVBS新聞台)
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-721adc40-fec7-40e6-8501-5ee4af74afa5/index.m3u8?by=yeslivetv.com
 #EXTINF:-1 tvg-id="台视新闻台" tvg-id0="TTVNews.tw" tvg-logo="https://i.imgur.com/AfkK0gv.png" group-title="Taiwan;News",TTV News (台視新聞台)
 #https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 #http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
@@ -210,6 +213,9 @@ https://sc2022.stream-link.org/tv2306.php?id=t07
 # youtube proxy Ⓨ, video format not supported in Tizen# http://tv.redrainl.site:9500/live.m3u8?c=3
 # https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 # http://sc2022.stream-link.org/tv2306.php?id=t03
+#EXTINF:-1 tvg-id="EBCNews.tw" tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="Taiwan;News",EBC News (東森新聞台)
+#http://seb.sason.top/sc/dsxw_fhd.m3u8
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e58926-5ddd-4f34-92b1-1b1be2babd73/index.m3u8?by=yeslivetv.com
 #EXTINF:-1 tvg-id="寰宇台灣" tvg-logo="https://i.imgur.com/oYUjEle.png" group-title="Taiwan;News",Taiwan News (寰宇新聞 台灣台)
 #https://sc2022.stream-link.org/tv2306.php?id=t08
 https://sc2022.stream-link.org/tv2306.php?id=t09
@@ -222,8 +228,6 @@ https://sc2022.stream-link.org/tv2306.php?id=t09
 # -EXTINF:-1 tvg-id="CTS.tw" tvg-logo="https://i.imgur.com/ISl9WsI.png" group-title="Taiwan",CTS HD (華視) (720p)
 # http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
 # http://sc2022.stream-link.org/tv2306.php?id=t04
-# -EXTINF:-1 tvg-id="EBCNews.tw" tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="Taiwan;News",EBC News (東森新聞台) (1080p) [Not 24/7]
-# http://seb.sason.top/sc/dsxw_fhd.m3u8
 # -EXTINF:-1 tvg-id="FTV.tw" tvg-logo="https://i.imgur.com/q8ahtbT.png" group-title="Taiwan",FTV (民視) (720p)
 # http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 # -EXTINF:-1 tvg-id="TTV.tw" tvg-logo="https://i.imgur.com/JB2Ps5T.png" group-title="Taiwan",TTV (台视) (720p)
