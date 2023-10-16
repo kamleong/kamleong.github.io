@@ -148,7 +148,7 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 # https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="HKIBC.hk" tvg-logo="https://i.imgur.com/jaIdkbz.png"  group-title="Hong Kong;Business",HKIBC 香港國際財經台(有線76台)
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-5158ec32-b7b4-4603-948d-3d317e635488/index.m3u8?by=yeslivetv.com
-#EXTINF:-1 tvg-id="HOYTV2.hk" tvg-name="HOY TV - 78台" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18010434/fav_icon-1.png" group-title="Hong Kong",☑HOY TV - 78台 (資訊台) 
+#EXTINF:-1 tvg-id="HOYTV2.hk" tvg-name="HOY TV - 78台" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18010434/fav_icon-1.png" group-title="Hong Kong",✗ HOY TV - 78台 (資訊台) 
 #web# https://hoy.tv/live/
 #http://sc2022.stream-link.org/tv2306.php?id=h14
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
@@ -473,7 +473,7 @@ http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw1387986390_146862
 #EXTINF:-1,tvg-id="卫视中文台" tvg-id0="StarChineseChannel.tw" tvg-logo="https://epg.112114.xyz/logo/卫视中文台.png" group-title="Taiwan;Entertainment",衛視中文台
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-95b081db-b718-4937-b69a-aeeae16f20a2/index.m3u8?by=yeslivetv.com
 #
-#EXTINF:-1 tvg-id="BreadTV.hk" tvg-logo="https://breadradioonline.com/uploads/allimg/171009/1-1G009125F9460.jpg" group-title="Hong Kong;Entertainment",☑面包台
+#EXTINF:-1 tvg-id="BreadTV.hk" tvg-logo="https://breadradioonline.com/uploads/allimg/171009/1-1G009125F9460.jpg" group-title="Hong Kong;Entertainment",面包台
 #web# https://breadradioonline.com/
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #
