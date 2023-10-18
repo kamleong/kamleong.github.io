@@ -188,6 +188,9 @@ http://107.167.12.58:27347/livehttpplay?channel_id=20122
 http://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 # -EXTINF:-1 tvg-id="CanalMacau.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",澳視葡文 Canal Macau Ch.92 (720p) [Not 24/7]
 # https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="LotusTV.mo" tvg-logo="https://sendcv.me/SendCVUpload/Logo/5758/2022060614460040355.jpg" group-title="Macau",澳門蓮花衛視
+#web# http://www.macaulotustv.cc/
+http://anren.live/HK/BiIOU11uLA.m3u8
 #
 # -EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="Taiwan",TVBS Asia
 # web# https://www.tvbs.com.tw/ours/company/tvbsasia
@@ -236,10 +239,12 @@ https://sc2022.stream-link.org/tv2306.php?id=t09
 #EXTINF:-1 tvg-id="ALJAZEERA" tvg-id0="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English Ⓢ" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="Qatar;News",🔭Al Jazeera English Ⓢ
 #web# https://www.aljazeera.com/live
 https://live-hls-web-aje.getaj.net/AJE/05.m3u8
-#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-id0="BBCWorldNewsAsiaPacific.uk" tvg-name="BBC World News" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="UK;News",🔭BBC World News (FreeInterTV)
-#web# http://www.freeintertv.com/view/id-2328?mode=1&page=1
-#UrlFetchApp https://script.google.com/home/projects/16uaQCXF7jFK6jJCPlWwrjnpYsQc9xCuUyrrn8_v1iLLKQQLgMggf7uuN/edit
-https://script.google.com/macros/s/AKfycbzthPQMiAmPAZJT3fRsCRpbbPwqRzKUA2ABPLExa5XFutwB857ccwJoz_abtDbwoO2qfA/exec?q=bbc.freeintertv&x=.m3u
+#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-id0="BBCWorldNewsAsiaPacific.uk" tvg-name="BBC World News" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="UK;News",🔭BBC World News
+http://ip2121.com:8081/live/bbc/playlist.m3u8
+# -EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-id0="BBCWorldNewsAsiaPacific.uk" tvg-name="BBC World News" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="UK;News",🔭BBC World News (FreeInterTV)
+# web# http://www.freeintertv.com/view/id-2328?mode=1&page=1
+# UrlFetchApp https://script.google.com/home/projects/16uaQCXF7jFK6jJCPlWwrjnpYsQc9xCuUyrrn8_v1iLLKQQLgMggf7uuN/edit
+# https://script.google.com/macros/s/AKfycbzthPQMiAmPAZJT3fRsCRpbbPwqRzKUA2ABPLExa5XFutwB857ccwJoz_abtDbwoO2qfA/exec?q=bbc.freeintertv&x=.m3u
 # -EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-name="BBC World News" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="UK;News",🔭BBC World News (Viaway)
 # web# http://www.viaway.com/view/44757524/bbc-world-news
 # http://playcontent6.viaway.com/dvr6/m/4d959f1a-0bb8-470b-b5a2-e53d9d2d4b26/stream.m3u8?ttl=120&Policy=....&Signature=...&Key-Pair-Id=...
@@ -390,6 +395,9 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EarthxTV.us" tvg-logo="https://i.imgur.com/ZWWqiCb.png" group-title="USA;Documentary",EarthxTV (720p)
 #web# https://www.earthxtv.com/
 https://ov.ottera.tv/live/master.m3u8?channel=earth_et
+#EXTINF:-1 tvg-id="WildEarth.us" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="USA;Documentary",WildEarth (1080p)
+#https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
 # -EXTINF:-1 tvg-id="XploreTV.us" tvg-logo="https://i.imgur.com/WaGRlFO.png" group-title="USA;Documentary",Xplore (Dogs)
 # web# https://www.watchxplore.com/
 # https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
@@ -589,6 +597,13 @@ https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
 https://cdn3.wowza.com/1/UFE5VjR0eVBzSkhP/YzVaUHpi/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Localish.us" tvg-logo="https://i.imgur.com/ACEbGD5.png" group-title="USA;Local",ABC Localish Bay Area (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Localish.m3u8
+#
+#EXTINF:-1 tvg-id="C31.au" tvg-logo="https://c31.org.au/wp-content/uploads/2019/06/C31-Logo-White-New.png" group-title="Australia;Local",C31 Melbourne
+#web# https://ctvplus.org.au/stream/melbourne/
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+#EXTINF:-1 tvg-id="C44.au" tvg-logo="https://ctvplus-web-media.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2023/03/27192715/C44-logo.png" group-title="Australia;Local",C44 Adelaide
+#web# https://ctvplus.org.au/stream/adelaide/ 
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 #
 #EXTINF:-1 group-title="China;Radio",📻佛山电台 (Radio)
 https://play.radiofoshan.com.cn/live/1400389414_BSID_46_audio.m3u8
