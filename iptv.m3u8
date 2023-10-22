@@ -82,6 +82,7 @@ http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 # -EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/512px-Ch_8_2016.svg.png" group-title="Thailand;Entertainment",Channel 8 (1080p)
 # http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AyqNnHj.png" group-title="Philippines;News",CNN Philippines
+#web# https://www.cnnphilippines.com/
 http://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 #
 #EXTINF:-1 tvg-id="公视" tvg-id0="PTS.tw" tvg-logo="https://i.imgur.com/R9hwOZx.png" group-title="Taiwan",✗ ★台灣公視
@@ -95,20 +96,20 @@ https://pull-f5-spe.ixigua.com/live/YesLiveTV-5834e2bc-111d-4ad2-b495-700ee4a909
 # -EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="Taiwan",Taiwan Plus (1080p)
 # https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 #
-#EXTINF:-1 tvg-name="優視頻道" tvg-logo="http://www.uchanneltv.us/uploads/7/6/2/5/76251585/uchannel-tv-logo-update-v2.jpg" group-title="USA",★優視頻道
+#EXTINF:-1 tvg-name="優視頻道" tvg-logo="http://www.uchanneltv.us/uploads/7/6/2/5/76251585/uchannel-tv-logo-update-v2.jpg" group-title="USA",☑優視頻道
 #web# https://www.uchanneltv.us/live-streaming.html
 #http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/playlist.m3u8
 #http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 https://2-fss-2.streamhoster.com/pl_118/200734-1199190-1/playlist.m3u8
-#EXTINF:-1 tvg-id="GOODTV" tvg-name="好消息" tvg-logo="https://i.imgur.com/k28Kc3o.png" group-title="Taiwan;Religious",★好消息
+#EXTINF:-1 tvg-id="GOODTV" tvg-name="好消息" tvg-logo="https://i.imgur.com/k28Kc3o.png" group-title="Taiwan;Religious",☑好消息
 #web# https://www.goodtv.tv/tv-channel?ch=1
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 #
-#EXTINF:-1 tvg-id="大爱一台" tvg-id0="DaAi1.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="Taiwan;Religious",★DaAi1 (大愛1) (720p)
+#EXTINF:-1 tvg-id="大爱一台" tvg-id0="DaAi1.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="Taiwan;Religious",☑DaAi1 (大愛1) (720p)
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-id="大爱二台" tvg-id0="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="Taiwan;Religious",★DaAi2 (大愛2) (720p)
+#EXTINF:-1 tvg-id="大爱二台" tvg-id0="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="Taiwan;Religious",☑DaAi2 (大愛2) (720p)
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-id="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="Taiwan;Religious",人間衛視
+#EXTINF:-1 tvg-id="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="Taiwan;Religious",☑人間衛視
 #web# 佛光山人間衛視 https://www.bltv.tv/
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #
@@ -117,7 +118,8 @@ http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #SD: video OK but intermittent audio# http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #HD: server performance is OK but availability is low# http://sc2022.stream-link.org/tv2306.php?id=h19
 #http://php.17186.eu.org/phtv/fhzw.m3u8 --> https://pull-f5-spe.ixigua.com/live/YesLiveTV-9500585d-11b7-404b-9967-6639d66246e3/index.m3u8
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-9500585d-11b7-404b-9967-6639d66246e3/index.m3u8
+#https://pull-f5-spe.ixigua.com/live/YesLiveTV-9500585d-11b7-404b-9967-6639d66246e3/index.m3u8
+http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-id0="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="Hong Kong;News",鳳凰衛視資訊台
 #audio# 音頻 http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 #http://125.210.152.18:9090/live/FHZX_1200.m3u8
@@ -480,7 +482,7 @@ https://pull-f5-spe.ixigua.com/live/YesLiveTV-95b081db-b718-4937-b69a-aeeae16f20
 #EXTINF:-1 tvg-id="BreadTV.hk" tvg-logo="https://breadradioonline.com/uploads/allimg/171009/1-1G009125F9460.jpg" group-title="Hong Kong;Entertainment",面包台
 #web# https://breadradioonline.com/
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 tvg-id="LotusTV.mo" tvg-logo="https://sendcv.me/SendCVUpload/Logo/5758/2022060614460040355.jpg" group-title="Macau;Entertainment",澳門蓮花衛視
+#EXTINF:-1 tvg-id="LotusTV.mo" tvg-logo="https://sendcv.me/SendCVUpload/Logo/5758/2022060614460040355.jpg" group-title="Macau;Entertainment",☑澳門蓮花衛視
 #web# http://www.macaulotustv.cc/
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 tvg-id="XingKong.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" group-title="China;Entertainment",☑星空卫视
