@@ -125,7 +125,8 @@ http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #audio# 音頻 http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 #http://125.210.152.18:9090/live/FHZX_1200.m3u8
 #http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-http://210.210.155.37/qwr9ew/s/s21/01.m3u8
+#http://210.210.155.37/qwr9ew/s/s21/01.m3u8
+http://210.210.155.35/session/6c182bb6-7b7a-11e8-b712-b82a72d63267/qwr9ew/s/s21/01.m3u8
 # -EXTINF:-1 tvg-id="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="Hong Kong",鳳凰香港
 # http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #
@@ -489,6 +490,8 @@ http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 #http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
 #https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
 http://hms424nc1972679598.live.aikan.miguvideo.com/wh7f454c46tw2025729208_-189538202/wd_r2/ocn/cctv6hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115084415&ContentId=265667482&timezone=UTC&mtv_session=0ac4193cdf07336c58fe3cdb4aac34a4&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=158f70fd4d75270c1810f0c735e78e18
+#EXTINF:-1 tvg-id="CM.hk" tvg-logo="http://www.tvyan.com/uploads/dianshi/celestialmovies.jpg" group-title="Hong Kong;Movies",Celestial Movies 天映频道 (Indonesian Subtitle)
+http://210.210.155.37/session/6883312c-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h14/01.m3u8
 # -EXTINF:-1 tvg-id="AMC" tvg-id0="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="USA;Movies",amc (east)
 # schedule# https://www.amc.com/schedule
 # https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
