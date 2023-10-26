@@ -489,7 +489,7 @@ http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 #http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
 #https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
 http://hms424nc1972679598.live.aikan.miguvideo.com/wh7f454c46tw2025729208_-189538202/wd_r2/ocn/cctv6hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115084415&ContentId=265667482&timezone=UTC&mtv_session=0ac4193cdf07336c58fe3cdb4aac34a4&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=158f70fd4d75270c1810f0c735e78e18
-#EXTINF:-1 tvg-id="CM.hk" tvg-logo="http://www.tvyan.com/uploads/dianshi/celestialmovies.jpg" group-title="Hong Kong;Movies",Celestial Movies 天映頻道 (Indonesian Subtitle)
+#EXTINF:-1 tvg-id="CM.hk" tvg-logo="http://www.tvyan.com/uploads/dianshi/celestialmovies.jpg" group-title="Hong Kong;Movies",Celestial Movies 天映頻道 (普) (Indonesian Subtitle)
 http://210.210.155.37/session/6883312c-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h14/01.m3u8
 # -EXTINF:-1 tvg-id="AMC" tvg-id0="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="USA;Movies",amc (east)
 # schedule# https://www.amc.com/schedule
