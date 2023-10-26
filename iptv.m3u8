@@ -125,8 +125,7 @@ http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #audio# 音頻 http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 #http://125.210.152.18:9090/live/FHZX_1200.m3u8
 #http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#http://210.210.155.37/qwr9ew/s/s21/01.m3u8
-http://210.210.155.35/session/cb44f5f6-7b7a-11e8-8e98-c81f66f89318/qwr9ew/s/s21/01.m3u8
+http://210.210.155.37/qwr9ew/s/s21/01.m3u8
 # -EXTINF:-1 tvg-id="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="Hong Kong",鳳凰香港
 # http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #
