@@ -47,9 +47,9 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 # -EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.imgur.com/nmoL4J4.png" group-title="Indonesia",tvOne (Opt-1)
 # web# https://www.tvonenews.com/live
 ＃ http://210.210.155.35:80/session/0b808a8c-6c0b-11e9-88f0-c81f66f89318/qwr9ew/s/s105/index.m3u8
-#EXTINF:-1 tvg-id="INDOSIAR.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Indosiar_2015.svg" group-title="Indonesia",INDOSIAR
-#web# https://www.indosiar.com/
-http://210.210.155.35/session/9ec7c73c-099b-11ea-aff4-b82a72d63267/qwr9ew/s/s04/01.m3u8
+# -EXTINF:-1 tvg-id="INDOSIAR.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Indosiar_2015.svg" group-title="Indonesia",INDOSIAR
+# web# https://www.indosiar.com/
+# http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 # -EXTINF:-1 tvg-logo="https://i.imgur.com/4KW8Qnr.png",RCTI 
 # web# https://www.rctiplus.com/tv/rcti
 # https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
@@ -127,9 +127,10 @@ http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #http://125.210.152.18:9090/live/FHZX_1200.m3u8
 #http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s21/01.m3u8
+#http://r.jdshipin.com/0Rp07 --> redirect --> http://php.17186.eu.org/phtv/fhzx.m3u8 # video format not supported in Tizen ?
 #https://ktpremium.com:443/M919HR/5577/492399?c=香港 --> https://ktpremium.com:443/M919HR/5577/492399?c=香港&token=... 
-#http://r.jdshipin.com/0Rp07 --> redirect --> http://php.17186.eu.org/phtv/fhzx.m3u8
-http://php.17186.eu.org/phtv/fhzx.m3u8
+#http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/2300.m3u8
+http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 # -EXTINF:-1 tvg-id="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="Hong Kong",鳳凰香港
 # http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #
