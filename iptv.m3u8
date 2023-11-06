@@ -499,7 +499,7 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 tvg-id="XingKong.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" group-title="China;Entertainment",☑星空卫视
 http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
-#EXTINF:-1 tvg-id="douban.cn" tvg-logo="https://bkimg.cdn.bcebos.com/pic/d000baa1cd11728b2046ed0bc3fcc3cec3fd2cab" group-title="China;Entertainment",豆瓣电影
+#EXTINF:-1 tvg-id="douban.cn" tvg-logo="https://bkimg.cdn.bcebos.com/pic/d000baa1cd11728b2046ed0bc3fcc3cec3fd2cab" group-title="China;Movies",豆瓣电影
 http://epg.112114.xyz/douyu/8770422
 #
 #EXTINF:-1 tvg-id="CCTV6" tvg-id0="CCTV6.cn" tvg-logo="https://i.imgur.com/dDqvRHX.png" group-title="China;Movies",CCTV-6电影 (1080p)
