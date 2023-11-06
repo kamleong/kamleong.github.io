@@ -211,11 +211,12 @@ https://sc2022.stream-link.org/tv2306.php?id=t07
 # http://sc2022.stream-link.org/tv2306.php?id=t05
 # -EXTINF:-1 group-title="Taiwan;News",CTV News (中視新聞台)
 # http://sc2022.stream-link.org/tv2306.php?id=t06
-# -EXTINF:-1 tvg-id="中天新闻台" tvg-logo="https://i.imgur.com/u81tZtA.png" group-title="Taiwan;News",CTi News (中天新聞台) Ⓨ
+#EXTINF:-1 tvg-id="中天新闻台" tvg-logo="https://i.imgur.com/u81tZtA.png" group-title="Taiwan;News",CTi News (中天新聞台) Ⓨ
 # server performance is OK but availability is low# http://sc2022.stream-link.org/tv2306.php?id=t03
 # youtube proxy Ⓨ, video format not supported in Tizen# http://tv.redrainl.site:9500/live.m3u8?c=3
 # https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 # http://sc2022.stream-link.org/tv2306.php?id=t03
+http://108.181.20.223:34803/
 #EXTINF:-1 tvg-id="EBCNews.tw" tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="Taiwan;News",EBC News (東森新聞台)
 #http://seb.sason.top/sc/dsxw_fhd.m3u8
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e58926-5ddd-4f34-92b1-1b1be2babd73/index.m3u8?by=yeslivetv.com
@@ -267,8 +268,8 @@ https://npr-ice.streamguys1.com/live.mp3
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK;News",🔭The Guardian
 # https://rakuten-guardian-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" tvg-id="BloombergTelevision.us" group-title="USA;Business",Bloomberg
-https://bloomberg.com/media-manifest/streams/us.m3u8
+# -EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" tvg-id="BloombergTelevision.us" group-title="USA;Business",Bloomberg
+# https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Hong Kong;Business",Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/CNBC_Indonesia_logo.svg" group-title="Indonesia;Business",CNBC Indonesia
@@ -296,7 +297,9 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-name="EBS English Ⓢ" tvg-logo="https://i.imgur.com/qceaIf7.png" group-title="Korea",EBS English Ⓢ - 767
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="Korea",☑KBS World - 773
-http://ye23.vip/z7z8/2021/kbs2020.php?id=3
+#web# https://world.kbs.co.kr/service/index.htm?lang=e
+#http://ye23.vip/z7z8/2021/kbs2020.php?id=3
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://i.imgur.com/JEA2xpv.png" group-title="Turkey;News",☑TRT World - 934
 #web# https://www.trtworld.com/live
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
@@ -472,6 +475,9 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 # -EXTINF:-1 tvg-id="Dali.tw" tvg-name="大立电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png" group-title="Taiwan;Local",大立電視台
 # http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #
+# -EXTINF:-1, CCTV 风云音乐
+# http://111.20.40.162/PLTV/88888893/224/3221226953/index.m3u8
+#
 #EXTINF:-1 tvg-id="CCTV15" tvg-id0="CCTV15.cn" tvg-logo="https://i.imgur.com/m2R60TJ.png" group-title="China;Music",✗ *CCTV-15音乐 (720p)
 #m3u# https://live.fanmingming.com --> https://cntv.sbs/live?
 #m3u# http://lu1.cc/itv/json/yangshi https://github.com/kozalak-robot/iptv/blob/master/daily.m3u8
@@ -479,7 +485,9 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205002.m3u8
 #http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 #https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
-http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw1387986390_1468621622/migu/kailu/20200324/cctv15hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020617&ContentId=265667535&timezone=UTC&mtv_session=e1254803553b7cace3a119612bf266d8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7ba98a3a39d853487109bebe5ed31c43
+#http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw1387986390_1468621622/migu/kailu/20200324/cctv15hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020617&ContentId=265667535&timezone=UTC&mtv_session=e1254803553b7cace3a119612bf266d8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7ba98a3a39d853487109bebe5ed31c43
+#http://hls.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
+http://49.235.110.121:9090/898/peda/bestv.php?id=cctv15hd8m/8000000
 #
 #EXTINF:-1,tvg-id="卫视中文台" tvg-id0="StarChineseChannel.tw" tvg-logo="https://epg.112114.xyz/logo/卫视中文台.png" group-title="Taiwan;Entertainment",衛視中文台
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-95b081db-b718-4937-b69a-aeeae16f20a2/index.m3u8?by=yeslivetv.com
@@ -491,6 +499,8 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 tvg-id="XingKong.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" group-title="China;Entertainment",☑星空卫视
 http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
+#EXTINF:-1 tvg-id="douban.cn" tvg-logo="https://bkimg.cdn.bcebos.com/pic/d000baa1cd11728b2046ed0bc3fcc3cec3fd2cab" group-title="China;Entertainment",豆瓣电影
+http://epg.112114.xyz/douyu/8770422
 #
 #EXTINF:-1 tvg-id="CCTV6" tvg-id0="CCTV6.cn" tvg-logo="https://i.imgur.com/dDqvRHX.png" group-title="China;Movies",CCTV-6电影 (1080p)
 #http://58.205.220.58:8088/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
