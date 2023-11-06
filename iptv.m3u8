@@ -352,7 +352,10 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #audio# https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
 #http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204802.m3u8
 #https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
-http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+#http://49.235.110.121:9090/898/peda/bestv.php?id=cctv4hd8m/8000000
+#http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+#http://hls.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
 # -EXTINF:-1 tvg-id="长城精品" tvg-name="长城精品频道" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/2c/24/b5/2c24b5a2-0877-195e-2bad-c6b33ae04e38/source/512x512bb.jpg" group-title="China",长城精品频道
 # http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 #
@@ -485,9 +488,9 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205002.m3u8
 #http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 #https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
+#http://49.235.110.121:9090/898/peda/bestv.php?id=cctv15hd8m/8000000
 #http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw1387986390_1468621622/migu/kailu/20200324/cctv15hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020617&ContentId=265667535&timezone=UTC&mtv_session=e1254803553b7cace3a119612bf266d8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7ba98a3a39d853487109bebe5ed31c43
-#http://hls.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
-http://49.235.110.121:9090/898/peda/bestv.php?id=cctv15hd8m/8000000
+http://hls.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
 #
 #EXTINF:-1,tvg-id="卫视中文台" tvg-id0="StarChineseChannel.tw" tvg-logo="https://epg.112114.xyz/logo/卫视中文台.png" group-title="Taiwan;Entertainment",衛視中文台
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-95b081db-b718-4937-b69a-aeeae16f20a2/index.m3u8?by=yeslivetv.com
