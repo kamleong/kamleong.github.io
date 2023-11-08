@@ -193,7 +193,8 @@ http://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 # -EXTINF:-1 tvg-id="CanalMacau.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",澳視葡文 Canal Macau Ch.92 (720p) [Not 24/7]
 # https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #
-#EXTINF:-1 tvg-id0="PTSNews.tw" tvg-logo="https://i.imgur.com/R9hwOZx.png" group-title="Taiwan",✗ 公視新聞
+#EXTINF:-1 tvg-id0="PNN.tw" tvg-logo="https://news.pts.org.tw/images/logo.svg" group-title="Taiwan;News",✗ PNN 公視新聞網
+#web# https://news.pts.org.tw/
 https://sc2022.stream-link.org/tv2306.php?id=t29
 #
 # -EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="Taiwan",TVBS Asia
