@@ -88,10 +88,10 @@ http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 http://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 #
 #EXTINF:-1 tvg-id="公视" tvg-id0="PTS.tw" tvg-logo="https://i.imgur.com/R9hwOZx.png" group-title="Taiwan",✗ *台灣公視
-#web# https://chaojidianshi.net/zhibo/43.html
+#web# https://yeslivetv.com/channels/pts/ | https://chaojidianshi.net/zhibo/43.html |
 #http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
 #https://bstvcdn.ballbar.net/ctv_taiwan/playlist-17.m3u8a?t=...&token=...
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-5834e2bc-111d-4ad2-b495-700ee4a90931/index.m3u8?by=yeslivetv.com
+https://pull-f5-spe.ixigua.com/yeslivetv.com/399e061f-ba37-4f8e-a57f-5153db9559a6/index.m3u8?by=yeslivetv.com
 #
 # -EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" tvg-logo="https://i.imgur.com/QqIdVqz.png" group-title="Taiwan",Taiwan Indigenous TV (原住民電視) (720p)
 # http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
@@ -159,10 +159,10 @@ https://pull-f5-spe.ixigua.com/live/YesLiveTV-5158ec32-b7b4-4603-948d-3d317e6354
 #http://sc2022.stream-link.org/tv2306.php?id=h14
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
 #EXTINF:-1 tvg-id="香港开电视" tvg-id0="HOYTV2.hk" tvg-name="HOY TV - 77台" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18010434/fav_icon-1.png" group-title="Hong Kong",☑HOY TV - 77台
-#web# https://hoy.tv/live/
+#web# https://hoy.tv/live/ | https://yeslivetv.com/channels/hkopentv/
 #http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#http://sc2022.stream-link.org/tv2306.php?id=h13
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-231f06c7-6ec6-47a4-9723-b8c6cd64ad9f/index.m3u8?by=yeslivetv.com
+#https://pull-f5-spe.ixigua.com/yeslivetv.com/802961196-127510101/index.m3u8?by=yeslivetv.com
+https://sc2022.stream-link.org/tv2306.php?id=h16
 #
 #EXTINF:-1 tvg-id="无线新闻" tvg-id0="TVBNewsChannel.hk" tvg-logo="https://i.imgur.com/Gwij0Fj.png" group-title="Hong Kong;News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ TVB News Channel (無綫新聞台)
 #https://cdn.hklive.tv/xxxx/83/index.m3u8
@@ -192,6 +192,9 @@ http://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 # -EXTINF:-1 tvg-id="CanalMacau.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",澳視葡文 Canal Macau Ch.92 (720p) [Not 24/7]
 # https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #
+#EXTINF:-1 tvg-id0="PTSNews.tw" tvg-logo="https://i.imgur.com/R9hwOZx.png" group-title="Taiwan",✗ 公視新聞
+https://sc2022.stream-link.org/tv2306.php?id=t29&checkedby:iptvcat.com 
+#
 # -EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="Taiwan",TVBS Asia
 # web# https://www.tvbs.com.tw/ours/company/tvbsasia
 # http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
@@ -211,12 +214,12 @@ https://sc2022.stream-link.org/tv2306.php?id=t07
 # http://sc2022.stream-link.org/tv2306.php?id=t05
 # -EXTINF:-1 group-title="Taiwan;News",CTV News (中視新聞台)
 # http://sc2022.stream-link.org/tv2306.php?id=t06
-#EXTINF:-1 tvg-id="中天新闻台" tvg-logo="https://i.imgur.com/u81tZtA.png" group-title="Taiwan;News",CTi News (中天新聞台) Ⓨ
+# -EXTINF:-1 tvg-id="中天新闻台" tvg-logo="https://i.imgur.com/u81tZtA.png" group-title="Taiwan;News",CTi News (中天新聞台) Ⓨ
 # server performance is OK but availability is low# http://sc2022.stream-link.org/tv2306.php?id=t03
 # youtube proxy Ⓨ, video format not supported in Tizen# http://tv.redrainl.site:9500/live.m3u8?c=3
 # https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 # http://sc2022.stream-link.org/tv2306.php?id=t03
-http://108.181.20.223:34803/
+# http://108.181.20.223:34803/
 #EXTINF:-1 tvg-id="EBCNews.tw" tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="Taiwan;News",EBC News (東森新聞台)
 #http://seb.sason.top/sc/dsxw_fhd.m3u8
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e58926-5ddd-4f34-92b1-1b1be2babd73/index.m3u8?by=yeslivetv.com
