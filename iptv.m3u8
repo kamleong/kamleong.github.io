@@ -91,7 +91,8 @@ http://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 #web# https://yeslivetv.com/channels/pts/ | https://chaojidianshi.net/zhibo/43.html |
 #http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
 #https://bstvcdn.ballbar.net/ctv_taiwan/playlist-17.m3u8a?t=...&token=...
-https://pull-f5-spe.ixigua.com/yeslivetv.com/399e061f-ba37-4f8e-a57f-5153db9559a6/index.m3u8?by=yeslivetv.com
+#https://pull-f5-spe.ixigua.com/yeslivetv.com/399e061f-ba37-4f8e-a57f-5153db9559a6/index.m3u8?by=yeslivetv.com
+http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
 #
 # -EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" tvg-logo="https://i.imgur.com/QqIdVqz.png" group-title="Taiwan",Taiwan Indigenous TV (原住民電視) (720p)
 # http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
@@ -193,7 +194,7 @@ http://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 # https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #
 #EXTINF:-1 tvg-id0="PTSNews.tw" tvg-logo="https://i.imgur.com/R9hwOZx.png" group-title="Taiwan",✗ 公視新聞
-https://sc2022.stream-link.org/tv2306.php?id=t29&checkedby:iptvcat.com 
+https://sc2022.stream-link.org/tv2306.php?id=t29
 #
 # -EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="Taiwan",TVBS Asia
 # web# https://www.tvbs.com.tw/ours/company/tvbsasia
