@@ -193,7 +193,7 @@ http://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 # -EXTINF:-1 tvg-id="CanalMacau.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",澳視葡文 Canal Macau Ch.92 (720p) [Not 24/7]
 # https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #
-#EXTINF:-1 tvg-id0="PTSNews.tw" tvg-logo="https://news.pts.org.tw/images/logo.svg" group-title="Taiwan;News",✗ *PNN 公視新聞
+#EXTINF:-1 tvg-id0="PTSNews.tw" tvg-logo="https://news.pts.org.tw/images/logo.svg" group-title="Taiwan;News",*PNN 公視新聞
 #web# https://news.pts.org.tw/ [公視新聞網] PTS News
 https://sc2022.stream-link.org/tv2306.php?id=t29
 #
@@ -432,7 +432,7 @@ https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
 # -EXTINF:-1 tvg-id="GoTraveler.us" tvg-logo="https://i.imgur.com/IaRcN1G.png" group-title="USA;Travel",Go Traveler (720p)
 # web# https://www.gotraveler.com/
 # https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NZkPH1N.png" group-title="India;Travel",TravelXP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NZkPH1N.png" group-title="India;Travel",🏖TravelXP
 #web# https://www.travelxp.com/
 https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8
 # -EXTINF:-1 tvg-id="LUXETV" tvg-id0="LuxeTV.lu" tvg-logo="https://i.imgur.com/24ehonx.png" group-title="Luxembourg;Lifestyle",🏖Luxe TV (En) (1080p)
@@ -486,7 +486,7 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 # -EXTINF:-1, CCTV 风云音乐
 # http://111.20.40.162/PLTV/88888893/224/3221226953/index.m3u8
 #
-#EXTINF:-1 tvg-id="CCTV15" tvg-id0="CCTV15.cn" tvg-logo="https://i.imgur.com/m2R60TJ.png" group-title="China;Music",✗ *CCTV-15音乐 (720p)
+#EXTINF:-1 tvg-id="CCTV15" tvg-id0="CCTV15.cn" tvg-logo="https://i.imgur.com/m2R60TJ.png" group-title="China;Music",✗ *𝄞CCTV-15音乐 (720p)
 #m3u# https://live.fanmingming.com --> https://cntv.sbs/live?
 #m3u# http://lu1.cc/itv/json/yangshi https://github.com/kozalak-robot/iptv/blob/master/daily.m3u8
 #https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv15_1_720P/playlist.m3u8?wsApp=HLS
@@ -505,7 +505,7 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="LotusTV.mo" tvg-logo="https://sendcv.me/SendCVUpload/Logo/5758/2022060614460040355.jpg" group-title="Macau;Entertainment",*澳門蓮花衛視
 #web# http://www.macaulotustv.cc/
 http://anren.live/HK/BiIOU11uLA.m3u8
-#EXTINF:-1 tvg-id="douban.cn" tvg-logo="https://bkimg.cdn.bcebos.com/pic/d000baa1cd11728b2046ed0bc3fcc3cec3fd2cab" group-title="China;Movies",豆瓣电影
+#EXTINF:-1 tvg-id="douban.cn" tvg-logo="https://bkimg.cdn.bcebos.com/pic/d000baa1cd11728b2046ed0bc3fcc3cec3fd2cab" group-title="China;Movies",🎬豆瓣电影
 http://epg.112114.xyz/douyu/8770422
 #EXTINF:-1 tvg-id="XingKong.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" group-title="China;Entertainment",☑星空卫视
 http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
