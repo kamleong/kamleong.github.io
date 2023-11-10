@@ -245,7 +245,7 @@ https://sc2022.stream-link.org/tv2306.php?id=t09
 #EXTINF:-1 tvg-id="ALJAZEERA" tvg-id0="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English Ⓢ" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="Qatar;News",*🔭Al Jazeera English Ⓢ
 #web# https://www.aljazeera.com/live
 https://live-hls-web-aje.getaj.net/AJE/05.m3u8
-#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-id0="BBCWorldNewsAsiaPacific.uk" tvg-name="BBC World News" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="UK;News",🔭BBC World News
+#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-id0="BBCWorldNewsAsiaPacific.uk" tvg-name="BBC World News" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="UK;News",✗ 🔭BBC World News
 http://ip2121.com:8081/live/bbc/playlist.m3u8
 # -EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-id0="BBCWorldNewsAsiaPacific.uk" tvg-name="BBC World News" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="UK;News",🔭BBC World News (FreeInterTV)
 # web# http://www.freeintertv.com/view/id-2328?mode=1&page=1
