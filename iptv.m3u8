@@ -246,7 +246,9 @@ https://sc2022.stream-link.org/tv2306.php?id=t09
 #web# https://www.aljazeera.com/live
 https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 #EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-id0="BBCWorldNewsAsiaPacific.uk" tvg-name="BBC World News" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="UK;News",✗ 🔭BBC World News
-http://ip2121.com:8081/live/bbc/playlist.m3u8
+#http://ip2121.com:8081/live/bbc/playlist.m3u8
+#https://sc2022.stream-link.org/tv2306.php?id=e02
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 # -EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-id0="BBCWorldNewsAsiaPacific.uk" tvg-name="BBC World News" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="UK;News",🔭BBC World News (FreeInterTV)
 # web# http://www.freeintertv.com/view/id-2328?mode=1&page=1
 # UrlFetchApp https://script.google.com/home/projects/16uaQCXF7jFK6jJCPlWwrjnpYsQc9xCuUyrrn8_v1iLLKQQLgMggf7uuN/edit
@@ -328,6 +330,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df978944
 # -EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CBC News" tvg-logo="https://i.imgur.com/1EqQGKS.png" group-title="Canada;News",✗ CBC News - 87
 # #https://cbcrclive-tor.akamaized.net/hls/live/2040337/geo_allow_global/ES_REGIONS_25/master_2000.m3u8
 # https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+# https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 # -EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada;News",✗ Global News
 ＃ https://i.mjh.nz/PlutoTV/62cbef9ebb857100072fc187-alt.m3u8
 #
