@@ -130,8 +130,8 @@ http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #http://210.210.155.37/qwr9ew/s/s21/01.m3u8
 #http://r.jdshipin.com/0Rp07 --> redirect --> http://php.17186.eu.org/phtv/fhzx.m3u8 # video format not supported in Tizen ?
 #https://ktpremium.com:443/M919HR/5577/492399?c=香港 --> https://ktpremium.com:443/M919HR/5577/492399?c=香港&token=... 
-#http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/2300.m3u8
-http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+#http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/2300.m3u8 | /otv/skcc/live/channel52003/index.m3u8
+http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8
 # -EXTINF:-1 tvg-id="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="Hong Kong",鳳凰香港
 # http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #
@@ -343,6 +343,7 @@ https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/53
 # -EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" group-title="Ireland;News",RTE News Now 
 # web# https://www.rte.ie/player/onnow/
 # https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
+# http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=1014206&extension=ts
 #
 #EXTINF:-1 tvg-id="EURONEWS" tvg-id0="EuronewsEnglish.fr" tvg-name="Euronews English" tvg-logo="https://i.imgur.com/8MsbPCU.png" group-title="Europe;News",☑Euronews English - 1050
 #https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
