@@ -141,10 +141,10 @@ http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8
 #https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream4/streamPlaylist.m3u8
 #https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 tvg-id="RTHKTV32.hk" tvg-logo="https://i.imgur.com/MXLuUoU.png" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",RTHK 港台電視32 時事直播頻道
-#https://cdn.hklive.tv/xxxx/32/index.m3u8
-#https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream4/streamPlaylist.m3u8
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+# -EXTINF:-1 tvg-id="RTHKTV32.hk" tvg-logo="https://i.imgur.com/MXLuUoU.png" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",RTHK 港台電視32 時事直播頻道
+# https://cdn.hklive.tv/xxxx/32/index.m3u8
+# https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream4/streamPlaylist.m3u8
+# https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #RTHK (港台電視33) == CCTV-1 ; RTHK (港台電視34) == CGTN Documentary
 #
 # -EXTINF:-1 tvg-id="HKSTV.hk" tvg-logo="https://i.imgur.com/UhwlxwL.png" group-title="Hong Kong",香港卫视 HKS
@@ -303,8 +303,8 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #
 #EXTINF:-1 tvg-id="ARIRANGTV" tvg-id0="ArirangTV.kr" tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" group-title="Korea",*Arirang - 763
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-name="EBS English Ⓢ" tvg-logo="https://i.imgur.com/qceaIf7.png" group-title="Korea",EBS English Ⓢ - 767
-https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+# -EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-name="EBS English Ⓢ" tvg-logo="https://i.imgur.com/qceaIf7.png" group-title="Korea",EBS English Ⓢ - 767
+# https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="Korea",☑KBS World - 773
 #web# https://world.kbs.co.kr/service/index.htm?lang=e
 #http://ye23.vip/z7z8/2021/kbs2020.php?id=3
@@ -383,9 +383,9 @@ https://cdnapisec.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6t
 #EXTINF:-1 tvg-name="RT Doc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png/800px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png" group-title="Russia;Documentary",☑RT Doc
 #web# https://www.rt.com/on-air/ | https://rtd.rt.com/on-air/
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-id="VoATV.us" tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="USA",VOA English TV
-#web# https://www.voanews.com/live
-https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+# -EXTINF:-1 tvg-id="VoATV.us" tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="USA",VOA English TV
+# web# https://www.voanews.com/live
+# https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 # -EXTINF:-1 tvg-id="FreeSpeechTV.us" tvg-logo="https://i.imgur.com/Qq6heRq.png" group-title="USA;Talk",Free Speech TV (720p)
 # web# https://freespeech.org/
 # https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
