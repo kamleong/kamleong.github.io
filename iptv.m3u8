@@ -204,16 +204,16 @@ https://sc2022.stream-link.org/tv2306.php?id=t29
 # https://yeslivetv.com/twiptv/4gtv-4gtv073/index.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-id0="TVBSNews.tw" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="Taiwan;News",TVBS News (TVBS新聞台)
 #web# https://yeslivetv.com/channels/tvbs55/
-#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #https://sc2022.stream-link.org/tv2306.php?id=t14 [geo-hk-only]
+#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 #EXTINF:-1 tvg-id="台视新闻台" tvg-id0="TTVNews.tw" tvg-logo="https://i.imgur.com/AfkK0gv.png" group-title="Taiwan;News",TTV News (台視新聞台)
 #https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 #http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="民视新闻台" tvg-id0="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="Taiwan;News",FTV News (民視新聞台)
-#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-https://sc2022.stream-link.org/tv2306.php?id=t07
+#https://sc2022.stream-link.org/tv2306.php?id=t07 [geo-hk-only]
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 # -EXTINF:-1 group-title="Taiwan;News",CTS News (華視新聞台)
 # http://sc2022.stream-link.org/tv2306.php?id=t05
 # -EXTINF:-1 group-title="Taiwan;News",CTV News (中視新聞台)
@@ -227,7 +227,8 @@ https://sc2022.stream-link.org/tv2306.php?id=t07
 #EXTINF:-1 tvg-id="EBCNews.tw" tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="Taiwan;News",EBC News (東森新聞台)
 #web# https://yeslivetv.com/channels/ebcnews/
 #http://seb.sason.top/sc/dsxw_fhd.m3u8
-https://sc2022.stream-link.org/tv2306.php?id=t01
+#https://sc2022.stream-link.org/tv2306.php?id=t01 [geo-hk-only]
+http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
 #EXTINF:-1 tvg-id="寰宇台灣" tvg-logo="https://i.imgur.com/oYUjEle.png" group-title="Taiwan;News",Taiwan News (寰宇新聞 台灣台)
 #https://sc2022.stream-link.org/tv2306.php?id=t08
 https://sc2022.stream-link.org/tv2306.php?id=t09
