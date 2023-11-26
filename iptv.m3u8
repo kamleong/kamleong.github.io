@@ -159,7 +159,7 @@ https://pull-f5-spe.ixigua.com/live/YesLiveTV-5158ec32-b7b4-4603-948d-3d317e6354
 #web# https://hoy.tv/live/
 #http://sc2022.stream-link.org/tv2306.php?id=h14
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
-#EXTINF:-1 tvg-id="香港开电视" tvg-id0="HOYTV2.hk" tvg-name="HOY TV - 77台" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18010434/fav_icon-1.png" group-title="Hong Kong",☑HOY TV - 77台
+#EXTINF:-1 tvg-id="香港开电视" tvg-id0="HOYTV2.hk" tvg-name="HOY TV - 77台" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18010434/fav_icon-1.png" group-title="Hong Kong",✗ ☑HOY TV - 77台
 #web# https://hoy.tv/live/ | https://yeslivetv.com/channels/hkopentv/
 #http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #https://pull-f5-spe.ixigua.com/yeslivetv.com/802961196-127510101/index.m3u8?by=yeslivetv.com
@@ -205,6 +205,7 @@ https://sc2022.stream-link.org/tv2306.php?id=t29
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-id0="TVBSNews.tw" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="Taiwan;News",TVBS News (TVBS新聞台)
 #web# https://yeslivetv.com/channels/tvbs55/
 #https://sc2022.stream-link.org/tv2306.php?id=t14 [geo-hk-only]
+#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8 --> googlevideo.com
 #http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 #EXTINF:-1 tvg-id="台视新闻台" tvg-id0="TTVNews.tw" tvg-logo="https://i.imgur.com/AfkK0gv.png" group-title="Taiwan;News",TTV News (台視新聞台)
@@ -368,6 +369,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-id0="CCTV4America.cn" tvg-name="CCTV-4 中文国际（美） Ⓢ" tvg-logo="https://i.imgur.com/1TPiRqR.png" group-title="China",☑CCTV-4 中文国际（美） Ⓢ
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+# -EXTINF:-1 tvg-id="CCTV4欧洲" tvg-id0="CCTV4Europe.cn" tvg-name="CCTV-4 中文国际（欧） Ⓢ" tvg-logo="https://i.imgur.com/ovUSVEQ.png"" group-title="China",☑CCTV-4 中文国际（欧） Ⓢ
+# https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8 --> googlevideo.com
 #EXTINF:-1 tvg-id="CCTV4" tvg-id0="CCTV4Asia.cn" tvg-name="CCTV-4 中文国际（亚）" tvg-logo="https://i.imgur.com/ovUSVEQ.png" group-title="China",CCTV-4 中文国际（亚）
 #web# https://tv.cctv.com/live/cctv4/
 #audio# https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
