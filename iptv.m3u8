@@ -110,8 +110,8 @@ https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3
 #
 #EXTINF:-1 tvg-id="大爱一台" tvg-id0="DaAi1.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="Taiwan;Religious",☑DaAi1 (大愛1) (720p)
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-id="大爱二台" tvg-id0="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="Taiwan;Religious",☑DaAi2 (大愛2) (720p)
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+# -EXTINF:-1 tvg-id="大爱二台" tvg-id0="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="Taiwan;Religious",☑DaAi2 (大愛2) (720p)
+# https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="Taiwan;Religious",☑人間衛視
 #web# 佛光山人間衛視 https://www.bltv.tv/
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
