@@ -350,14 +350,14 @@ https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/53
 # https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 # http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=1014206&extension=ts
 #
-#EXTINF:-1 tvg-id="EURONEWS" tvg-id0="EuronewsEnglish.fr" tvg-name="Euronews English" tvg-logo="https://i.imgur.com/8MsbPCU.png" group-title="Europe;News",☑⛢Euronews English - 1050
+#EXTINF:-1 tvg-id="EURONEWS" tvg-id0="EuronewsEnglish.fr" tvg-name="Euronews English" tvg-logo="https://i.imgur.com/8MsbPCU.png" group-title="Europe;News",☑Euronews English - 1050
 #https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/ewnsabren_eng.m3u8
-#EXTINF:-1 tvg-id="Africanews.cg" tvg-name="Africanews English" tvg-logo="https://i.imgur.com/xocvePC.png" group-title="Africa;News",⛢Africanews English - 1051
+#EXTINF:-1 tvg-id="Africanews.cg" tvg-name="Africanews English" tvg-logo="https://i.imgur.com/xocvePC.png" group-title="Africa;News",Africanews English - 1051
 #Ⓨ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/africanews/live
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/afrnabren_eng.m3u8
-#EXTINF:-1 tvg-id="FRANCE24" tvg-id0="France24English.fr" tvg-name="France 24 English Ⓨ" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France;News",⛢France 24 English - 1052
+#EXTINF:-1 tvg-id="FRANCE24" tvg-id0="France24English.fr" tvg-name="France 24 English Ⓨ" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France;News",France 24 English - 1052
 #https://www.youtube.com/c/FRANCE24English/live
 #[French] http://163.172.70.244:8080/FRANCE_24/mono.m3u8
 #http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
