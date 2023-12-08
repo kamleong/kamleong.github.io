@@ -38,10 +38,10 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 #EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-id0="CNAInternational.sg" tvg-id1="CNA.sg" tvg-name="CNA" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="Singapore;News",*🔭☉︎CNA International (1080p)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #
-#EXTINF:-1 tvg-id="TVRI3" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="Indonesia",✗ ☉︎TVRI World
-#web# http://klik.tvri.go.id/
-#http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream3/streamPlaylist.m3u8
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+# -EXTINF:-1 tvg-id="TVRI3" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="Indonesia",✗ ☉︎TVRI World
+# web# http://klik.tvri.go.id/
+# http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream3/streamPlaylist.m3u8
+# http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 # -EXTINF:-1 tvg-id="TVRINASIONAL" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="Indonesia",☉︎TVRI Nasional
 # http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/stream4/streamPlaylist.m3u8
 # -EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.imgur.com/nmoL4J4.png" group-title="Indonesia",tvOne (Opt-1)
