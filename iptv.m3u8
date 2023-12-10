@@ -10,7 +10,7 @@
 # ★☑✗🚫✗☑★ ㊣☼☉︎⛢⊙⊚◎  📰📻📺🎦🎬🎥📡 http://tonkiang.us/
 # https://docs.google.com/spreadsheets/d/1cj66AnWNgJ3GqDTIQBWeUEsapjp_Zk37v11iwoa8xzM/edit#gid=2107508417
 #
-#EXTINF:-1 tvg-name="AiFM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Ai_FM_logo.png" group-title="Malaysia;Radio",📻⊙爱FM (Radio)
+#EXTINF:-1 tvg-name="AiFM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Ai_FM_logo.png" group-title="Malaysia;Radio",📻◎爱FM (Radio)
 #web# https://rtmklik.rtm.gov.my/radio/nasional/ai-fm
 https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
 #EXTINF:-1 tvg-name="8TV" tvg-id="8TV.my" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",📺◎8TV (tonton.com.my)
@@ -522,8 +522,8 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #http://49.235.110.121:9090/898/peda/bestv.php?id=cctv15hd8m/8000000
 #http://hls.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
 #http://hms504nc1972679606.live.aikan.miguvideo.com/...
+#http://cfss.cc/api/ysp/cctv15.m3u8
 #http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/57/index.m3u8?&encrypt=
-http://cfss.cc/api/ysp/cctv15.m3u8
 #
 #EXTINF:-1,tvg-id="卫视中文台" tvg-id0="StarChineseChannel.tw" tvg-logo="https://epg.112114.xyz/logo/卫视中文台.png" group-title="Taiwan;Entertainment",衛視中文台
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-95b081db-b718-4937-b69a-aeeae16f20a2/index.m3u8?by=yeslivetv.com
@@ -543,8 +543,7 @@ http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 #http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
 #https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
 #http://hms424nc1972679598.live.aikan.miguvideo.com/...
-#http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=
-http://cfss.cc/api/ysp/cctv6.m3u8
+http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=
 #
 #EXTINF:-1 tvg-id="CM.hk" tvg-logo="http://www.tvyan.com/uploads/dianshi/celestialmovies.jpg" group-title="Hong Kong;Movies",Celestial Movies 天映頻道 (普) (Indonesian Subtitle)
 http://210.210.155.37/session/6883312c-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h14/01.m3u8
