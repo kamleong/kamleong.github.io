@@ -175,7 +175,8 @@ http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo0="https://i.imgur.com/ooG96w8.png" tvg-logo="https://static.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ 📺TVB Jade (翡翠台) (720p)
 #https://cdn.hklive.tv/xxxx/81/index.m3u8
 #http://107.167.12.58:27347/livehttpplay?channel_id=20127
-http://r.jdshipin.com/n90gt
+#http://r.jdshipin.com/????
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 # -EXTINF:-1 tvg-id="明珠台" tvg-logo="" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ TVB Pearl (明珠台) (1080p)
 # https://cdn.hklive.tv/xxxx/84/index.m3u8
 # -EXTINF:-1 tvg-id="J2.hk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TVB_J2_2022.svg" group-title="Hong Kong;Entertainment",TVB J2 (無綫電視82台)
@@ -466,10 +467,11 @@ https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/
 #
 # -EXTINF:-1 group-title="Switzerland;Radio",☑◎Brazilian Birds 1.FM (Zug, Switzerland) (Radio)
 # http://strm112.1.fm/brazilianbirds_mobile_mp3
-# -EXTINF:-1 group-title="USA;Radio",📻◎Beautiful Instrumentals Channel (Radio)
-# http://hydra.cdnstream.com/1822_128
-#EXTINF:-1 group-title="Taiwan;Radio",📻OBG - Oldies but Goodies (Radio)
-http://live.cooltv.top/tv/e-classical.php?id=goodies
+#EXTINF:-1 group-title="USA;Radio",📻◎Beautiful Instrumentals Channel (Radio)
+#web# http://www.beautifulinstrumentals.com/
+http://hydra.cdnstream.com/1822_128
+# -EXTINF:-1 group-title="Taiwan;Radio",📻OBG - Oldies but Goodies (Radio)
+# http://live.cooltv.top/tv/e-classical.php?id=goodies
 # 𝄡 👫
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="USA;Music",Ʊ🎶🎼 ◎Classic Arts Showcase
 #web# https://www.classicartsshowcase.org
