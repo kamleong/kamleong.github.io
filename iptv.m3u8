@@ -523,7 +523,7 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #http://hls.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
 #http://hms504nc1972679606.live.aikan.miguvideo.com/...
 #http://cfss.cc/api/ysp/cctv15.m3u8
-#http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/57/index.m3u8?&encrypt=
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/57/index.m3u8?&encrypt=
 #
 #EXTINF:-1,tvg-id="卫视中文台" tvg-id0="StarChineseChannel.tw" tvg-logo="https://epg.112114.xyz/logo/卫视中文台.png" group-title="Taiwan;Entertainment",衛視中文台
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-95b081db-b718-4937-b69a-aeeae16f20a2/index.m3u8?by=yeslivetv.com
