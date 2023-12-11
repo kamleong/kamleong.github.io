@@ -233,7 +233,7 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #http://seb.sason.top/sc/dsxw_fhd.m3u8
 #https://sc2022.stream-link.org/tv2306.php?id=t01 [geo-hk-only]
 http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
-#EXTINF:-1 tvg-id="EraNews.tw" tvg-logo="https://i.imgur.com/3AXrkhQ.png" group-title="News",Era News (年代新聞台) (720p)
+#EXTINF:-1 tvg-id="EraNews.tw" tvg-logo="https://i.imgur.com/3AXrkhQ.png" group-title="News",Era News (年代新聞台)
 #schedule# http://www.niotv.com
 #web# https://tv.itver.cc/eranews/
 #http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
