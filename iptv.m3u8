@@ -538,10 +538,10 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 tvg-id="douban.cn" tvg-logo="https://bkimg.cdn.bcebos.com/pic/d000baa1cd11728b2046ed0bc3fcc3cec3fd2cab" group-title="China;Movies",🎬豆瓣电影
 http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 tvg-id="XingKong.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" group-title="China;Entertainment",星空卫视
-#http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
+#EXTINF:-1 tvg-id="XingKong.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" group-title="China;Entertainment",✗ 星空卫视
 #http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
-http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=683118&extension=ts
+#http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=683118&extension=ts
+http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 #
 #EXTINF:-1 tvg-id="CCTV6" tvg-id0="CCTV6.cn" tvg-logo="https://i.imgur.com/dDqvRHX.png" group-title="China;Movies",CCTV-6电影 (1080p)
 #http://58.205.220.58:8088/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
@@ -605,8 +605,7 @@ http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 #web# https://www.hitstv.com/schedule.php
 #https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #http://210.210.155.37/dr9445/h/h37/index.m3u8
-#http://210.210.155.35/session/315e5196-0755-11e9-a62c-b82a72d63267/uq2663/h/h37/01.m3u8
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683145
+http://210.210.155.35/session/315e5196-0755-11e9-a62c-b82a72d63267/uq2663/h/h37/01.m3u8
 # -EXTINF:-1 tvg-id="TVSHollywoodHistory.us" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="USA;Entertainment",TVS Hollywood History (582p)
 # https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8
 # -EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://imgur.com/PNTYOgg.png" tvg-id="RetroTVEast.us" group-title="USA;Entertainment",◎Retro TV
