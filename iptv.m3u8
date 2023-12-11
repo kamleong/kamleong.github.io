@@ -605,7 +605,8 @@ http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 #web# https://www.hitstv.com/schedule.php
 #https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #http://210.210.155.37/dr9445/h/h37/index.m3u8
-http://210.210.155.35/session/315e5196-0755-11e9-a62c-b82a72d63267/uq2663/h/h37/01.m3u8
+#http://210.210.155.35/session/315e5196-0755-11e9-a62c-b82a72d63267/uq2663/h/h37/01.m3u8
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683145
 # -EXTINF:-1 tvg-id="TVSHollywoodHistory.us" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="USA;Entertainment",TVS Hollywood History (582p)
 # https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8
 # -EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://imgur.com/PNTYOgg.png" tvg-id="RetroTVEast.us" group-title="USA;Entertainment",◎Retro TV
