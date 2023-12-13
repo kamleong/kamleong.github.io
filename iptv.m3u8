@@ -539,7 +539,7 @@ https://pull-f5-spe.ixigua.com/live/YesLiveTV-95b081db-b718-4937-b69a-aeeae16f20
 #EXTINF:-1 tvg-id="BreadTV.hk" tvg-logo="https://breadradioonline.com/uploads/allimg/171009/1-1G009125F9460.jpg" group-title="Hong Kong;Entertainment",◎面包台
 #web# https://breadradioonline.com/
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 tvg-id="LotusTV.mo" tvg-logo="https://sendcv.me/SendCVUpload/Logo/5758/2022060614460040355.jpg" group-title="Macau;Entertainment",*◎澳門蓮花衛視
+#EXTINF:-1 tvg-id="LotusTV.mo" tvg-logo="https://sendcv.me/SendCVUpload/Logo/5758/2022060614460040355.jpg" group-title="Macau;Entertainment",*澳門蓮花衛視
 #web# http://www.macaulotustv.cc/
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 tvg-id="douban.cn" tvg-logo="https://bkimg.cdn.bcebos.com/pic/d000baa1cd11728b2046ed0bc3fcc3cec3fd2cab" group-title="China;Movies",🎬豆瓣电影
