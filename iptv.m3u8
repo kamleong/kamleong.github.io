@@ -419,12 +419,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a
 #
 #EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/PBS_America_logo.png" group-title="UK;USA",◎PBS America (720p)
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WKMJDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="USA",*PBS KET World (480p)
+#EXTINF:-1 tvg-id="WKMJDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="USA",*◎PBS KET World (480p)
 #web# https://video.ket.org/show/world-channel/
 https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 #
-#EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png" group-title="USA;Documentary",*🏛️◎Smithsonian Channel Asia (1080p)
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+# -EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png" group-title="USA;Documentary",*🏛️◎Smithsonian Channel Asia (1080p)
+# discontinued on 15-Jan-2024 ??
+# https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #
 # -EXTINF:-1 tvg-id="CCTV10.cn" tvg-logo="https://i.imgur.com/PKtBUL2.png" group-title="China;Documentary",☑CCTV-10 科教
 # web# https://tv.cctv.com/live/cctv10/
