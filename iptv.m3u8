@@ -423,9 +423,10 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #web# https://video.ket.org/show/world-channel/
 https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 #
-# -EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png" group-title="USA;Documentary",*🏛️◎Smithsonian Channel Asia (1080p)
-# discontinued on 15-Jan-2024 ??
-# https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png" group-title="USA;Documentary",*🏛️◎Smithsonian Channel Asia (1080p)
+#discontinued on 15-Jan-2024 ??
+#https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+http://4k.best-tv.me:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=325902&extension=ts
 #
 # -EXTINF:-1 tvg-id="CCTV10.cn" tvg-logo="https://i.imgur.com/PKtBUL2.png" group-title="China;Documentary",☑CCTV-10 科教
 # web# https://tv.cctv.com/live/cctv10/
@@ -544,7 +545,8 @@ https://pull-f5-spe.ixigua.com/live/YesLiveTV-95b081db-b718-4937-b69a-aeeae16f20
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="LotusTV.mo" tvg-logo="https://sendcv.me/SendCVUpload/Logo/5758/2022060614460040355.jpg" group-title="Macau;Entertainment",*澳門蓮花衛視
 #web# http://www.macaulotustv.cc/
-http://anren.live/HK/BiIOU11uLA.m3u8
+#http://anren.live/HK/BiIOU11uLA.m3u8
+http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
 #EXTINF:-1 tvg-id="douban.cn" tvg-logo="https://bkimg.cdn.bcebos.com/pic/d000baa1cd11728b2046ed0bc3fcc3cec3fd2cab" group-title="China;Movies",🎬豆瓣电影
 http://epg.112114.xyz/douyu/8770422
 #EXTINF:-1 tvg-id="XingKong.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" group-title="China;Entertainment",✗ 星空卫视
@@ -682,11 +684,14 @@ https://play.radiofoshan.com.cn/live/1400389414_BSID_46_audio.m3u8
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",佛山公共 (576p)
 # http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=182&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 #
-# -EXTINF:-1 tvg-name="CETV-3" tvg-logo="https://i.imgur.com/t8o5ZKt.png" tvg-id="CETV3.cn" group-title="China",◎CETV-3 北京地面频道
-# http://txycsbl.centv.cn/zb/0822cetv3.m3u8
-#EXTINF:-1 tvg-name="FangshanTV" tvg-id="FangshanTV.cn" tvg-logo="https://i.imgur.com/YyYArWr.png" group-title="China;Local",☑◎房山电视台
+#EXTINF:-1 tvg-name="FangshanTV" tvg-id="FangshanTV.cn" tvg-logo="https://i.imgur.com/YyYArWr.png" group-title="China;Local",☑◎FTV房山电视台
 #https://live.funhillrm.com/2/sd/live.m3u8
 https://live.funhillrm.com/2/playlist.m3u8
+#EXTINF:-1 tvg-name="BRTV-News" tvg-logo="https://p3.toutiaoimg.com/origin/user-avatar/93ca5d763dd7b1ed7339be3571d32c3b" group-title="China;Local",☑◎BRTV新闻
+#北京广播电视台新闻频道 Beijing Radio and Television Station
+http://live.funhillrm.com/5/sd/live.m3u8
+# -EXTINF:-1 tvg-name="CETV-3" tvg-logo="https://i.imgur.com/t8o5ZKt.png" tvg-id="CETV3.cn" group-title="China",◎CETV-3 北京地面频道
+# http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 # -EXTINF:-1 tvg-name="BeijingSatelliteTV" tvg-id="BeijingSatelliteTV.cn" tvg-logo="https://i.imgur.com/vsktAez.png" group-title="China;Local",北京卫视
 # http://beijingzhibo.com | http://www.yangshizhibo.com
 # http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000272103.m3u8
@@ -752,6 +757,9 @@ http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 # http://stream2.jlntv.cn/qg/sd/live.m3u8
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="China;Local",仙桃新闻综合 (576p)
 # http://221.233.242.239:280/live/71/playlist.m3u8
+#EXTINF:-1 tvg-id="SongTao-News" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8b/e7/ae/8be7ae1e-f01e-7a27-33a1-9d62df96bf8f/source/512x512bb.jpg" group-title="China;Local",◎松桃新闻
+#松桃融媒体中心 - 松桃苗族自治县，隶属贵州省铜仁市
+http://live.strmtzx.cn/stxw/sd/live.m3u8
 #EXTINF:-1 tvg-name="SMN-News" tvg-logo="https://www.xhzb.tw/uploads/18/1-1P31QK413W7.jpg" group-title="China;Local",◎三明1新闻综合 (720p) [Not 24/7]
 http://stream.smntv.cn/smtv1/playlist.m3u8
 #EXTINF:-1 tvg-name="SMN-Pub" tvg-logo="https://www.xhzb.tw/uploads/allimg/18/1-1P31QK3180-L.jpg" group-title="China;Local",◎三明2公共 (720p) [Not 24/7]
