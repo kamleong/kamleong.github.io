@@ -38,8 +38,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 #EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-id0="CNAInternational.sg" tvg-id1="CNA.sg" tvg-name="CNA" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="Singapore;News",*🔭◎CNA International (1080p)
 # index_1.m3u8: BANDWIDTH=816K,RESOLUTION=480x270 # index_2.m3u8: BANDWIDTH=1.3M,RESOLUTION=640x360 # index_3.m3u8: BANDWIDTH=3.3M,RESOLUTION=960x540 
 # index_4.m3u8: BANDWIDTH=5.0M,RESOLUTION=1280x720 # index_5.m3u8: BANDWIDTH=8.0M,RESOLUTION=1920x1080 
-#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_1.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #
 # -EXTINF:-1 tvg-id="TVRI3" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="Indonesia",✗ ◎TVRI World
 # web# http://klik.tvri.go.id/
@@ -131,14 +130,13 @@ https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-id0="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="Hong Kong;News",鳳凰衛視資訊台
 #audio# 音頻 http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
-#http://125.210.152.18:9090/live/FHZX_1200.m3u8
-#http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/????/index.m3u8 | #http://111.20.40.166:80/PLTV/88888893/224/????/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s21/01.m3u8
-#http://r.jdshipin.com/0Rp07 --> redirect --> http://php.17186.eu.org/phtv/fhzx.m3u8 # video format not supported on Tizen ?
-#https://ktpremium.com:443/M919HR/5577/492399?c=香港 --> https://ktpremium.com:443/M919HR/5577/492399?c=香港&token=...
-#http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8 | /otv/skcc/live/channel52003/index.m3u8
+#http://r.jdshipin.com/0Rp07 --> redirect --> http://php.17186.eu.org/phtv/fhzx.m3u8 # good, but video format not supported on Tizen ?
 #https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8 --> https://manifest.googlevideo.com/api/manifest/...
-http://50.7.238.114:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
+#https://ktpremium.com:443/M919HR/5577/492399?c=香港 --> https://ktpremium.com:443/M919HR/5577/492399?c=香港&token=...
+#http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/????/index.m3u8 | #http://111.20.40.166:80/PLTV/88888893/224/????/index.m3u8
+#http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8 | /otv/skcc/live/channel52003/index.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 # -EXTINF:-1 tvg-id="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="Hong Kong",鳳凰香港
 # http://223.110.245.136/PLTV/3/224/????/index.m3u8
 #
@@ -314,7 +312,9 @@ http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3831204341_134941
 #
 #EXTINF:-1 tvg-id="NHKWORLD" tvg-id0="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://i.imgur.com/TDCuUDs.png" group-title="Japan;News",*◎NHK World-Japan - 728
 #web# https://www3.nhk.or.jp/nhkworld/
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="NTVNews24.jp" tvg-name="日テレNEWS24" tvg-logo="https://i.imgur.com/tVNZ0BU.png" group-title="Japan;News",◎日テレNEWS24 Ⓢ
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #
