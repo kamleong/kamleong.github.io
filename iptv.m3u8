@@ -36,9 +36,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 #
 #EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-id0="CNAInternational.sg" tvg-id1="CNA.sg" tvg-name="CNA" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="Singapore;News",*🔭◎CNA International (1080p)
+#web# https://www.channelnewsasia.com/watch
 # index_1.m3u8: BANDWIDTH=816K,RESOLUTION=480x270 # index_2.m3u8: BANDWIDTH=1.3M,RESOLUTION=640x360 # index_3.m3u8: BANDWIDTH=3.3M,RESOLUTION=960x540 
 # index_4.m3u8: BANDWIDTH=5.0M,RESOLUTION=1280x720 # index_5.m3u8: BANDWIDTH=8.0M,RESOLUTION=1920x1080 
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_2/chunklist.m3u8
 #
 # -EXTINF:-1 tvg-id="TVRI3" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="Indonesia",✗ ◎TVRI World
 # web# http://klik.tvri.go.id/
@@ -264,6 +266,7 @@ https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 #EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-id0="BBCWorldNewsAsiaPacific.uk" tvg-name="BBC World News" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="UK;News",✗ 🔭BBC World News
 #http://ip2121.com:8081/live/bbc/playlist.m3u8
 #https://sc2022.stream-link.org/tv2306.php?id=e02
+#http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/2475/index.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 # -EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-id0="BBCWorldNewsAsiaPacific.uk" tvg-name="BBC World News" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="UK;News",🔭BBC World News (FreeInterTV)
 # web# http://www.freeintertv.com/view/id-2328?mode=1&page=1
