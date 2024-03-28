@@ -88,9 +88,14 @@ http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 # https://cdn6.goprimetime.info/feed/202306140918/chmono293/index.m3u8
 # -EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/512px-Ch_8_2016.svg.png" group-title="Thailand;Entertainment",Channel 8 (1080p)
 # http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AyqNnHj.png" group-title="Philippines;News",✗ ◎CNN Philippines
-#web# https://www.cnnphilippines.com/
-http://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+# -EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRUeQU4rm1lKTYZEEeBmG9DdIOFeBtHITF6ILLC3w=s900-c-k-c0x00ffffff-no-rj" group-title="Thailand",Chiangrai Ch.
+#http://live.thaitvstream.com/play/chiangrai/index.m3u8
+#
+# -EXTINF:-1 tvg-logo="https://i.imgur.com/AyqNnHj.png" group-title="Philippines;News",✗ ◎CNN Philippines
+# web# https://www.cnnphilippines.com/
+#http://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png" group-title="Philippines",CCTN Philippines
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #
 #EXTINF:-1 tvg-id="公视" tvg-id0="PTS.tw" tvg-logo="https://i.imgur.com/R9hwOZx.png" group-title="Taiwan",✗ *台灣公視
 #web# https://yeslivetv.com/channels/pts/ | https://chaojidianshi.net/zhibo/43.html |
