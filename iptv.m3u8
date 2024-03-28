@@ -40,7 +40,8 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 # index_1.m3u8: BANDWIDTH=816K,RESOLUTION=480x270 # index_2.m3u8: BANDWIDTH=1.3M,RESOLUTION=640x360 # index_3.m3u8: BANDWIDTH=3.3M,RESOLUTION=960x540 
 # index_4.m3u8: BANDWIDTH=5.0M,RESOLUTION=1280x720 # index_5.m3u8: BANDWIDTH=8.0M,RESOLUTION=1920x1080 
 #https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_2/chunklist.m3u8
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
 #
 # -EXTINF:-1 tvg-id="TVRI3" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="Indonesia",✗ ◎TVRI World
 # web# http://klik.tvri.go.id/
@@ -87,16 +88,16 @@ http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 # https://cdn6.goprimetime.info/feed/202306140918/chmono293/index.m3u8
 # -EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/512px-Ch_8_2016.svg.png" group-title="Thailand;Entertainment",Channel 8 (1080p)
 # http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AyqNnHj.png" group-title="Philippines;News",◎CNN Philippines
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AyqNnHj.png" group-title="Philippines;News",✗ ◎CNN Philippines
 #web# https://www.cnnphilippines.com/
 http://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 #
 #EXTINF:-1 tvg-id="公视" tvg-id0="PTS.tw" tvg-logo="https://i.imgur.com/R9hwOZx.png" group-title="Taiwan",✗ *台灣公視
 #web# https://yeslivetv.com/channels/pts/ | https://chaojidianshi.net/zhibo/43.html |
-#http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
 #https://bstvcdn.ballbar.net/ctv_taiwan/playlist-17.m3u8a?t=...&token=...
 #https://pull-f5-spe.ixigua.com/yeslivetv.com/399e061f-ba37-4f8e-a57f-5153db9559a6/index.m3u8?by=yeslivetv.com
-http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
+#http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
+http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
 #
 # -EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" tvg-logo="https://i.imgur.com/QqIdVqz.png" group-title="Taiwan",Taiwan Indigenous TV (原住民電視) (720p)
 # http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
@@ -166,13 +167,15 @@ https://pull-f5-spe.ixigua.com/live/YesLiveTV-5158ec32-b7b4-4603-948d-3d317e6354
 #web# https://hoy.tv/live/
 #http://sc2022.stream-link.org/tv2306.php?id=h14
 #https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
-http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpeyjhxchjsjjhjejjjyxxw.flv
+#http://ali.hlspull.yximgs.com/live/....flv # no good
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-id="香港开电视" tvg-id0="HOYTV2.hk" tvg-name="HOY TV - 77台" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18010434/fav_icon-1.png" group-title="Hong Kong",✗ ☑HOY TV - 77台
 #web# https://hoy.tv/live/ | https://yeslivetv.com/channels/hkopentv/
 #http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #https://pull-f5-spe.ixigua.com/yeslivetv.com/802961196-127510101/index.m3u8?by=yeslivetv.com
 #https://sc2022.stream-link.org/tv2306.php?id=h16
-http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdyjjdjdjhdnowspjjlfjhjtycxjfjjojtspjjmehoytv.flv
+#http://ali.hlspull.yximgs.com/live/...flv # no good
+http://51.89.21.73:27347/livehttpplay?channel_id=20152
 #
 #EXTINF:-1 tvg-id="无线新闻" tvg-id0="TVBNewsChannel.hk" tvg-logo="https://i.imgur.com/Gwij0Fj.png" group-title="Hong Kong;News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",TVB News Channel (無綫新聞台)
 #https://cdn.hklive.tv/xxxx/83/index.m3u8
