@@ -249,12 +249,12 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #http://seb.sason.top/sc/dsxw_fhd.m3u8
 #https://sc2022.stream-link.org/tv2306.php?id=t01 [geo-hk-only]
 http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
-#EXTINF:-1 tvg-id="EraNews.tw" tvg-logo="https://i.imgur.com/3AXrkhQ.png" group-title="News",Era News (年代新聞台)
+# -EXTINF:-1 tvg-id="EraNews.tw" tvg-logo="https://i.imgur.com/3AXrkhQ.png" group-title="News",Era News (年代新聞台)
 #schedule# http://www.niotv.com
 #web# https://tv.itver.cc/eranews/
 #http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
 #http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1192
-http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=482599
+#http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=482599
 #EXTINF:-1 tvg-id="寰宇台灣" tvg-logo="https://i.imgur.com/oYUjEle.png" group-title="Taiwan;News",Taiwan News (寰宇新聞 台灣台)
 #https://sc2022.stream-link.org/tv2306.php?id=t08
 https://sc2022.stream-link.org/tv2306.php?id=t09
@@ -263,6 +263,9 @@ https://sc2022.stream-link.org/tv2306.php?id=t09
 # youtube proxy Ⓨ, video format not supported in Tizen# https://ythls.onrender.com/channel/UCp2f7tGJGN6R9Muxipem8Nw.m3u8
 # https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 # https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#
+#EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="Taiwan",Taiwan Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #
 # -EXTINF:-1 tvg-id="CTS.tw" tvg-logo="https://i.imgur.com/ISl9WsI.png" group-title="Taiwan",CTS HD (華視) (720p)
 # http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
@@ -608,8 +611,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=561d7d484dc7c8770484914a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=54&terminate=false&userId=
 # -EXTINF:-1 tvg-id="PlutoTVStaffPicks.us" tvg-logo="https://i.imgur.com/JzwO8IO.png" group-title="USA;Movies",◎Pluto TV Staff Picks (720p)
 # https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b98b41000076cd061/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-name="90s Throwback" tvg-logo="https://i.imgur.com/sI1o3uK.png" group-title="USA;Movies",◎90s Throwback - 1034
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=94&deviceId=5f4d86f519358a00072b978e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#
+# -EXTINF:-1 tvg-name="90s Throwback" tvg-logo="https://i.imgur.com/sI1o3uK.png" group-title="USA;Movies",◎90s Throwback - 1034
+# http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=94&deviceId=5f4d86f519358a00072b978e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 # -EXTINF:-1 tvg-name="80s Rewind" tvg-logo="https://i.imgur.com/0FaLAhK.png" group-title="USA;Movies",◎80s Rewind - 1035
 # http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=95&deviceId=5ca525b650be2571e3943c63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 # -EXTINF:-1 tvg-name="70s Cinema" tvg-logo="https://i.imgur.com/wk9Baz9.png" group-title="USA;Movies",◎70s Cinema - 1036
@@ -625,6 +629,12 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
 # x https://simultv.s.llnwi.net/o058/Mythos/interlink.m3u8
 # -EXTINF:-1 tvg-id="FilmStreams.us" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="USA;Movies",◎FilmStreams (720p)
 # https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
+#
+#EXTINF:-1 tvg-id="toeich.jp" tvg-name="東映チャンネル / Toei Channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png" group-title="Japan;Movies",TOEI Channel 
+#web# https://www.toeich.jp/
+#schedule# https://www.toeich.jp/program/daily
+http://103.36.32.14:5002/cs27.m3u8?token=guoziyun&gid=cs27&channel=zhongying
+#
 #EXTINF:-1 tvg-id="CCM.hk" tvg-logo="https://i.imgur.com/1VhXilw.png" group-title="Hong Kong;Movies",Celestial Classic 天映經典 (Indonesian Subtitle)
 http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 # -EXTINF:-1 tvg-id="GospelMovieTV.br" tvg-logo="https://i.imgur.com/cQN3nWt.png" group-title="Brazil;Movies;Religious",◎Gospel Movie TV (360p)
