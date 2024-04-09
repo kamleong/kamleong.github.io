@@ -134,7 +134,7 @@ https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #HD: server performance is OK but availability is low# http://sc2022.stream-link.org/tv2306.php?id=h19
 #http://php.17186.eu.org/phtv/fhzw.m3u8 --> https://pull-f5-spe.ixigua.com/live/YesLiveTV-9500585d-11b7-404b-9967-6639d66246e3/index.m3u8
 #https://pull-f5-spe.ixigua.com/live/YesLiveTV-9500585d-11b7-404b-9967-6639d66246e3/index.m3u8
-http://210.210.155.37/uq2663/h/h157/index2.m3u8
+https://edge2.laotv.la/live/PhxChinese/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-id0="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="Hong Kong;News",鳳凰衛視資訊台
 #audio# 音頻 http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 #http://210.210.155.37/qwr9ew/s/s21/01.m3u8
@@ -143,7 +143,7 @@ http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #https://ktpremium.com:443/M919HR/5577/492399?c=香港 --> https://ktpremium.com:443/M919HR/5577/492399?c=香港&token=...
 #http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/????/index.m3u8 | #http://111.20.40.166:80/PLTV/88888893/224/????/index.m3u8
 #http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8 | /otv/skcc/live/channel52003/index.m3u8
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+https://edge2.laotv.la/live/PhoenixNews/index.m3u8
 # -EXTINF:-1 tvg-id="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="Hong Kong",鳳凰香港
 # http://223.110.245.136/PLTV/3/224/????/index.m3u8
 #
@@ -700,8 +700,8 @@ https://play.radiofoshan.com.cn/live/1400389414_BSID_46_audio.m3u8
 # http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=182&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 #
 #EXTINF:-1 tvg-name="FangshanTV" tvg-id="FangshanTV.cn" tvg-logo="https://i.imgur.com/YyYArWr.png" group-title="China;Local",☑◎FTV房山电视台
-#https://live.funhillrm.com/2/sd/live.m3u8
-https://live.funhillrm.com/2/playlist.m3u8
+#https://live.funhillrm.com/2/playlist.m3u8
+https://live.funhillrm.com/2/sd/live.0m3u8
 #EXTINF:-1 tvg-name="BRTV-News" tvg-logo="https://p3.toutiaoimg.com/origin/user-avatar/93ca5d763dd7b1ed7339be3571d32c3b" group-title="China;Local",☑◎BRTV新闻
 #北京广播电视台新闻频道 Beijing Radio and Television Station
 http://live.funhillrm.com/5/sd/live.m3u8
