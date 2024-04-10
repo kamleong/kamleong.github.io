@@ -40,7 +40,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 # index_1.m3u8: BANDWIDTH=816K,RESOLUTION=480x270 # index_2.m3u8: BANDWIDTH=1.3M,RESOLUTION=640x360 # index_3.m3u8: BANDWIDTH=3.3M,RESOLUTION=960x540 
 # index_4.m3u8: BANDWIDTH=5.0M,RESOLUTION=1280x720 # index_5.m3u8: BANDWIDTH=8.0M,RESOLUTION=1920x1080 
 #https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_2/chunklist.m3u8
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #
 # -EXTINF:-1 tvg-id="TVRI3" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="Indonesia",✗ ◎TVRI World
 # web# http://klik.tvri.go.id/
@@ -589,7 +589,7 @@ http://epg.112114.xyz/douyu/8770422
 http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:-1 tvg-id="HBOHD.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" group-title="US;Movies",HBO HD (台灣)
 #schedule# http://www.niotv.com/i_index.php?cont=day&ch_id=629&chgrp_id=4
-https://edge1.laotv.la/live/HBO/index.m3u
+https://edge1.laotv.la/live/HBO/index.m3u8
 # -EXTINF:-1 tvg-id="AMC" tvg-id0="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="USA;Movies",◎amc (east)
 # schedule# https://www.amc.com/schedule
 # https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
