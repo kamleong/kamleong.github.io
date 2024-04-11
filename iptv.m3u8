@@ -40,7 +40,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 # index_1.m3u8: BANDWIDTH=816K,RESOLUTION=480x270 # index_2.m3u8: BANDWIDTH=1.3M,RESOLUTION=640x360 # index_3.m3u8: BANDWIDTH=3.3M,RESOLUTION=960x540 
 # index_4.m3u8: BANDWIDTH=5.0M,RESOLUTION=1280x720 # index_5.m3u8: BANDWIDTH=8.0M,RESOLUTION=1920x1080 
 #https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_2/chunklist.m3u8
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #
 # -EXTINF:-1 tvg-id="TVRI3" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="Indonesia",✗ ◎TVRI World
 # web# http://klik.tvri.go.id/
@@ -71,10 +71,10 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/playlist.m
 # -EXTINF:-1 tvg-id="Channel3.th" tvg-name="CH3 HD" tvg-logo="https://i.imgur.com/lHbIKfF.png" group-title="Thailand",CH3 HD
 # web# https://ch3plus.com/live
 # https://cdn6.goprimetime.info/feed/202306140918/ch3hd3/index.m3u8
-#EXTINF:-1 tvg-id="TV5HD.th" tvg-name="TV5 HD" tvg-logo="https://i.imgur.com/4MIQNPQ.png" group-title="Thailand",TV5 HD
+#EXTINF:-1 tvg-id="TV5HD.th" tvg-name="TV5 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png" group-title="Thailand",TV5 HD
 #https://cdn6.goprimetime.info/feed/202306140918/ch5hd3/index.m3u8
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" tvg-logo="https://i.imgur.com/vxnLkTz.png" group-title="Thailand",◎CH7 HD
+#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" tvg-logo="https://i.imgur.com/DcrHenu.png" group-title="Thailand",◎CH7 HD
 #web# https://wwww.ch7.com/
 #https://cdn6.goprimetime.info/feed/202306140918/ch7hd3/index.m3u8
 http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
@@ -321,7 +321,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_shareExt_b384
 #web# https://tv.cctv.com/live/cctv1/
 #https://cctvwbcdkshw.v.kcdnvip.com/cctvwbcd/cdrmcctv1_1/index.m3u8?BR=td&region=shanghai
 #https://cctvwbndtxy.liveplay.myqcloud.com/cctvwbnd/jzcctv1_2/index.m3u8
-http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3831204341_1349411946/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115080246&ContentId=265183188&timezone=UTC&mtv_session=01b97ad3f1d61532d8f0d40578ee3f47&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ac6f75650a73ab06efc36233598f26b8
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 # -EXTINF:-1 tvg-id="CCTV13" tvg-id0="CCTV13.cn" tvg-name="CCTV-13 新闻 Ⓢ" tvg-logo="https://i.imgur.com/pPO8uJN.png" group-title="China;News",🔭CCTV-13 新闻 Ⓢ - 114
 # m3u# https://live.fanmingming.com --> https://cntv.sbs/live?
 # https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv13_1_720P/playlist.m3u8?wsApp=HLS
