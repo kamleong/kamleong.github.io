@@ -587,7 +587,7 @@ http://epg.112114.xyz/douyu/8770422
 #http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=941618&extension=ts
 #http://210.210.155.37/session/6883312c-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h14/01.m3u8
 http://210.210.155.37/dr9445/h/h14/index.m3u8
-#EXTINF:-1 tvg-id="HBOHD.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" group-title="US;Movies",HBO HD (台灣)
+#EXTINF:-1 tvg-id="HBOHD.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" group-title="USA;Movies",HBO HD (台灣)
 #schedule# http://www.niotv.com/i_index.php?cont=day&ch_id=629&chgrp_id=4
 https://edge1.laotv.la/live/HBO/index.m3u8
 # -EXTINF:-1 tvg-id="AMC" tvg-id0="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="USA;Movies",◎amc (east)
