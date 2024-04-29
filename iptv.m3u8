@@ -208,7 +208,8 @@ https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 # -EXTINF:-1 tvg-id="TDM5.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",◎澳門資訊 Ch.94
 # https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="TDM3.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",*◎澳門Macau 衛星頻道 Ch.96
-http://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+#http://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 # -EXTINF:-1 tvg-id="CanalMacau.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="Macau",◎澳視葡文 Canal Macau Ch.92 (720p) [Not 24/7]
 # https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #
