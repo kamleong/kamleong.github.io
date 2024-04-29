@@ -283,7 +283,8 @@ https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 #http://ip2121.com:8081/live/bbc/playlist.m3u8
 #https://sc2022.stream-link.org/tv2306.php?id=e02
 #http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/2475/index.m3u8
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 # -EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-id0="BBCWorldNewsAsiaPacific.uk" tvg-name="BBC World News" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="UK;News",🔭BBC World News (FreeInterTV)
 # web# http://www.freeintertv.com/view/id-2328?mode=1&page=1
 # UrlFetchApp https://script.google.com/home/projects/16uaQCXF7jFK6jJCPlWwrjnpYsQc9xCuUyrrn8_v1iLLKQQLgMggf7uuN/edit
