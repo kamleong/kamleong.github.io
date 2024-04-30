@@ -284,11 +284,11 @@ https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 #https://sc2022.stream-link.org/tv2306.php?id=e02
 #http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/2475/index.m3u8
 #http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+#https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 # -EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-id0="BBCWorldNewsAsiaPacific.uk" tvg-name="BBC World News" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="UK;News",🔭BBC World News (FreeInterTV)
 # web# http://www.freeintertv.com/view/id-2328?mode=1&page=1
 # UrlFetchApp https://script.google.com/home/projects/16uaQCXF7jFK6jJCPlWwrjnpYsQc9xCuUyrrn8_v1iLLKQQLgMggf7uuN/edit
-# https://script.google.com/macros/s/AKfycbzthPQMiAmPAZJT3fRsCRpbbPwqRzKUA2ABPLExa5XFutwB857ccwJoz_abtDbwoO2qfA/exec?q=bbc.freeintertv&x=.m3u
+https://script.google.com/macros/s/AKfycbx_8Wy9q5LzIMEISaHO4XyPEPmbe2u_Lexi9mripTRa6BMKwxRHE8Ie4otznCDvmlwhLw/exec?q=bbc.freeintertv&x=.m3u
 # -EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-name="BBC World News" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="UK;News",🔭BBC World News (Viaway)
 # web# http://www.viaway.com/view/44757524/bbc-world-news
 # http://playcontent6.viaway.com/dvr6/m/4d959f1a-0bb8-470b-b5a2-e53d9d2d4b26/stream.m3u8?ttl=120&Policy=....&Signature=...&Key-Pair-Id=...
@@ -441,8 +441,11 @@ https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HISTORY" tvg-id0="PlutoTVHistory.us" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="USA;Documentary",Pluto TV HISTORY (240p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d35dfa5c02e717a234f86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=651&terminate=false&userId=
 #
-#EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/PBS_America_logo.png" group-title="UK;USA",◎PBS America (720p)
-https://pbs-samsunguk.amagi.tv/playlist.m3u8
+# -EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/PBS_America_logo.png" group-title="UK;USA",◎PBS America (720p)
+# https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MPT.us" tvg-logo="https://image.pbs.org/bento3-prod/mpt-bento-live-pbs/main/16a2473dc6_mpt_header_logo_medium3.png" group-title="USA",*◎Maryland Public TV (PBS)
+#web# https://www.mpt.org/ | https://www.mpt.org/schedule/
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="WKMJDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="USA",*◎PBS KET World (480p)
 #web# https://video.ket.org/show/world-channel/
 https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
@@ -684,6 +687,9 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="VictorValleyTV.us" tvg-logo="https://i.imgur.com/zgiuNNj.png" group-title="USA;Local",☑◎Victor Valley TV
 #web# https://victorvalleytvnetw.wixsite.com/vvtn
 https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
+# -EXTINF:-1 tvg-id="YTA.us" tvg-logo="https://ytatv.com/wp-content/uploads/2021/11/YTA-LOGO-2-120x50.png" group-title="USA",◎YTA TV
+# web# https://ytatv.com/watch-live/
+# https://thegateway.app/YouToo/CueTones/playlist.m3u8
 #EXTINF:-1 tvg-id="WPSTV.us" tvg-logo="https://i.imgur.com/zwzmwse.jpg" group-title="USA;Local",◎WPS TV (360p)
 #web# https://www.wpstx.tv/
 https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
