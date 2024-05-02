@@ -150,13 +150,14 @@ https://edge2.laotv.la/live/PhoenixNews/index.m3u8
 # -EXTINF:-1 tvg-id="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="Hong Kong",鳳凰香港
 # http://223.110.245.136/PLTV/3/224/????/index.m3u8
 #
-#EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",◎RTHK 港台電視31 綜合頻道
+#EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="Hong Kong",◎RTHK 港台電視31 綜合頻道
+#user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #web# https://www.rthk.hk/tv
 #https://cdn.hklive.tv/xxxx/31/index.m3u8
 #https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream4/streamPlaylist.m3u8
 #https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-# -EXTINF:-1 tvg-id="RTHKTV32.hk" tvg-logo="https://i.imgur.com/MXLuUoU.png" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",◎RTHK 港台電視32 時事直播頻道
+# -EXTINF:-1 tvg-id="RTHKTV32.hk" tvg-logo="https://i.imgur.com/MXLuUoU.png" group-title="Hong Kong",◎RTHK 港台電視32 時事直播頻道
 # https://cdn.hklive.tv/xxxx/32/index.m3u8
 # https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream4/streamPlaylist.m3u8
 # https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
@@ -184,16 +185,16 @@ https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #http://ali.hlspull.yximgs.com/live/...flv # no good
 http://51.89.21.73:27347/livehttpplay?channel_id=20152
 #
-#EXTINF:-1 tvg-id="无线新闻" tvg-id0="TVBNewsChannel.hk" tvg-logo="https://i.imgur.com/Gwij0Fj.png" group-title="Hong Kong;News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",TVB News Channel (無綫新聞台)
+#EXTINF:-1 tvg-id="无线新闻" tvg-id0="TVBNewsChannel.hk" tvg-logo="https://i.imgur.com/Gwij0Fj.png" group-title="Hong Kong;News",TVB News Channel (無綫新聞台)
 #https://cdn.hklive.tv/xxxx/83/index.m3u8
 http://live.cooltv.top/tv/tvb.php?id=0&hq
 #
-#EXTINF:-1 tvg-id="翡翠台" tvg-logo0="https://i.imgur.com/ooG96w8.png" tvg-logo="https://static.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ 📺TVB Jade (翡翠台) (720p)
+#EXTINF:-1 tvg-id="翡翠台" tvg-logo0="https://i.imgur.com/ooG96w8.png" tvg-logo="https://static.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png" group-title="Hong Kong",✗ 📺TVB Jade (翡翠台) (720p)
 #https://cdn.hklive.tv/xxxx/81/index.m3u8
 #http://107.167.12.58:27347/livehttpplay?channel_id=20127
 #http://r.jdshipin.com/????
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-# -EXTINF:-1 tvg-id="明珠台" tvg-logo="" group-title="Hong Kong" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",✗ TVB Pearl (明珠台) (1080p)
+# -EXTINF:-1 tvg-id="明珠台" tvg-logo="" group-title="Hong Kong",✗ TVB Pearl (明珠台) (1080p)
 # https://cdn.hklive.tv/xxxx/84/index.m3u8
 # -EXTINF:-1 tvg-id="J2.hk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TVB_J2_2022.svg" group-title="Hong Kong;Entertainment",TVB J2 (無綫電視82台)
 # schedule# https://programme.tvb.com/j2
@@ -443,7 +444,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a
 #
 # -EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/PBS_America_logo.png" group-title="UK;USA",◎PBS America (720p)
 # https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MPT.us" tvg-logo="https://image.pbs.org/bento3-prod/mpt-bento-live-pbs/main/16a2473dc6_mpt_header_logo_medium3.png" group-title="USA",*◎Maryland Public TV (PBS)
+#EXTINF:-1 tvg-id="MPT.us" tvg-logo="https://image.pbs.org/bento3-prod/mpt-bento-live-pbs/main/16a2473dc6_mpt_header_logo_medium3.png" group-title="USA;Local",*◎Maryland Public TV (PBS)
 #web# https://www.mpt.org/ | https://www.mpt.org/schedule/
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="WKMJDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="USA",*◎PBS KET World (480p)
