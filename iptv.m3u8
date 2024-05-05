@@ -137,7 +137,9 @@ https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #HD: server performance is OK but availability is low# http://sc2022.stream-link.org/tv2306.php?id=h19
 #http://php.17186.eu.org/phtv/fhzw.m3u8 --> https://pull-f5-spe.ixigua.com/live/YesLiveTV-9500585d-11b7-404b-9967-6639d66246e3/index.m3u8
 #https://pull-f5-spe.ixigua.com/live/YesLiveTV-9500585d-11b7-404b-9967-6639d66246e3/index.m3u8
-https://edge2.laotv.la/live/PhxChinese/index.m3u8
+#https://edge2.laotv.la/live/PhxChinese/index.m3u8
+#http://tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8
+http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-id0="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="Hong Kong;News",鳳凰衛視資訊台
 #audio# 音頻 http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 #http://210.210.155.37/qwr9ew/s/s21/01.m3u8
@@ -146,7 +148,8 @@ https://edge2.laotv.la/live/PhxChinese/index.m3u8
 #https://ktpremium.com:443/M919HR/5577/492399?c=香港 --> https://ktpremium.com:443/M919HR/5577/492399?c=香港&token=...
 #http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/????/index.m3u8 | #http://111.20.40.166:80/PLTV/88888893/224/????/index.m3u8
 #http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8 | /otv/skcc/live/channel52003/index.m3u8
-https://edge2.laotv.la/live/PhoenixNews/index.m3u8
+#https://edge2.laotv.la/live/PhoenixNews/index.m3u8
+http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
 # -EXTINF:-1 tvg-id="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="Hong Kong",鳳凰香港
 # http://223.110.245.136/PLTV/3/224/????/index.m3u8
 #
@@ -170,7 +173,8 @@ https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 # web# https://www.i-cable.com/
 # https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="HKIBC.hk" tvg-logo="https://i.imgur.com/jaIdkbz.png"  group-title="Hong Kong;Business",HKIBC 香港國際財經台(有線76台)
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-5158ec32-b7b4-4603-948d-3d317e635488/index.m3u8?by=yeslivetv.com
+#https://pull-f5-spe.ixigua.com/live/YesLiveTV-5158ec32-b7b4-4603-948d-3d317e635488/index.m3u8?by=yeslivetv.com
+https://z88.ubtvfans.com/live/rx1/354/e2ebb99d1a004b25246d5311e7a0c278/index.m3u8
 #EXTINF:-1 tvg-id="HOYTV2.hk" tvg-name="HOY TV - 78台" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18010434/fav_icon-1.png" group-title="Hong Kong",✗ HOY TV - 78台 (資訊台) 
 #web# https://hoy.tv/live/
 #http://sc2022.stream-link.org/tv2306.php?id=h14
@@ -444,12 +448,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a
 #
 # -EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/PBS_America_logo.png" group-title="UK;USA",◎PBS America (720p)
 # https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MPT.us" tvg-logo="https://image.pbs.org/bento3-prod/mpt-bento-live-pbs/main/16a2473dc6_mpt_header_logo_medium3.png" group-title="USA;Local",*◎Maryland Public TV (PBS)
-#web# https://www.mpt.org/ | https://www.mpt.org/schedule/
-https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="WKMJDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="USA",*◎PBS KET World (480p)
 #web# https://video.ket.org/show/world-channel/
 https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
+#EXTINF:-1 tvg-id="MPT.us" tvg-logo="https://image.pbs.org/bento3-prod/mpt-bento-live-pbs/main/16a2473dc6_mpt_header_logo_medium3.png" group-title="USA;Local",*◎Maryland Public TV (PBS)
+#web# https://www.mpt.org/ | https://www.mpt.org/schedule/
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #
 #EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png" group-title="USA;Documentary",*🏛️◎Smithsonian Channel Asia (1080p)
 #discontinued on 15-Jan-2024 ??
