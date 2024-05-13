@@ -288,12 +288,12 @@ https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 #http://ip2121.com:8081/live/bbc/playlist.m3u8
 #https://sc2022.stream-link.org/tv2306.php?id=e02
 #http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/2475/index.m3u8
-#http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+#http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 # -EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-id0="BBCWorldNewsAsiaPacific.uk" tvg-name="BBC World News" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="UK;News",🔭BBC World News (FreeInterTV)
 # web# http://www.freeintertv.com/view/id-2328?mode=1&page=1
 # UrlFetchApp https://script.google.com/home/projects/16uaQCXF7jFK6jJCPlWwrjnpYsQc9xCuUyrrn8_v1iLLKQQLgMggf7uuN/edit
-https://script.google.com/macros/s/AKfycbx_8Wy9q5LzIMEISaHO4XyPEPmbe2u_Lexi9mripTRa6BMKwxRHE8Ie4otznCDvmlwhLw/exec?q=bbc.freeintertv&x=.m3u
+#https://script.google.com/macros/s/AKfycbx_8Wy9q5LzIMEISaHO4XyPEPmbe2u_Lexi9mripTRa6BMKwxRHE8Ie4otznCDvmlwhLw/exec?q=bbc.freeintertv&x=.m3u
 # -EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-name="BBC World News" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="UK;News",🔭BBC World News (Viaway)
 # web# http://www.viaway.com/view/44757524/bbc-world-news
 # http://playcontent6.viaway.com/dvr6/m/4d959f1a-0bb8-470b-b5a2-e53d9d2d4b26/stream.m3u8?ttl=120&Policy=....&Signature=...&Key-Pair-Id=...
@@ -598,9 +598,9 @@ http://epg.112114.xyz/douyu/8770422
 #http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=941618&extension=ts
 #http://210.210.155.37/session/6883312c-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h14/01.m3u8
 http://210.210.155.37/dr9445/h/h14/index.m3u8
-#EXTINF:-1 tvg-id="HBOHD.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" group-title="USA;Movies",HBO HD (台灣)
-#schedule# http://www.niotv.com/i_index.php?cont=day&ch_id=629&chgrp_id=4
-https://edge1.laotv.la/live/HBO/index.m3u8
+# -EXTINF:-1 tvg-id="HBOHD.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" group-title="USA;Movies",HBO HD (台灣)
+# schedule# http://www.niotv.com/i_index.php?cont=day&ch_id=629&chgrp_id=4
+# https://edge1.laotv.la/live/HBO/index.m3u8
 # -EXTINF:-1 tvg-id="AMC" tvg-id0="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="USA;Movies",◎amc (east)
 # schedule# https://www.amc.com/schedule
 # https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
