@@ -127,34 +127,34 @@ http://epg.112114.xyz/douyu/310926
 http://epg.112114.xyz/douyu/9292492
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",欧美大片
 http://epg.112114.xyz/douyu/2793084
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",怀旧90
-http://epg.112114.xyz/douyu/9275635
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",怀旧90
+# http://epg.112114.xyz/douyu/9275635
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",国产影片
 http://epg.112114.xyz/douyu/5423
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",麓山迷踪
-http://epg.112114.xyz/douyu/4505431
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",高帧影片
-http://epg.112114.xyz/douyu/6763930
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",麓山迷踪
+# http://epg.112114.xyz/douyu/4505431
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",高帧影片
+# http://epg.112114.xyz/douyu/6763930
 # x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",米娅电影
 # http://epg.112114.xyz/douyu/6537888
 # x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",网神影厅
 # http://epg.112114.xyz/douyu/5081118
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",小九电影
-http://epg.112114.xyz/douyu/7136517
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",华语电影
-http://epg.112114.xyz/douyu/6003761
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",小九电影
+# http://epg.112114.xyz/douyu/7136517
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",华语电影
+# http://epg.112114.xyz/douyu/6003761
 # x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",枪战影片
 # http://epg.112114.xyz/douyu/10240510
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",国外电影
-http://epg.112114.xyz/douyu/9683979
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",星星华语
-http://epg.112114.xyz/douyu/10254810
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",奶瓶科幻片
-http://epg.112114.xyz/douyu/6655271
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",国外电影
+# http://epg.112114.xyz/douyu/9683979
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",星星华语
+# http://epg.112114.xyz/douyu/10254810
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",奶瓶科幻片
+# http://epg.112114.xyz/douyu/6655271
 # x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",避风港影院
 # http://epg.112114.xyz/douyu/9826611
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",恐怖动作片
-http://epg.112114.xyz/douyu/5129261
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",恐怖动作片
+# http://epg.112114.xyz/douyu/5129261
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",变种人电影
 http://epg.112114.xyz/douyu/9651304
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",冰冰经典电影
