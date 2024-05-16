@@ -45,8 +45,8 @@ http://epg.112114.xyz/douyu/1226741
 #
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",豆瓣电影
 # http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",漫威电影
-http://epg.112114.xyz/douyu/4282654
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",漫威电影
+# http://epg.112114.xyz/douyu/4282654
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",译制电影
 http://epg.112114.xyz/douyu/2436390
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",华语经典
@@ -111,8 +111,6 @@ http://epg.112114.xyz/douyu/7353112
 http://epg.112114.xyz/douyu/315131
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",经典科幻
 http://epg.112114.xyz/douyu/7673566
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",漫威电影
-http://epg.112114.xyz/douyu/4282654
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",科幻系列
 http://epg.112114.xyz/douyu/8107217
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",恐怖经典
