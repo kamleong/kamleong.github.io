@@ -53,30 +53,30 @@ http://epg.112114.xyz/douyu/2436390
 http://epg.112114.xyz/douyu/434971
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",吃米滴虫
 http://epg.112114.xyz/douyu/315457
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",华语院线
-http://epg.112114.xyz/douyu/5581257
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",华语院线
+# http://epg.112114.xyz/douyu/5581257
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",神乐影片1
 http://epg.112114.xyz/douyu/122402
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",神乐影片2
 http://epg.112114.xyz/douyu/85894
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",周末影院
-http://epg.112114.xyz/douyu/3637765
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",周末影院
+# http://epg.112114.xyz/douyu/3637765
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",特辑影院
 http://epg.112114.xyz/douyu/3637778
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",漫威影片
 http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",丸子经典
-http://epg.112114.xyz/douyu/8986148
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",喜剧经典
-http://epg.112114.xyz/douyu/9650887
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",丸子经典
+# http://epg.112114.xyz/douyu/8986148
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",喜剧经典
+# http://epg.112114.xyz/douyu/9650887
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",豆瓣高分
 http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",周星驰电影
-http://epg.112114.xyz/douyu/3990812
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",周星驰电影
+# http://epg.112114.xyz/douyu/3990812
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",刘德华电影1
 http://epg.112114.xyz/douyu/2516864
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",刘德华电影2
-http://epg.112114.xyz/douyu/8985415
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",刘德华电影2
+# http://epg.112114.xyz/douyu/8985415
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",林正英电影1
 http://epg.112114.xyz/douyu/218859
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",林正英电影2
@@ -99,18 +99,18 @@ http://epg.112114.xyz/douyu/36337
 http://epg.112114.xyz/douyu/8814650
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",可乐电影
 # http://epg.112114.xyz/douyu/20415
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",经典怀旧
-http://epg.112114.xyz/douyu/10180265
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",经典港片
-http://epg.112114.xyz/douyu/675072
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",林林影视
-http://epg.112114.xyz/douyu/9652323
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",恐怖专场
-http://epg.112114.xyz/douyu/7353112
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",星星影院
-http://epg.112114.xyz/douyu/315131
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",经典科幻
-http://epg.112114.xyz/douyu/7673566
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",经典怀旧
+# http://epg.112114.xyz/douyu/10180265
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",经典港片
+# http://epg.112114.xyz/douyu/675072
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",林林影视
+# http://epg.112114.xyz/douyu/9652323
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",恐怖专场
+# http://epg.112114.xyz/douyu/7353112
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",星星影院
+# http://epg.112114.xyz/douyu/315131
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",经典科幻
+# http://epg.112114.xyz/douyu/7673566
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",科幻系列
 http://epg.112114.xyz/douyu/8107217
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",恐怖经典
@@ -135,26 +135,24 @@ http://epg.112114.xyz/douyu/5423
 http://epg.112114.xyz/douyu/4505431
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",高帧影片
 http://epg.112114.xyz/douyu/6763930
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",米娅电影
-http://epg.112114.xyz/douyu/6537888
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",译制影片
-http://epg.112114.xyz/douyu/2436390
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",网神影厅
-http://epg.112114.xyz/douyu/5081118
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",米娅电影
+# http://epg.112114.xyz/douyu/6537888
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",网神影厅
+# http://epg.112114.xyz/douyu/5081118
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",小九电影
 http://epg.112114.xyz/douyu/7136517
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",华语电影
 http://epg.112114.xyz/douyu/6003761
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",枪战影片
-http://epg.112114.xyz/douyu/10240510
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",枪战影片
+# http://epg.112114.xyz/douyu/10240510
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",国外电影
 http://epg.112114.xyz/douyu/9683979
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",星星华语
 http://epg.112114.xyz/douyu/10254810
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",奶瓶科幻片
 http://epg.112114.xyz/douyu/6655271
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",避风港影院
-http://epg.112114.xyz/douyu/9826611
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",避风港影院
+# http://epg.112114.xyz/douyu/9826611
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",恐怖动作片
 http://epg.112114.xyz/douyu/5129261
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",变种人电影
@@ -163,9 +161,9 @@ http://epg.112114.xyz/douyu/9651304
 http://epg.112114.xyz/douyu/74374
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",奶虫恐怖电影
 http://epg.112114.xyz/douyu/263824
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",经典怀旧系列
-http://epg.112114.xyz/douyu/8663752
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",华语动作电影
-http://epg.112114.xyz/douyu/15047
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",经典怀旧系列
+# http://epg.112114.xyz/douyu/8663752
+# x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",华语动作电影
+# http://epg.112114.xyz/douyu/15047
 #
 #
