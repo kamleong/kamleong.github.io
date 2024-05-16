@@ -4,47 +4,47 @@
 #
 #EXTINF:-1 tvg-id="douban.cn" tvg-logo="https://bkimg.cdn.bcebos.com/pic/d000baa1cd11728b2046ed0bc3fcc3cec3fd2cab" group-title="China;Movies",🎬豆瓣电影
 http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu8
-http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu9
-http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu15
-http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu19
-http://epg.112114.xyz/douyu/747764
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu20
-http://epg.112114.xyz/douyu/52787
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu24
-http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu25
-http://epg.112114.xyz/douyu/8814650
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu28
-http://epg.112114.xyz/douyu/263824
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu44
-http://epg.112114.xyz/douyu/323876
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",刘德华
-http://epg.112114.xyz/douyu/2516864
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",宇哥电影
-http://epg.112114.xyz/douyu/413573
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",林正英
-http://epg.112114.xyz/douyu/218859
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",欧美大片1
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu8 - 贝爷MAX厅
+# http://epg.112114.xyz/douyu/4332
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu9 - 漫威影片
+# http://epg.112114.xyz/douyu/6140589
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu15 - 豆瓣高分
+# http://epg.112114.xyz/douyu/8770422
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu19 - 女神金电影
+# http://epg.112114.xyz/douyu/747764
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu20 - 花卷电影
+# http://epg.112114.xyz/douyu/52787
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu24 - 贝爷影厅2
+# http://epg.112114.xyz/douyu/36337
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu25 - 霍格影片
+# http://epg.112114.xyz/douyu/8814650
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu28 - 奶虫恐怖电影
+# http://epg.112114.xyz/douyu/263824
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu44 - 小宇60帧
+# http://epg.112114.xyz/douyu/323876
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",刘德华
+# http://epg.112114.xyz/douyu/2516864
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",宇哥电影
+# http://epg.112114.xyz/douyu/413573
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",林正英
+# http://epg.112114.xyz/douyu/218859
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",欧美大片1 - 可乐电影
 http://epg.112114.xyz/douyu/20415
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",欧美大片2
-http://epg.112114.xyz/douyu/2793084
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",欧美大片2
+# http://epg.112114.xyz/douyu/2793084
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",欧美大片3
 http://epg.112114.xyz/douyu/9249162
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",粤语电影2
 http://epg.112114.xyz/douyu/6566671
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",粤语电影3
 http://epg.112114.xyz/douyu/1226741
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",贝爷影厅
-http://epg.112114.xyz/douyu/252802
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",贝爷影厅
+# http://epg.112114.xyz/douyu/252802
 #
 # https://www.right.com.cn/forum/thread-8231996-1-1.html
 #
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",豆瓣电影
-http://epg.112114.xyz/douyu/8770422
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",豆瓣电影
+# http://epg.112114.xyz/douyu/8770422
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",漫威电影
 http://epg.112114.xyz/douyu/4282654
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",译制电影
@@ -97,8 +97,8 @@ http://epg.112114.xyz/douyu/252802
 http://epg.112114.xyz/douyu/36337
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",霍格影片
 http://epg.112114.xyz/douyu/8814650
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",可乐电影
-http://epg.112114.xyz/douyu/20415
+# -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",可乐电影
+# http://epg.112114.xyz/douyu/20415
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",经典怀旧
 http://epg.112114.xyz/douyu/10180265
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",经典港片
