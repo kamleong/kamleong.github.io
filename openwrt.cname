@@ -1,0 +1,7 @@
+https://openwrt.org/docs/guide-user/base-system/dhcp_configuration#cname_rr
+
+uci add dhcp cname
+uci set dhcp.@cname[-1].cname="www"
+uci set dhcp.@cname[-1].target="kamleong.github.io"
+uci commit dhcp
+service dnsmasq restart
