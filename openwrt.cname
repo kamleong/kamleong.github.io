@@ -8,6 +8,6 @@ uci commit dhcp
 service dnsmasq restart
 
 # vi /etc/config/dhcp
-# config cname 'usr_lan' 
+# config cname
 #   option cname 'www.c'
 #   option target 'kamleong.github.io'
