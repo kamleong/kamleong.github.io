@@ -1,4 +1,5 @@
-https://openwrt.org/docs/guide-user/base-system/dhcp_configuration#cname_rr
+#!/bin/sh
+#https://openwrt.org/docs/guide-user/base-system/dhcp_configuration#cname_rr
 
 uci add dhcp cname
 uci set dhcp.@cname[-1].cname="www"
