@@ -1,0 +1,70 @@
+EXTM3U
+#
+# https://github.com/iptv-org/iptv
+#
+#EXTINF:-1 tvg-id="AMGTV.us" tvg-logo="https://i.imgur.com/m5Anun9.png" group-title="Family",AMG TV (1080p)
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 tvg-id="apartTV.lu" tvg-logo="https://i.imgur.com/IBcMIcZ.png" group-title="Business;Culture;Lifestyle",apart TV (1080p)
+https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
+#EXTINF:-1 tvg-id="KMBYLD5.us" tvg-logo="https://i.imgur.com/GlpYAKt.png" group-title="Music",BLUES TV
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+#EXTINF:-1 tvg-id="CMalayalamTV.ca" tvg-logo="https://i.imgur.com/rpg0bQA.png" group-title="General",C Malayalam TV (1080p)
+https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
+#EXTINF:-1 tvg-id="KPCBDT1.us" tvg-logo="https://i.imgur.com/w1bK8YN.png" group-title="Undefined",God's Learning Channel (480p)
+https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
+#EXTINF:-1 tvg-id="GoodLife45.us" tvg-logo="https://i.imgur.com/AQfVNMK.png" group-title="Religious",GoodLife 45 (720p) [Not 24/7]
+https://1-fss29-s0.streamhoster.com/lv_goodlife45f1/broadcast1/playlist.m3u8
+#EXTINF:-1 tvg-id="KSCEDT2.us" tvg-logo="https://i.imgur.com/970zAEn.png" group-title="Religious",KSCE Vida Cristiana (360p)
+https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
+#EXTINF:-1 tvg-id="KVVBLD1.us" tvg-logo="https://i.imgur.com/IXC8PXf.png" group-title="Undefined",KVVB-TV 33 Victor Valley (1080p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
+#EXTINF:-1 tvg-id="KSCEDT1.us" tvg-logo="https://i.imgur.com/FioxUa3.png" group-title="Religious",Life! Christian Broadcasting Network (360p)
+https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
+#EXTINF:-1 tvg-id="KSCEDT3.us" tvg-logo="https://i.imgur.com/P0vZXU0.png" group-title="Religious",LIFE! End Times TV (360p)
+https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
+#EXTINF:-1 tvg-id="CJONDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG" group-title="Undefined",Newfoundland Television (480p)
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+#EXTINF:-1 tvg-id="One.mt" tvg-logo="https://i.imgur.com/UPlfzFx.png" group-title="Undefined",One
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
+#EXTINF:-1 tvg-id="WKPCDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="Undefined",PBS KET2 (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
+#EXTINF:-1 tvg-id="WKPCDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="Undefined",PBS KET KY (480p)
+https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
+#EXTINF:-1 tvg-id="WKMJDT1.us" tvg-logo="https://i.imgur.com/U9HFzJk.png" group-title="Education",PBS KET Louisville KY (WKMJ-TV) (720p)
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+#EXTINF:-1 tvg-id="WKMJDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="Undefined",PBS KET World (480p)
+https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Eastern/Central (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="WMPTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="Undefined",PBS MPT Baltimore MD (WMPB) (1080p)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+#EXTINF:-1 tvg-id="RTHTV1.us" tvg-logo="https://i.imgur.com/4z0FiEA.png" group-title="General",RTH-TV1 (1080p)
+https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",RTH-TV2 Gospel (1080p)
+https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8
+#EXTINF:-1 tvg-id="WCIUDT5.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png" group-title="Undefined",Story Television
+https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Talkin Live Classics TV (480p)
+https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
+#EXTINF:-1 tvg-id="VictorValleyTV.us" tvg-logo="https://i.imgur.com/zgiuNNj.png" group-title="Movies",Victor Valley Movies (1080p) [Not 24/7]
+https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
+#EXTINF:-1 tvg-id="W14DKD1.us" tvg-logo="https://i.imgur.com/TjQP7kS.png" group-title="Religious",W14DK-D 14.1 TV Delmarva
+https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
+#EXTINF:-1 tvg-id="W14DKD2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png" group-title="News",W14DK-D 14.2 NEWSNET
+https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
+#EXTINF:-1 tvg-id="W14DKD3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Retro_Television_Network.png/512px-Retro_Television_Network.png" group-title="Entertainment",W14DK-D 14.3 RetroTV
+https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
+#EXTINF:-1 tvg-id="W14DKD5.us" tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Sports",W14DK-D 14.5 All Sports Television Network
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+#EXTINF:-1 tvg-id="W14DKD7.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png" group-title="Entertainment",W14DK-D 14.7 Heartland Channel
+https://2-fss-2.streamhoster.com/pl_118/amlst:204972-3078008/playlist.m3u8
+#EXTINF:-1 tvg-id="WMPTDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/512px-Create_TV_network_logo.svg.png" group-title="Undefined",WMPT-DT2 (PBS Create)
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+#EXTINF:-1 tvg-id="WPSTV.us" tvg-logo="https://i.imgur.com/zwzmwse.jpg" group-title="Education",WPS TV (360p)
+https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
+#EXTINF:-1 tvg-id="WWXYDT1.pr" tvg-logo="https://i.imgur.com/Qs4szHD.png" group-title="General",WWXY-DT1 (Boricua TV) (1080p)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",优视 (720p)
+https://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",优视 (720p) [Not 24/7]
+https://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/playlist.m3u8
