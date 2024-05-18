@@ -2,12 +2,12 @@
 #https://openwrt.org/docs/guide-user/base-system/dhcp_configuration#cname_rr
 
 uci add dhcp cname
-uci set dhcp.@cname[-1].cname="www.c"
+uci set dhcp.@cname[-1].cname="www.c" $# --> not working without a domain suffix, e.g. 'www' instead of 'www.x'
 uci set dhcp.@cname[-1].target="kamleong.github.io"
 uci commit dhcp
 service dnsmasq restart
 
 # vi /etc/config/dhcp
-# config cname
-#   option cname 'www.c'
+# config cname ## --> this appears in /var/etc/dnsmasq.conf.*, but somehow only applies to the main instance of dnsmasq
+#   option cname 'www.c' ## --> 'There isn't a GitHub Pages site here.'
 #   option target 'kamleong.github.io'
