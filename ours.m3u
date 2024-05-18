@@ -1,0 +1,124 @@
+#EXTM3U
+#
+# https://github.com/iptv-org/iptv
+#
+#EXTINF:-1 tvg-id="12VisionEncarnacion.mx" tvg-logo="https://i.imgur.com/yvQJQNF.jpg" group-title="General",12 Visión Encarnación (1080p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/encoder87b/playlist.m3u8
+#EXTINF:-1 tvg-id="AsiSucedeGuanajuato.mx" tvg-logo="https://i.imgur.com/6W7HUtG.png" group-title="General",Así Sucede Guanajuato (720p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8
+#EXTINF:-1 tvg-id="BDTelevision.gt" tvg-logo="https://i.ibb.co/VBJhHkJ/Fda27b8e352949c39c8d88de33a284a4.png" group-title="General",BD Televisión (720p)
+https://stream.oursnetworktv.com/latin/telegtmb/playlist.m3u8
+#EXTINF:-1 tvg-id="BTVPanama.pa" tvg-logo="https://i.imgur.com/CiYVtgB.png" group-title="General",BTV Panamá (720p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
+#EXTINF:-1 tvg-id="CableNoticiasJalisco.mx" tvg-logo="https://i.imgur.com/Ff7HYCZ.jpg" group-title="News",Cable Noticias Jalisco (614p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/encoder74/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal4deMatehuala.mx" tvg-logo="https://i.imgur.com/XfJ31cF.jpg" group-title="General",Canal 4 de Matehuala (360p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/encoder203/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal6deTamazula.mx" tvg-logo="https://i.imgur.com/OJ1nAOY.jpg" group-title="General",Canal 6 de Tamazula (480p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/encoder6/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal6Tecpan.mx" tvg-logo="https://i.imgur.com/8eBwYai.png" group-title="General",Canal 6 Tecpán (720p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/encoder6tecpan/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal7TalangaVision.hn" tvg-logo="https://i.ibb.co/0cqcyz4/Logo-2020-azul-El-lider-de-la-zona.png" group-title="General",Canal 7 Talanga Visión (720p)
+https://stream.oursnetworktv.com/latin/talangatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal13TierraCaliente.mx" tvg-logo="https://i.imgur.com/v4o9q3u.jpg" group-title="General",Canal 13 Tierra Caliente (768p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/encoder30/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal21Chignahuapan.mx" tvg-logo="https://i.imgur.com/W9E6qc3.png" group-title="General",Canal 21 Chignahuapan (720p)
+https://stream.oursnetworktv.com/latin/pueblamx/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal21Jalisco.mx" tvg-logo="https://i.imgur.com/W9E6qc3.png" group-title="General",Canal 21 Jalisco (720p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/encoder22/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal21Rioverde.mx" tvg-logo="https://i.imgur.com/22oVtx0.png" group-title="General",Canal 21 Rioverde (720p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/encoder91/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal37.mx" tvg-logo="https://i.imgur.com/7ib3wEh.png" group-title="General",Canal 37 San Juan de los Lagos (270p)
+https://stream.oursnetworktv.com/latin/encoder80/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal47TV.mx" tvg-logo="https://i.ibb.co/P6CBtbs/Screenshot-20231201-163704.jpg" group-title="General",Canal 47 TV Puerto Escondido (480p)
+https://stream.oursnetworktv.com/latin/encoder28/playlist.m3u8
+#EXTINF:-1 tvg-id="XEJTDT.mx" tvg-logo="https://i.imgur.com/iOYlKpF.png" group-title="General",Canal 50.1 Juárez (XEJ-TDT) (614p)
+https://stream.oursnetworktv.com/latin/juarez50/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalIglesiaLuzyVerdad.gt" tvg-logo="https://i.ibb.co/x3Vdz6h/Screenshot-20231202-125205.jpg" group-title="Religious",Canal Iglesia Luz y Verdad (1080p)
+https://stream.oursnetworktv.com/latin/IglesialuzyVerdad/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTRV.sv" tvg-logo="https://i.imgur.com/g5QKQ2E.png" group-title="General;News",Canal TRV (480p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTVRadioMayaTGBA.gt" tvg-logo="https://i.imgur.com/kORStT1.png" group-title="Religious",Canal TV Radio Maya TGBA (480p)
+https://stream.oursnetworktv.com/latin/radioTGBAgtm/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalVisof.gt" tvg-logo="https://i.imgur.com/XiszuLl.png" group-title="General",Canal Visof (720p)
+https://stream.oursnetworktv.com/latin/Visof/playlist.m3u8
+#EXTINF:-1 tvg-id="CNRTelevision.mx" tvg-logo="https://i.imgur.com/HI5GOfF.png" group-title="General",CNR Televisión (1080p)
+https://stream.oursnetworktv.com/latin/cnrtelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="CorTV.mx" tvg-logo="https://i.imgur.com/NLO7HO4.png" group-title="Undefined",CorTV (800p)
+https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
+#EXTINF:-1 tvg-id="CristoTV.gt" tvg-logo="https://i.ibb.co/c2czW3M/Screenshot-20231201-180316.jpg" group-title="Religious",Cristo TV (480p)
+https://stream.oursnetworktv.com/latin/CristoTV/playlist.m3u8
+#EXTINF:-1 tvg-id="DelEsteTV.uy" tvg-logo="https://i.imgur.com/bUlmXW5.jpg" group-title="Music",Del Este TV (720p)
+https://stream.oursnetworktv.com/latin/estetvo/playlist.m3u8
+#EXTINF:-1 tvg-id="DiezTVEncarnacion.mx" tvg-logo="https://i.imgur.com/UVG71ES.png" group-title="General",DiezTV Encarnación (1080p)
+https://stream.oursnetworktv.com/latin/encoder87/playlist.m3u8
+#EXTINF:-1 tvg-id="EfesoTelevision.mx" tvg-logo="https://i.imgur.com/zJCsPB2.jpg" group-title="Religious",Efeso Televisión (1080p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/Esotelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="XHFGLTDT.mx" tvg-logo="https://i.imgur.com/9ZXCQvy.png" group-title="General",El 15 TV (720p)
+https://stream.oursnetworktv.com/latin/encoder32/playlist.m3u8
+#EXTINF:-1 tvg-id="FeTelevision.ve" tvg-logo="https://i.imgur.com/hLorJRD.jpg" group-title="Religious",Fe Televisión (360p)
+https://stream.oursnetworktv.com/latin/Canal75/playlist.m3u8
+#EXTINF:-1 tvg-id="FeViviente.gt" tvg-logo="https://i.imgur.com/PkW3cKR.png" group-title="Religious",Fe Viviente (480p)
+https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8
+#EXTINF:-1 tvg-id="FranchsTV.gt" tvg-logo="https://i.imgur.com/Rr9pKQh.png" group-title="Religious",Franchs TV (720p)
+https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8
+#EXTINF:-1 tvg-id="GardeniasTV.gt" tvg-logo="https://i.ibb.co/YfVmfwV/83ff2da28cae14bc47bb07e976bef578.png" group-title="Entertainment",Gardenias TV (720p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
+#EXTINF:-1 tvg-id="InfoTV9.mx" tvg-logo="https://i.imgur.com/Rgu6Hzo.png" group-title="News",Info TV 9 (720p)
+https://stream.oursnetworktv.com/latin/encoder25/playlist.m3u8
+#EXTINF:-1 tvg-id="JacalCanal5.gt" tvg-logo="https://i.imgur.com/k1oW0C6.png" group-title="General",Jacal Canal 5 (720p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/jacaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="JehovaNissi.gt" tvg-logo="https://i.imgur.com/2BkL4wq.png" group-title="Religious",Jehová Nissi (720p)
+https://stream.oursnetworktv.com/latin/nissiGtmH/playlist.m3u8
+#EXTINF:-1 tvg-id="JubiloTV.gt" tvg-logo="https://i.ibb.co/R4QSfYd/Ba073d3280959c5ba7d25d40052a7349.png" group-title="Religious",Júbilo TV (720p)
+https://stream.oursnetworktv.com/latin/jubilotv/playlist.m3u8
+#EXTINF:-1 tvg-id="LaImagendeTierraCaliente.mx" tvg-logo="https://i.ibb.co/HLyhpkR/Screenshot-20231201-163133.jpg" group-title="Music",La Imagen de Tierra Caliente (768p)
+https://stream.oursnetworktv.com/latin/encoder82/playlist.m3u8
+#EXTINF:-1 tvg-id="LaLuperronaCiudadGuzman.mx" tvg-logo="https://i.imgur.com/nkgOsSv.jpg" group-title="Music",La Luperrona Ciudad Guzmán (240p)
+https://stream.oursnetworktv.com/radio/luperrongdgzman/playlist.m3u8
+#EXTINF:-1 tvg-id="LaLuperronaColima.mx" tvg-logo="https://i.imgur.com/hubV9nC.jpg" group-title="Music",La Luperrona Colima (256p)
+https://stream.oursnetworktv.com/radio/luperrona415/playlist.m3u8
+#EXTINF:-1 tvg-id="LaLuperronaOcotlan.mx" tvg-logo="https://i.imgur.com/URMA6lE.jpg" group-title="Music",La Luperrona Ocotlán (300p)
+https://stream.oursnetworktv.com/radio/luperronaocotlan/playlist.m3u8
+#EXTINF:-1 tvg-id="LosAltosTelevision.mx" tvg-logo="https://i.ibb.co/qYs9cPQ/Unnamed-41.jpg" group-title="Entertainment",Los Altos Televisión (720p)
+https://stream.oursnetworktv.com/latin/encoder1/playlist.m3u8
+#EXTINF:-1 tvg-id="MetropoliTelevision.mx" tvg-logo="https://i.imgur.com/ajMAneN.jpg" group-title="General",Metrópoli Televisión (1080p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/Metropolitelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="Paralelo20650AM.mx" tvg-logo="https://i.imgur.com/9SOZ2Sh.png" group-title="News",Paralelo 20 650 AM (1080p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/paralelo20/playlist.m3u8
+#EXTINF:-1 tvg-id="PlenitudTV.gt" tvg-logo="https://i.imgur.com/BFJ7EGj.png" group-title="Religious",Plenitud TV (360p)
+https://stream.oursnetworktv.com/latin/PlenitudGtm/playlist.m3u8
+#EXTINF:-1 tvg-id="PresenciaTelevision.gt" tvg-logo="https://i.imgur.com/SVho6El.png" group-title="Religious",Presencia TV (720p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8
+#EXTINF:-1 tvg-id="QuieroTV.mx" tvg-logo="https://i.imgur.com/k0XbBp8.png" group-title="Undefined",Quiero TV (1080p)
+https://stream.oursnetworktv.com/latin/encoder12/playlist.m3u8
+#EXTINF:-1 tvg-id="RadarTV71.mx" tvg-logo="https://i.imgur.com/wn9g4PY.png" group-title="Music",Radar TV 71 (480p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/radarTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Sucretv.ve" tvg-logo="https://i.ibb.co/H2KqhQY/37e5524e9d2738ff48281e577950d0ab.png" group-title="Entertainment",Sucre tv (360p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/sucretv/playlist.m3u8
+#EXTINF:-1 tvg-id="TalangaTVCanal39.hn" tvg-logo="https://i.imgur.com/5GiUzHC.jpg" group-title="Family",Talanga TV Canal 39 (480p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/Tv39Talanga/playlist.m3u8
+#EXTINF:-1 tvg-id="TDVTV.hn" tvg-logo="https://i.ibb.co/C2mr74y/Ee0f72e3708fb045177dd894cc93ae99.png" group-title="Religious",TDV TV (240p)
+https://stream.oursnetworktv.com/latin/TierraDeValientes/playlist.m3u8
+#EXTINF:-1 tvg-id="Telavision.hn" tvg-logo="https://i.imgur.com/vzjqAZh.jpg" group-title="General",Telavisión (720p)
+https://stream.oursnetworktv.com/latin/telaVision/playlist.m3u8
+#EXTINF:-1 tvg-id="TELE4Ojocaliente.mx" tvg-logo="https://i.imgur.com/TkzIqR2.jpg" group-title="General",TELE 4 Ojocaliente (720p)
+https://stream.oursnetworktv.com/latin/encoder53/playlist.m3u8
+#EXTINF:-1 tvg-id="TRCTV.mx" tvg-logo="https://i.imgur.com/W4xwCdl.png" group-title="Undefined",TRC Televisión (720p)
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
+#EXTINF:-1 tvg-id="TV5TuCanal.mx" tvg-logo="https://i.ibb.co/dtrcnBL/Unnamed-41.jpg" group-title="General",TV5 Tu Canal (768p)
+https://stream.oursnetworktv.com/latin/encoder48/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGuanajuato.mx" tvg-logo="https://i.imgur.com/HbnCZSF.png" group-title="General",TV Guanajuato (720p)
+https://stream.oursnetworktv.com/latin/tvguanajuato/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIndependencia.mx" tvg-logo="https://i.imgur.com/kuyQvUP.png" group-title="General",TV Independencia (1080p)
+https://stream.oursnetworktv.com/latin/tvindependencia/playlist.m3u8
+#EXTINF:-1 tvg-id="TVLibertad.mx" tvg-logo="https://i.imgur.com/yvbhH8c.png" group-title="General",TV Libertad (720p)
+https://stream.oursnetworktv.com/latin/tvlibertad/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSanLuis.mx" tvg-logo="https://i.imgur.com/MAnenOV.jpg" group-title="General",TV San Luis (720p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/sanluistv/playlist.m3u8
+#EXTINF:-1 tvg-id="VeracruzMultimediosTV.mx" tvg-logo="https://i.ibb.co/8sDvnT2/Screenshot-20231201-165527.jpg" group-title="Entertainment",Veracruz Multimedios TV (720p)
+https://stream.oursnetworktv.com/latin/VeracruZMulTimedios/playlist.m3u8
+#EXTINF:-1 tvg-id="VideaPlataforma.mx" tvg-logo="https://i.imgur.com/pnk4SsI.jpg" group-title="General",Videa Plataforma (576p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/encoder34/playlist.m3u8
+#EXTINF:-1 tvg-id="XHKGTDT.mx" tvg-logo="https://i.imgur.com/QFI2OdJ.png" group-title="General",XHKG TV Nayarit (1080p)
+https://stream.oursnetworktv.com/latin/encoder73/playlist.m3u8
