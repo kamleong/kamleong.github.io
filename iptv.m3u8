@@ -7,7 +7,7 @@
 # -EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml"
 # -EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/unifi.com.my.xml.gz"
 # -EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ms/rtmklik.rtm.gov.my.xml.gz, https://iptv-org.github.io/epg/guides/zh/rthk.hk.xml.gz, https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml.gz"
-# ★☑✗🚫✗☑★ ㊣☼☉︎⛢⊙⊚◎  📰📻📺🎦🎬🎥📡 http://tonkiang.us/
+# ★☑✗🚫✗☑★ ㊣☼☉︎⛢⊙⊚◎  📰📻📺🎦🎬🎥📡 #＃ http://tonkiang.us/
 # https://docs.google.com/spreadsheets/d/1cj66AnWNgJ3GqDTIQBWeUEsapjp_Zk37v11iwoa8xzM/edit#gid=2107508417
 #
 #EXTINF:-1 tvg-name="AiFM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Ai_FM_logo.png" group-title="Malaysia;Radio",📻◎爱FM (Radio)
@@ -51,7 +51,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 # http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/stream4/streamPlaylist.m3u8
 # -EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.imgur.com/nmoL4J4.png" group-title="Indonesia",tvOne (Opt-1)
 # web# https://www.tvonenews.com/live
-＃ http://210.210.155.35:80/session/0b808a8c-6c0b-11e9-88f0-c81f66f89318/qwr9ew/s/s105/index.m3u8
+# http://210.210.155.35:80/session/0b808a8c-6c0b-11e9-88f0-c81f66f89318/qwr9ew/s/s105/index.m3u8
 # -EXTINF:-1 tvg-id="INDOSIAR.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Indosiar_2015.svg" group-title="Indonesia",INDOSIAR
 # web# https://www.indosiar.com/
 # http://210.210.155.35/qwr9ew/s/s04/01.m3u8
