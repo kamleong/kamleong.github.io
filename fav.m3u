@@ -37,7 +37,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="DW" tvg-id0="DWEnglish.de" tvg-name="DW English" tvg-logo="https://i.imgur.com/A1xzjOI.png",*◎DW English - 1053
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-id0="CCTV4Asia.cn" tvg-name="CCTV-4 中文国际（亚）" tvg-logo="https://i.imgur.com/ovUSVEQ.png" group-title="China",CCTV-4 中文国际（亚）
+#EXTINF:-1 tvg-id="CCTV4" tvg-id0="CCTV4Asia.cn" tvg-name="CCTV-4 中文国际（亚）" tvg-logo="https://i.imgur.com/ovUSVEQ.png",CCTV-4 中文国际（亚）
 https://edge2.laotv.la/live/CCTV4A/sc-gaFECQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/9f47f6e9e073f90dda50841afe557a29b9e6a1c7bcf5470fe9e3bbd6b07ac275.png",*◎History Hit
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
