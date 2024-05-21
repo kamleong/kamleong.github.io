@@ -15,18 +15,18 @@
 https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
 #EXTINF:-1 tvg-name="8TV" tvg-id="8TV.my" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",📺◎8TV (tonton.com.my)
 #EXTVLCOPT:http-referrer="https://live-xtra-sg1.global.ssl.fastly.net/"
-#web# https://www.xtra.com.my/live-tv/
+#web# https://www.xtra.com.my/live-tv/ | https://github.com/weareblahs/freeview/blob/main/mytv_broadcasting.m3u8
 #https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
 #https://live-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8
+# -EXTINF:-1 tvg-id="8TV.my" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="Malaysia",8TV (720p) [Geo-blocked]
+#web# https://www.tonton.com.my/liveChannel?titleId=8tv
+#https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
+https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
+#EXTINF:-1 tvg-name="8TV" tvg-id="8TV.my" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",*📺◎8TV (MY) - 192.168.175.1
 #curl# 'https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8' -H 'Referer: https://live-xtra-sg1.global.ssl.fastly.net/'
 #curl# 'https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8' -H 'Referer: https://live-xtra-sg1.global.ssl.fastly.net/'
 #UrlFetchApp https://script.google.com/home/projects/16uaQCXF7jFK6jJCPlWwrjnpYsQc9xCuUyrrn8_v1iLLKQQLgMggf7uuN/edit
 #not working due to geo-block from Google to server -- https://script.google.com/macros/s/AKfycbzthPQMiAmPAZJT3fRsCRpbbPwqRzKUA2ABPLExa5XFutwB857ccwJoz_abtDbwoO2qfA/exec?q=8tv.xtra&x=.m3u 
-#http://192.168.175.1/cgi-bin/8tv.m3u
-# -EXTINF:-1 tvg-id="8TV.my" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="Malaysia",8TV (720p) [Geo-blocked]
-#web# https://www.tonton.com.my/liveChannel?titleId=8tv
-https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
-#EXTINF:-1 tvg-name="8TV" tvg-id="8TV.my" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",*📺◎8TV (MY) - 192.168.175.1
 http://192.168.175.1/cgi-bin/8tv.m3u
 #EXTINF:-1 tvg-name="TV2" tvg-id="TV2.my" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg" group-title="Malaysia",*📺◎RTM TV2 (MY)
 #web# https://rtmklik.rtm.gov.my/live/tv2
