@@ -1,0 +1,66 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="8TV" tvg-id="8TV.my" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png",📺◎8TV (tonton.com.my)
+https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
+#EXTINF:-1 tvg-name="TV2" tvg-id="TV2.my" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg",*📺◎RTM TV2 (MY)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
+#EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-id0="CNAInternational.sg" tvg-id1="CNA.sg" tvg-name="CNA" tvg-logo="https://i.imgur.com/xWglicB.png",*🔭◎CNA International (1080p)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="NHKWORLD" tvg-id0="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://i.imgur.com/TDCuUDs.png",*◎NHK World-Japan - 728
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
+#EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png",Taiwan Plus (1080p)
+https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-id0="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/rwY7FHT.png",鳳凰衛視中文台
+http://tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-id0="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/mt4h3VO.png",鳳凰衛視資訊台
+http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
+#EXTINF:-1 tvg-id="无线新闻" tvg-id0="TVBNewsChannel.hk" tvg-logo="https://i.imgur.com/Gwij0Fj.png",TVB News Channel (無綫新聞台)
+http://live.cooltv.top/tv/tvb.php?id=0&hq
+#EXTINF:-1 tvg-id="TDM3.mo" tvg-logo="https://i.imgur.com/oFPUZ97.png",*◎澳門Macau 衛星頻道 Ch.96
+https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="民视新闻台" tvg-id0="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png",FTV News (民視新聞台)
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png",Taiwan Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-id0="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English Ⓢ" tvg-logo="https://i.imgur.com/BB93NQP.png",*🔭◎Al Jazeera English Ⓢ
+https://live-hls-web-aje.getaj.net/AJE/05.m3u8
+#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-id0="BBCWorldNewsAsiaPacific.uk" tvg-name="BBC World News" tvg-logo="https://i.imgur.com/joD38lo.png",✗ 🔭BBC World News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-id0="CCTV1.cn" tvg-name="CCTV-1 综合 Ⓢ" tvg-logo="https://i.imgur.com/uHU6Vc0.png" tvg-epgurl="https://live.fanmingming.com/e.xml",✗ CCTV-1 综合 Ⓢ - 110
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png",☑◎KBS World - 773
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://i.imgur.com/JEA2xpv.png",☑◎TRT World - 934
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ABCNews.au" tvg-name="ABC News" tvg-logo="https://i.imgur.com/GpgrYCb.png",*◎ABC News 24 (AU) - 23
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-id="ABCNews.us" tvg-name="ABC News" tvg-logo="https://i.imgur.com/7sJLzKi.png",☑◎ABC News - 1008
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="DW" tvg-id0="DWEnglish.de" tvg-name="DW English" tvg-logo="https://i.imgur.com/A1xzjOI.png",*◎DW English - 1053
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-id0="CCTV4Asia.cn" tvg-name="CCTV-4 中文国际（亚）" tvg-logo="https://i.imgur.com/ovUSVEQ.png" group-title="China",CCTV-4 中文国际（亚）
+https://edge2.laotv.la/live/CCTV4A/sc-gaFECQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/9f47f6e9e073f90dda50841afe557a29b9e6a1c7bcf5470fe9e3bbd6b07ac275.png",*◎History Hit
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WKMJDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png",*◎PBS KET World (480p)
+https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
+#EXTINF:-1 tvg-id="MPT.us" tvg-logo="https://image.pbs.org/bento3-prod/mpt-bento-live-pbs/main/16a2473dc6_mpt_header_logo_medium3.png",*◎Maryland Public TV (PBS)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+#EXTINF:-1 tvg-id="EuroTV.it" tvg-logo="https://i.imgur.com/HFWWzKT.png",Euro TV (720p) [Not 24/7]
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:-1 tvg-id="LotusTV.mo" tvg-logo="https://sendcv.me/SendCVUpload/Logo/5758/2022060614460040355.jpg",*澳門蓮花衛視
+https://z88.ubtvfans.com/live/rx1/70/4f5d1beff287c563c64c30e7f7fc5729/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/DouYu_2023.svg",粤语电影2
+http://epg.112114.xyz/douyu/6566671
+#EXTINF:-1 tvg-id="douban.cn" tvg-logo="https://bkimg.cdn.bcebos.com/pic/d000baa1cd11728b2046ed0bc3fcc3cec3fd2cab",🎬豆瓣电影
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1 tvg-id="CM.hk" tvg-logo="http://www.tvyan.com/uploads/dianshi/celestialmovies.jpg",Celestial Movies 天映頻道 (普) (Indonesian Subtitle)
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:-1 tvg-id="WuTangCollection.us" tvg-logo="https://i.imgur.com/sz55sBl.png",◎Wu Tang Collection (720p)
+#web# https://www.thewutangcollection.com
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
+#EXTINF:-1 tvg-id="toeich.jp" tvg-name="東映チャンネル / Toei Channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png",TOEI Channel 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+#EXTINF:-1 tvg-id="MissionImpossible.us" tvg-logo="https://i.imgur.com/QS5lg0t.png",Pluto TV Mission: Impossible (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png",✗ ☑HITS (576p)
+https://z88.ubtvfans.com/live/rx4/2972/e12aa1dd305abecb286f982ab4646c34/index.m3u8
