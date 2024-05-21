@@ -109,8 +109,6 @@ http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19
 #
 # -EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" tvg-logo="https://i.imgur.com/QqIdVqz.png" group-title="Taiwan",Taiwan Indigenous TV (原住民電視) (720p)
 # http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-# -EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="Taiwan",Taiwan Plus (1080p)
-# https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 #
 #EXTINF:-1 tvg-name="優視頻道" tvg-logo="http://www.uchanneltv.us/uploads/7/6/2/5/76251585/uchannel-tv-logo-update-v2.jpg" group-title="USA",☑◎優視頻道
 #web# https://www.uchanneltv.us/live-streaming.html
