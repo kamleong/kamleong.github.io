@@ -10,7 +10,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u
 #EXTINF:-1 tvg-id="DW" tvg-id0="DWEnglish.de" tvg-name="DW English" tvg-logo="https://i.imgur.com/A1xzjOI.png",*DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-id0="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/rwY7FHT.png",鳳凰衛視中文台
-http://tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8
+http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-id0="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/mt4h3VO.png",鳳凰衛視資訊台
 http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
 #EXTINF:-1 tvg-id="无线新闻" tvg-id0="TVBNewsChannel.hk" tvg-logo="https://i.imgur.com/Gwij0Fj.png",TVB News Channel (無綫新聞台)
