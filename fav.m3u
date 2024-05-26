@@ -9,8 +9,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="DW" tvg-id0="DWEnglish.de" tvg-name="DW English" tvg-logo="https://i.imgur.com/A1xzjOI.png",*DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png",Taiwan Plus
-https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-id0="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/rwY7FHT.png",鳳凰衛視中文台
 http://tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-id0="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/mt4h3VO.png",鳳凰衛視資訊台
