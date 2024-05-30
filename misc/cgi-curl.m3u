@@ -1,0 +1,24 @@
+#!/bin/sh
+# /www/cgi-bin/stream.m3u --> http://localhost/cgi-bin/stream.m3u
+if [ -z "$QUERY_STRING" ]; then
+  echo "Content-Type: text/plain"
+  echo ""
+  echo "please include channel name/id/url in the query string, e.g. ./stream.m3u?8tv"
+  exit 0
+elif [ "$QUERY_STRING" == "8tv" ]
+  ROOTURL=https://live-xtra-sg1.global.ssl.fastly.net/
+  BASEURL=${ROOTURL}live-hls/tonton3_720p/
+  echo "Content-Type: application/vnd.apple.mpegurl"
+  #echo "Content-Type: application/x-mpegURL"
+  echo ""
+  #curl -s "${BASEURL}index.m3u8" -H "Referer: ${ROOTURL}"
+  #curl -s "${BASEURL}index.m3u8" -H "Referer: ${ROOTURL}" | head -15 | sed -r "s|^([^#])|${BASEURL}\\1|"
+  curl -s "${BASEURL}index.m3u8" -H "Referer: ${ROOTURL}" | sed -r "s|^([^#])|${BASEURL}\\1|"
+elif [ "$QUERY_STRING" == "cna" ]
+  # https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_1.m3u8
+  BASEURL=https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/
+  echo "Content-Type: application/x-mpegURL"
+  echo ""
+  curl -s "${BASEURL}index_1.m3u8" | sed -r "s|^([^#])|${BASEURL}\\1|"  
+fi
+exit 0
