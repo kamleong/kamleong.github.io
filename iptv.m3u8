@@ -866,7 +866,7 @@ https://kamleong.github.io/iptv-org.category.m3u
 #EXTINF:-1 group-title="playlist.m3u",📁 📖 Free-TV
 https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8?x=playlist.m3u
 #
-#EXTINF:-1 group-title="LAN;Proxy",Local Proxy (cgi-curl)
+#EXTINF:-1 group-title="LAN;Proxy",Local Proxy (CGI-cURL-sed)
 http://192.168.175.1/cgi-bin/stream.m3u
 #EXTINF:-1 group-title="LAN;Proxy",Local Restream (Nginx-HLS-RTMP-FFmpeg)
 http://192.168.175.192:8080/hls/stream.m3u8
