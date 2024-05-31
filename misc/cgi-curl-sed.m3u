@@ -17,7 +17,7 @@ elif [ "$QUERY_STRING" == "8tv" ]
 elif [ "$QUERY_STRING" == "cna" ]
   URL=https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_1.m3u8
   #basename "${URL}" ## echo "$URL" | sed 's|^.*/||'`
-  BASEURL=${URL%/*} ## BASEURL=`echo "$URL" | sed -r 's|^(.*)/(.*)$|\1|'`
+  BASEURL=${URL%/*} ## BASEURL=`echo "$URL" | sed -r 's|([^/]*?)$||'` ## sed -r 's|^(.*)/(.*)$|\1|'
   [ "$BASEURL" == "$URL" ] && BASEURL= || BASEURL="$BASEURL/"
   echo "Content-Type: application/x-mpegURL"
   echo ""
