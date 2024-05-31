@@ -27,7 +27,7 @@ elif [ "$URI_PATH" == "/cgi-bin/stream.m3u" ]; then
 fi
 
 trnpstrm=`echo "$REQUEST_URI" | sed "s|^/cgi-bin/\(\S\+\.ts\)$|\1|" | grep -v "^/"`
-[ -z "${trnpstrm}" ] || {
+[ -z "$trnpstrm" ] || {
   echo "Content-Type: video/mp2t"
   echo ""
   curl -s "https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/${trnpstrm}"
