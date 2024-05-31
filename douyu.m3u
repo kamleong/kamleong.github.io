@@ -1,4 +1,5 @@
 #EXTM3U
+#web# https://www.douyu.com/g_yqk | https://www.douyu.com/6566671
 #
 # https://github.com/iptv-org/iptv
 #
@@ -49,15 +50,15 @@ http://epg.112114.xyz/douyu/1226741
 # http://epg.112114.xyz/douyu/4282654
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",译制电影
 http://epg.112114.xyz/douyu/2436390
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",华语经典
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",经典电影
 http://epg.112114.xyz/douyu/434971
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",吃米滴虫
 http://epg.112114.xyz/douyu/315457
 # x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",华语院线
 # http://epg.112114.xyz/douyu/5581257
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",神乐影片1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",神乐1-周星驰-星爷电影
 http://epg.112114.xyz/douyu/122402
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",神乐影片2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",神乐2-华语-经典电影
 http://epg.112114.xyz/douyu/85894
 # x-EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",周末影院
 # http://epg.112114.xyz/douyu/3637765
