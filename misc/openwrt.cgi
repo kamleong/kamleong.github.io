@@ -5,6 +5,7 @@
 /www/cgi-bin/404
 ----------------
 #!/bin/sh
+[ -e /tmp/404 ] && . /tmp/404
 [ -z "$QUERY_STRING" ] && [ -z "${REQUEST_URI##*'?'*}" ] && QUERY_STRING=${REQUEST_URI#*'?'}
 URI_PATH=`echo "$REQUEST_URI" | sed -r 's|\?.*$||'`
 
