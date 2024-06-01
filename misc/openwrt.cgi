@@ -1,6 +1,6 @@
 /etc/config/uhttpd
   config uhttpd 'main'
-  option error_page '/cgi-bin/404'
+    option error_page '/cgi-bin/404'
 
 /www/cgi-bin/404
 ----------------
