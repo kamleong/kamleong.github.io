@@ -3,8 +3,8 @@
 #
 # https://github.com/iptv-org/iptv
 #
-#EXTINF:-1 tvg-id="douban.cn" tvg-logo="https://bkimg.cdn.bcebos.com/pic/d000baa1cd11728b2046ed0bc3fcc3cec3fd2cab" group-title="China;Movies",🎬豆瓣电影
-http://epg.112114.xyz/douyu/8770422
+# -EXTINF:-1 tvg-id="douban.cn" tvg-logo="https://bkimg.cdn.bcebos.com/pic/d000baa1cd11728b2046ed0bc3fcc3cec3fd2cab" group-title="China;Movies",🎬豆瓣电影
+# http://epg.112114.xyz/douyu/8770422
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu8 - 贝爷MAX厅
 # http://epg.112114.xyz/douyu/4332
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu9 - 漫威影片
