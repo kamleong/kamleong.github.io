@@ -7,7 +7,7 @@
 #!/bin/sh
 [ -e /tmp/404 ] && . /tmp/404
 [ -z "$QUERY_STRING" ] && [ -z "${REQUEST_URI##*'?'*}" ] && QUERY_STRING=${REQUEST_URI#*'?'}
-URI_PATH=`echo "$REQUEST_URI" | sed -r 's|\?.*$||'`
+URI_PATH=`echo "$REQUEST_URI" | sed 's|?.*$||'`
 
 if [ "$URI_PATH" == "/r" ]; then
   echo -e "Status: 302 Redirect\nLocation: https://kamleong.github.io/$QUERY_STRING\n"
