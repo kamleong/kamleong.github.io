@@ -10,31 +10,23 @@
 URI_PATH=`echo "$REQUEST_URI" | sed -r 's|\?.*$||'`
 
 if [ "$URI_PATH" == "/r" ]; then
-  echo "Status: 302 Redirect"
-  echo "Location: https://kamleong.github.io/$QUERY_STRING"
-  echo ""
+  echo -e "Status: 302 Redirect\nLocation: https://kamleong.github.io/$QUERY_STRING\n\n"
   exit 0
 elif [ "$URI_PATH" == "/.m3u" ]; then
-  echo "Status: 302 Redirect"
-  echo "Location: /cgi-bin/stream.m3u?$QUERY_STRING"
-  echo ""
+  echo -e "Status: 302\nLocation: /cgi-bin/stream.m3u?$QUERY_STRING\n"
   exit 0
 elif [ "$URI_PATH" == "/cgi-bin/stream.m3u" ]; then
   cp /www/cgi-bin/_stream.m3u /tmp/stream.m3u
-  echo "Content-Type: text/plain"
-  echo ""
-  echo "please reload/refresh"
+  echo -e "Content-Type: text/plain\n\nplease reload/refresh"
   exit 0
 fi
 
 trnpstrm=`echo "$REQUEST_URI" | sed "s|^/cgi-bin/\(\S\+\.ts\)$|\1|" | grep -v "^/"`
 [ -z "$trnpstrm" ] || {
-  echo "Content-Type: video/mp2t"
-  echo ""
+  echo -e "Content-Type: video/mp2t\n"
   curl -s "https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/${trnpstrm}"
   exit
 }
 
-echo "Content-Type: text/plain"
-echo ""
+echo -e "Content-Type: text/plain\n\n404\n"
 set
