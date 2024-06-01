@@ -13,7 +13,7 @@ if [ "$URI_PATH" == "/r" ]; then
   echo -e "Status: 302 Redirect\nLocation: https://kamleong.github.io/$QUERY_STRING\n\n"
   exit 0
 elif [ "$URI_PATH" == "/.m3u" ]; then
-  echo -e "Status: 302\nLocation: /cgi-bin/stream.m3u?$QUERY_STRING\n"
+  echo -e "Status: 302 Redirect\nLocation: /cgi-bin/stream.m3u?$QUERY_STRING\n"
   exit 0
 elif [ "$URI_PATH" == "/cgi-bin/stream.m3u" ]; then
   cp /www/cgi-bin/_stream.m3u /tmp/stream.m3u
