@@ -45,8 +45,8 @@ https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="EuroTV.it" tvg-logo="https://i.imgur.com/HFWWzKT.png",Euro TV
 https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
-# -EXTINF:-1 tvg-id="LotusTV.mo" tvg-logo="https://sendcv.me/SendCVUpload/Logo/5758/2022060614460040355.jpg",澳門蓮花衛視
-# https://z88.ubtvfans.com/live/rx1/70/4f5d1beff287c563c64c30e7f7fc5729/index.m3u8
+#EXTINF:-1 tvg-id="LotusTV.mo" tvg-logo="https://sendcv.me/SendCVUpload/Logo/5758/2022060614460040355.jpg",澳門蓮花衛視
+https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/DouYu_2023.svg",粤语电影2 (斗鱼)
 http://epg.112114.xyz/douyu/6566671
 #EXTINF:-1 tvg-id="douban.cn" tvg-logo="https://bkimg.cdn.bcebos.com/pic/d000baa1cd11728b2046ed0bc3fcc3cec3fd2cab",豆瓣电影
