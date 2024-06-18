@@ -679,10 +679,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5efbd29e4aa26700076c0d06&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=355&terminate=false&userId=
 #EXTINF:-1 tvg-id="Baywatch.us" tvg-logo="https://i.imgur.com/c2esKHg.png" group-title="USA;Entertainment",Baywatch
 https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
-#EXTINF:-1 channel-id="samsung-USBA2000001BR" tvg-id="USBA2000001BR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2000001BR_20240528T020827SQUARE.png" tvg-chno="1590" group-title="USA;Entertainment",Baywatch (SamsungTV+,USA)
-https://i.mjh.nz/SamsungTVPlus/USBA2000001BR.m3u8
-#EXTINF:-1 channel-id="samsung-CABA3700002ML" tvg-id="CABA3700002ML" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA3700002ML_20240527T200813SQUARE.png" tvg-chno="1063" group-title="Canada;Entertainment",Baywatch (SamsungTV+,CA)
-https://i.mjh.nz/SamsungTVPlus/CABA3700002ML.m3u8
+## below 2 channels under SamsungTVPlus are same as above, GBBD600002XT is a different channel
+# -EXTINF:-1 channel-id="samsung-USBA2000001BR" tvg-id="USBA2000001BR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2000001BR_20240528T020827SQUARE.png" tvg-chno="1590" group-title="USA;Entertainment",Baywatch (SamsungTV+,USA)
+# https://i.mjh.nz/SamsungTVPlus/USBA2000001BR.m3u8
+# -EXTINF:-1 channel-id="samsung-CABA3700002ML" tvg-id="CABA3700002ML" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA3700002ML_20240527T200813SQUARE.png" tvg-chno="1063" group-title="Canada;Entertainment",Baywatch (SamsungTV+,CA)
+# https://i.mjh.nz/SamsungTVPlus/CABA3700002ML.m3u8
 #EXTINF:-1 channel-id="samsung-GBBD600002XT" tvg-id="GBBD600002XT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD600002XT_20230712T021143SQUARE.png_20230712021144.png" tvg-chno="4160" group-title="UK;Entertainment",Baywatch (SamsungTV+,UK)
 https://i.mjh.nz/SamsungTVPlus/GBBD600002XT.m3u8
 #
