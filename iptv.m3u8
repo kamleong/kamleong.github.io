@@ -387,6 +387,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df978944
 #web# https://www.i24news.tv/en
 #https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/556d51d2f08440b3a4b6442b43008aa0/playlist-all_ssaiM.m3u8
 https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="UK;News",GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 # -EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" group-title="Ireland;News",RTE News Now 
 # web# https://www.rte.ie/player/onnow/
 # https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
@@ -673,6 +675,16 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 #
 #EXTINF:-1 tvg-id="MissionImpossible.us" tvg-logo="https://i.imgur.com/QS5lg0t.png" group-title="USA;Entertainment",Pluto TV Mission: Impossible (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="CSI.us" tvg-logo="https://i.imgur.com/xLLNEfA.png" group-title="USA;Entertainment",Pluto TV CSI (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5efbd29e4aa26700076c0d06&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=355&terminate=false&userId=
+#EXTINF:-1 tvg-id="Baywatch.us" tvg-logo="https://i.imgur.com/c2esKHg.png" group-title="USA;Entertainment",Baywatch
+https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="samsung-USBA2000001BR" tvg-id="USBA2000001BR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2000001BR_20240528T020827SQUARE.png" tvg-chno="1590" group-title="USA;Entertainment",Baywatch (SamsungTV+,USA)
+https://i.mjh.nz/SamsungTVPlus/USBA2000001BR.m3u8
+#EXTINF:-1 channel-id="samsung-CABA3700002ML" tvg-id="CABA3700002ML" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA3700002ML_20240527T200813SQUARE.png" tvg-chno="1063" group-title="Canada;Entertainment",Baywatch (SamsungTV+,CA)
+https://i.mjh.nz/SamsungTVPlus/CABA3700002ML.m3u8
+#EXTINF:-1 channel-id="samsung-GBBD600002XT" tvg-id="GBBD600002XT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD600002XT_20230712T021143SQUARE.png_20230712021144.png" tvg-chno="4160" group-title="UK;Entertainment",Baywatch (SamsungTV+,UK)
+https://i.mjh.nz/SamsungTVPlus/GBBD600002XT.m3u8
 #
 #EXTINF:-1 tvg-id="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Singapore;Entertainment",✗ ☑HITS (576p)
 #web# https://www.hitstv.com/schedule.php
