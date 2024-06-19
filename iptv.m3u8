@@ -342,9 +342,9 @@ https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Japan;News",NHK World Premium (6am,12pm,7pm-)
-#web# https://www3.nhk.or.jp/nhkworld/ja/premiumlive/ free live streaming for overseas viewers - news & selected hours only - shows nice landscapes of Tokyo outside of broadcast hours
-https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
+# -EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Japan;News",NHK World Premium (6am,12pm,7pm-)
+# web# https://www3.nhk.or.jp/nhkworld/ja/premiumlive/ free live streaming for overseas viewers - news & selected hours only - shows nice landscapes of Tokyo outside of broadcast hours
+# https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
 #EXTINF:-1 tvg-id="NTVNews24.jp" tvg-name="日テレNEWS24" tvg-logo="https://i.imgur.com/tVNZ0BU.png" group-title="Japan;News",◎日テレNEWS24 Ⓢ
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #
@@ -466,9 +466,11 @@ https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 #web# https://www.mpt.org/ | https://www.mpt.org/schedule/
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #
-#EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png" group-title="USA;Documentary",*🏛️◎Smithsonian Channel Asia (1080p)
-#discontinued on 15-Jan-2024 ??
-#https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+# -EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png" group-title="USA;Documentary",*🏛️◎Smithsonian Channel Asia (1080p)
+# discontinued on 15-Jan-2024 ??
+# https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannelSelects.us" tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg" group-title="Science",Pluto TV Smithsonian Channel Selects (720p)
+#https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?appVersion=0&deviceDNT=1&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0
 #
 # -EXTINF:-1 tvg-id="CCTV10.cn" tvg-logo="https://i.imgur.com/PKtBUL2.png" group-title="China;Documentary",☑CCTV-10 科教
@@ -518,7 +520,7 @@ https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/
 # https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
 # https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8
 #
-# -EXTINF:-1 tvg-id="EuroTV.it" tvg-logo="https://i.imgur.com/HFWWzKT.png" group-title="Italy",Euro TV (720p) [Not 24/7]
+# -EXTINF:-1 tvg-id="EuroTV.it" tvg-logo="https://i.imgur.com/HFWWzKT.png" group-title="Italy;Entertainment",Euro TV (720p) [Not 24/7]
 # web# https://www.eurotvitalia.it | https://eurotvitalia.blogspot.com/
 # https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 #EXTINF:-1 tvg-id="XPTVUS.es" tvg-logo="https://i.imgur.com/1m7kDmc.png" group-title="Spain;Entertainment",XPTV US (720p)
@@ -683,6 +685,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 # https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 # https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvnl-samsungnl/playlist.m3u8
 #
+# -EXTINF:-1 tvg-id="Survivor.us" tvg-logo="https://i.imgur.com/Zz9SgY8.png" group-title="USA;Entertainment",Pluto TV Survivor (720p)
+# https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f21e7b24744c60007c1f6fc&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=296&terminate=false&userId=
+#EXTINF:-1 tvg-id="TheAmazingRace.us" tvg-logo="https://i.imgur.com/5yzPhRo.png" group-title="USA;Entertainment",Pluto TV The Amazing Race (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f21e8a6e2f12b000755afdb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=297&terminate=false&userId=
 #EXTINF:-1 tvg-id="MissionImpossible.us" tvg-logo="https://i.imgur.com/QS5lg0t.png" group-title="USA;Entertainment",Pluto TV Mission: Impossible (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="CSI.us" tvg-logo="https://i.imgur.com/xLLNEfA.png" group-title="USA;Entertainment",Pluto TV CSI (720p)
