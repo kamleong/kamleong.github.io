@@ -33,7 +33,9 @@ https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224
 # http://192.168.175.1/cgi-bin/8tv.m3u
 #
 #EXTINF:-1 tvg-name="AEC" tvg-id="AstroAEC.my" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/astro-aec-656x388.jpg" group-title="Malaysia",Astro AEC
-https://ali.hlspull.yximgs.com/live/0339253c3f9a3e21d4a2d5956e772002.flv
+#web# https://www.xhzb.tw/tv-show-20243-1.html
+https://hls.watchtv.uk/AEC/playlist-39.m3u8a?t=1723031048&token=9fd1f324878aef03bf82494435a585cc
+#https://ali.hlspull.yximgs.com/live/0339253c3f9a3e21d4a2d5956e772002.flv
 #http://metatvpro.xyz:25461/W1045/4329/50
 #
 #EXTINF:-1 tvg-name="TV2" tvg-id="TV2.my" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg" group-title="Malaysia",*📺◎RTM TV2 (MY)
