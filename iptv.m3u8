@@ -33,10 +33,8 @@ https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224
 # http://192.168.175.1/cgi-bin/8tv.m3u
 #
 #EXTINF:-1 tvg-name="AEC" tvg-id="AstroAEC.my" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/astro-aec-656x388.jpg" group-title="Malaysia",Astro AEC
-#web# https://www.xhzb.tw/tv-show-20243-1.html
-https://hls.watchtv.uk/AEC/playlist-39.m3u8a?t=1723031048&token=9fd1f324878aef03bf82494435a585cc
-#https://ali.hlspull.yximgs.com/live/0339253c3f9a3e21d4a2d5956e772002.flv
-#http://metatvpro.xyz:25461/W1045/4329/50
+#web# https://sooka.my/en/live-tv | https://www.xhzb.tw/tv-show-20243-1.html
+http://metatvpro.xyz:25461/W1045/4329/50
 #
 #EXTINF:-1 tvg-name="TV2" tvg-id="TV2.my" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg" group-title="Malaysia",*📺◎RTM TV2 (MY)
 #web# https://rtmklik.rtm.gov.my/live/tv2
@@ -364,6 +362,10 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 #web# https://world.kbs.co.kr/service/index.htm?lang=e
 #http://ye23.vip/z7z8/2021/kbs2020.php?id=3
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="News",WION (1080p)
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-id="CNNNews18.in" tvg-logo="https://i.imgur.com/WrmeIco.png" group-title="News",CNN News 18
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://i.imgur.com/JEA2xpv.png" group-title="Turkey;News",☑◎TRT World - 934
 #web# https://www.trtworld.com/live
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
@@ -378,9 +380,10 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-name="NBC News" tvg-logo="https://i.imgur.com/v48mMRT.png" group-title="USA;News",✗ NBC News - 1010
 #web# https://www.nbcnews.com/now http://www.freeintertv.com/view/id-245
+#https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&channel_id=channel&content_type=livefeed&is_lat=1
 #http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&channel_id=channel&content_type=livefeed&is_lat=1
+https://lnc-nbc-news-now.tubi.video/master.m3u8
 # -EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="USA;News",◎Newsmax (1080p)
 # web# https://www.newsmax.com/
 # http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
@@ -397,7 +400,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df978944
 #https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/556d51d2f08440b3a4b6442b43008aa0/playlist-all_ssaiM.m3u8
 https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
 #EXTINF:-1 channel-id="samsung-USBB52000022Q" tvg-id="USBB52000022Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20240520T223417SQUARE.png" tvg-chno="1145" group-title="UK;News",Sky News
-#web# https://news.sky.com/watch-live 
+#web# https://news.sky.com/watch-live
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="UK;News",GB News
 #web# https://www.gbnews.com/watch/live | https://listen-gbnews.sharp-stream.com/gbnews.mp3
