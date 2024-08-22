@@ -399,9 +399,9 @@ https://lnc-nbc-news-now.tubi.video/master.m3u8
 #web# https://www.i24news.tv/en
 #https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/556d51d2f08440b3a4b6442b43008aa0/playlist-all_ssaiM.m3u8
 https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
-#EXTINF:-1 channel-id="samsung-USBB52000022Q" tvg-id="USBB52000022Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20240520T223417SQUARE.png" tvg-chno="1145" group-title="UK;News",Sky News
-#web# https://news.sky.com/watch-live
-https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+# -EXTINF:-1 channel-id="samsung-USBB52000022Q" tvg-id="USBB52000022Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20240520T223417SQUARE.png" tvg-chno="1145" group-title="UK;News",Sky News
+# web# https://news.sky.com/watch-live
+# https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="UK;News",GB News
 #web# https://www.gbnews.com/watch/live | https://listen-gbnews.sharp-stream.com/gbnews.mp3
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
@@ -459,7 +459,8 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 # https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 #EXTINF:-1 channel-id="samsung-USBC2100013WI" tvg-id="USBC2100013WI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD370000134_20240319T050809SQUARE.png" tvg-chno="3559" group-title="USA;Talk",TED
 #web# https://www.ted.com/talks | https://i.mjh.nz/SamsungTVPlus/CABB2500020SS.m3u8 | https://jmp2.uk/SamsungTVPlus/KRBD370000134.m3u8
-https://jmp2.uk/SamsungTVPlus/USBC2100013WI.m3u8
+#https://jmp2.uk/SamsungTVPlus/USBC2100013WI.m3u8
+https://dfkgbxmc5k111.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f9zk7d1li5oot/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueHistory.us" tvg-logo="https://i.imgur.com/1BHDGXx.png" group-title="USA;Documentary",True History (720p)
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 #
@@ -710,10 +711,11 @@ https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
 ## below 2 channels under SamsungTVPlus are same as above, GBBD600002XT is a different channel
 # -EXTINF:-1 channel-id="samsung-USBA2000001BR" tvg-id="USBA2000001BR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2000001BR_20240528T020827SQUARE.png" tvg-chno="1590" group-title="USA;Entertainment",Baywatch (SamsungTV+,USA)
 # https://i.mjh.nz/SamsungTVPlus/USBA2000001BR.m3u8
+# https://d3vdwtqqboxhm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BayWatch2-prod/playlist.m3u8
 # -EXTINF:-1 channel-id="samsung-CABA3700002ML" tvg-id="CABA3700002ML" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA3700002ML_20240527T200813SQUARE.png" tvg-chno="1063" group-title="Canada;Entertainment",Baywatch (SamsungTV+,CA)
 # https://i.mjh.nz/SamsungTVPlus/CABA3700002ML.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD600002XT" tvg-id="GBBD600002XT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD600002XT_20230712T021143SQUARE.png_20230712021144.png" tvg-chno="4160" group-title="UK;Entertainment",Baywatch (SamsungTV+,UK)
-https://i.mjh.nz/SamsungTVPlus/GBBD600002XT.m3u8
+# -EXTINF:-1 channel-id="samsung-GBBD600002XT" tvg-id="GBBD600002XT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD600002XT_20230712T021143SQUARE.png_20230712021144.png" tvg-chno="4160" group-title="UK;Entertainment",Baywatch (SamsungTV+,UK)
+# https://i.mjh.nz/SamsungTVPlus/GBBD600002XT.m3u8
 #
 #EXTINF:-1 tvg-id="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Singapore;Entertainment",✗ ☑HITS (576p)
 #web# https://www.hitstv.com/schedule.php
