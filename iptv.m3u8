@@ -457,9 +457,9 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 # -EXTINF:-1 tvg-id="FreeSpeechTV.us" tvg-logo="https://i.imgur.com/Qq6heRq.png" group-title="USA;Talk",◎Free Speech TV (720p)
 # web# https://freespeech.org/
 # https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
-#EXTINF:-1 channel-id="samsung-USBC2100013WI" tvg-id="USBC2100013WI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100013WI_20240520T214846SQUARE.png" tvg-chno="3559" group-title="USA;Talk",TED
-#web# https://www.ted.com/talks | https://i.mjh.nz/SamsungTVPlus/CABB2500020SS.m3u8 | https://i.mjh.nz/SamsungTVPlus/KRBD370000134.m3u8
-https://i.mjh.nz/SamsungTVPlus/USBC2100013WI.m3u8
+#EXTINF:-1 channel-id="samsung-USBC2100013WI" tvg-id="USBC2100013WI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD370000134_20240319T050809SQUARE.png" tvg-chno="3559" group-title="USA;Talk",TED
+#web# https://www.ted.com/talks | https://i.mjh.nz/SamsungTVPlus/CABB2500020SS.m3u8 | https://jmp2.uk/SamsungTVPlus/KRBD370000134.m3u8
+https://jmp2.uk/SamsungTVPlus/USBC2100013WI.m3u8
 #EXTINF:-1 tvg-id="TrueHistory.us" tvg-logo="https://i.imgur.com/1BHDGXx.png" group-title="USA;Documentary",True History (720p)
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 #
