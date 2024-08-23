@@ -715,12 +715,14 @@ https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
 # -EXTINF:-1 channel-id="samsung-CABA3700002ML" tvg-id="CABA3700002ML" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA3700002ML_20240527T200813SQUARE.png" tvg-chno="1063" group-title="Canada;Entertainment",Baywatch (SamsungTV+,CA)
 # https://i.mjh.nz/SamsungTVPlus/CABA3700002ML.m3u8
 # https://d22ljxpuae2sin.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BayWatch-Canada-prod/playlist.m3u8
-# -EXTINF:-1 channel-id="samsung-GBBD600002XT" tvg-id="GBBD600002XT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD600002XT_20230712T021143SQUARE.png_20230712021144.png" tvg-chno="4160" group-title="UK;Entertainment",Baywatch (SamsungTV+,UK)
-# https://i.mjh.nz/SamsungTVPlus/GBBD600002XT.m3u8
-#EXTINF:-1 tvg-id="Baywatch.us" tvg-logo="https://i.imgur.com/c2esKHg.png" group-title="USA;Entertainment",Baywatch (Remastered)
+#EXTINF:-1 channel-id="samsung-GBBD600002XT" tvg-id="GBBD600002XT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD600002XT_20230712T021143SQUARE.png_20230712021144.png" tvg-chno="4160" group-title="UK;Entertainment",Baywatch (SamsungTV+,UK)
+#https://i.mjh.nz/SamsungTVPlus/GBBD600002XT.m3u8 | https://jmp2.uk/sam-GBBD600002XT.m3u8
+https://d1ku2wsea2oun8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7htqzh9lvkxho/playlist.m3u8
+## below is another different channel, not under SamsungTVPlus
+#EXTINF:-1 tvg-id="Baywatch.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAZQhwfSaBofAjmTaylmVrTZtmnK3BwJz-Mg&s" group-title="USA;Entertainment",Baywatch (Remastered)
 https://lnc-baywatch.tubi.video/playlist.m3u8
 #
-#EXTINF:-1 tvg-id="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Singapore;Entertainment",✗ ☑HITS (576p)
+#EXTINF:-1 tvg-id="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Singapore;Entertainment",✗ ☑HITS (576p)curl 
 #web# https://www.hitstv.com/schedule.php
 #https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #http://210.210.155.37/dr9445/h/h37/index.m3u8
