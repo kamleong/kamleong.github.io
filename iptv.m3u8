@@ -548,6 +548,9 @@ http://hydra.cdnstream.com/1822_128
 # -EXTINF:-1 group-title="Taiwan;Radio",📻OBG - Oldies but Goodies (Radio)
 # http://live.cooltv.top/tv/e-classical.php?id=goodies
 # 𝄡 👫
+#EXTINF:-1 channel-id="samsung-CA400005W4" tvg-id="CA400005W4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA400005W4_20240313T064721SQUARE.png" group-title="Canada;Music" tvg-chno="1542",Stingray Classica
+#https://jmp2.uk/sam-CA400005W4.m3u8
+https://d2rg1zjopmd8xe.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ckvi539nbqdvf/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="USA;Music",Ʊ🎶🎼 ◎Classic Arts Showcase
 #web# https://www.classicartsshowcase.org
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
@@ -559,10 +562,17 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 # https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
 # -EXTINF:-1 tvg-id="BumblebeeTVTropicsLive.us" tvg-logo="https://i.imgur.com/8F9qPbt.png" group-title="USA;Relax",Bumblebee TV Tropics Live (1080p)
 # https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-#EXTINF:-1 tvg-id="DeluxeLoungeHD.de" tvg-logo="https://i.imgur.com/DnMzWiG.png" group-title="Germany;Music",◎Deluxe Lounge HD
-#web# https://deluxemusic.de/sender/deluxe-lounge/
-#https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
+#EXTINF:-1 channel-id="samsung-CABD1200030YP" tvg-id="CABD1200030YP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200030YP_20240611T050143SQUARE.png" group-title="Canada;Music" tvg-chno="1545",Stingray Easy Listening
+#https://jmp2.uk/sam-CABD1200030YP.m3u8
+https://ddvww1tcdlyrp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-18s6gls8lym14/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 channel-id="samsung-CABD1200031NL" tvg-id="CABD1200031NL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200031NL_20240227T221218SQUARE.png_20240227221219.png" group-title="Canada;Music" tvg-chno="1541",Stingray Smooth Jazz
+#https://jmp2.uk/sam-CABD1200031NL.m3u8
+https://d7dwykp2dcps0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vdletsupqql6k/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#
+# -EXTINF:-1 tvg-id="DeluxeLoungeHD.de" tvg-logo="https://i.imgur.com/DnMzWiG.png" group-title="Germany;Music",◎Deluxe Lounge HD
+# web# https://deluxemusic.de/sender/deluxe-lounge/
+# https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
+# https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
 #
 # -EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-logo="https://i.imgur.com/XWWTrKW.png" group-title="Germany;Music",Deluxe Music (720p)
 # web# https://deluxemusic.de/sender/deluxe-music/
