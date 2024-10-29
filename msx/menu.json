@@ -1,0 +1,24 @@
+{
+  "headline": "Media Station X - Content",
+  "menu": [
+    {"icon": "movie", "label": "List of Movies/Videos",
+     "data": {
+       "type": "pages", "template": {          
+          "type": "separate", "layout": "0,0,2,4",
+          "icon": "msx-white-soft:movie", "color": "msx-glass"
+       }, "items": [
+          {"title":"8TV","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"video:https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8"},
+          {"title":"TV2","image":"https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg","action":"video:https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2"},
+          {"title":"鳳凰衛視","image":"https://i.imgur.com/rwY7FHT.png","action":"video:http://192.168.108.75/cgi-bin/fhk.flv"},
+          {"title":"鳳凰衛視香港台","image":"https://live.fanmingming.com/tv/凤凰卫视香港台.png","action":"video:http://192.168.108.75/cgi-bin/fhk.flv?hk"},
+          {"title":"CNA","image":"https://i.imgur.com/xWglicB.png","action":"video:https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"},
+          {"title":"NHK","image":"https://i.imgur.com/TDCuUDs.png","action":"video:https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8"},
+          {"title":"DW","image":"https://i.imgur.com/A1xzjOI.png","action":"video:https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"},
+          {"title":"CCTV15","image":"https://i.imgur.com/m2R60TJ.png","action":"video:http://192.168.108.75/cgi-bin/djtv.m3u"},
+          {"title":"AiFM","image":"https://upload.wikimedia.org/wikipedia/en/f/fd/Ai_FM_logo.png","action":"audio:https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac"},
+          {"title":"ref","action":"link:window:https://msx.benzac.de/wiki/index.php?title=Actions"}
+       ]
+     }
+    }
+  ]
+}
