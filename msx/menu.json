@@ -6,7 +6,7 @@
        "type": "list", "headline": "List of Movies/Videos",
        "template": {          
           "type": "separate", "layout": "0,0,1,1", "color": "msx-glass",
-          "iconSize": "small", "icon": "msx-white-soft:movie",
+          "iconSize": "small", "icon": "msx-white-soft:movie"
        }, "items": [
           {"title":"8TV","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"video:https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8"},
           {"title":"TV2","image":"https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg","action":"video:https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2"},
