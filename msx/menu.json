@@ -1,9 +1,9 @@
 {
   "headline": "Media Station X - Content",
   "menu": [
-    {"icon": "movie", "label": "List of Movies/Videos",
+    {"icon": "movie", "label": "Main List",
      "data": {
-       "type": "list", "headline": "List of Movies/Videos",
+       "type": "pages", "type_": "pages|list", "headline": "List1",
        "template": {          
           "type": "separate", "layout": "0,0,1,1", "color": "msx-glass",
           "iconSize": "small", "icon": "msx-white-soft:movie"
@@ -15,10 +15,30 @@
           {"title":"CNA","image":"https://i.imgur.com/xWglicB.png","action":"video:https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"},
           {"title":"NHK","image":"https://i.imgur.com/TDCuUDs.png","action":"video:https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8"},
           {"title":"DW","image":"https://i.imgur.com/A1xzjOI.png","action":"video:https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"},
+          {"title":"Al Jazeera English Ⓢ","image":"https://i.imgur.com/BB93NQP.png","action":"video:https://live-hls-web-aje.getaj.net/AJE/05.m3u8"},
+          {"title":"BBC News (International)","image":"https://i.imgur.com/joD38lo.png","action":"video:https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"},
+          {"title":"TRT World","image":"https://i.imgur.com/JEA2xpv.png","action":"video:https://tv-trtworld.medya.trt.com.tr/master.m3u8"},
+          {"title":"KBS World","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png","action":"video:https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8"},
+          {"title":"*澳門Macau 衛星頻道 Ch.96","image":"https://i.imgur.com/oFPUZ97.png","action":"video:https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8"},
+          {"title":"FTV News (民視新聞台)","image":"https://i.imgur.com/j9Gebr5.png","action":"video:http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8"},
+          {"title":"Taiwan Plus","image":"https://i.imgur.com/SfcZyqm.png","action":"video:https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"},
+          {"title":"ABC News 24 (AU)","image":"https://i.imgur.com/GpgrYCb.png","action":"video:https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8"},
+          {"title":"ABC News (USA)","image":"https://i.imgur.com/7sJLzKi.png","action":"video:https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"},
+          {"title":"History Hit","image":"https://image.roku.com/developer_channels/prod/9f47f6e9e073f90dda50841afe557a29b9e6a1c7bcf5470fe9e3bbd6b07ac275.png","action":"video:https://timeline-samsung-uk.amagi.tv/playlist.m3u8"},
+          {"title":"PBS KET World","image":"https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png","action":"video:https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8"},
+          {"title":"Maryland Public TV (PBS)","image":"https://image.pbs.org/bento3-prod/mpt-bento-live-pbs/main/16a2473dc6_mpt_header_logo_medium3.png","action":"video:https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8"},
+          {"title":"Space Shower TV","image":"https://i.imgur.com/PjjkT9P.png","action":"video:http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26"},
+          {"title":"澳門蓮花衛視","image":"https://sendcv.me/SendCVUpload/Logo/5758/2022060614460040355.jpg","action":"video:https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8"},
+          {"title":"粤语电影2 (斗鱼)","image":"https://upload.wikimedia.org/wikipedia/en/2/29/DouYu_2023.svg","action":"video:http://epg.112114.xyz/douyu/6566671"},
+          {"title":"豆瓣电影","image":"https://bkimg.cdn.bcebos.com/pic/d000baa1cd11728b2046ed0bc3fcc3cec3fd2cab","action":"video:http://epg.112114.xyz/douyu/8770422"},
+          {"title":"Wu Tang Collection","image":"https://i.imgur.com/sz55sBl.png","action":"video:https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73"},
+          {"title":"TOEI Channel","image":"https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png","action":"video:http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27"},
+          {"title":"Mission: Impossible","image":"https://i.imgur.com/QS5lg0t.png","action":"video:https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?appVersion=0&deviceDNT=1&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0"},
+          {"title":"CSI","image":"https://i.imgur.com/xLLNEfA.png","action":"video:https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?appVersion=0&deviceDNT=1&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0"},
+          {"title":"Baywatch (SamsungTV+,UK)","image":"https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD600002XT_20230712T021143SQUARE.png_20230712021144.png","action":"video:https://d1ku2wsea2oun8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7htqzh9lvkxho/playlist.m3u8"},
           {"title":"CCTV15","image":"https://i.imgur.com/m2R60TJ.png","action":"video:http://192.168.108.75/cgi-bin/djtv.m3u?cctv15"},
           {"title":"AiFM","image":"https://upload.wikimedia.org/wikipedia/en/f/fd/Ai_FM_logo.png","action":"audio:https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac"},
-          {"title":"YouTube","image":"https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg","action":"system:samsung:launch:youtube"},
-          {"title":"YouTube.tz","image":"https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg","action":"system:tizen:launch:youtube"},
+          {"title":"YouTube","image":"https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg","action":"system:tizen:launch:111299001912"},
           {"title":"ref","action":"link:window:https://msx.benzac.de/wiki/index.php?title=Actions"}
        ]
      }
