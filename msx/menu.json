@@ -100,7 +100,7 @@
           {"title":"🏛️◎Museum TV Fast (1080p)","image":"https://i.imgur.com/zzVq7BQ.png","action":"video:https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8"}
        ]
      }
-    }，
+    },
     {"icon": "movie", "label": "Entertainment",
      "data": {
        "type": "list", "type_": "pages|list", "headline": "List3",
@@ -133,7 +133,7 @@
           {"title":"🐭◎Xtrema Retro Cartoons (360p)","image":"https://i.imgur.com/60ylWbQ.png","action":"video:https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8"}
        ]
      }
-    }，
+    },
     {"icon": "movie", "label": "漢語-中台港澳-海外",
      "data": {
        "type": "list", "type_": "pages|list", "headline": "List4",
@@ -190,7 +190,7 @@
           {"title":"◎美南電視 (STV15.3)","image":"https://scdaily.com/images/tTkalKyBNDiucOvxt03SBVuDwoi6zfg74KjYjyGH.png","action":"video:http://cdn71.liveonlineservices.com/hls/stv.m3u8"}
        ]
      }
-    }，
+    },
     {"icon": "movie", "label": "Other",
      "data": {
        "type": "list", "type_": "pages|list", "headline": "List9",
