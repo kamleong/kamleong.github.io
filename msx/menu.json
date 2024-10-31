@@ -20,6 +20,7 @@
           {"title":"TRT World","image":"https://i.imgur.com/JEA2xpv.png","action":"video:https://tv-trtworld.medya.trt.com.tr/master.m3u8"},
           {"title":"KBS World","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png","action":"video:https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8"},
           {"title":"*澳門Macau 衛星頻道 Ch.96","image":"https://i.imgur.com/oFPUZ97.png","action":"video:https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8"},
+          {"title":"TVB News Channel (無綫新聞台)","image":"https://i.imgur.com/Gwij0Fj.png","action":"video:http://nz171l122.bb60246.ctm.net:8892/bysid/83.m3u8"},
           {"title":"FTV News (民視新聞台)","image":"https://i.imgur.com/j9Gebr5.png","action":"video:http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8"},
           {"title":"Taiwan Plus","image":"https://i.imgur.com/SfcZyqm.png","action":"video:https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"},
           {"title":"ABC News 24 (AU)","image":"https://i.imgur.com/GpgrYCb.png","action":"video:https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8"},
@@ -42,6 +43,178 @@
           {"title":"📹⊙⊚◎⛢㊣八段錦 (recorded)","image":"","action":"video:https://drive.google.com/uc?export=download&id=1JwfAdIYccaoyV2LExM2cZfzNEsXypQdv&video.mp4"},
           {"title":"YouTube","image":"https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg","action":"system:tizen:launch:111299001912"},
           {"title":"ref","action":"link:window:https://msx.benzac.de/wiki/index.php?title=Actions"}
+       ]
+     }
+    },
+    {"icon": "movie", "label": "News/Info",
+     "data": {
+       "type": "list", "type_": "pages|list", "headline": "List2",
+       "template": {          
+          "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
+          "iconSize": "small", "icon": "msx-white-soft:minimize"
+       }, "items": [
+          {"title":"Astro AEC","image":"https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/astro-aec-656x388.jpg","action":"video:http://metatvpro.xyz:25461/W1045/4329/50"},
+          {"title":"Astro Awani (720p)","image":"https://i.imgur.com/dLzgBUj.png","action":"video:https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8"},
+          {"title":"◎Nusantara TV (720p)","image":"https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png","action":"video:https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8"},
+          {"title":"◎CNN Indonesia","image":"https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png","action":"video:https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_shareExt_b384000_sleng.m3u8"},
+          {"title":"◎NBT World","image":"https://yt3.googleusercontent.com/y0I78uLv24L08LpXXrch121lh-377cJKlGftIczwQv3NCrnp4BVV2cA9YiZmnFo-nXM485B0Pg=s176-c-k-c0x00ffffff-no-rj","action":"video:https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/playlist.m3u8"},
+          {"title":"TV5 HD","image":"https://vignette.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png","action":"video:https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8"},
+          {"title":"◎CH7 HD","image":"https://i.imgur.com/DcrHenu.png","action":"video:http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8"},
+          {"title":"CCTN Philippines","image":"https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png","action":"video:http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8"},
+          {"title":"Taiwan Plus","image":"https://i.imgur.com/SfcZyqm.png","action":"video:https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"},
+          {"title":"*🔭◎Al Jazeera English Ⓢ","image":"https://i.imgur.com/BB93NQP.png","action":"video:https://live-hls-web-aje.getaj.net/AJE/05.m3u8"},
+          {"title":"✗ 🔭BBC World News","image":"https://i.imgur.com/joD38lo.png","action":"video:https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"},
+          {"title":"📻◎BBC World Service (Radio)","image":"https://i.imgur.com/RYgSSHl.png","action":"audio:http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8"},
+          {"title":"📻◎NPR (Radio)","image":"","action":"audio:https://npr-ice.streamguys1.com/live.mp3"},
+          {"title":"◎Bloomberg TV Asia (720p)","image":"https://i.imgur.com/OuogLHx.png","action":"video:https://bloomberg.com/media-manifest/streams/asia.m3u8"},
+          {"title":"◎CNBC Indonesia","image":"https://static.wikia.nocookie.net/logopedia/images/1/16/CNBC_Indonesia_logo.svg","action":"video:https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_shareExt_b384000_sleng.m3u8"},
+          {"title":"*◎NHK World-Japan - 728","image":"https://i.imgur.com/TDCuUDs.png","action":"video:https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8"},
+          {"title":"◎日テレNEWS24 Ⓢ","image":"https://i.imgur.com/tVNZ0BU.png","action":"video:https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8"},
+          {"title":"*◎Arirang - 763","image":"https://i.imgur.com/RuHZ6Dx.png","action":"video:https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"},
+          {"title":"☑◎KBS World - 773","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png","action":"video:https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8"},
+          {"title":"WION (1080p)","image":"https://i.imgur.com/Wc5Z3iS.png","action":"video:https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8"},
+          {"title":"CNN News 18","image":"https://i.imgur.com/WrmeIco.png","action":"video:https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8"},
+          {"title":"☑◎TRT World - 934","image":"https://i.imgur.com/JEA2xpv.png","action":"video:https://tv-trtworld.medya.trt.com.tr/master.m3u8"},
+          {"title":"*◎ABC News 24 (AU) - 23","image":"https://i.imgur.com/GpgrYCb.png","action":"video:https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8"},
+          {"title":"☑◎ABC News - 1008","image":"https://i.imgur.com/7sJLzKi.png","action":"video:https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"},
+          {"title":"🔭◎CBS News - 1009","image":"https://i.imgur.com/nki2HDQ.png","action":"video:https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8"},
+          {"title":"✗ NBC News - 1010","image":"https://i.imgur.com/v48mMRT.png","action":"video:https://lnc-nbc-news-now.tubi.video/master.m3u8"},
+          {"title":"◎i24NEWS English","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png","action":"video:https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8"},
+          {"title":"Sky News","image":"https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20240520T223417SQUARE.png","action":"video:https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8"},
+          {"title":"GB News","image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png","action":"video:https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8"},
+          {"title":"☑Euronews English - 1050","image":"https://i.imgur.com/8MsbPCU.png","action":"video:https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/ewnsabren_eng.m3u8"},
+          {"title":"Africanews English - 1051","image":"https://i.imgur.com/xocvePC.png","action":"video:https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/afrnabren_eng.m3u8"},
+          {"title":"France 24 English - 1052","image":"https://i.imgur.com/61MSiq9.png","action":"video:https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8"},
+          {"title":"*◎DW English - 1053","image":"https://i.imgur.com/A1xzjOI.png","action":"video:https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"},
+          {"title":"☑◎CGTN English - 1055","image":"https://i.imgur.com/fMsJYzl.png","action":"video:https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"},
+          {"title":"☑◎United Nations Web TV","image":"https://photos.live-tv-channels.org/tv-logo/us-un-web-tv-6932.jpg","action":"video:https://cdnapisec.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8"},
+          {"title":"☑◎RT Doc","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png/800px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png","action":"video:https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8"},
+          {"title":"TED","image":"https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD370000134_20240319T050809SQUARE.png","action":"video:https://dfkgbxmc5k111.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f9zk7d1li5oot/playlist.m3u8"},
+          {"title":"True History (720p)","image":"https://i.imgur.com/1BHDGXx.png","action":"video:https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8"},
+          {"title":"*◎History Hit","image":"https://image.roku.com/developer_channels/prod/9f47f6e9e073f90dda50841afe557a29b9e6a1c7bcf5470fe9e3bbd6b07ac275.png","action":"video:https://timeline-samsung-uk.amagi.tv/playlist.m3u8"},
+          {"title":"Pluto TV HISTORY (240p)","image":"https://i.imgur.com/XkQD5kM.png","action":"video:https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d35dfa5c02e717a234f86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=651&terminate=false&userId="},
+          {"title":"*◎PBS KET World (480p)","image":"https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png","action":"video:https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8"},
+          {"title":"Pluto TV Smithsonian Channel Selects (720p)","image":"https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg","action":"video:https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?appVersion=0&deviceDNT=1&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0"},
+          {"title":"◎EarthxTV (720p)","image":"https://i.imgur.com/ZWWqiCb.png","action":"video:https://ov.ottera.tv/live/master.m3u8?channel=earth_et"},
+          {"title":"◎WildEarth (1080p)","image":"https://i.imgur.com/Vhv5gjN.png","action":"video:https://wildearth-roku.amagi.tv/masterR720P.m3u8"},
+          {"title":"🏛️◎Museum TV Fast (1080p)","image":"https://i.imgur.com/zzVq7BQ.png","action":"video:https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8"}
+       ]
+     }
+    }，
+    {"icon": "movie", "label": "Entertainment",
+     "data": {
+       "type": "list", "type_": "pages|list", "headline": "List3",
+       "template": {          
+          "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
+          "iconSize": "small", "icon": "msx-white-soft:minimize"
+       }, "items": [
+          {"title":"◎Go USA","image":"https://i.imgur.com/x90ALip.png","action":"video:https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8"},
+          {"title":"🏖◎TravelXP","image":"https://i.imgur.com/NZkPH1N.png","action":"video:https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8"},
+          {"title":"📻◎Beautiful Instrumentals Channel (Radio)","image":"","action":"audio:http://hydra.cdnstream.com/1822_128"},
+          {"title":"Stingray Classica","image":"https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA400005W4_20240313T064721SQUARE.png","action":"video:https://d2rg1zjopmd8xe.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ckvi539nbqdvf/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"},
+          {"title":"Ʊ🎶🎼 ◎Classic Arts Showcase","image":"https://i.imgur.com/M6FFkc3.png","action":"video:https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8"},
+          {"title":"Stingray Easy Listening","image":"https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200030YP_20240611T050143SQUARE.png","action":"video:https://ddvww1tcdlyrp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-18s6gls8lym14/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8"},
+          {"title":"Stingray Smooth Jazz","image":"https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200031NL_20240227T221218SQUARE.png_20240227221219.png","action":"video:https://d7dwykp2dcps0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vdletsupqql6k/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8"},
+          {"title":"◎Spirit TV","image":"https://i.ibb.co/gy6ZJrj/SPIRIT-TV.png","action":"video:https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8"},
+          {"title":"Space Shower TV (544p)","image":"https://i.imgur.com/PjjkT9P.png","action":"video:http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26"},
+          {"title":"◎Redbox 1: Spotlight (1080p)","image":"https://i.imgur.com/OrGCnPg.jpg","action":"video:https://spotlight-redbox.amagi.tv/playlist.m3u8"},
+          {"title":"◎Pluto TV Spotlight (684p)","image":"https://i.imgur.com/UmuJkVB.png","action":"video:https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=51&terminate=false&userId="},
+          {"title":"◎Pluto TV Action (684p)","image":"https://i.imgur.com/tDapGal.png","action":"video:https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=561d7d484dc7c8770484914a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=54&terminate=false&userId="},
+          {"title":"*🎬◎Action Hollywood Movies","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuPIZK7XATqAXcivrau2YtJG4-YKgJK7mRg&usqp=CAU","action":"video:https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8"},
+          {"title":"◎Wu Tang Collection (720p)","image":"https://i.imgur.com/sz55sBl.png","action":"video:https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73"},
+          {"title":"TOEI Channel","image":"https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png","action":"video:http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27"},
+          {"title":"Pluto TV The Amazing Race (720p)","image":"https://i.imgur.com/5yzPhRo.png","action":"video:https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f21e8a6e2f12b000755afdb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=297&terminate=false&userId="},
+          {"title":"Pluto TV Mission: Impossible (720p)","image":"https://i.imgur.com/QS5lg0t.png","action":"video:https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"},
+          {"title":"Pluto TV CSI (720p)","image":"https://i.imgur.com/xLLNEfA.png","action":"video:https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5efbd29e4aa26700076c0d06&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=355&terminate=false&userId="},
+          {"title":"Baywatch","image":"https://i.imgur.com/c2esKHg.png","action":"video:https://jmp2.uk/sam-USBA2000001BR.m3u8"},
+          {"title":"Baywatch (SamsungTV+,UK)","image":"https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD600002XT_20230712T021143SQUARE.png_20230712021144.png","action":"video:https://d1ku2wsea2oun8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7htqzh9lvkxho/playlist.m3u8"},
+          {"title":"✗ ☑HITS (576p)curl","image":"https://i.imgur.com/IM8Gy1l.png","action":"video:https://z88.ubtvfans.com/live/rx4/2972/e12aa1dd305abecb286f982ab4646c34/index.m3u8"},
+          {"title":"🦸◎RetroCrush TV (1080p)","image":"https://play-lh.googleusercontent.com/0sGC_MLday5uTDFA7x0gzd2UUPTqex4P7XP1YCE2GGJsl8opuFNqdbywH-cqXo0iPWA=w240-h480","action":"video:https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/cb543d1f7e6c648d9fd43e6fd9ef42a5f9701fde1d6988693eb5518975d1073184bdfad39112b12d148f57d667656b555677895fd47d01cec07ab1414329442fc587b07bd8991208b2d91f5c73f12f480eb61114d1204d229bad425fd538b67c514aa55b3c0633c0ec58f8234f94d102da627cdeff8b6738750c5fcd555def9b6497a8b51d07fa5f9b801c42b4157fa2c12d899645fdd18712bc70bc47f11ebea8ccdc8750c0e9c23cf714e73a1d2a4117f8d04b86a32fde0f196043fe5c11047678e7af92e75d3587352c369adef8cfae7b8eacf341a0733eba7af3270fb08319cf22b2ea5bb0efd4b79bc230d6a60b305dc5cfaf82f42779da0c9efabb8e232ccbb17c2a3606285cc1d59506a2b2c5b4c8ef810a1aa5fe183c2bc9900ab088b38fee8fa15f9135dfd5ce8e5764636c1e0b8a51a3d53895799d30909f427a1c614da38f4d849e81080f341bddc04cc2494ae982c5d3964e1ccf631055a732890a553c9d643d3cc324eb9f3a6391695bd46073ab2a52ea27d0b122e0bfa1a66c5c98d1dd4bf363eecf65f4ff10ac6b334142feb200564b5965928942082372d74af4d9a8b4276c6c59a4aa8ce8f8098113ebe71d8630/50/1920x1080_4715744/index.m3u8"},
+          {"title":"🐭◎Xtrema Retro Cartoons (360p)","image":"https://i.imgur.com/60ylWbQ.png","action":"video:https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8"}
+       ]
+     }
+    }，
+    {"icon": "movie", "label": "漢語-中台港澳-海外",
+     "data": {
+       "type": "list", "type_": "pages|list", "headline": "List4",
+       "template": {          
+          "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
+          "iconSize": "small", "icon": "msx-white-soft:minimize"
+       }, "items": [
+          {"title":"✗ *台灣公視","image":"https://i.imgur.com/R9hwOZx.png","action":"video:http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0"},
+          {"title":"☑◎優視頻道","image":"http://www.uchanneltv.us/uploads/7/6/2/5/76251585/uchannel-tv-logo-update-v2.jpg","action":"video:https://2-fss-2.streamhoster.com/pl_118/200734-1199190-1/playlist.m3u8"},
+          {"title":"☑◎好消息","image":"https://i.imgur.com/k28Kc3o.png","action":"video:https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8"},
+          {"title":"☑◎DaAi1 (大愛1) (720p)","image":"https://i.imgur.com/KdJi9af.png","action":"video:https://pulltv1.wanfudaluye.com/live/tv1.m3u8"},
+          {"title":"☑◎人間衛視","image":"http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png","action":"video:https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8"},
+          {"title":"◎RTHK 港台電視31 綜合頻道","image":"https://i.imgur.com/kf818kM.png","action":"video:https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8"},
+          {"title":"HKIBC 香港國際財經台(有線76台)","image":"https://i.imgur.com/jaIdkbz.png","action":"video:https://z88.ubtvfans.com/live/rx1/354/e2ebb99d1a004b25246d5311e7a0c278/index.m3u8"},
+          {"title":"✗ HOY TV - 78台 (資訊台)","image":"https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18010434/fav_icon-1.png","action":"video:https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8"},
+          {"title":"✗ ☑HOY TV - 77台","image":"https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18010434/fav_icon-1.png","action":"video:http://51.89.21.73:27347/livehttpplay?channel_id=20152"},
+          {"title":"TVB News Channel (無綫新聞台)","image":"https://i.imgur.com/Gwij0Fj.png","action":"video:http://nz171l122.bb60246.ctm.net:8892/bysid/83.m3u8"},
+          {"title":"✗ 📺TVB Jade (翡翠台) (720p)","image":"https://static.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png","action":"video:https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8"},
+          {"title":"*◎澳門Macau 衛星頻道 Ch.96","image":"https://i.imgur.com/oFPUZ97.png","action":"video:https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8"},
+          {"title":"✗ *PTS News (公視新聞)","image":"https://news.pts.org.tw/images/logo.svg","action":"video:https://sc2022.stream-link.org/tv2306.php?id=t29"},
+          {"title":"TVBS News (TVBS新聞台)","image":"https://i.imgur.com/171lwfg.png","action":"video:http://38.64.72.148/hls/modn/list/4006/playlist.m3u8"},
+          {"title":"TTV News (台視新聞台)","image":"https://i.imgur.com/AfkK0gv.png","action":"video:http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8"},
+          {"title":"FTV News (民視新聞台)","image":"https://i.imgur.com/j9Gebr5.png","action":"video:http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8"},
+          {"title":"EBC News (東森新聞台)","image":"https://i.imgur.com/QFZs80p.png","action":"video:http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11"},
+          {"title":"Taiwan News (寰宇新聞 台灣台)","image":"https://i.imgur.com/oYUjEle.png","action":"video:https://sc2022.stream-link.org/tv2306.php?id=t09"},
+          {"title":"Taiwan Plus","image":"https://i.imgur.com/SfcZyqm.png","action":"video:https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"},
+          {"title":"✗ CCTV-1 综合 Ⓢ - 110","image":"https://i.imgur.com/uHU6Vc0.png","action":"video:https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8"},
+          {"title":"☑◎CGTN English - 1055","image":"https://i.imgur.com/fMsJYzl.png","action":"video:https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"},
+          {"title":"☑◎CCTV-4 中文国际（美） Ⓢ","image":"https://i.imgur.com/1TPiRqR.png","action":"video:https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8"},
+          {"title":"CCTV-4 中文国际（亚）","image":"https://i.imgur.com/ovUSVEQ.png","action":"video:https://edge2.laotv.la/live/CCTV4A/sc-gaFECQ/index.m3u8"},
+          {"title":"✗ *𝄞CCTV-15音乐 (720p)","image":"https://i.imgur.com/m2R60TJ.png","action":"video:http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/57/index.m3u8?&encrypt="},
+          {"title":"◎面包台","image":"https://breadradioonline.com/uploads/allimg/171009/1-1G009125F9460.jpg","action":"video:https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"},
+          {"title":"*澳門蓮花衛視","image":"https://sendcv.me/SendCVUpload/Logo/5758/2022060614460040355.jpg","action":"video:https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8"},
+          {"title":"粤语电影2 (斗鱼)","image":"https://upload.wikimedia.org/wikipedia/en/2/29/DouYu_2023.svg","action":"video:http://epg.112114.xyz/douyu/6566671"},
+          {"title":"🎬豆瓣电影","image":"https://bkimg.cdn.bcebos.com/pic/d000baa1cd11728b2046ed0bc3fcc3cec3fd2cab","action":"video:http://epg.112114.xyz/douyu/8770422"},
+          {"title":"📻◎佛山电台 (Radio)","image":"","action":"video:https://play.radiofoshan.com.cn/live/1400389414_BSID_46_audio.m3u8"},
+          {"title":"☑◎FTV房山电视台","image":"https://i.imgur.com/YyYArWr.png","action":"video:https://live.funhillrm.com/2/sd/live.0m3u8"},
+          {"title":"☑◎BRTV新闻","image":"https://p3.toutiaoimg.com/origin/user-avatar/93ca5d763dd7b1ed7339be3571d32c3b","action":"video:http://live.funhillrm.com/5/sd/live.m3u8"},
+          {"title":"东方卫视","image":"https://i.imgur.com/WqM6xnF.png","action":"video:https://pull-f5-spe.ixigua.com/live/YesLiveTV-09f423d7-c083-4fca-93e9-1e8d2e0f14b0/index.m3u8?by=yeslivetv.com"},
+          {"title":"大湾区卫视","image":"http://live.cooltv.top/logo/dwq.png","action":"video:http://38.64.72.148:80/hls/modn/list/4011/chunklist0.m3u8"},
+          {"title":"◎南京少儿","image":"https://www.tvchinese.net/uploads/tv/njsepd.jpg","action":"video:http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8"},
+          {"title":"◎南京新闻综合","image":"https://www.tvchinese.net/uploads/tv/njxwzh.jpg","action":"video:http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8"},
+          {"title":"◎上虞1新闻综合 (720p) [Not 24/7]","image":"http://www.tvyan.com/uploads/dianshi/syxwzh.jpg","action":"video:http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8"},
+          {"title":"◎上虞3新商都 (720p) [Not 24/7]","image":"http://www.tvyan.com/uploads/dianshi/syxsd.jpg","action":"video:http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8"},
+          {"title":"◎余姚1新闻综合 (576p)","image":"https://w7.pngwing.com/pngs/113/282/png-transparent-logo-china-central-television-television-channel-local-tv-station-icon-television-blue-angle.png","action":"video:http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8"},
+          {"title":"◎松桃新闻","image":"https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8b/e7/ae/8be7ae1e-f01e-7a27-33a1-9d62df96bf8f/source/512x512bb.jpg","action":"video:http://live.strmtzx.cn/stxw/sd/live.m3u8"},
+          {"title":"◎三明1新闻综合 (720p) [Not 24/7]","image":"https://www.xhzb.tw/uploads/18/1-1P31QK413W7.jpg","action":"video:http://stream.smntv.cn/smtv1/playlist.m3u8"},
+          {"title":"◎三明2公共 (720p) [Not 24/7]","image":"https://www.xhzb.tw/uploads/allimg/18/1-1P31QK3180-L.jpg","action":"video:http://stream.smntv.cn/smtv2/playlist.m3u8"},
+          {"title":"◎云南文山新闻综合台 (1080p) [Not 24/7]","image":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaySPgvUEjNuOZv1NCAOKsZrH5PhmtW7dxxnvv4OgyrQLv5STm","action":"video:http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv"},
+          {"title":"ETTV America (東森美洲電視)","image":"https://www.ebc.net.tw/Images/169-america.jpg","action":"video:http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8"},
+          {"title":"◎美国中文电视 (406p) [Not 24/7]","image":"https://i.imgur.com/ir3jkyL.png","action":"video:https://cdnts.sinovision.net/livestream.m3u8"},
+          {"title":"SinoTV 華語電視 (LA)","image":"https://d1pv4des13xhh9.cloudfront.net/prod/sized/17448/128x128.png","action":"video:http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8"},
+          {"title":"SinoTV 華語電視 (NY) 粤語","image":"https://d1pv4des13xhh9.cloudfront.net/prod/sized/17444/128x128.png","action":"video:http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8"},
+          {"title":"◎美南電視 (STV15.3)","image":"https://scdaily.com/images/tTkalKyBNDiucOvxt03SBVuDwoi6zfg74KjYjyGH.png","action":"video:http://cdn71.liveonlineservices.com/hls/stv.m3u8"}
+       ]
+     }
+    }，
+    {"icon": "movie", "label": "Other",
+     "data": {
+       "type": "list", "type_": "pages|list", "headline": "List9",
+       "template": {          
+          "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
+          "iconSize": "small", "icon": "msx-white-soft:minimize"
+       }, "items": [
+          {"title":"◎PBS Kids","image":"https://i.imgur.com/EvrI7lk.png","action":"video:https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"},
+          {"title":"Maryland Public TV (PBS)","image":"https://image.pbs.org/bento3-prod/mpt-bento-live-pbs/main/16a2473dc6_mpt_header_logo_medium3.png","action":"video:https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8"},
+          {"title":"☑◎Victor Valley TV","image":"https://i.imgur.com/zgiuNNj.png","action":"video:https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8"},
+          {"title":"◎WPS TV (360p)","image":"https://i.imgur.com/zwzmwse.jpg","action":"video:https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"},
+          {"title":"◎WCVB-TV News Boston MA (720p) [Not 24/7]","image":"https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png","action":"video:https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8"},
+          {"title":"◎CBS News Baltimore (720p)","image":"https://i.imgur.com/jy3UfCe.png","action":"video:https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8"},
+          {"title":"WFTX News Fort Myers FL (720p)","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png","action":"video:https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8"},
+          {"title":"WPTV News West Palm Beach FL (720p)","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png","action":"video:https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8"},
+          {"title":"ABC Localish Bay Area (720p)","image":"https://i.imgur.com/ACEbGD5.png","action":"video:https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Localish.m3u8"},
+          {"title":"◎C31 Melbourne","image":"https://c31.org.au/wp-content/uploads/2019/06/C31-Logo-White-New.png","action":"video:https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8"},
+          {"title":"◎C44 Adelaide","image":"https://ctvplus-web-media.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2023/03/27192715/C44-logo.png","action":"video:https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8"},
+          {"title":"📁 📖 iptv-org","image":"","action":"video:https://kamleong.github.io/iptv-org.category.m3u"},
+          {"title":"📁 📖 Free-TV","image":"","action":"video:https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8?x=playlist.m3u"},
+          {"title":"Local Proxy (CGI-cURL-sed)","image":"","action":"video:http://192.168.175.1/cgi-bin/stream.m3u"},
+          {"title":"Local Restream (Nginx-HLS-RTMP-FFmpeg)","image":"","action":"video:http://192.168.175.192:8080/hls/stream.m3u8"},
+          {"title":"📹☼☉︎☯太極氣功 (recorded)","image":"","action":"video:https://drive.google.com/uc?export=download&id=1E0oqhdYU3JAT7lPFt9k37tb-OQMggWry&video.mp4"},
+          {"title":"📹⊙⊚◎⛢㊣八段錦 (recorded)","image":"","action":"video:https://drive.google.com/uc?export=download&id=1JwfAdIYccaoyV2LExM2cZfzNEsXypQdv&video.mp4"}         
        ]
      }
     }
