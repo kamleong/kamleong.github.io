@@ -1,5 +1,5 @@
 {
-  "headline": "Media Station X - Content",
+  "headline": "Content",
   "menu": [
     {"icon": "movie", "label": "Main List",
      "data": {
@@ -105,7 +105,7 @@
      "data": {
        "type": "list", "type_": "pages|list", "headline": "List3",
        "template": {          
-          "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
+          "type": "separate", "layout": "0,0,2,2", "layout_": "x,y,w,h", "color": "msx-glass",
           "iconSize": "small", "icon": "msx-white-soft:minimize"
        }, "items": [
           {"title":"◎Go USA","image":"https://i.imgur.com/x90ALip.png","action":"video:https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8"},
@@ -134,7 +134,7 @@
        ]
      }
     },
-    {"icon": "movie", "label": "漢語-中台港澳-海外",
+    {"icon": "movie", "label": "中華", "label_": "漢語-中台港澳-海外",
      "data": {
        "type": "list", "type_": "pages|list", "headline": "List4",
        "template": {          
