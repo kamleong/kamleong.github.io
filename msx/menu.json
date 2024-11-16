@@ -138,7 +138,7 @@
           "iconSize": "small", "icon": "msx-white-soft:minimize"
        }, "items": [
           {"title":"Taiwan Plus","image":"https://i.imgur.com/SfcZyqm.png","action":"video:https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"},
-          {"title":"✗ *台灣公視","image":"https://i.imgur.com/R9hwOZx.png","action":"video:http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8505/.m3u8"},
+          {"title":"✗ *台灣公視","image":"https://i.imgur.com/R9hwOZx.png","action":"video:http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0"},
           {"title":"小公視","image":"https://ptsxs.pts.org.tw/uploads/site/site_logo/6687c1fe3673764c1c8c8bcb/PTSlogoXS.png","action":"video:https://stream1.freetv.fun/f415852174b30f1fc43d85ce4bf9347586de6f2d688ba1fe1a4095a9db20dcdd.m3u8"},
           {"title":"☑◎優視頻道","image":"http://www.uchanneltv.us/uploads/7/6/2/5/76251585/uchannel-tv-logo-update-v2.jpg","action":"video:https://2-fss-2.streamhoster.com/pl_118/200734-1199190-1/playlist.m3u8"},
           {"title":"☑◎好消息","image":"https://i.imgur.com/k28Kc3o.png","action":"video:https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8"},
