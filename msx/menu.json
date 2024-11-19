@@ -51,7 +51,7 @@
           "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
           "iconSize": "small", "icon": "msx-white-soft:minimize"
        }, "items": [
-          {"title":"Astro AEC","image":"https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/astro-aec-656x388.jpg","action":"video:http://metatvpro.xyz:25461/W1045/4329/50"},
+          {"title":"Astro AEC","image":"https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/astro-aec-656x388.jpg","action":"link:window:https://www.tvmalaysia.live/channel/astro-aec"},
           {"title":"Astro Awani (720p)","image":"https://i.imgur.com/dLzgBUj.png","action":"video:https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8"},
           {"title":"◎Nusantara TV (720p)","image":"https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png","action":"video:https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8"},
           {"title":"◎CNN Indonesia","image":"https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png","action":"video:https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_shareExt_b384000_sleng.m3u8"},
