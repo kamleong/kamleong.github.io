@@ -20,7 +20,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
 #https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
 #https://live-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8
 # -EXTINF:-1 tvg-id="8TV.my" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="Malaysia",8TV (720p) [Geo-blocked]
-#web# https://www.tonton.com.my/liveChannel?titleId=8tv
+#web# https://www.tonton.com.my/liveChannel?titleId=8tv | https://www.tvmalaysia.live/channel/tv8
 #https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
 #https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
 https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
@@ -113,6 +113,10 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #https://pull-f5-spe.ixigua.com/yeslivetv.com/399e061f-ba37-4f8e-a57f-5153db9559a6/index.m3u8?by=yeslivetv.com
 #http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
 http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
+#
+#EXTINF:-1 tvg-id="小公视" tvg-id0="PTSXS.tw" tvg-logo="https://ptsxs.pts.org.tw/uploads/site/site_logo/6687c1fe3673764c1c8c8bcb/PTSlogoXS.png" group-title="Taiwan",小公視
+#web# https://ptsxs.pts.org.tw/ | https://www.ptsplus.tv/zh/streaming
+https://stream1.freetv.fun/f415852174b30f1fc43d85ce4bf9347586de6f2d688ba1fe1a4095a9db20dcdd.m3u8
 #
 # -EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" tvg-logo="https://i.imgur.com/QqIdVqz.png" group-title="Taiwan",Taiwan Indigenous TV (原住民電視) (720p)
 # http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
