@@ -102,7 +102,7 @@
      "data": {
        "type": "list", "type_": "pages|list", "headline": "List3",
        "template": {          
-          "type": "separate", "layout": "0,0,2,2", "layout_": "x,y,w,h", "color": "msx-glass",
+          "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
           "iconSize": "small", "icon": "msx-white-soft:minimize"
        }, "items": [
           {"title":"◎Go USA","image":"https://i.imgur.com/x90ALip.png","action":"video:https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8"},
@@ -117,6 +117,7 @@
           {"title":"◎Pluto TV Spotlight (684p)","image":"https://i.imgur.com/UmuJkVB.png","action":"video:https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=51&terminate=false&userId="},
           {"title":"◎Pluto TV Action (684p)","image":"https://i.imgur.com/tDapGal.png","action":"video:https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=561d7d484dc7c8770484914a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=54&terminate=false&userId="},
           {"title":"*🎬◎Action Hollywood Movies","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuPIZK7XATqAXcivrau2YtJG4-YKgJK7mRg&usqp=CAU","action":"video:https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8"},
+          {"title":"Dunia Sinema HD","image":"https://i.postimg.cc/XqBwckyb/dunia-sinema.png","action":"video:https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8"},
           {"title":"澳門蓮花衛視","image":"https://sendcv.me/SendCVUpload/Logo/5758/2022060614460040355.jpg","action":"video:http://php.jdshipin.com:8880/amlh.php"},
           {"title":"粤语电影2 (斗鱼)","image":"https://upload.wikimedia.org/wikipedia/en/2/29/DouYu_2023.svg","action":"video:http://epg.112114.xyz/douyu/6566671"},
           {"title":"豆瓣电影","image":"https://bkimg.cdn.bcebos.com/pic/d000baa1cd11728b2046ed0bc3fcc3cec3fd2cab","action":"video:http://epg.112114.xyz/douyu/8770422"},
