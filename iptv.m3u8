@@ -632,21 +632,21 @@ http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/57/index.m3u8?&e
 #EXTINF:-1 tvg-id="BreadTV.hk" tvg-logo="https://breadradioonline.com/uploads/allimg/171009/1-1G009125F9460.jpg" group-title="Hong Kong;Entertainment",◎面包台
 #web# https://breadradioonline.com/
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 tvg-id="LotusTV.mo" tvg-logo="https://sendcv.me/SendCVUpload/Logo/5758/2022060614460040355.jpg" group-title="Macau;Entertainment",*澳門蓮花衛視
-#web# http://www.macaulotustv.cc/
-#http://anren.live/HK/BiIOU11uLA.m3u8
-#http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
-#https://z88.ubtvfans.com/live/rx1/70/4f5d1beff287c563c64c30e7f7fc5729/index.m3u8
-#https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
-http://php.jdshipin.com:8880/amlh.php
+# -EXTINF:-1 tvg-id="LotusTV.mo" tvg-logo="https://sendcv.me/SendCVUpload/Logo/5758/2022060614460040355.jpg" group-title="Macau;Entertainment",*澳門蓮花衛視
+# web# http://www.macaulotustv.cc/
+# http://anren.live/HK/BiIOU11uLA.m3u8
+# http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
+# https://z88.ubtvfans.com/live/rx1/70/4f5d1beff287c563c64c30e7f7fc5729/index.m3u8
+# https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+# http://php.jdshipin.com:8880/amlh.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/f11f3a292df5e0fe9925c2ab5d3923a85edf8db1d45a" group-title="HongKong;Movies",美亚电影台(粤语)
 http://go1.bkpcp.top/tl/null-5
 # -EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/DouYu_2023.svg" group-title="China;Movies",粤语电影 (斗鱼)
 # web# https://www.douyu.com/g_yqk | https://www.douyu.com/6566671 | http://epg.112114.xyz/douyu/6566671
 # http://epg.112114.xyz/douyu/1226741
-#EXTINF:-1 tvg-id="douban.cn" tvg-logo="https://bkimg.cdn.bcebos.com/pic/d000baa1cd11728b2046ed0bc3fcc3cec3fd2cab" group-title="China;Movies",🎬豆瓣电影
-#web# https://www.douyu.com/g_yqk | https://www.douyu.com/8770422
-http://epg.112114.xyz/douyu/8770422
+# -EXTINF:-1 tvg-id="douban.cn" tvg-logo="https://bkimg.cdn.bcebos.com/pic/d000baa1cd11728b2046ed0bc3fcc3cec3fd2cab" group-title="China;Movies",🎬豆瓣电影
+# web# https://www.douyu.com/g_yqk | https://www.douyu.com/8770422
+# http://epg.112114.xyz/douyu/8770422
 # -EXTINF:-1 tvg-id="XingKong.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" group-title="China;Entertainment",✗ 星空卫视
 # http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
 # http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=683118&extension=ts
@@ -659,10 +659,11 @@ http://epg.112114.xyz/douyu/8770422
 #http://hms424nc1972679598.live.aikan.miguvideo.com/...
 #http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=
 #
-# -EXTINF:-1 tvg-id="CM.hk" tvg-logo="http://www.tvyan.com/uploads/dianshi/celestialmovies.jpg" group-title="Hong Kong;Movies",Celestial Movies 天映頻道 (普) (Indonesian Subtitle)
+#EXTINF:-1 tvg-id="CM.hk" tvg-logo="http://www.tvyan.com/uploads/dianshi/celestialmovies.jpg" group-title="Hong Kong;Movies",Celestial Movies 天映頻道 (普)
 # http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=941618&extension=ts
 # http://210.210.155.37/session/6883312c-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h14/01.m3u8
-# http://210.210.155.37/dr9445/h/h14/index.m3u8
+# http://210.210.155.37/dr9445/h/h14/index.m3u8 (Indonesian Subtitle)
+http://php.jdshipin.com/smt.php?id=Celestial
 # -EXTINF:-1 tvg-id="HBOHD.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" group-title="USA;Movies",HBO HD (台灣)
 # schedule# http://www.niotv.com/i_index.php?cont=day&ch_id=629&chgrp_id=4
 # https://edge1.laotv.la/live/HBO/index.m3u8
@@ -673,8 +674,8 @@ http://epg.112114.xyz/douyu/8770422
 # https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 # -EXTINF:-1 tvg-id="TVSDriveInMovie.us" tvg-logo="https://i.imgur.com/OR9APjb.png" group-title="USA;Movies",TVS Drive-In Movie (360p)
 # https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
-#EXTINF:-1 tvg-id="RedboxSpotlight.us" tvg-logo="https://i.imgur.com/OrGCnPg.jpg" group-title="USA;Movies",◎Redbox 1: Spotlight (1080p)
-https://spotlight-redbox.amagi.tv/playlist.m3u8
+# -EXTINF:-1 tvg-id="RedboxSpotlight.us" tvg-logo="https://i.imgur.com/OrGCnPg.jpg" group-title="USA;Movies",◎Redbox 1: Spotlight (1080p)
+# https://spotlight-redbox.amagi.tv/playlist.m3u8
 #
 # -EXTINF:-1 tvg-id="MyCinema.id" tvg-logo="https://i.imgur.com/BTmcTQO.png" group-title="Indonesia;Movies",My Cinema (1080p)
 # http://210.210.155.37/uq2663/h/h192/index.m3u8
@@ -716,8 +717,9 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 # http://103.36.32.14:5002/cs27.m3u8?token=guoziyun&gid=cs27&channel=zhongying
 # http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=7
 #
-# -EXTINF:-1 tvg-id="CCM.hk" tvg-logo="https://i.imgur.com/1VhXilw.png" group-title="Hong Kong;Movies",Celestial Classic 天映經典 (Indonesian Subtitle)
-# http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+#EXTINF:-1 tvg-id="CCM.hk" tvg-logo="https://i.imgur.com/1VhXilw.png" group-title="Hong Kong;Movies",Celestial Classic 天映經典
+#http://210.210.155.37/qwr9ew/s/s31/index.m3u8  (Indonesian Subtitle)
+http://php.jdshipin.com/smt.php?id=Celestial2
 # -EXTINF:-1 tvg-id="GospelMovieTV.br" tvg-logo="https://i.imgur.com/cQN3nWt.png" group-title="Brazil;Movies;Religious",◎Gospel Movie TV (360p)
 # https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 # -EXTINF:-1 tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="Switzerland;Movies",◎Sofy.tv (720p) - Short Films
