@@ -21,6 +21,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
 #https://live-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8
 # -EXTINF:-1 tvg-id="8TV.my" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="Malaysia",8TV (720p) [Geo-blocked]
 #web# https://www.tonton.com.my/liveChannel?titleId=8tv | https://www.tvmalaysia.live/channel/tv8
+#iptv-org# https://iptv-org.github.io/channels/my/8TV
 #https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/cmaf-audio_0=96000.m3u8
 #https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
 #https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
@@ -367,8 +368,10 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 # https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="Korea",☑◎KBS World - 773
 #web# https://world.kbs.co.kr/service/index.htm?lang=e
+#iptv-org# https://iptv-org.github.io/channels/kr/KBSWorld
 #http://ye23.vip/z7z8/2021/kbs2020.php?id=3
-https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+#https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="News",WION (1080p)
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="CNNNews18.in" tvg-logo="https://i.imgur.com/WrmeIco.png" group-title="News",CNN News 18
