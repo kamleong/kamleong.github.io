@@ -639,7 +639,7 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 # https://z88.ubtvfans.com/live/rx1/70/4f5d1beff287c563c64c30e7f7fc5729/index.m3u8
 # https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 # http://php.jdshipin.com:8880/amlh.php
-#EXTINF:-1 tvg-id="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/f11f3a292df5e0fe9925c2ab5d3923a85edf8db1d45a" group-title="HongKong;Movies",美亚电影台(粤语)
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.tiantianzhibo.net/tv/meiyadianying.jpg" group-title="HongKong;Movies",美亚电影台(粤语)
 http://go1.bkpcp.top/tl/null-5
 # -EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/DouYu_2023.svg" group-title="China;Movies",粤语电影 (斗鱼)
 # web# https://www.douyu.com/g_yqk | https://www.douyu.com/6566671 | http://epg.112114.xyz/douyu/6566671
@@ -833,12 +833,12 @@ https://play.radiofoshan.com.cn/live/1400389414_BSID_46_audio.m3u8
 # -EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",佛山公共 (576p)
 # http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=182&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 #
-#EXTINF:-1 tvg-name="FangshanTV" tvg-id="FangshanTV.cn" tvg-logo="https://i.imgur.com/YyYArWr.png" group-title="China;Local",☑◎FTV房山电视台
-#https://live.funhillrm.com/2/playlist.m3u8
-https://live.funhillrm.com/2/sd/live.0m3u8
-#EXTINF:-1 tvg-name="BRTV-News" tvg-logo="https://p3.toutiaoimg.com/origin/user-avatar/93ca5d763dd7b1ed7339be3571d32c3b" group-title="China;Local",☑◎BRTV新闻
-#北京广播电视台新闻频道 Beijing Radio and Television Station
-http://live.funhillrm.com/5/sd/live.m3u8
+# -EXTINF:-1 tvg-name="FangshanTV" tvg-id="FangshanTV.cn" tvg-logo="https://i.imgur.com/YyYArWr.png" group-title="China;Local",☑◎FTV房山电视台
+# https://live.funhillrm.com/2/playlist.m3u8
+# https://live.funhillrm.com/2/sd/live.0m3u8
+# -EXTINF:-1 tvg-name="BRTV-News" tvg-logo="https://p3.toutiaoimg.com/origin/user-avatar/93ca5d763dd7b1ed7339be3571d32c3b" group-title="China;Local",☑◎BRTV新闻
+# 北京广播电视台新闻频道 Beijing Radio and Television Station
+# http://live.funhillrm.com/5/sd/live.m3u8
 # -EXTINF:-1 tvg-name="CETV-3" tvg-logo="https://i.imgur.com/t8o5ZKt.png" tvg-id="CETV3.cn" group-title="China",◎CETV-3 北京地面频道
 # http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 # -EXTINF:-1 tvg-name="BeijingSatelliteTV" tvg-id="BeijingSatelliteTV.cn" tvg-logo="https://i.imgur.com/vsktAez.png" group-title="China;Local",北京卫视
@@ -883,14 +883,14 @@ http://38.64.72.148:80/hls/modn/list/4011/chunklist0.m3u8
 # http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
 # -EXTINF:-1 tvg-id="南京娱乐" tvg-name="NBS-Ent" tvg-logo="" group-title="China;Local;Entertainment",◎南京娱乐 (720p)
 # http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="南京少儿" tvg-name="NBS-Kids" tvg-logo="https://www.tvchinese.net/uploads/tv/njsepd.jpg" group-title="China;Local",◎南京少儿
-http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+# -EXTINF:-1 tvg-id="南京少儿" tvg-name="NBS-Kids" tvg-logo="https://www.tvchinese.net/uploads/tv/njsepd.jpg" group-title="China;Local",◎南京少儿
+# http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 # -EXTINF:-1 tvg-id="南京生活" tvg-name="NBS-Life" tvg-logo="" group-title="China;Local",◎南京生活 (720p)
 # http://live.nbs.cn/channels/njtv/shpd/nbs06.m3u8
 # -EXTINF:-1 tvg-id="南京教科" tvg-name="NBS-Edu" tvg-logo="" group-title="China;Local",◎南京教科 (720p) [Not 24/7]
 # http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
-#EXTINF:-1 tvg-id="南京新闻综合" tvg-name="NBS-News" tvg-logo="https://www.tvchinese.net/uploads/tv/njxwzh.jpg" group-title="China;Local",◎南京新闻综合
-http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
+# -EXTINF:-1 tvg-id="南京新闻综合" tvg-name="NBS-News" tvg-logo="https://www.tvchinese.net/uploads/tv/njxwzh.jpg" group-title="China;Local",◎南京新闻综合
+# http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
 #
 #EXTINF:-1 tvg-name="ShangYu-1-News" tvg-logo="http://www.tvyan.com/uploads/dianshi/syxwzh.jpg" group-title="China;Local",◎上虞1新闻综合 (720p) [Not 24/7]
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
