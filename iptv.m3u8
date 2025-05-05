@@ -27,7 +27,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
 #https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
 # obsolete https://live-streams-ssai-01.tonton.com.my replaced by tonton-live-ssai.akamaized.net
 #https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
-https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
+#https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
+https://live-ssar-01.tonton.com.my/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
 #
 # -EXTINF:-1 tvg-name="8TV" tvg-id="8TV.my" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",*📺◎8TV (MY) - 192.168.175.1
 #curl# 'https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8' -H 'Referer: https://live-xtra-sg1.global.ssl.fastly.net/'
@@ -640,7 +641,9 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 # https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 # http://php.jdshipin.com:8880/amlh.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.tiantianzhibo.net/tv/meiyadianying.jpg" group-title="HongKong;Movies",美亚电影台(粤语)
-http://go1.bkpcp.top/tl/null-5
+#http://go1.bkpcp.top/tl/null-5
+#https://live.tvfix.org/live/mydy/index.m3u8
+http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 # -EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/DouYu_2023.svg" group-title="China;Movies",粤语电影 (斗鱼)
 # web# https://www.douyu.com/g_yqk | https://www.douyu.com/6566671 | http://epg.112114.xyz/douyu/6566671
 # http://epg.112114.xyz/douyu/1226741
@@ -793,7 +796,8 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #
 #EXTINF:-1 tvg-id="VictorValleyTV.us" tvg-logo="https://i.imgur.com/zgiuNNj.png" group-title="USA;Local",☑◎Victor Valley TV
 #web# https://victorvalleytvnetw.wixsite.com/vvtn
-https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
+#https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
+https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8
 # -EXTINF:-1 tvg-id="YTA.us" tvg-logo="https://ytatv.com/wp-content/uploads/2021/11/YTA-LOGO-2-120x50.png" group-title="USA",◎YTA TV
 # web# https://ytatv.com/watch-live/
 # https://thegateway.app/YouToo/CueTones/playlist.m3u8
