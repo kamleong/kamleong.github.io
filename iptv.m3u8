@@ -653,6 +653,8 @@ http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 # -EXTINF:-1 tvg-id="douban.cn" tvg-logo="https://bkimg.cdn.bcebos.com/pic/d000baa1cd11728b2046ed0bc3fcc3cec3fd2cab" group-title="China;Movies",🎬豆瓣电影
 # web# https://www.douyu.com/g_yqk | https://www.douyu.com/8770422
 # http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1 tvg-id="starlight.cn" tvg-name="星光影视" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/星光综合台.png" group-title="China;Movies",星光影视
+http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv 
 # -EXTINF:-1 tvg-id="XingKong.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" group-title="China;Entertainment",✗ 星空卫视
 # http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
 # http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=683118&extension=ts
