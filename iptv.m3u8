@@ -874,6 +874,7 @@ https://pull-f5-spe.ixigua.com/live/YesLiveTV-09f423d7-c083-4fca-93e9-1e8d2e0f14
 # http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296203.m3u8
 # -EXTINF:-1 tvg-name="GuangdongSatelliteTV" group-title="China;Local",广东卫视
 # http://lzoq.hk3c.ml/daili/?id=gdwshd8m/8000000
+# https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
 # -EXTINF:-1 tvg-id="珠江" tvg-name="GDTV-ZJ" group-title="China;Local",✗ 广东珠江
 # web# https://www.gdtv.cn/tvChannelDetail/44 | #http://www.baidu.com.cdns.cfd/html/gdtv.html?id=gdzj
 # https://tcdn.itouchtv.cn/live/gdzj.m3u8? | #http://gxyl-dl001.8866.org:8181/tsfile/live/1000_1.m3u8 
@@ -886,7 +887,8 @@ https://pull-f5-spe.ixigua.com/live/YesLiveTV-09f423d7-c083-4fca-93e9-1e8d2e0f14
 #EXTINF:-1 tvg-id="南方卫视" tvg-name="大湾区卫视" tvg-logo="http://live.cooltv.top/logo/dwq.png" group-title="China;Local",大湾区卫视
 #web# https://www.gdtv.cn/tvChannelDetail/51
 #http://live.cooltv.top/tv/gd.php?id=nfws # 南方卫视 TVS2
-http://38.64.72.148:80/hls/modn/list/4011/chunklist0.m3u8
+#http://38.64.72.148:80/hls/modn/list/4011/chunklist0.m3u8
+https://k44991.kylintv.tv/live/tvs_iphone.m3u8
 #
 # -EXTINF:-1 tvg-id="南京信息" tvg-name="NBS-Inf" tvg-logo="" group-title="China;Local",◎南京信息 (720p)
 # web# https://www.nbs.cn/live/
