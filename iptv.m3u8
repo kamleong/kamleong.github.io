@@ -933,9 +933,9 @@ http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 #EXTINF:-1 tvg-id="ETTV.us" tvg-logo="https://www.ebc.net.tw/Images/169-america.jpg" group-title="USA;Taiwan",ETTV America (東森美洲電視)
 #web# https://www.ettvamerica.com/
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 tvg-id="SinoVision.cn" tvg-logo="https://i.imgur.com/ir3jkyL.png" group-title="USA",◎美国中文电视 (406p) [Not 24/7]
-#https://jpts.sinovision.net/livestream.m3u8
-https://cdnts.sinovision.net/livestream.m3u8
+# -EXTINF:-1 tvg-id="SinoVision.cn" tvg-logo="https://i.imgur.com/ir3jkyL.png" group-title="USA",◎美国中文电视 (406p) [Not 24/7]
+# https://jpts.sinovision.net/livestream.m3u8
+# https://cdnts.sinovision.net/livestream.m3u8
 #EXTINF:-1 tvg-id="SinoTV" tvg-logo="https://d1pv4des13xhh9.cloudfront.net/prod/sized/17448/128x128.png" group-title="USA",SinoTV 華語電視 (LA)
 #web# |KXLA 44.2|KCNZ-CD 28.4|SINO TV NY| https://www.nysino.com/sinotv/ 
 http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
