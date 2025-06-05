@@ -445,8 +445,11 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 # - EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="Qatar;News",🔭◎Al Jazeera English - 1054
 # https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-id0="CGTN.cn" tvg-name="CGTN English" tvg-logo="https://i.imgur.com/fMsJYzl.png" group-title="China;News",☑◎CGTN English - 1055
+#web# https://www.cgtn.com/tv
 #https://live.cgtn.com/1000/prog_index.m3u8
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#https://english-livebkali.cgtn.com/live/encgtn.m3u8
+https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-id0="CCTV4America.cn" tvg-name="CCTV-4 中文国际（美） Ⓢ" tvg-logo="https://i.imgur.com/1TPiRqR.png" group-title="China",☑◎CCTV-4 中文国际（美） Ⓢ
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 # -EXTINF:-1 tvg-id="CCTV4欧洲" tvg-id0="CCTV4Europe.cn" tvg-name="CCTV-4 中文国际（欧） Ⓢ" tvg-logo="https://i.imgur.com/ovUSVEQ.png"" group-title="China",☑CCTV-4 中文国际（欧） Ⓢ
