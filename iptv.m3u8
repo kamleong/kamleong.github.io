@@ -318,7 +318,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 # web# http://www.viaway.com/view/44757524/bbc-world-news
 # http://playcontent6.viaway.com/dvr6/m/4d959f1a-0bb8-470b-b5a2-e53d9d2d4b26/stream.m3u8?ttl=120&Policy=....&Signature=...&Key-Pair-Id=...
 #EXTINF:-1 tvg-name="BBC World Service" tvg-logo="https://i.imgur.com/RYgSSHl.png" group-title="UK;Radio",📻◎BBC World Service (Radio)
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #
 #EXTINF:-1 tvg-name="NPR" group-title="USA;Radio",📻◎NPR (Radio)
 https://npr-ice.streamguys1.com/live.mp3
