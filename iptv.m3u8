@@ -39,7 +39,7 @@ https://live-ssar-01.tonton.com.my/stream-8tv/master.m3u8?bpkio_serviceid=6c0958
 #
 #EXTINF:-1 tvg-name="AEC" tvg-id="AstroAEC.my" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/astro-aec-656x388.jpg" group-title="Malaysia",Astro AEC
 #web# https://sooka.my/en/live-tv | https://www.xhzb.tw/tv-show-20243-1.html
-http://metatvpro.xyz:25461/W1045/4329/50
+https://smart.pendy.dpdns.org/Smart.php?id=AEC
 #
 #EXTINF:-1 tvg-name="TV2" tvg-id="TV2.my" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg" group-title="Malaysia",*📺◎RTM TV2 (MY)
 #web# https://rtmklik.rtm.gov.my/live/tv2
