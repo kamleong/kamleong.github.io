@@ -28,7 +28,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
 # obsolete https://live-streams-ssai-01.tonton.com.my replaced by tonton-live-ssai.akamaized.net
 #https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 #https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
-https://live-ssar-01.tonton.com.my/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
+#https://live-ssar-01.tonton.com.my/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
+http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
 #
 # -EXTINF:-1 tvg-name="8TV" tvg-id="8TV.my" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",*📺◎8TV (MY) - 192.168.175.1
 #curl# 'https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8' -H 'Referer: https://live-xtra-sg1.global.ssl.fastly.net/'
