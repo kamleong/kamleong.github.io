@@ -129,8 +129,9 @@ http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19
 #web# https://ptsxs.pts.org.tw/ | https://www.ptsplus.tv/zh/streaming
 https://stream1.freetv.fun/f415852174b30f1fc43d85ce4bf9347586de6f2d688ba1fe1a4095a9db20dcdd.m3u8
 #
-# -EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" tvg-logo="https://i.imgur.com/QqIdVqz.png" group-title="Taiwan",Taiwan Indigenous TV (原住民電視) (720p)
-# http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" tvg-logo="https://i.imgur.com/QqIdVqz.png" group-title="Taiwan",Taiwan Indigenous TV (原住民電視) (720p)
+#http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
 #
 #EXTINF:-1 tvg-id="CTS.tw" tvg-logo="https://i.imgur.com/ISl9WsI.png" group-title="Taiwan",CTS HD (華視) (720p)
 # http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
@@ -529,6 +530,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21ea080
 # http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8
 # http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 # https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
+#
+#EXTINF:-1 tvg-id="shtv.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/SHTV_logo.jpg/250px-SHTV_logo.jpg" group-title="China;Documentary",书画频道
+#web# http://web.shtv.net.cn/index.aspx
+https://cors-proxy.cooks.fyi/http://211.103.180.178:8233/live_hls/hdmi.m3u8
 #
 #EXTINF:-1 tvg-id="EarthxTV.us" tvg-logo="https://i.imgur.com/ZWWqiCb.png" group-title="USA;Documentary",◎EarthxTV (720p)
 #web# https://www.earthxtv.com/
