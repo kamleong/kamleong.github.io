@@ -39,8 +39,8 @@ http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
 # http://192.168.175.1/cgi-bin/8tv.m3u
 #
 #EXTINF:-1 tvg-name="AEC" tvg-id="AstroAEC.my" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/astro-aec-656x388.jpg" group-title="Malaysia",Astro AEC
-#web# https://sooka.my/en/live-tv | https://www.xhzb.tw/tv-show-20243-1.html
-https://smart.pendy.dpdns.org/Smart.php?id=AEC
+#web# https://sooka.my/en/live-tv | https://www.kds.tw/tv/malaysia-tv-channels-online/aec/
+https://www.kds.tw/wp-admin/admin-ajax.php?action=xhzb_hls_proxy&id=jf53s07SkJQNMWD54gnGYyijlaPk3Sju
 #
 #EXTINF:-1 tvg-name="TV2" tvg-id="TV2.my" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg" group-title="Malaysia",*📺◎RTM TV2 (MY)
 #web# https://rtmklik.rtm.gov.my/live/tv2
@@ -112,6 +112,11 @@ http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 #http://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png" group-title="Philippines",CCTN Philippines
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+#
+#EXTINF:-1 tvg-id="Channel8.sg" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/687b15a592231_P9T3-480x320.png" group-title="Singapore",✗ 新傳媒8頻道
+#web# https://www.kds.tw/tv/singapore-tv-channels-online/channel-8-backup/ | https://www.kds.tw/tv/singapore-tv-channels-online/channel-8/
+#https://www.kds.tw/wp-admin/admin-ajax.php?action=xhzb_hls_proxy&id=BptgUyTi3NSxsgTgoNegfcwWIL93XsMS
+https://www.kds.tw/wp-admin/admin-ajax.php?action=xhzb_hls_proxy&id=MFEEUid6j8gKK77qDhiDS6nbaS3AijN8
 #
 #EXTINF:-1 tvg-id="公视" tvg-id0="PTS.tw" tvg-logo="https://i.imgur.com/R9hwOZx.png" group-title="Taiwan",✗ *台灣公視
 #web# https://yeslivetv.com/channels/pts/ | https://chaojidianshi.net/zhibo/43.html |
@@ -780,7 +785,8 @@ https://d1ku2wsea2oun8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #http://210.210.155.37/dr9445/h/h37/index.m3u8
 #http://210.210.155.35/session/315e5196-0755-11e9-a62c-b82a72d63267/uq2663/h/h37/01.m3u8 | discontinued on Dens TV Indonesia since 3-May-2024
 #https://z88.ubtvfans.com/live/rx4/2984/54215cd34c1a4ee5ddad99e4ca7e5c8a/index.m3u8
-https://z88.ubtvfans.com/live/rx4/2972/e12aa1dd305abecb286f982ab4646c34/index.m3u8
+#https://z88.ubtvfans.com/live/rx4/2972/e12aa1dd305abecb286f982ab4646c34/index.m3u8
+https://www.kds.tw/wp-admin/admin-ajax.php?action=xhzb_hls_proxy&id=n6C2pwehMQWsLpg4TH9obuvhOw50Djz9
 # -EXTINF:-1 tvg-id="TVSHollywoodHistory.us" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="USA;Entertainment",TVS Hollywood History (582p)
 # https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8
 # -EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://imgur.com/PNTYOgg.png" tvg-id="RetroTVEast.us" group-title="USA;Entertainment",◎Retro TV
