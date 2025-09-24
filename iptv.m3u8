@@ -275,6 +275,7 @@ http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 #http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="民视新闻台" tvg-id0="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="Taiwan;News",FTV News (民視新聞台)
+#web# https://www.ftv.com.tw
 #https://sc2022.stream-link.org/tv2306.php?id=t07 [geo-hk-only]
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 # -EXTINF:-1 group-title="Taiwan;News",CTS News (華視新聞台)
