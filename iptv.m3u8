@@ -748,7 +748,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 # https://github.com/Free-TV/IPTV/issues/635 | https://github.com/iptv-org/iptv/issues/17712
 # http://103.36.32.14:5002/cs27.m3u8?token=guoziyun&gid=cs27&channel=zhongying
 # http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=7
-https://stream02.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+https://ca01.utako.moe/toei/tracks-v1a1/mono.ts.m3u8
 #
 #EXTINF:-1 tvg-id="CCM.hk" tvg-logo="https://i.imgur.com/1VhXilw.png" group-title="Hong Kong;Movies",Celestial Classic 天映經典
 #http://210.210.155.37/qwr9ew/s/s31/index.m3u8  (Indonesian Subtitle)
