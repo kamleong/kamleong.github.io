@@ -788,14 +788,13 @@ https://d1ku2wsea2oun8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 # -EXTINF:-1 tvg-id="Baywatch.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAZQhwfSaBofAjmTaylmVrTZtmnK3BwJz-Mg&s" group-title="USA;Entertainment",Baywatch (Remastered)
 # https://lnc-baywatch.tubi.video/playlist.m3u8
 #
-#EXTINF:-1 tvg-id="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Singapore;Entertainment",✗ ☑HITS (576p)curl 
+#EXTINF:-1 tvg-id="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Singapore;Entertainment",✗ ☑HITS (576p) 
 #web# https://www.hitstv.com/schedule.php
 #https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #http://210.210.155.37/dr9445/h/h37/index.m3u8
 #http://210.210.155.35/session/315e5196-0755-11e9-a62c-b82a72d63267/uq2663/h/h37/01.m3u8 | discontinued on Dens TV Indonesia since 3-May-2024
-#https://z88.ubtvfans.com/live/rx4/2984/54215cd34c1a4ee5ddad99e4ca7e5c8a/index.m3u8
 #https://z88.ubtvfans.com/live/rx4/2972/e12aa1dd305abecb286f982ab4646c34/index.m3u8
-http://192.168.175.1/cgi-bin/kds.tw?hits.sg
+http://192.168.175.1/cgi-bin/kds.tw?hitstv
 # -EXTINF:-1 tvg-id="TVSHollywoodHistory.us" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="USA;Entertainment",TVS Hollywood History (582p)
 # https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8
 # -EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://imgur.com/PNTYOgg.png" tvg-id="RetroTVEast.us" group-title="USA;Entertainment",◎Retro TV
