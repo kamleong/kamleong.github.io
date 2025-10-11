@@ -507,9 +507,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a
 #
 # -EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/PBS_America_logo.png" group-title="UK;USA",◎PBS America (720p)
 # https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WKMJDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="USA",*◎PBS KET World (480p)
-#web# https://video.ket.org/show/world-channel/
-https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
+# - EXTINF:-1 tvg-id="WKMJDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="USA",*◎PBS KET World (480p)
+# web# https://video.ket.org/show/world-channel/ # The KET WORLD Channel KETWRLD 68.5 is no longer available since early 2025 ?
+# https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 #EXTINF:-1 tvg-id="MPT.us" tvg-logo="https://image.pbs.org/bento3-prod/mpt-bento-live-pbs/main/16a2473dc6_mpt_header_logo_medium3.png" group-title="USA;Local",*◎Maryland Public TV (PBS)
 #web# https://www.mpt.org/ | https://www.mpt.org/schedule/
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
