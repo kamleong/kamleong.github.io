@@ -1,6 +1,6 @@
 #EXTM3U
 # -EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-# -EXTM3U x-tvg-url="http://192.168.175.1/cgi-bin/epg"
+# -EXTM3U x-tvg-url="http://161.118.192.255/cgi-bin/epg"
 # -EXTM3U x-tvg-url="https://kamleong.github.io/sample.epg.jtv.zip"
 # -EXTM3U x-tvg-url="https://tvprofil.net/xmltv/data/bbc1.uk/weekly_bbc1.uk_tvprofil.net.xml"
 # -EXTM3U x-tvg-url="https://raw.githubusercontent.com/AlekSi/xmltv/master/example.xml"
@@ -32,16 +32,16 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
 #http://php.jdshipin.com/smt.php?id=TV8
 http://cdn6.163189.xyz/163189/8tv
 #
-# -EXTINF:-1 tvg-name="8TV" tvg-id="8TV.my" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",*📺◎8TV (MY) - 192.168.175.1
+# -EXTINF:-1 tvg-name="8TV" tvg-id="8TV.my" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",*📺◎8TV (MY) - 161.118.192.255
 #curl# 'https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8' -H 'Referer: https://live-xtra-sg1.global.ssl.fastly.net/'
 #curl# 'https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8' -H 'Referer: https://live-xtra-sg1.global.ssl.fastly.net/'
 #UrlFetchApp https://script.google.com/home/projects/16uaQCXF7jFK6jJCPlWwrjnpYsQc9xCuUyrrn8_v1iLLKQQLgMggf7uuN/edit
 #not working due to geo-block from Google to server -- https://script.google.com/macros/s/AKfycbzthPQMiAmPAZJT3fRsCRpbbPwqRzKUA2ABPLExa5XFutwB857ccwJoz_abtDbwoO2qfA/exec?q=8tv.xtra&x=.m3u 
-# http://192.168.175.1/cgi-bin/8tv.m3u
+# http://161.118.192.255/cgi-bin/8tv.m3u
 #
 #EXTINF:-1 tvg-name="AEC" tvg-id="AstroAEC.my" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/astro-aec-656x388.jpg" group-title="Malaysia",Astro AEC
 #web# https://sooka.my/en/live-tv | https://www.kds.tw/tv/malaysia-tv-channels-online/aec/
-http://192.168.175.1/cgi-bin/kds.tw?aec
+http://161.118.192.255/cgi-bin/kds.tw?aec
 #
 #EXTINF:-1 tvg-name="TV2" tvg-id="TV2.my" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg" group-title="Malaysia",*📺◎RTM TV2 (MY)
 #web# https://rtmklik.rtm.gov.my/live/tv2
@@ -116,7 +116,7 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #
 #EXTINF:-1 tvg-id="Channel8.sg" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/687b15a592231_P9T3-480x320.png" group-title="Singapore",✗ 新傳媒8頻道
 #web# https://www.kds.tw/tv/singapore-tv-channels-online/channel-8-backup/ | https://www.kds.tw/tv/singapore-tv-channels-online/channel-8/
-http://192.168.175.1/cgi-bin/kds.tw?channel8.sg
+http://161.118.192.255/cgi-bin/kds.tw?channel8.sg
 #
 #EXTINF:-1 tvg-id="公视" tvg-id0="PTS.tw" tvg-logo="https://i.imgur.com/R9hwOZx.png" group-title="Taiwan",✗ *台灣公視
 #web# https://yeslivetv.com/channels/pts/ | https://chaojidianshi.net/zhibo/43.html |
@@ -168,7 +168,7 @@ https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #HD: server performance is OK but availability is low# http://sc2022.stream-link.org/tv2306.php?id=h19
 #http://php.17186.eu.org/phtv/fhzw.m3u8 --> https://pull-f5-spe.ixigua.com/live/YesLiveTV-9500585d-11b7-404b-9967-6639d66246e3/index.m3u8
 #https://edge2.laotv.la/live/PhxChinese/index.m3u8
-#http://192.168.175.1/cgi-bin/fhk.flv?zw
+#http://161.118.192.255/cgi-bin/fhk.flv?zw
 #https://yibababa.com/tv/hk/phoenix.html # https://yibababa.com/live/
 #http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.m3u8
 https://k44991.kylintv.tv/live/pxna_iphone.m3u8
@@ -182,7 +182,7 @@ https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 # http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8 | /otv/skcc/live/channel52003/index.m3u8
 # https://edge2.laotv.la/live/PhoenixNews/index.m3u8
 # -EXTINF:-1 tvg-id="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="Hong Kong",鳳凰香港
-# http://192.168.108.75/cgi-bin/fhk.flv?hk
+# http://161.118.192.255/cgi-bin/fhk.flv?hk
 # http://223.110.245.136/PLTV/3/224/????/index.m3u8
 # https://ali.hlspull.yximgs.com/live/61c942d703d359fe8336111bd4fd4bc3.flv
 #
@@ -798,7 +798,7 @@ https://d1ku2wsea2oun8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #http://210.210.155.37/dr9445/h/h37/index.m3u8
 #http://210.210.155.35/session/315e5196-0755-11e9-a62c-b82a72d63267/uq2663/h/h37/01.m3u8 | discontinued on Dens TV Indonesia since 3-May-2024
 #https://z88.ubtvfans.com/live/rx4/2972/e12aa1dd305abecb286f982ab4646c34/index.m3u8
-http://192.168.175.1/cgi-bin/kds.tw?hitstv
+http://161.118.192.255/cgi-bin/kds.tw?hitstv
 # -EXTINF:-1 tvg-id="TVSHollywoodHistory.us" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="USA;Entertainment",TVS Hollywood History (582p)
 # https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8
 # -EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://imgur.com/PNTYOgg.png" tvg-id="RetroTVEast.us" group-title="USA;Entertainment",◎Retro TV
@@ -993,7 +993,7 @@ https://kamleong.github.io/iptv-org.category.m3u
 https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8?x=playlist.m3u
 #
 #EXTINF:-1 group-title="LAN;Proxy",Local Proxy (CGI-cURL-sed)
-http://192.168.175.1/cgi-bin/stream.m3u
+http://192.168.108.75/cgi-bin/stream.m3u
 #EXTINF:-1 group-title="LAN;Proxy",Local Restream (Nginx-HLS-RTMP-FFmpeg)
 http://192.168.175.192:8080/hls/stream.m3u8
 #
