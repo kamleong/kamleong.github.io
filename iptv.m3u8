@@ -41,7 +41,7 @@ http://cdn6.163189.xyz/163189/8tv
 #
 #EXTINF:-1 tvg-name="AEC" tvg-id="AstroAEC.my" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/astro-aec-656x388.jpg" group-title="Malaysia",Astro AEC
 #web# https://sooka.my/en/live-tv | https://www.kds.tw/tv/malaysia-tv-channels-online/aec/
-http://192.168.108.75/cgi-bin/kds.tw?aec
+http://161.118.192.255/cgi-bin/kds.tw?aec
 #
 #EXTINF:-1 tvg-name="TV2" tvg-id="TV2.my" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg" group-title="Malaysia",*📺◎RTM TV2 (MY)
 #web# https://rtmklik.rtm.gov.my/live/tv2
@@ -116,7 +116,7 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #
 #EXTINF:-1 tvg-id="Channel8.sg" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/687b15a592231_P9T3-480x320.png" group-title="Singapore",✗ 新傳媒8頻道
 #web# https://www.kds.tw/tv/singapore-tv-channels-online/channel-8-backup/ | https://www.kds.tw/tv/singapore-tv-channels-online/channel-8/
-http://192.168.108.75/cgi-bin/kds.tw?channel8.sg
+http://161.118.192.255/cgi-bin/kds.tw?channel8.sg
 #
 #EXTINF:-1 tvg-id="公视" tvg-id0="PTS.tw" tvg-logo="https://i.imgur.com/R9hwOZx.png" group-title="Taiwan",✗ *台灣公視
 #web# https://yeslivetv.com/channels/pts/ | https://chaojidianshi.net/zhibo/43.html |
@@ -798,7 +798,7 @@ https://d1ku2wsea2oun8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #http://210.210.155.37/dr9445/h/h37/index.m3u8
 #http://210.210.155.35/session/315e5196-0755-11e9-a62c-b82a72d63267/uq2663/h/h37/01.m3u8 | discontinued on Dens TV Indonesia since 3-May-2024
 #https://z88.ubtvfans.com/live/rx4/2972/e12aa1dd305abecb286f982ab4646c34/index.m3u8
-http://192.168.108.75/cgi-bin/kds.tw?hitstv
+http://161.118.192.255/cgi-bin/kds.tw?hitstv
 # -EXTINF:-1 tvg-id="TVSHollywoodHistory.us" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="USA;Entertainment",TVS Hollywood History (582p)
 # https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8
 # -EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://imgur.com/PNTYOgg.png" tvg-id="RetroTVEast.us" group-title="USA;Entertainment",◎Retro TV
