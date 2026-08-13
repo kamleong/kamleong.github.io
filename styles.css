@@ -1,0 +1,29 @@
+#v\:* {behavior:url(#default#VML);}
+body, th, td, div, span, textarea, input, select {
+  font-family: Tahoma; font-size: 8pt; font-weight0: bold;
+  margin-top: 0;
+  filter0: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#002070', EndColorStr='#3A6EA5');
+}
+
+.topmenu a {cursor: hand;}
+.mhref, .href { cursor: pointer; text-decoration: underline; color: blue;}
+
+@media only screen and (max-width: 992px) {
+  /* for tablet[768px] or mobile phones[480px/320px] */
+  /*
+    * { FONT-SIZE: 18pt } 
+  */
+  textarea {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+  }
+
+  BODY, TH, TD, INPUT, SELECT, TEXTAREA { FONT-SIZE: 24pt }
+  body {
+    background-color: lightblue;
+  }
+
+  #cmdline {FONT-SIZE: 28pt}
+}

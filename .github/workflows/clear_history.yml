@@ -1,0 +1,42 @@
+# .github/workflows/clear_history.yml
+name: Reset Repository History
+
+on:
+  workflow_dispatch: # Allows you to manually trigger this action from the Actions tab
+
+jobs:
+  reset-history:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grants permission to force-push changes to the repository
+
+    steps:
+      - name: Checkout Current Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1 # Only fetch the latest commit to save time
+
+      - name: Configure Git Identity
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Initialize Fresh History and Overwrite Main Branch
+        run: |
+          # 1. Clean out the internal Git database tracking historical commits
+          rm -rf .git
+          
+          # 2. Re-initialize a brand new, empty local Git repository
+          git init -b main
+          
+          # 3. Stage all current physical files in the workspace
+          git add -A
+          
+          # 4. Create a single, clean initial commit
+          git commit -m "Initial commit (History cleared)"
+          
+          # 5. Link back to this GitHub repository using the default Action token
+          git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+          
+          # 6. Destructively force-push the single commit to erase all online history
+          git push origin main --force
