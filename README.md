@@ -1,9 +1,8 @@
 
-Homepage URL: [https://kamleong.github.io](https://kamleong.github.io)
+Homepage URL: [https://kamleong.github.io](https://kamleong.github.io) <sub><br>[ first created on 2021-11-01T19:07:31.000+08:00 ]</sub>
 ```
 https://kamleong.github.io
 ```
-- first created on 2021-11-01T19:07:31.000+08:00
 
 ## Table of contents
 
@@ -18,12 +17,10 @@ I Ching evolved from an older system of divination in an ealier time in ancient 
 
 ### Main playlist
 
-This is a custom playlist of live streaming from various TV, Radio & online channels
+This is a custom playlist of live streaming from various TV, Radio & online channels <sub><br>[ first created in Q2 2023 ]</sub>
 ```
 https://kamleong.github.io/iptv.m3u
 ```
-- first created in Q2 2023
-
 And, below is the handy playlist with all categories compiled from https://github.com/iptv-org/iptv#grouped-by-category
 ```
 https://kamleong.github.io/iptv-org.category.m3u
