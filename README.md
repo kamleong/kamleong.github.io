@@ -3,6 +3,14 @@ Homepage URL: [https://kamleong.github.io](https://kamleong.github.io) <sub><br>
 ```
 https://kamleong.github.io
 ```
+> [!WARNING]
+> It was most unfortunate that this repository/homepage was taken down entirely in April 2026 as per the DMCA notice https://github.com/github/dmca/blob/master/2026/04/2026-04-22-astro-2.md without any per-warning. I have immediately submitted a DMCA counter notice after I was aware of that on 28th April. It took me a number of followups before I finally received an update on Aug 11, 2026 from GitHub Support and given me a last chance to update/cleanup this restored repository content.
+> 
+> Lessons learnt:
+> - GitHub will simply take down the entire repository as long as some company/agency submitted a claim that something in the repository is violating DMCA or some other legal stuff. 😢
+> - Including a streaming URL found via Google from publicly available sources in a file in your repository can still be considered as a violation even if the intention is merely for personal use and you are not aware that it had violated the DMCA. 😕
+> - Unrelated contents in the repository which have nothing to do with DMCA can simply be taken down together due to your ignorance. ☹
+> - The process of DMCA counter notice from a free account seems to be at a very low priority and will take months. 😥
 
 ## Table of contents
 
