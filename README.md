@@ -17,7 +17,7 @@ I Ching evolved from an older system of divination in an ealier time in ancient 
 
 ### Main playlist
 
-This is a custom playlist of live streaming from various TV, Radio & online channels <sub><br>[ first created in Q2 2023 ]</sub>
+This is a custom playlist of live streaming from various TV, Radio & online channels <sub><br>[ first created in Q1/Q2 2023 ]</sub>
 ```
 https://kamleong.github.io/iptv.m3u
 ```
